@@ -31,11 +31,6 @@ foreach ($data as $card)
 foreach ($price as $median)
   array_push($medianPrices, $median);
 
-for ($i = 0; $i < count($cardNames); $i++ )
-{
-  echo $cardNames[$i] . ": " . $medianPrices[$i];
-}
-
 // $myfile = fopen("test2.txt", "w") or die("Unable to open file!");
 // fwrite($myfile, $data);
 // fclose($myfile);
@@ -70,10 +65,13 @@ for ($i = 0; $i < count($cardNames); $i++ )
   </tr>
   </thead>
   <tbody>
-<!-- <?php 
-foreach($data as $card)
-  echo "<tr><td>" . $card->plaintext . "</td></tr>";
-?> -->
+ <?php 
+for ($i = 0; $i < count($cardNames); $i++ )
+{
+  echo "<tr><td>" . $cardNames[$i] . "</td><td>" . $medianPrices[$i] . "</td></tr>";
+}
+  
+?> 
 </tbody>
 </table>
 </body>
