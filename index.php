@@ -12,6 +12,7 @@
 $cardNames = array();
 $medianPrices = array();
 $sellPrice = array();
+$buyPrice = array();
 
 
 for ($i = 0; $i < count($urlList); $i++)
@@ -151,7 +152,27 @@ while ($row = $stmt->fetch()){
     $rowValue = str_replace('$', '', $rowValue);
     $numValue = number_format($rowValue,2);
     $theSellPrice = number_format(($numValue * .95),2);
+
+    if ($theSellPrice >= 0.51 && $theSellPrice <= 1.99)
+    {
+      $theBuyPrice = number_format(0.10,2);
+    }
+
+    if ($theSellPrice >= 2.00 && $theSellPrice <= 2.99)
+    {
+      $theBuyPrice = number_format(0.25,2);
+    }
+
+    if ($theSellPrice <= 0.50)
+    {
+      $theBuyPrice = number_format(0.00,2);
+    }
+    if ($theSellPrice > 3){
+      $theBuyPrice = number_format(($theSellPrice * 0.47),2);
+    }
+    
     array_push($sellPrice, $theSellPrice);
+    array_push($buyPrice, $theBuyPrice);
     //echo "Old: " . $numValue . ' | New: ' . $theSellPrice . "<br />";
 
 }
@@ -184,10 +205,11 @@ try{
     $cardId = $n + 1;
     echo $cardId . "<br />";
     // Create prepared statement
-    $sql = "UPDATE coreSet2020 SET sellPrice = :sellPrice where cardId = :cardId";
+    $sql = "UPDATE coreSet2020 SET sellPrice = :sellPrice, buyPrice = :buyPrice where cardId = :cardId";
     
     $stmt = $pdo->prepare($sql);
     $stmt->bindParam(':sellPrice', $sellPrice[$n]);
+    $stmt->bindParam(':buyPrice', $buyPrice[$n]);
     $stmt->bindParam(':cardId', $cardId);
 
     // Execute the prepared statement
