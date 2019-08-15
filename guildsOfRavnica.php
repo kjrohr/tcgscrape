@@ -3,9 +3,9 @@
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
 
     // Global Variables
-    $setName = ""; // Used for Categories in Crystal Commerce
-    $tableName = "coreSet2020"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/core-set-2020"; // URL to scrape
+    $setName = "Guilds of Ravnica"; // Used for Categories in Crystal Commerce
+    $tableName = "guildsOfRavnica"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/guilds-of-ravnica"; // URL to scrape
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
@@ -151,5 +151,7 @@
     }
     // ****** END INSERT INTO TABLE ******
 
-
+    // ****** CHAIN SCRIPTS ******
+    header("Location: commander2018.php");
+    // ****** END CHAIN SCRIPTS ******
 ?>
