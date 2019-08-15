@@ -8,12 +8,73 @@
     //"https://shop.tcgplayer.com/price-guide/magic/ultimate-masters"
 );
 
-
+$setName = "";
 $cardNames = array();
 $medianPrices = array();
 $sellPrice = array();
 $buyPrice = array();
 
+// if the table is set destroy and create
+try{
+  $pdo = new PDO("mysql:host=localhost;dbname=mtg", "root", "root");
+  // Set the PDO error mode to exception
+  $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch(PDOException $e){
+  die("ERROR: Could not connect. " . $e->getMessage());
+}
+
+// Attempt insert query execution
+try{
+  $cardId = $n + 1;
+  echo $cardId . "<br />";
+  // Create prepared statement
+  $sql = "DROP TABLE IF EXISTS coreSet2020";
+  
+  $stmt = $pdo->prepare($sql);
+
+  // Execute the prepared statement
+  $stmt->execute();
+} catch(PDOException $e){
+  die("ERROR: Could not able to execute $sql. " . $e->getMessage());
+}
+
+// Close connection
+unset($pdo);
+
+
+try{
+  echo "last try hit";
+  $pdo = new PDO("mysql:host=localhost;dbname=mtg", "root", "root");
+  // Set the PDO error mode to exception
+  $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch(PDOException $e){
+  die("ERROR: Could not connect. " . $e->getMessage());
+}
+
+// Attempt insert query execution
+try{
+  $cardId = $n + 1;
+  echo $cardId . "<br />";
+  // Create prepared statement
+  $sql = "create table coreSet2020(
+    cardId int(11) AUTO_INCREMENT not null,
+    cardName varchar(70) not null,
+    medianPrice varchar(70) not null,
+    sellPrice varchar(70),
+    buyPrice varchar(70),
+    primary key (cardId)
+    );";
+  
+  $stmt = $pdo->prepare($sql);
+
+  // Execute the prepared statement
+  $stmt->execute();
+} catch(PDOException $e){
+  die("ERROR: Could not able to execute $sql. " . $e->getMessage());
+}
+
+// Close connection
+unset($pdo);
 
 for ($i = 0; $i < count($urlList); $i++)
 {
