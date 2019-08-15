@@ -151,6 +151,32 @@
     }
     // ****** END INSERT INTO TABLE ******
 
+        // ****** GENERATE CSV ******
+        $file = fopen("output/". $tableName . ".csv","w");
+
+        fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
+    
+        // Need to allow cards to have a , in their name
+        for ($id = 0; $id < count($cardNames); $id++){
+          //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+          fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+        }
+    
+        fclose($file); 
+      // ****** END GENERATE CSV ******
+    
+      // ****** GENERATE MASTER CSV ******
+          $file = fopen("output/theMasterSheet.csv","a");
+    
+          // Need to allow cards to have a , in their name
+          for ($id = 0; $id < count($cardNames); $id++){
+            //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+            fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+          }
+    
+          fclose($file); 
+        // ****** END GENERATE MASTER CSV ******
+        
     // ****** CHAIN SCRIPTS ******
     header("Location: ravnicaAllegiance.php");
     // ****** END CHAIN SCRIPTS ******
