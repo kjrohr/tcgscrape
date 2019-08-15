@@ -80,19 +80,75 @@
         $data = $html->find('.productDetail a');
         $price = $html->find('.medianPrice .cellWrapper');
 
-    
         foreach ($data as $card){
             array_push($cardNames, str_replace("&#39;", "'", $card->plaintext));
         }
             
         foreach ($price as $median){
-            array_push($medianPrices, str_replace(' ', '', $median->plaintext));
+            array_push($medianPrices, str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext)));
+
+            $rowValue = str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext));
+            $numValue = number_format($rowValue,2);
+            $theSellPrice = number_format(($numValue * .95),2);
+
+            if ($theSellPrice >= 0.51 && $theSellPrice <= 1.99)
+            {
+              $theBuyPrice = number_format(0.10,2);
+            }
+
+            if ($theSellPrice >= 2.00 && $theSellPrice <= 2.99)
+            {
+                $theBuyPrice = number_format(0.25,2);
+            }
+
+            if ($theSellPrice <= 0.50)
+            {
+                $theBuyPrice = number_format(0.00,2);
+            }
+            if ($theSellPrice > 3)
+            {
+                $theBuyPrice = number_format(($theSellPrice * 0.47),2);
+            }
+    
+            array_push($sellPrice, $theSellPrice);
+            array_push($buyPrice, $theBuyPrice);
         }
             
     // ****** END SCRAPE $tcgPlayerSetURL ******
 
+    
     // ****** INSERT INTO TABLE ******
-
+    for($x = 0; $x < count($cardNames); $x++)
+    {
+        /* Attempt MySQL server connection. Assuming you are running MySQL
+        server with default setting (user 'root' with no password) */
+        try {
+            $pdo = new PDO($dsn, $user, $pass, $options);
+        } catch (\PDOException $e) {
+            throw new \PDOException($e->getMessage(), (int)$e->getCode());
+        }
+        
+        // Attempt insert query execution
+        try{
+            // Create prepared statement
+            $sql = "INSERT INTO $tableName (cardName, medianPrice, sellPrice, buyPrice) VALUES (:cardName, :medianPrice, :sellPrice, :buyPrice)";
+            $stmt = $pdo->prepare($sql);
+            
+            // Bind parameters to statement
+            $stmt->bindParam(':cardName', $cardNames[$x]);
+            $stmt->bindParam(':medianPrice', $medianPrices[$x]);
+            $stmt->bindParam(':sellPrice', $sellPrice[$x]);
+            $stmt->bindParam(':buyPrice', $buyPrice[$x]);
+            // Execute the prepared statement
+            $stmt->execute();
+            
+        } catch(PDOException $e){
+            die("ERROR: Could not able to execute $sql. " . $e->getMessage());
+        }
+        
+        // Close connection
+        unset($pdo);
+    }
     // ****** END INSERT INTO TABLE ******
 
 
