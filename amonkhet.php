@@ -3,9 +3,9 @@
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
 
     // Global Variables
-    $setName = "Commander 2018"; // Used for Categories in Crystal Commerce
-    $tableName = "commander2018"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/commander-2018"; // URL to scrape
+    $setName = "Amonkhet"; // Used for Categories in Crystal Commerce
+    $tableName = "amonkhet"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/amonkhet"; // URL to scrape
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
@@ -179,6 +179,6 @@
 
     // ****** CHAIN SCRIPTS ******
 
-      header("Location: coreSet2019.php");
+      header("Location: modernMasters2017.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
