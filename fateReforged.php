@@ -3,9 +3,9 @@
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
 
     // Global Variables
-    $setName = "Kaladesh"; // Used for Categories in Crystal Commerce
-    $tableName = "kaladesh"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/kaladesh"; // URL to scrape
+    $setName = "Fate Reforged"; // Used for Categories in Crystal Commerce
+    $tableName = "fateReforged"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/fate-reforged"; // URL to scrape
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
@@ -179,6 +179,6 @@
 
     // ****** CHAIN SCRIPTS ******
 
-      header("Location: conspiracyTakeTheCrown.php");
+      header("Location: commander2014.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
