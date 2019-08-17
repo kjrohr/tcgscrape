@@ -3,9 +3,9 @@
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
 
     // Global Variables
-    $setName = "Khans of Tarkir"; // Used for Categories in Crystal Commerce
-    $tableName = "khansOfTarkir"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/khans-of-tarkir"; // URL to scrape
+    $setName = "Alara Reborn"; // Used for Categories in Crystal Commerce
+    $tableName = "alaraReborn"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/alara-reborn"; // URL to scrape
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
@@ -179,6 +179,6 @@
 
     // ****** CHAIN SCRIPTS ******
 
-      header("Location: magic2015.php");
+      header("Location: conflux.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

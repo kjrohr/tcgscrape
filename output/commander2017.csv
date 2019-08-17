@@ -1,7 +1,7 @@
 "Product Name",Category,"Sell Price","Buy Price"
 Abundance,"Commander 2017",0.75,0.10
 "Akoum Refuge","Commander 2017",0.24,0.00
-"Alms Collector","Commander 2017",2.65,0.25
+"Alms Collector","Commander 2017",2.86,0.25
 "Ambition's Cost","Commander 2017",0.31,0.00
 "Anowon, the Ruin Sage","Commander 2017",1.07,0.10
 "Apprentice Necromancer","Commander 2017",0.67,0.10
@@ -16,8 +16,8 @@ Archaeomancer,"Commander 2017",0.24,0.00
 "Balan, Wandering Knight","Commander 2017",3.19,1.50
 "Bat (002) // Vampire (004) Double-sided Token","Commander 2017",0.27,0.00
 "Behemoth Sledge","Commander 2017",0.29,0.00
-"Black Market","Commander 2017",7.75,3.64
-"Blade of the Bloodchief","Commander 2017",1.63,0.10
+"Black Market","Commander 2017",7.63,3.59
+"Blade of the Bloodchief","Commander 2017",1.64,0.10
 "Bladewing the Risen","Commander 2017",0.48,0.00
 "Blighted Woodland","Commander 2017",0.46,0.00
 "Blind Obedience","Commander 2017",1.93,0.10
@@ -25,27 +25,27 @@ Archaeomancer,"Commander 2017",0.24,0.00
 "Blood Baron of Vizkopa","Commander 2017",0.59,0.10
 "Blood Tribute","Commander 2017",0.56,0.10
 "Bloodfell Caves","Commander 2017",0.24,0.00
-"Bloodforged Battle-Axe","Commander 2017",5.58,2.62
+"Bloodforged Battle-Axe","Commander 2017",5.57,2.62
 "Bloodhusk Ritualist","Commander 2017",0.23,0.00
 "Bloodline Necromancer","Commander 2017",2.06,0.25
 "Bloodlord of Vaasgoth","Commander 2017",0.88,0.10
 "Bloodsworn Steward","Commander 2017",0.90,0.10
 "Blossoming Sands","Commander 2017",0.23,0.00
-"Body Double","Commander 2017",0.78,0.10
+"Body Double","Commander 2017",0.79,0.10
 "Bojuka Bog","Commander 2017",2.95,0.25
 "Boneyard Scourge","Commander 2017",2.33,0.25
 "Boros Garrison","Commander 2017",0.28,0.00
-"Boros Guildgate","Commander 2017",0.22,0.00
+"Boros Guildgate","Commander 2017",0.21,0.00
 "Boros Signet","Commander 2017",0.66,0.10
 "Broodmate Dragon","Commander 2017",0.37,0.00
 "Butcher of Malakir","Commander 2017",0.60,0.10
-"Captivating Vampire","Commander 2017",4.40,2.07
+"Captivating Vampire","Commander 2017",4.57,2.15
 "Cat (001) // Cat Warrior (008) Double-sided Token","Commander 2017",0.24,0.00
 "Cat Dragon (009) // Dragon (006) Double-sided Token","Commander 2017",0.36,0.00
 "Cat Dragon (009) // Dragon (007) Double-sided Token","Commander 2017",0.35,0.00
 "Cat Warrior (008) // Rat (003) Double-sided Token","Commander 2017",0.28,0.00
 "Cauldron Dance","Commander 2017",0.24,0.00
-"Chaos Warp","Commander 2017",3.29,1.55
+"Chaos Warp","Commander 2017",3.28,1.54
 "Cinder Barrens","Commander 2017",0.20,0.00
 "Clone Legion","Commander 2017",1.22,0.10
 "Comet Storm","Commander 2017",0.90,0.10
@@ -63,9 +63,9 @@ Condemn,"Commander 2017",0.30,0.00
 "Crumbling Necropolis","Commander 2017",0.29,0.00
 "Crushing Vines","Commander 2017",0.21,0.00
 "Crux of Fate","Commander 2017",1.09,0.10
-Cultivate,"Commander 2017",1.18,0.10
+Cultivate,"Commander 2017",1.19,0.10
 "Curse of Bounty","Commander 2017",0.29,0.00
-"Curse of Disturbance","Commander 2017",2.22,0.25
+"Curse of Disturbance","Commander 2017",2.19,0.25
 "Curse of Opulence","Commander 2017",4.04,1.90
 "Curse of Verbosity","Commander 2017",0.47,0.00
 "Curse of Vitality","Commander 2017",0.28,0.00
@@ -74,7 +74,7 @@ Cultivate,"Commander 2017",1.18,0.10
 "Darksteel Ingot","Commander 2017",0.92,0.10
 "Deathbringer Regent","Commander 2017",0.37,0.00
 "Decree of Pain","Commander 2017",3.79,1.78
-"Dimir Aqueduct","Commander 2017",0.47,0.00
+"Dimir Aqueduct","Commander 2017",0.48,0.00
 "Dismal Backwater","Commander 2017",0.22,0.00
 "Disrupt Decorum","Commander 2017",7.49,3.52
 "Divine Reckoning","Commander 2017",0.58,0.10
@@ -83,10 +83,10 @@ Cultivate,"Commander 2017",1.18,0.10
 "Dragon (007) // Gold (010) Double-sided Token","Commander 2017",0.26,0.00
 "Dragon Tempest","Commander 2017",0.78,0.10
 "Dragonlord's Servant","Commander 2017",0.26,0.00
-"Dragonspeaker Shaman","Commander 2017",3.56,1.67
+"Dragonspeaker Shaman","Commander 2017",3.57,1.68
 "Drana, Kalastria Bloodchief","Commander 2017",0.53,0.10
 "Dreamstone Hedron","Commander 2017",0.24,0.00
-"Dromoka, the Eternal","Commander 2017",0.46,0.00
+"Dromoka, the Eternal","Commander 2017",0.45,0.00
 Earthquake,"Commander 2017",0.47,0.00
 "Edgar Markov","Commander 2017",0.00,0.00
 "Eldrazi Spawn (011) // Vampire (004) Double-sided Token","Commander 2017",0.32,0.00
@@ -94,9 +94,9 @@ Earthquake,"Commander 2017",0.47,0.00
 "Elfhame Palace","Commander 2017",0.25,0.00
 "Etherium-Horn Sorcerer","Commander 2017",0.32,0.00
 "Evolving Wilds","Commander 2017",0.19,0.00
-"Exotic Orchard","Commander 2017",2.25,0.25
+"Exotic Orchard","Commander 2017",2.26,0.25
 "Falkenrath Noble","Commander 2017",0.27,0.00
-Farseek,"Commander 2017",1.89,0.10
+Farseek,"Commander 2017",1.61,0.10
 "Fell the Mighty","Commander 2017",5.69,2.67
 "Fellwar Stone","Commander 2017",2.90,0.25
 "Fist of Suns","Commander 2017",7.69,3.61
@@ -118,11 +118,11 @@ Grasslands,"Commander 2017",1.66,0.10
 "Grixis Panorama","Commander 2017",1.74,0.10
 "Hammer of Nazahn","Commander 2017",14.71,6.91
 "Harbinger of the Tides","Commander 2017",0.46,0.00
-Harmonize,"Commander 2017",0.81,0.10
+Harmonize,"Commander 2017",0.78,0.10
 "Haven of the Spirit Dragon","Commander 2017",1.90,0.10
 "Havengul Lich","Commander 2017",1.94,0.10
 "Hedron Archive","Commander 2017",1.42,0.10
-"Heirloom Blade","Commander 2017",1.56,0.10
+"Heirloom Blade","Commander 2017",1.58,0.10
 "Hellkite Charger","Commander 2017",0.76,0.10
 "Herald's Horn","Commander 2017",16.18,7.60
 "Hero's Blade","Commander 2017",0.29,0.00
@@ -134,8 +134,8 @@ Harmonize,"Commander 2017",0.81,0.10
 "Island (298)","Commander 2017",0.17,0.00
 "Island (299)","Commander 2017",0.16,0.00
 "Island (300)","Commander 2017",0.19,0.00
-"Izzet Boilerworks","Commander 2017",0.27,0.00
-"Izzet Chemister","Commander 2017",0.42,0.00
+"Izzet Boilerworks","Commander 2017",0.28,0.00
+"Izzet Chemister","Commander 2017",0.47,0.00
 "Izzet Chronarch","Commander 2017",0.23,0.00
 "Jareth, Leonine Titan","Commander 2017",0.38,0.00
 "Jazal Goldmane","Commander 2017",0.86,0.10
@@ -148,25 +148,25 @@ Harmonize,"Commander 2017",0.81,0.10
 "Kheru Mind-Eater","Commander 2017",0.56,0.10
 "Kindred Boon","Commander 2017",2.83,0.25
 "Kindred Charge","Commander 2017",3.14,1.48
-"Kindred Discovery","Commander 2017",16.78,7.89
-"Kindred Dominance","Commander 2017",10.44,4.91
+"Kindred Discovery","Commander 2017",17.08,8.03
+"Kindred Dominance","Commander 2017",10.47,4.92
 "Kindred Summons","Commander 2017",8.46,3.98
-"Kodama's Reach","Commander 2017",2.29,0.25
+"Kodama's Reach","Commander 2017",2.16,0.25
 "Kolaghan, the Storm's Fury","Commander 2017",0.42,0.00
-"Krosan Verge","Commander 2017",1.09,0.10
-"Leonin Arbiter","Commander 2017",2.51,0.25
+"Krosan Verge","Commander 2017",1.08,0.10
+"Leonin Arbiter","Commander 2017",2.52,0.25
 "Leonin Relic-Warder","Commander 2017",0.24,0.00
-"Leonin Shikari","Commander 2017",0.72,0.10
+"Leonin Shikari","Commander 2017",0.71,0.10
 "Licia, Sanguine Tribune","Commander 2017",0.00,0.00
 "Lightning Greaves","Commander 2017",7.72,3.63
 "Loxodon Warhammer","Commander 2017",0.77,0.10
 "Magus of the Abyss","Commander 2017",0.44,0.00
-"Magus of the Mind","Commander 2017",0.48,0.00
+"Magus of the Mind","Commander 2017",0.56,0.10
 "Mairsil, the Pretender","Commander 2017",0.00,0.00
 "Malakir Bloodwitch","Commander 2017",0.87,0.10
 "Marchesa, the Black Rose","Commander 2017",1.42,0.10
 "Mathas, Fiend Seeker","Commander 2017",0.00,0.00
-"Memory Plunder","Commander 2017",0.95,0.10
+"Memory Plunder","Commander 2017",0.96,0.10
 "Merchant of Secrets","Commander 2017",0.18,0.00
 "Merciless Eviction","Commander 2017",3.28,1.54
 "Mercurial Chemister","Commander 2017",0.37,0.00
@@ -180,24 +180,24 @@ Mortify,"Commander 2017",0.48,0.00
 "Mountain (305)","Commander 2017",0.15,0.00
 "Mountain (306)","Commander 2017",0.17,0.00
 "Myriad Landscape","Commander 2017",2.14,0.25
-"Mystic Monastery","Commander 2017",0.47,0.00
+"Mystic Monastery","Commander 2017",0.48,0.00
 "Mystifying Maze","Commander 2017",0.69,0.10
 "Nazahn, Revered Bladesmith","Commander 2017",0.00,0.00
-"Necromantic Selection","Commander 2017",1.45,0.10
-"Nevinyrral's Disk","Commander 2017",1.94,0.10
-"New Blood","Commander 2017",1.02,0.10
+"Necromantic Selection","Commander 2017",1.53,0.10
+"Nevinyrral's Disk","Commander 2017",1.95,0.10
+"New Blood","Commander 2017",1.04,0.10
 "Nihil Spellbomb","Commander 2017",0.74,0.10
 "Nin, the Pain Artist","Commander 2017",0.81,0.10
 "Nissa's Pilgrimage","Commander 2017",0.24,0.00
 "Nivix Guildmage","Commander 2017",0.24,0.00
 "Niv-Mizzet, Dracogenius","Commander 2017",0.53,0.10
-"Niv-Mizzet, the Firemind","Commander 2017",0.86,0.10
+"Niv-Mizzet, the Firemind","Commander 2017",0.87,0.10
 "Nomad Outpost","Commander 2017",0.42,0.00
 "Ojutai, Soul of Winter","Commander 2017",0.38,0.00
 "O-Kagachi, Vengeful Kami","Commander 2017",0.00,0.00
-"Opal Palace","Commander 2017",0.94,0.10
+"Opal Palace","Commander 2017",0.71,0.10
 Opportunity,"Commander 2017",0.24,0.00
-"Opulent Palace","Commander 2017",0.45,0.00
+"Opulent Palace","Commander 2017",0.46,0.00
 "Orator of Ojutai","Commander 2017",0.24,0.00
 "Oreskos Explorer","Commander 2017",0.25,0.00
 "Orzhov Basilica","Commander 2017",0.29,0.00
@@ -206,7 +206,7 @@ Opportunity,"Commander 2017",0.24,0.00
 "Outpost Siege","Commander 2017",0.49,0.00
 "Painful Truths","Commander 2017",0.43,0.00
 "Palace Siege","Commander 2017",0.88,0.10
-"Path of Ancestry","Commander 2017",6.55,3.08
+"Path of Ancestry","Commander 2017",6.58,3.09
 "Patron of the Vein","Commander 2017",4.41,2.07
 "Pawn of Ulamog","Commander 2017",2.57,0.25
 "Phantom Nishoba","Commander 2017",0.44,0.00
@@ -215,38 +215,38 @@ Opportunity,"Commander 2017",0.24,0.00
 "Plains (297)","Commander 2017",0.20,0.00
 "Polymorphist's Jest","Commander 2017",0.92,0.10
 "Portal Mage","Commander 2017",0.52,0.10
-"Puppeteer Clique","Commander 2017",1.15,0.10
+"Puppeteer Clique","Commander 2017",1.17,0.10
 "Qasali Pridemage","Commander 2017",1.06,0.10
 "Qasali Slingers","Commander 2017",0.47,0.00
 "Quietus Spike","Commander 2017",1.89,0.10
 "Rain of Thorns","Commander 2017",0.24,0.00
-"Rakdos Carnarium","Commander 2017",0.23,0.00
+"Rakdos Carnarium","Commander 2017",0.24,0.00
 "Rakdos Charm","Commander 2017",0.50,0.00
 "Rakdos Guildgate","Commander 2017",0.21,0.00
-"Rakdos Signet","Commander 2017",1.62,0.10
+"Rakdos Signet","Commander 2017",1.68,0.10
 "Rakish Heir","Commander 2017",0.24,0.00
-"Raksha Golden Cub","Commander 2017",0.43,0.00
+"Raksha Golden Cub","Commander 2017",0.45,0.00
 "Ramos, Dragon Engine","Commander 2017",0.00,0.00
 "Rat (003) // Cat (001) Double-sided Token","Commander 2017",0.25,0.00
 "Read the Bones","Commander 2017",0.24,0.00
 "Reality Shift","Commander 2017",2.28,0.25
 "Relic Crush","Commander 2017",0.24,0.00
-"Return to Dust","Commander 2017",1.89,0.10
-"Rogue's Passage","Commander 2017",0.50,0.00
+"Return to Dust","Commander 2017",1.90,0.10
+"Rogue's Passage","Commander 2017",0.49,0.00
 Rout,"Commander 2017",0.91,0.10
 "Ryusei, the Falling Star","Commander 2017",0.65,0.10
 "Saltcrusted Steppe","Commander 2017",0.24,0.00
 "Sandsteppe Citadel","Commander 2017",0.99,0.10
 Sangromancer,"Commander 2017",0.56,0.10
-"Sanguine Bond","Commander 2017",1.09,0.10
+"Sanguine Bond","Commander 2017",1.17,0.10
 "Savage Lands","Commander 2017",0.61,0.10
 "Savage Ventmaw","Commander 2017",0.29,0.00
 "Scalelord Reckoner","Commander 2017",1.62,0.10
 "Scion of the Ur-Dragon","Commander 2017",1.04,0.10
 "Scoured Barrens","Commander 2017",0.24,0.00
-"Scourge of Valkas","Commander 2017",0.75,0.10
+"Scourge of Valkas","Commander 2017",0.74,0.10
 "Sea Gate Oracle","Commander 2017",0.23,0.00
-"Seaside Citadel","Commander 2017",1.23,0.10
+"Seaside Citadel","Commander 2017",1.32,0.10
 "Secluded Steppe","Commander 2017",0.24,0.00
 "Seht's Tiger","Commander 2017",0.33,0.00
 "Selesnya Guildgate","Commander 2017",0.23,0.00
@@ -259,12 +259,12 @@ Sangromancer,"Commander 2017",0.56,0.10
 "Skeletal Scrying","Commander 2017",0.24,0.00
 "Skeletal Vampire","Commander 2017",0.30,0.00
 Skullclamp,"Commander 2017",4.75,2.23
-"Sol Ring","Commander 2017",4.72,2.22
+"Sol Ring","Commander 2017",4.73,2.22
 "Soul's Majesty","Commander 2017",2.30,0.25
 "Spellbound Dragon","Commander 2017",0.45,0.00
 Spelltwine,"Commander 2017",0.37,0.00
 "Spirit of the Hearth","Commander 2017",0.33,0.00
-"Staff of Nin","Commander 2017",1.00,0.10
+"Staff of Nin","Commander 2017",1.05,0.10
 "Stalking Leonin","Commander 2017",0.68,0.10
 "Steel Hellkite","Commander 2017",0.86,0.10
 "Stirring Wildwood","Commander 2017",0.60,0.10
@@ -281,15 +281,15 @@ Spelltwine,"Commander 2017",0.37,0.00
 "Sword of Vengeance","Commander 2017",0.82,0.10
 "Swords to Plowshares","Commander 2017",1.50,0.10
 "Syphon Mind","Commander 2017",0.35,0.00
-"Taigam, Ojutai Master","Commander 2017",2.84,0.25
+"Taigam, Ojutai Master","Commander 2017",2.81,0.25
 "Taigam, Sidisi's Hand","Commander 2017",0.94,0.10
 "Taj-Nar Swordsmith","Commander 2017",0.28,0.00
 "Teferi's Protection","Commander 2017",40.85,19.20
-"Temple of the False God","Commander 2017",1.42,0.10
+"Temple of the False God","Commander 2017",1.43,0.10
 "Temur Sabertooth","Commander 2017",1.99,0.10
 "Teneb, the Harvester","Commander 2017",0.75,0.10
 Terminate,"Commander 2017",1.04,0.10
-"Terramorphic Expanse","Commander 2017",0.29,0.00
+"Terramorphic Expanse","Commander 2017",0.27,0.00
 "Territorial Hellkite","Commander 2017",0.82,0.10
 "The Ur-Dragon","Commander 2017",0.00,0.00
 "Tithe Drinker","Commander 2017",0.27,0.00
@@ -300,20 +300,20 @@ Terminate,"Commander 2017",1.04,0.10
 "Underworld Connections","Commander 2017",0.47,0.00
 "Unstable Obelisk","Commander 2017",0.29,0.00
 "Urborg Volcano","Commander 2017",0.32,0.00
-"Utvara Hellkite","Commander 2017",2.85,0.25
+"Utvara Hellkite","Commander 2017",2.96,0.25
 "Vampire (004) // Zombie (005) Double-sided Token","Commander 2017",0.67,0.10
 "Vampire Nighthawk","Commander 2017",0.66,0.10
 "Vein Drinker","Commander 2017",0.36,0.00
 "Vela the Night-Clad","Commander 2017",0.96,0.10
-"Vindictive Lich","Commander 2017",5.67,2.66
+"Vindictive Lich","Commander 2017",5.70,2.68
 "Vivid Crag","Commander 2017",0.36,0.00
 "Vivid Creek","Commander 2017",0.37,0.00
 "Vivid Grove","Commander 2017",0.37,0.00
-"Vivid Marsh","Commander 2017",0.53,0.10
-"Vivid Meadow","Commander 2017",0.52,0.10
+"Vivid Marsh","Commander 2017",0.56,0.10
+"Vivid Meadow","Commander 2017",0.49,0.00
 "Wasitora, Nekoru Queen","Commander 2017",3.21,1.51
 "Wayfarer's Bauble","Commander 2017",1.90,0.10
-"Well of Lost Dreams","Commander 2017",3.20,1.50
+"Well of Lost Dreams","Commander 2017",3.17,1.49
 "White Sun's Zenith","Commander 2017",0.47,0.00
 "Wind-Scarred Crag","Commander 2017",0.23,0.00
 "Wing Shards","Commander 2017",0.24,0.00
