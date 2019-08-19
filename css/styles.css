@@ -1,0 +1,41 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  background-color: #D1DCE8;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    
+  }
+
+.expired {
+    background-color: #E86548;
+}
+
+.row {
+    background-color: #92DCFF;
+}
+
+thead {
+    font-weight: bold;
+    background-color: #5470FF;
+    text-align: center;
+
+}
+
+input[type=text], input[type=submit]{ 
+  height: 25px;
+  font-size: 16px;
+}
+
+#addForm {
+display: block;
+width: 25%;
+
+}

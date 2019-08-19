@@ -6,10 +6,10 @@
 "Aether Meltdown",Kaladesh,0.21,0.00
 "Aether Theorist",Kaladesh,0.14,0.00
 "Aether Tradewinds",Kaladesh,0.14,0.00
-"Aetherborn Marauder",Kaladesh,0.19,0.00
-"Aetherflux Reservoir",Kaladesh,7.51,3.53
+"Aetherborn Marauder",Kaladesh,0.20,0.00
+"Aetherflux Reservoir",Kaladesh,7.54,3.54
 "Aethersquall Ancient",Kaladesh,0.29,0.00
-"Aetherstorm Roc",Kaladesh,0.29,0.00
+"Aetherstorm Roc",Kaladesh,0.30,0.00
 "Aethertorch Renegade",Kaladesh,0.23,0.00
 "Aetherworks Marvel",Kaladesh,1.28,0.10
 "Ambitious Aetherborn",Kaladesh,0.14,0.00
@@ -18,27 +18,27 @@
 "Appetite for the Unnatural",Kaladesh,0.14,0.00
 "Aradara Express",Kaladesh,0.14,0.00
 "Arborback Stomper",Kaladesh,0.23,0.00
-"Architect of the Untamed",Kaladesh,0.31,0.00
+"Architect of the Untamed",Kaladesh,0.32,0.00
 "Armorcraft Judge",Kaladesh,0.24,0.00
 "Attune with Aether",Kaladesh,0.19,0.00
-"Authority of the Consuls",Kaladesh,2.42,0.25
+"Authority of the Consuls",Kaladesh,2.38,0.25
 "Aviary Mechanic",Kaladesh,0.14,0.00
-"Ballista Charger",Kaladesh,0.22,0.00
+"Ballista Charger",Kaladesh,0.23,0.00
 "Bastion Mastodon",Kaladesh,0.14,0.00
-"Beast Token (001)",Kaladesh,0.18,0.00
-"Blooming Marsh",Kaladesh,4.11,1.93
+"Beast Token (001)",Kaladesh,0.19,0.00
+"Blooming Marsh",Kaladesh,4.08,1.92
 "Blossoming Defense",Kaladesh,0.48,0.00
 "Bomat Bazaar Barge",Kaladesh,0.23,0.00
 "Bomat Courier",Kaladesh,0.48,0.00
-"Botanical Sanctum",Kaladesh,3.27,1.54
-"Brazen Scourge",Kaladesh,0.22,0.00
+"Botanical Sanctum",Kaladesh,3.26,1.53
+"Brazen Scourge",Kaladesh,0.23,0.00
 "Bristling Hydra",Kaladesh,0.47,0.00
 "Built to Last",Kaladesh,0.14,0.00
 "Built to Smash",Kaladesh,0.18,0.00
 "Captured by the Consulate",Kaladesh,0.29,0.00
-"Cataclysmic Gearhulk",Kaladesh,1.02,0.10
-"Cathartic Reunion",Kaladesh,0.32,0.00
-"Ceremonious Rejection",Kaladesh,0.79,0.10
+"Cataclysmic Gearhulk",Kaladesh,1.03,0.10
+"Cathartic Reunion",Kaladesh,0.31,0.00
+"Ceremonious Rejection",Kaladesh,0.77,0.10
 "Chandra, Pyrogenius",Kaladesh,0.00,0.00
 "Chandra, Torch of Defiance",Kaladesh,12.91,6.07
 "Chandra's Pyrohelix",Kaladesh,0.14,0.00
@@ -47,31 +47,31 @@ Cloudblazer,Kaladesh,0.24,0.00
 "Cogworker's Puzzleknot",Kaladesh,0.14,0.00
 "Combustible Gearhulk",Kaladesh,3.09,1.45
 "Commencement of Festivities",Kaladesh,0.14,0.00
-"Concealed Courtyard",Kaladesh,2.34,0.25
+"Concealed Courtyard",Kaladesh,2.31,0.25
 "Confiscation Coup",Kaladesh,0.37,0.00
 "Construct Token (002)",Kaladesh,0.19,0.00
 "Construct Token (003)",Kaladesh,0.24,0.00
 "Consulate Skygate",Kaladesh,0.15,0.00
-"Consulate Surveillance",Kaladesh,0.23,0.00
+"Consulate Surveillance",Kaladesh,0.24,0.00
 "Consul's Shieldguard",Kaladesh,0.23,0.00
 "Contraband Kingpin",Kaladesh,0.24,0.00
 "Cowl Prowler",Kaladesh,0.14,0.00
-"Creeping Mold",Kaladesh,0.21,0.00
-"Cultivator of Blades",Kaladesh,0.36,0.00
+"Creeping Mold",Kaladesh,0.23,0.00
+"Cultivator of Blades",Kaladesh,0.35,0.00
 "Cultivator's Caravan",Kaladesh,0.37,0.00
 "Curio Vendor",Kaladesh,0.14,0.00
 "Deadlock Trap",Kaladesh,0.29,0.00
 "Decoction Module",Kaladesh,0.24,0.00
 Demolish,Kaladesh,0.14,0.00
-"Demolition Stomper",Kaladesh,0.23,0.00
+"Demolition Stomper",Kaladesh,0.24,0.00
 "Demon of Dark Schemes",Kaladesh,0.95,0.10
 "Depala, Pilot Exemplar",Kaladesh,0.33,0.00
 "Dhund Operative",Kaladesh,0.14,0.00
-"Diabolic Tutor",Kaladesh,0.45,0.00
+"Diabolic Tutor",Kaladesh,0.46,0.00
 "Die Young",Kaladesh,0.14,0.00
 "Disappearing Act",Kaladesh,0.23,0.00
-"Dovin Baan",Kaladesh,1.61,0.10
-"Dramatic Reversal",Kaladesh,0.54,0.10
+"Dovin Baan",Kaladesh,1.60,0.10
+"Dramatic Reversal",Kaladesh,0.53,0.10
 "Dubious Challenge",Kaladesh,0.33,0.00
 "Dukhara Peafowl",Kaladesh,0.14,0.00
 "Dukhara Scavenger",Kaladesh,0.14,0.00
@@ -79,169 +79,169 @@ Demolish,Kaladesh,0.14,0.00
 "Dynavolt Tower",Kaladesh,0.38,0.00
 "Eager Construct",Kaladesh,0.14,0.00
 "Eddytrail Hawk",Kaladesh,0.14,0.00
-"Electrostatic Pummeler",Kaladesh,0.42,0.00
-"Elegant Edgecrafters",Kaladesh,0.21,0.00
-"Eliminate the Competition",Kaladesh,0.32,0.00
-"Emblem - Chandra, Torch of Defiance",Kaladesh,0.29,0.00
+"Electrostatic Pummeler",Kaladesh,0.38,0.00
+"Elegant Edgecrafters",Kaladesh,0.22,0.00
+"Eliminate the Competition",Kaladesh,0.33,0.00
+"Emblem - Chandra, Torch of Defiance",Kaladesh,0.31,0.00
 "Emblem - Dovin Baan",Kaladesh,0.24,0.00
 "Emblem - Nissa, Vital Force",Kaladesh,0.29,0.00
-"Embraal Bruiser",Kaladesh,0.22,0.00
+"Embraal Bruiser",Kaladesh,0.23,0.00
 "Empyreal Voyager",Kaladesh,0.23,0.00
 "Energy Reserve Token",Kaladesh,0.14,0.00
 "Engineered Might",Kaladesh,0.22,0.00
 "Era of Innovation",Kaladesh,0.23,0.00
 "Essence Extraction",Kaladesh,0.24,0.00
-"Experimental Aviator",Kaladesh,0.22,0.00
+"Experimental Aviator",Kaladesh,0.23,0.00
 "Fabrication Module",Kaladesh,0.24,0.00
 "Failed Inspection",Kaladesh,0.14,0.00
-"Fairgrounds Trumpeter",Kaladesh,0.22,0.00
-"Fairgrounds Warden",Kaladesh,0.23,0.00
+"Fairgrounds Trumpeter",Kaladesh,0.23,0.00
+"Fairgrounds Warden",Kaladesh,0.24,0.00
 "Fateful Showdown",Kaladesh,0.33,0.00
 "Filigree Familiar",Kaladesh,0.24,0.00
 "Fireforger's Puzzleknot",Kaladesh,0.14,0.00
 "Flame Lash",Kaladesh,0.32,0.00
 "Fleetwheel Cruiser",Kaladesh,0.33,0.00
-"Forest (262)",Kaladesh,0.15,0.00
-"Forest (263)",Kaladesh,0.17,0.00
-"Forest (264)",Kaladesh,0.14,0.00
+"Forest (262)",Kaladesh,0.16,0.00
+"Forest (263)",Kaladesh,0.18,0.00
+"Forest (264)",Kaladesh,0.16,0.00
 "Fortuitous Find",Kaladesh,0.14,0.00
-"Foundry Inspector",Kaladesh,1.19,0.10
+"Foundry Inspector",Kaladesh,1.24,0.10
 "Foundry Screecher",Kaladesh,0.14,0.00
 Fragmentize,Kaladesh,0.19,0.00
 "Fretwork Colony",Kaladesh,0.23,0.00
 Fumigate,Kaladesh,0.95,0.10
-"Furious Reprisal",Kaladesh,0.22,0.00
+"Furious Reprisal",Kaladesh,0.23,0.00
 "Gearseeker Serpent",Kaladesh,0.15,0.00
-"Gearshift Ace",Kaladesh,0.23,0.00
+"Gearshift Ace",Kaladesh,0.24,0.00
 "Ghirapur Guide",Kaladesh,0.22,0.00
 "Ghirapur Orrery",Kaladesh,0.46,0.00
 "Giant Spectacle",Kaladesh,0.14,0.00
 "Glassblower's Puzzleknot",Kaladesh,0.14,0.00
-"Glimmer of Genius",Kaladesh,0.25,0.00
+"Glimmer of Genius",Kaladesh,0.26,0.00
 "Glint-Nest Crane",Kaladesh,0.24,0.00
 "Glint-Sleeve Artisan",Kaladesh,0.14,0.00
-"Gonti, Lord of Luxury",Kaladesh,0.57,0.10
-"Guardian of the Great Conduit",Kaladesh,0.23,0.00
+"Gonti, Lord of Luxury",Kaladesh,0.56,0.10
+"Guardian of the Great Conduit",Kaladesh,0.24,0.00
 "Harnessed Lightning",Kaladesh,0.31,0.00
 "Harsh Scrutiny",Kaladesh,0.24,0.00
-"Hazardous Conditions",Kaladesh,0.22,0.00
+"Hazardous Conditions",Kaladesh,0.23,0.00
 "Herald of the Fair",Kaladesh,0.14,0.00
 "Highspire Artisan",Kaladesh,0.14,0.00
 "Hightide Hermit",Kaladesh,0.14,0.00
 Hijack,Kaladesh,0.14,0.00
 "Hunt the Weak",Kaladesh,0.14,0.00
 "Impeccable Timing",Kaladesh,0.14,0.00
-"Incendiary Sabotage",Kaladesh,0.21,0.00
+"Incendiary Sabotage",Kaladesh,0.22,0.00
 "Insidious Will",Kaladesh,0.48,0.00
 "Inspired Charge",Kaladesh,0.14,0.00
 "Inspiring Vantage",Kaladesh,2.85,0.25
 "Inventor's Apprentice",Kaladesh,0.24,0.00
-"Inventors' Fair",Kaladesh,2.99,0.25
+"Inventors' Fair",Kaladesh,3.00,0.00
 "Inventor's Goggles",Kaladesh,0.14,0.00
 "Iron League Steed",Kaladesh,0.22,0.00
-"Island (253)",Kaladesh,0.14,0.00
-"Island (254)",Kaladesh,0.15,0.00
-"Island (255)",Kaladesh,0.16,0.00
+"Island (253)",Kaladesh,0.17,0.00
+"Island (254)",Kaladesh,0.17,0.00
+"Island (255)",Kaladesh,0.18,0.00
 "Janjeet Sentry",Kaladesh,0.21,0.00
-"Kambal, Consul of Allocation",Kaladesh,1.24,0.10
+"Kambal, Consul of Allocation",Kaladesh,1.25,0.10
 "Key to the City",Kaladesh,0.41,0.00
 "Kujar Seedsculptor",Kaladesh,0.14,0.00
-"Larger Than Life",Kaladesh,0.19,0.00
+"Larger Than Life",Kaladesh,0.21,0.00
 "Lathnu Hellion",Kaladesh,0.33,0.00
 "Lawless Broker",Kaladesh,0.14,0.00
-"Liberating Combustion",Kaladesh,0.29,0.00
+"Liberating Combustion",Kaladesh,0.32,0.00
 "Live Fast",Kaladesh,0.15,0.00
 "Long-Finned Skywhale",Kaladesh,0.21,0.00
 "Longtusk Cub",Kaladesh,0.24,0.00
 "Lost Legacy",Kaladesh,0.47,0.00
 "Madcap Experiment",Kaladesh,0.42,0.00
-"Make Obsolete",Kaladesh,0.22,0.00
+"Make Obsolete",Kaladesh,0.23,0.00
 Malfunction,Kaladesh,0.14,0.00
 "Marionette Master",Kaladesh,0.47,0.00
 "Master Trinketeer",Kaladesh,0.37,0.00
 "Maulfist Doorbuster",Kaladesh,0.22,0.00
 "Maulfist Squad",Kaladesh,0.14,0.00
 "Metallurgic Summonings",Kaladesh,1.90,0.10
-"Metalspinner's Puzzleknot",Kaladesh,0.14,0.00
+"Metalspinner's Puzzleknot",Kaladesh,0.15,0.00
 "Metalwork Colossus",Kaladesh,0.55,0.10
-"Midnight Oil",Kaladesh,0.29,0.00
+"Midnight Oil",Kaladesh,0.30,0.00
 "Mind Rot",Kaladesh,0.14,0.00
 "Minister of Inquiries",Kaladesh,0.24,0.00
 "Morbid Curiosity",Kaladesh,0.24,0.00
-"Mountain (259)",Kaladesh,0.16,0.00
-"Mountain (260)",Kaladesh,0.14,0.00
-"Mountain (261)",Kaladesh,0.14,0.00
+"Mountain (259)",Kaladesh,0.18,0.00
+"Mountain (260)",Kaladesh,0.16,0.00
+"Mountain (261)",Kaladesh,0.16,0.00
 "Multiform Wonder",Kaladesh,0.29,0.00
 "Narnam Cobra",Kaladesh,0.14,0.00
-"Nature's Way",Kaladesh,0.22,0.00
+"Nature's Way",Kaladesh,0.23,0.00
 "Night Market Lookout",Kaladesh,0.18,0.00
 "Nimble Innovator",Kaladesh,0.14,0.00
 "Ninth Bridge Patrol",Kaladesh,0.14,0.00
 "Nissa, Nature's Artisan",Kaladesh,0.00,0.00
-"Nissa, Vital Force",Kaladesh,4.10,1.93
-"Noxious Gearhulk",Kaladesh,3.71,1.74
+"Nissa, Vital Force",Kaladesh,4.14,1.95
+"Noxious Gearhulk",Kaladesh,3.67,1.72
 "Ornamental Courage",Kaladesh,0.14,0.00
 "Ovalchase Daredevil",Kaladesh,0.23,0.00
 "Ovalchase Dragster",Kaladesh,0.23,0.00
 "Oviya Pashiri, Sage Lifecrafter",Kaladesh,0.47,0.00
 "Padeem, Consul of Innovation",Kaladesh,1.28,0.10
-Panharmonicon,Kaladesh,7.69,3.61
+Panharmonicon,Kaladesh,7.74,3.64
 "Paradoxical Outcome",Kaladesh,1.03,0.10
 "Peema Outrider",Kaladesh,0.14,0.00
 "Perpetual Timepiece",Kaladesh,0.27,0.00
 "Pia Nalaar",Kaladesh,0.36,0.00
-"Plains (250)",Kaladesh,0.17,0.00
+"Plains (250)",Kaladesh,0.18,0.00
 "Plains (251)",Kaladesh,0.15,0.00
-"Plains (252)",Kaladesh,0.14,0.00
+"Plains (252)",Kaladesh,0.16,0.00
 "Prakhata Club Security",Kaladesh,0.14,0.00
 "Prakhata Pillar-Bug",Kaladesh,0.14,0.00
 "Pressure Point",Kaladesh,0.14,0.00
 "Propeller Pioneer",Kaladesh,0.14,0.00
-"Prophetic Prism",Kaladesh,0.15,0.00
+"Prophetic Prism",Kaladesh,0.18,0.00
 "Quicksmith Genius",Kaladesh,0.24,0.00
-"Rashmi, Eternities Crafter",Kaladesh,1.75,0.10
-"Reckless Fireweaver",Kaladesh,0.16,0.00
+"Rashmi, Eternities Crafter",Kaladesh,1.73,0.10
+"Reckless Fireweaver",Kaladesh,0.17,0.00
 Refurbish,Kaladesh,0.24,0.00
 "Renegade Firebrand",Kaladesh,0.24,0.00
 "Renegade Freighter",Kaladesh,0.18,0.00
 "Renegade Tactics",Kaladesh,0.19,0.00
-"Restoration Gearsmith",Kaladesh,0.22,0.00
+"Restoration Gearsmith",Kaladesh,0.23,0.00
 "Revoke Privileges",Kaladesh,0.14,0.00
 "Revolutionary Rebuff",Kaladesh,0.14,0.00
 "Riparian Tiger",Kaladesh,0.14,0.00
 "Ruinous Gremlin",Kaladesh,0.14,0.00
-"Rush of Vitality",Kaladesh,0.16,0.00
+"Rush of Vitality",Kaladesh,0.15,0.00
 "Sage of Shaila's Claim",Kaladesh,0.15,0.00
 "Saheeli Rai",Kaladesh,5.26,2.47
 "Saheeli's Artistry",Kaladesh,0.31,0.00
 "Salivating Gremlins",Kaladesh,0.14,0.00
 "Scrapheap Scrounger",Kaladesh,0.43,0.00
-"Select for Inspection",Kaladesh,0.14,0.00
+"Select for Inspection",Kaladesh,0.15,0.00
 Self-Assembler,Kaladesh,0.14,0.00
 "Sequestered Stash",Kaladesh,0.24,0.00
 "Servant of the Conduit",Kaladesh,0.30,0.00
 "Servo Exhibition",Kaladesh,0.24,0.00
-"Servo Token (004)",Kaladesh,0.14,0.00
+"Servo Token (004)",Kaladesh,0.15,0.00
 "Servo Token (005)",Kaladesh,0.14,0.00
 "Servo Token (006)",Kaladesh,0.14,0.00
-"Shrewd Negotiation",Kaladesh,0.21,0.00
+"Shrewd Negotiation",Kaladesh,0.22,0.00
 "Sky Skiff",Kaladesh,0.14,0.00
 "Skyship Stalker",Kaladesh,0.32,0.00
-"Skysovereign, Consul Flagship",Kaladesh,0.78,0.10
+"Skysovereign, Consul Flagship",Kaladesh,0.77,0.10
 "Skyswirl Harrier",Kaladesh,0.14,0.00
-"Skywhaler's Shot",Kaladesh,0.23,0.00
-"Smuggler's Copter",Kaladesh,1.81,0.10
-"Snare Thopter",Kaladesh,0.22,0.00
+"Skywhaler's Shot",Kaladesh,0.24,0.00
+"Smuggler's Copter",Kaladesh,1.82,0.10
+"Snare Thopter",Kaladesh,0.23,0.00
 "Spark of Creativity",Kaladesh,0.24,0.00
 "Speedway Fanatic",Kaladesh,0.23,0.00
 "Spirebluff Canal",Kaladesh,7.59,3.57
 "Spireside Infiltrator",Kaladesh,0.14,0.00
 "Spontaneous Artist",Kaladesh,0.14,0.00
-"Start Your Engines",Kaladesh,0.22,0.00
-"Stone Quarry",Kaladesh,0.20,0.00
+"Start Your Engines",Kaladesh,0.23,0.00
+"Stone Quarry",Kaladesh,0.19,0.00
 "Subtle Strike",Kaladesh,0.14,0.00
 "Swamp (256)",Kaladesh,0.14,0.00
-"Swamp (257)",Kaladesh,0.15,0.00
+"Swamp (257)",Kaladesh,0.16,0.00
 "Swamp (258)",Kaladesh,0.15,0.00
 "Syndicate Trafficker",Kaladesh,0.30,0.00
 "Take Down",Kaladesh,0.14,0.00
@@ -250,26 +250,26 @@ Self-Assembler,Kaladesh,0.14,0.00
 "Territorial Gorger",Kaladesh,0.29,0.00
 "Terror of the Fairgrounds",Kaladesh,0.14,0.00
 "Tezzeret's Ambition",Kaladesh,0.14,0.00
-"Thopter Token (007)",Kaladesh,0.14,0.00
-"Thopter Token (008)",Kaladesh,0.15,0.00
-"Thopter Token (009)",Kaladesh,0.14,0.00
+"Thopter Token (007)",Kaladesh,0.16,0.00
+"Thopter Token (008)",Kaladesh,0.18,0.00
+"Thopter Token (009)",Kaladesh,0.16,0.00
 "Thriving Grubs",Kaladesh,0.14,0.00
 "Thriving Ibex",Kaladesh,0.14,0.00
 "Thriving Rats",Kaladesh,0.14,0.00
 "Thriving Rhino",Kaladesh,0.14,0.00
 "Thriving Turtle",Kaladesh,0.15,0.00
 "Tidy Conclusion",Kaladesh,0.14,0.00
-"Toolcraft Exemplar",Kaladesh,0.35,0.00
+"Toolcraft Exemplar",Kaladesh,0.37,0.00
 "Torch Gauntlet",Kaladesh,0.14,0.00
-"Torrential Gearhulk",Kaladesh,3.70,1.74
-"Trusty Companion",Kaladesh,0.21,0.00
+"Torrential Gearhulk",Kaladesh,3.71,1.74
+"Trusty Companion",Kaladesh,0.22,0.00
 "Underhanded Designs",Kaladesh,0.23,0.00
 "Unlicensed Disintegration",Kaladesh,0.23,0.00
 "Vedalken Blademaster",Kaladesh,0.14,0.00
-"Verdant Crescendo",Kaladesh,0.30,0.00
+"Verdant Crescendo",Kaladesh,0.29,0.00
 "Verdurous Gearhulk",Kaladesh,0.94,0.10
-"Veteran Motorist",Kaladesh,0.21,0.00
-"Visionary Augmenter",Kaladesh,0.22,0.00
+"Veteran Motorist",Kaladesh,0.22,0.00
+"Visionary Augmenter",Kaladesh,0.23,0.00
 "Voltaic Brawler",Kaladesh,0.24,0.00
 "Wayward Giant",Kaladesh,0.14,0.00
 "Weaponcraft Enthusiast",Kaladesh,0.24,0.00
@@ -277,12 +277,12 @@ Self-Assembler,Kaladesh,0.14,0.00
 "Weldfast Wingsmith",Kaladesh,0.14,0.00
 "Welding Sparks",Kaladesh,0.14,0.00
 "Whirler Virtuoso",Kaladesh,0.24,0.00
-Whirlermaker,Kaladesh,0.22,0.00
+Whirlermaker,Kaladesh,0.23,0.00
 "Wild Wanderer",Kaladesh,0.14,0.00
 "Wildest Dreams",Kaladesh,0.37,0.00
 "Wily Bandar",Kaladesh,0.14,0.00
 "Wind Drake",Kaladesh,0.14,0.00
-"Wispweaver Angel",Kaladesh,0.23,0.00
+"Wispweaver Angel",Kaladesh,0.24,0.00
 "Woodland Stream",Kaladesh,0.24,0.00
-"Woodweaver's Puzzleknot",Kaladesh,0.16,0.00
+"Woodweaver's Puzzleknot",Kaladesh,0.15,0.00
 "Workshop Assistant",Kaladesh,0.15,0.00

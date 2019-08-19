@@ -6,18 +6,18 @@
 "Adventurous Impulse",Dominaria,0.19,0.00
 "Aesthir Glider",Dominaria,0.14,0.00
 "Amaranthine Wall",Dominaria,0.24,0.00
-"Ancient Animus",Dominaria,0.14,0.00
+"Ancient Animus",Dominaria,0.15,0.00
 "Arbor Armament",Dominaria,0.14,0.00
 "Arcane Flight",Dominaria,0.14,0.00
 "Artificer's Assistant",Dominaria,0.19,0.00
 "Arvad the Cursed",Dominaria,0.24,0.00
-"Aryel, Knight of Windgrace",Dominaria,0.44,0.00
+"Aryel, Knight of Windgrace",Dominaria,0.45,0.00
 "Aven Sentry",Dominaria,0.14,0.00
 "Baird, Steward of Argive",Dominaria,0.32,0.00
 "Baloth Gorger",Dominaria,0.14,0.00
 Befuddle,Dominaria,0.14,0.00
 "Benalish Honor Guard",Dominaria,0.14,0.00
-"Benalish Marshal",Dominaria,0.49,0.00
+"Benalish Marshal",Dominaria,0.48,0.00
 "Blackblade Reforged",Dominaria,0.95,0.10
 "Blessed Light",Dominaria,0.14,0.00
 "Blessing of Belzenlok",Dominaria,0.14,0.00
@@ -33,12 +33,12 @@ Befuddle,Dominaria,0.14,0.00
 "Call the Cavalry",Dominaria,0.14,0.00
 "Cast Down",Dominaria,0.40,0.00
 "Chainer's Torment",Dominaria,0.24,0.00
-"Champion of the Flame",Dominaria,0.23,0.00
+"Champion of the Flame",Dominaria,0.24,0.00
 "Chandra, Bold Pyromancer",Dominaria,0.00,0.00
-"Chandra's Outburst",Dominaria,0.34,0.00
-Charge,Dominaria,0.14,0.00
+"Chandra's Outburst",Dominaria,0.35,0.00
+Charge,Dominaria,0.16,0.00
 "Cleric Token",Dominaria,0.21,0.00
-"Clifftop Retreat",Dominaria,3.72,1.75
+"Clifftop Retreat",Dominaria,3.77,1.77
 "Cloudreader Sphinx",Dominaria,0.14,0.00
 "Cold-Water Snapper",Dominaria,0.14,0.00
 "Construct Token",Dominaria,3.03,1.42
@@ -51,17 +51,17 @@ Charge,Dominaria,0.14,0.00
 "Dark Bargain",Dominaria,0.17,0.00
 "Dauntless Bodyguard",Dominaria,0.24,0.00
 "D'Avenant Trapper",Dominaria,0.14,0.00
-"Deathbloom Thallid",Dominaria,0.14,0.00
+"Deathbloom Thallid",Dominaria,0.15,0.00
 "Deep Freeze",Dominaria,0.18,0.00
 "Demon Token",Dominaria,0.29,0.00
-"Demonic Vigor",Dominaria,0.16,0.00
-"Demonlord Belzenlok",Dominaria,0.94,0.10
+"Demonic Vigor",Dominaria,0.17,0.00
+"Demonlord Belzenlok",Dominaria,0.93,0.10
 "Diligent Excavator",Dominaria,0.24,0.00
-Divest,Dominaria,0.17,0.00
+Divest,Dominaria,0.18,0.00
 Divination,Dominaria,0.14,0.00
 "Dread Shade",Dominaria,0.46,0.00
 "Drudge Sentinel",Dominaria,0.14,0.00
-Dub,Dominaria,0.14,0.00
+Dub,Dominaria,0.15,0.00
 "Elemental Token",Dominaria,0.20,0.00
 "Elfhame Druid",Dominaria,0.24,0.00
 "Emblem - Jaya Ballard",Dominaria,0.33,0.00
@@ -74,7 +74,7 @@ Eviscerate,Dominaria,0.14,0.00
 "Fervent Strike",Dominaria,0.14,0.00
 "Fiery Intervention",Dominaria,0.14,0.00
 "Fight with Fire",Dominaria,0.24,0.00
-"Final Parting",Dominaria,0.30,0.00
+"Final Parting",Dominaria,0.31,0.00
 "Fire Elemental",Dominaria,0.14,0.00
 "Firefist Adept",Dominaria,0.23,0.00
 "Forebear's Blade",Dominaria,0.47,0.00
@@ -82,7 +82,7 @@ Eviscerate,Dominaria,0.14,0.00
 "Forest (267)",Dominaria,0.15,0.00
 "Forest (268)",Dominaria,0.15,0.00
 "Forest (269)",Dominaria,0.14,0.00
-"Frenzied Rage",Dominaria,0.14,0.00
+"Frenzied Rage",Dominaria,0.15,0.00
 "Fungal Infection",Dominaria,0.18,0.00
 "Fungal Plots",Dominaria,0.24,0.00
 "Gaea's Blessing",Dominaria,0.24,0.00
@@ -97,22 +97,22 @@ Eviscerate,Dominaria,0.14,0.00
 "Goblin Barrage",Dominaria,0.24,0.00
 "Goblin Chainwhirler",Dominaria,0.94,0.10
 "Goblin Token",Dominaria,0.24,0.00
-"Goblin Warchief",Dominaria,0.47,0.00
+"Goblin Warchief",Dominaria,0.48,0.00
 "Grand Warlord Radha",Dominaria,0.44,0.00
-"Grow from the Ashes",Dominaria,0.24,0.00
+"Grow from the Ashes",Dominaria,0.25,0.00
 "Grunn, the Lonely King",Dominaria,0.24,0.00
 "Guardians of Koilos",Dominaria,0.14,0.00
-"Hallar, the Firefletcher",Dominaria,0.23,0.00
+"Hallar, the Firefletcher",Dominaria,0.24,0.00
 "Haphazard Bombardment",Dominaria,0.29,0.00
 "Healing Grace",Dominaria,0.15,0.00
 "Helm of the Host",Dominaria,4.82,2.27
-"Hinterland Harbor",Dominaria,5.82,2.74
+"Hinterland Harbor",Dominaria,5.80,2.73
 "History of Benalia",Dominaria,2.45,0.25
 "Homarid Explorer",Dominaria,0.14,0.00
 "Howling Golem",Dominaria,0.24,0.00
 "Icy Manipulator",Dominaria,0.24,0.00
 "In Bolas's Clutches",Dominaria,0.24,0.00
-"Invoke the Divine",Dominaria,0.17,0.00
+"Invoke the Divine",Dominaria,0.18,0.00
 "Island (254)",Dominaria,0.20,0.00
 "Island (255)",Dominaria,0.14,0.00
 "Island (256)",Dominaria,0.14,0.00
@@ -125,17 +125,17 @@ Eviscerate,Dominaria,0.14,0.00
 "Jodah, Archmage Eternal",Dominaria,0.58,0.10
 "Josu Vess, Lich Knight",Dominaria,0.47,0.00
 "Jousting Lance",Dominaria,0.14,0.00
-Juggernaut,Dominaria,0.21,0.00
+Juggernaut,Dominaria,0.23,0.00
 "Kamahl's Druidic Vow",Dominaria,0.47,0.00
-"Karn, Scion of Urza",Dominaria,10.92,5.13
+"Karn, Scion of Urza",Dominaria,10.67,5.01
 "Karn's Temporal Sundering",Dominaria,0.77,0.10
 "Karox Bladewing Token",Dominaria,0.48,0.00
 "Karplusan Hound",Dominaria,0.19,0.00
-"Kazarov, Sengir Pureblood",Dominaria,0.31,0.00
+"Kazarov, Sengir Pureblood",Dominaria,0.30,0.00
 "Keldon Overseer",Dominaria,0.14,0.00
 "Keldon Raider",Dominaria,0.14,0.00
 "Keldon Warcaller",Dominaria,0.14,0.00
-"Knight of Grace",Dominaria,0.25,0.00
+"Knight of Grace",Dominaria,0.24,0.00
 "Knight of Malice",Dominaria,0.28,0.00
 "Knight of New Benalia",Dominaria,0.14,0.00
 "Knight Token (001)",Dominaria,0.14,0.00
@@ -143,75 +143,75 @@ Juggernaut,Dominaria,0.21,0.00
 "Krosan Druid",Dominaria,0.14,0.00
 "Kwende, Pride of Femeref",Dominaria,0.24,0.00
 "Lich's Mastery",Dominaria,0.47,0.00
-"Lingering Phantom",Dominaria,0.21,0.00
+"Lingering Phantom",Dominaria,0.22,0.00
 "Llanowar Elves",Dominaria,0.23,0.00
 "Llanowar Envoy",Dominaria,0.14,0.00
 "Llanowar Scout",Dominaria,0.18,0.00
-"Lyra Dawnbringer",Dominaria,7.30,3.43
+"Lyra Dawnbringer",Dominaria,7.28,3.42
 "Mammoth Spider",Dominaria,0.14,0.00
 "Marwyn, the Nurturer",Dominaria,0.50,0.00
 "Meandering River",Dominaria,0.24,0.00
 "Memorial to Folly",Dominaria,0.24,0.00
-"Memorial to Genius",Dominaria,0.25,0.00
+"Memorial to Genius",Dominaria,0.26,0.00
 "Memorial to Glory",Dominaria,0.24,0.00
 "Memorial to Unity",Dominaria,0.24,0.00
 "Memorial to War",Dominaria,0.23,0.00
-"Merfolk Trickster",Dominaria,1.24,0.10
+"Merfolk Trickster",Dominaria,1.27,0.10
 "Mesa Unicorn",Dominaria,0.14,0.00
 "Mishra's Self-Replicator",Dominaria,0.34,0.00
 "Mountain (262)",Dominaria,0.23,0.00
-"Mountain (263)",Dominaria,0.14,0.00
+"Mountain (263)",Dominaria,0.13,0.00
 "Mountain (264)",Dominaria,0.14,0.00
 "Mountain (265)",Dominaria,0.14,0.00
-"Mox Amber",Dominaria,9.21,4.33
-"Muldrotha, the Gravetide",Dominaria,5.42,2.55
-"Multani, Yavimaya's Avatar",Dominaria,2.21,0.25
+"Mox Amber",Dominaria,8.95,4.21
+"Muldrotha, the Gravetide",Dominaria,5.41,2.54
+"Multani, Yavimaya's Avatar",Dominaria,2.23,0.25
 "Naban, Dean of Iteration",Dominaria,0.46,0.00
 "Naru Meha, Master Wizard",Dominaria,1.02,0.10
 "Nature's Spiral",Dominaria,0.23,0.00
-"Navigator's Compass",Dominaria,0.15,0.00
-"Niambi, Faithful Healer",Dominaria,0.46,0.00
+"Navigator's Compass",Dominaria,0.17,0.00
+"Niambi, Faithful Healer",Dominaria,0.47,0.00
 "Nightmare Horror Token",Dominaria,0.22,0.00
-"Oath of Teferi",Dominaria,0.76,0.10
+"Oath of Teferi",Dominaria,0.75,0.10
 "On Serra's Wings",Dominaria,0.24,0.00
 Opt,Dominaria,0.24,0.00
 "Orcish Vandal",Dominaria,0.22,0.00
 "Pardic Wanderer",Dominaria,0.14,0.00
 "Pegasus Courser",Dominaria,0.14,0.00
-"Phyrexian Scriptures",Dominaria,1.34,0.10
+"Phyrexian Scriptures",Dominaria,1.33,0.10
 "Pierce the Sky",Dominaria,0.14,0.00
 "Plains (250)",Dominaria,0.18,0.00
-"Plains (251)",Dominaria,0.15,0.00
+"Plains (251)",Dominaria,0.14,0.00
 "Plains (252)",Dominaria,0.14,0.00
 "Plains (253)",Dominaria,0.14,0.00
-"Powerstone Shard",Dominaria,0.20,0.00
-"Precognition Field",Dominaria,0.40,0.00
+"Powerstone Shard",Dominaria,0.22,0.00
+"Precognition Field",Dominaria,0.39,0.00
 "Primevals' Glorious Rebirth",Dominaria,0.48,0.00
 "Primordial Wurm",Dominaria,0.14,0.00
-"Pyromantic Pilgrim",Dominaria,0.14,0.00
-"Radiating Lightning",Dominaria,0.14,0.00
+"Pyromantic Pilgrim",Dominaria,0.16,0.00
+"Radiating Lightning",Dominaria,0.15,0.00
 "Raff Capashen, Ship's Mage",Dominaria,0.24,0.00
-"Rampaging Cyclops",Dominaria,0.14,0.00
-"Rat Colony",Dominaria,0.65,0.10
+"Rampaging Cyclops",Dominaria,0.15,0.00
+"Rat Colony",Dominaria,0.63,0.10
 "Relic Runner",Dominaria,0.14,0.00
 Rescue,Dominaria,0.14,0.00
 "Rite of Belzenlok",Dominaria,0.37,0.00
 "Rona, Disciple of Gix",Dominaria,0.24,0.00
-"Run Amok",Dominaria,0.14,0.00
+"Run Amok",Dominaria,0.15,0.00
 "Sage of Lat-Nam",Dominaria,0.24,0.00
-"Sanctum Spirit",Dominaria,0.19,0.00
+"Sanctum Spirit",Dominaria,0.20,0.00
 "Saproling Migration",Dominaria,0.19,0.00
-"Saproling Token (011)",Dominaria,0.15,0.00
-"Saproling Token (012)",Dominaria,0.16,0.00
+"Saproling Token (011)",Dominaria,0.17,0.00
+"Saproling Token (012)",Dominaria,0.15,0.00
 "Saproling Token (013)",Dominaria,0.18,0.00
-"Seal Away",Dominaria,0.39,0.00
+"Seal Away",Dominaria,0.41,0.00
 "Seismic Shift",Dominaria,0.14,0.00
 "Sentinel of the Pearl Trident",Dominaria,0.24,0.00
 Sergeant-at-Arms,Dominaria,0.14,0.00
 "Serra Angel",Dominaria,0.24,0.00
 "Serra Disciple",Dominaria,0.14,0.00
 "Settle the Score",Dominaria,0.30,0.00
-"Shalai, Voice of Plenty",Dominaria,2.66,0.25
+"Shalai, Voice of Plenty",Dominaria,2.68,0.25
 "Shanna, Sisay's Legacy",Dominaria,0.24,0.00
 "Shield of the Realm",Dominaria,0.24,0.00
 "Shivan Fire",Dominaria,0.15,0.00
@@ -220,27 +220,27 @@ Sergeant-at-Arms,Dominaria,0.14,0.00
 "Skirk Prospector",Dominaria,0.19,0.00
 "Skittering Surveyor",Dominaria,0.14,0.00
 Skizzik,Dominaria,0.23,0.00
-"Slimefoot, the Stowaway",Dominaria,0.28,0.00
+"Slimefoot, the Stowaway",Dominaria,0.29,0.00
 "Slinn Voda, the Rising Deep",Dominaria,0.24,0.00
 "Soldier Token",Dominaria,0.18,0.00
 "Song of Freyalise",Dominaria,0.48,0.00
 "Sorcerer's Wand",Dominaria,0.24,0.00
 "Soul Salvage",Dominaria,0.14,0.00
-"Sparring Construct",Dominaria,0.14,0.00
+"Sparring Construct",Dominaria,0.15,0.00
 "Spore Swarm",Dominaria,0.26,0.00
 "Sporecrown Thallid",Dominaria,0.30,0.00
 "Squee, the Immortal",Dominaria,0.47,0.00
 "Steel Leaf Champion",Dominaria,1.41,0.10
 "Stronghold Confessor",Dominaria,0.14,0.00
 "Sulfur Falls",Dominaria,2.38,0.25
-"Swamp (258)",Dominaria,0.24,0.00
+"Swamp (258)",Dominaria,0.26,0.00
 "Swamp (259)",Dominaria,0.15,0.00
-"Swamp (260)",Dominaria,0.18,0.00
+"Swamp (260)",Dominaria,0.19,0.00
 "Swamp (261)",Dominaria,0.16,0.00
 "Sylvan Awakening",Dominaria,0.46,0.00
 Syncopate,Dominaria,0.18,0.00
 "Tatyova, Benthic Druid",Dominaria,0.41,0.00
-"Teferi, Hero of Dominaria",Dominaria,23.78,11.18
+"Teferi, Hero of Dominaria",Dominaria,23.75,11.16
 "Teferi, Timebender",Dominaria,0.00,0.00
 "Teferi's Sentinel",Dominaria,0.24,0.00
 "Tempest Djinn",Dominaria,0.93,0.10
@@ -256,8 +256,8 @@ Syncopate,Dominaria,0.18,0.00
 "The Flame of Keld",Dominaria,0.33,0.00
 "The Mending of Dominaria",Dominaria,0.46,0.00
 "The Mirari Conjecture",Dominaria,0.40,0.00
-"Thorn Elemental",Dominaria,0.22,0.00
-"Thran Temporal Gateway",Dominaria,0.61,0.10
+"Thorn Elemental",Dominaria,0.23,0.00
+"Thran Temporal Gateway",Dominaria,0.62,0.10
 "Tiana, Ship's Caretaker",Dominaria,0.24,0.00
 "Timber Gorge",Dominaria,0.20,0.00
 "Time of Ice",Dominaria,0.24,0.00
@@ -270,8 +270,8 @@ Syncopate,Dominaria,0.18,0.00
 "Untamed Kavu",Dominaria,0.24,0.00
 Unwind,Dominaria,0.26,0.00
 "Urgoros, the Empty One",Dominaria,0.24,0.00
-"Urza's Ruinous Blast",Dominaria,0.50,0.00
-"Urza's Tome",Dominaria,0.22,0.00
+"Urza's Ruinous Blast",Dominaria,0.49,0.00
+"Urza's Tome",Dominaria,0.23,0.00
 "Valduk, Keeper of the Flame",Dominaria,0.24,0.00
 "Verdant Force",Dominaria,0.34,0.00
 "Verix Bladewing",Dominaria,1.35,0.10
@@ -282,15 +282,15 @@ Unwind,Dominaria,0.26,0.00
 "Warlord's Fury",Dominaria,0.17,0.00
 Weatherlight,Dominaria,0.74,0.10
 "Weight of Memory",Dominaria,0.24,0.00
-"Whisper, Blood Liturgist",Dominaria,0.25,0.00
+"Whisper, Blood Liturgist",Dominaria,0.26,0.00
 "Wild Onslaught",Dominaria,0.24,0.00
 "Windgrace Acolyte",Dominaria,0.14,0.00
 "Wizard's Lightning",Dominaria,0.35,0.00
 "Wizard's Retort",Dominaria,0.50,0.00
 "Woodland Cemetery",Dominaria,1.90,0.10
-"Yargle, Glutton of Urborg",Dominaria,0.24,0.00
-"Yavimaya Sapherd",Dominaria,0.16,0.00
-"Yawgmoth's Vile Offering",Dominaria,0.53,0.10
+"Yargle, Glutton of Urborg",Dominaria,0.23,0.00
+"Yavimaya Sapherd",Dominaria,0.17,0.00
+"Yawgmoth's Vile Offering",Dominaria,0.52,0.10
 "Zahid, Djinn of the Lamp",Dominaria,0.32,0.00
 "Zhalfirin Void",Dominaria,0.32,0.00
 "Zombie Knight Token",Dominaria,0.98,0.10

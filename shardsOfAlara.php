@@ -178,6 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-      //header("Location: shardsOfAlara.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
