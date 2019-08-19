@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: aetherRevolt.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

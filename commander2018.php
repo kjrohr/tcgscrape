@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: coreSet2019.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

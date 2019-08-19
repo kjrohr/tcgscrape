@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: zendikar.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

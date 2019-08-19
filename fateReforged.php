@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: commander2014.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

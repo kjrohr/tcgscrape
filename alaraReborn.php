@@ -178,7 +178,7 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
+    sleep(5);
       header("Location: conflux.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: oathOfTheGatewatch.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

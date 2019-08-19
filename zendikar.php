@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: magic2010.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

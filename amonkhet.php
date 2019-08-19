@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: modernMasters2017.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

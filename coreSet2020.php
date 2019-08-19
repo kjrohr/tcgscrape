@@ -3,9 +3,9 @@
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
 
     // Global Variables
-    $setName = "Magic 2011"; // Used for Categories in Crystal Commerce
-    $tableName = "magic2011"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/magic-2011-m11"; // URL to scrape
+    $setName = "Core Set 2020"; // Used for Categories in Crystal Commerce
+    $tableName = "coreSet2020"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/core-set-2020"; // URL to scrape
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
@@ -151,22 +151,10 @@
     }
     // ****** END INSERT INTO TABLE ******
 
-            // ****** GENERATE CSV ******
-    $file = fopen("output/". $tableName . ".csv","w");
+    // ****** GENERATE CSV ******
+      $file = fopen("output/". $tableName . ".csv","w");
 
-    fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
-
-    // Need to allow cards to have a , in their name
-    for ($id = 0; $id < count($cardNames); $id++){
-      //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
-      fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
-    }
-
-    fclose($file); 
-  // ****** END GENERATE CSV ******
-
-  // ****** GENERATE MASTER CSV ******
-      $file = fopen("output/theMasterSheet.csv","a");
+      fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
 
       // Need to allow cards to have a , in their name
       for ($id = 0; $id < count($cardNames); $id++){
@@ -175,9 +163,24 @@
       }
 
       fclose($file); 
-    // ****** END GENERATE MASTER CSV ******
+    // ****** END GENERATE CSV ******
+
+    // ****** GENERATE MASTER CSV ******
+        $file = fopen("output/theMasterSheet.csv","w");
+
+        fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
+  
+        // Need to allow cards to have a , in their name
+        for ($id = 0; $id < count($cardNames); $id++){
+          //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+          fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+        }
+  
+        fclose($file); 
+      // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: riseOfTheEldrazi.php");
+    header("Location: modernHorizons.php");
     // ****** END CHAIN SCRIPTS ******
+
 ?>

@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: commanderAnthologyVolume2.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

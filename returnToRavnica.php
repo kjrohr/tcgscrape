@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: scarsOfMirrodin.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

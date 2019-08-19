@@ -178,7 +178,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-
       header("Location: hourOfDevastation.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
