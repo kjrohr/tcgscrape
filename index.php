@@ -16,6 +16,8 @@
 <a href="coreSet2020.php">Core 2020 - Iconic Masters</a>
 <a href="ixalan.php">Ixalan - Magic Origins</a>
 <a href="modernMasters2015.php">MM2015 - Shards of Alara</a>
+<a href="eventide.php">Eventide - Dissension</a>
+<a href="guildpact.php">Guildpact - Legions</a>
 
 
 </body>
