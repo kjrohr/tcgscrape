@@ -7,7 +7,7 @@
 "Anointed Deacon",Ixalan,0.14,0.00
 "Arcane Adaptation",Ixalan,1.51,0.10
 "Arguel's Blood Fast",Ixalan,0.48,0.00
-"Ashes of the Abhorrent",Ixalan,0.46,0.00
+"Ashes of the Abhorrent",Ixalan,0.45,0.00
 "Atzocan Archer",Ixalan,0.24,0.00
 "Axis of Mortality",Ixalan,0.70,0.10
 "Belligerent Brontodon",Ixalan,0.24,0.00
@@ -19,7 +19,7 @@
 "Blinding Fog",Ixalan,0.15,0.00
 "Bloodcrazed Paladin",Ixalan,0.37,0.00
 "Blossom Dryad",Ixalan,0.14,0.00
-"Bonded Horncrest",Ixalan,0.23,0.00
+"Bonded Horncrest",Ixalan,0.24,0.00
 "Boneyard Parley",Ixalan,0.64,0.10
 "Brazen Buccaneers",Ixalan,0.14,0.00
 "Bright Reprisal",Ixalan,0.23,0.00
@@ -28,15 +28,15 @@
 Cancel,Ixalan,0.15,0.00
 "Captain Lannery Storm",Ixalan,0.47,0.00
 "Captivating Crew",Ixalan,0.46,0.00
-"Carnage Tyrant",Ixalan,6.89,3.24
+"Carnage Tyrant",Ixalan,6.87,3.40
 "Castaway's Despair",Ixalan,0.14,0.00
 "Charging Monstrosaur",Ixalan,0.23,0.00
-"Chart a Course",Ixalan,0.44,0.00
-"Checklist Card - Ixalan",Ixalan,0.17,0.00
-"Cobbled Wings",Ixalan,0.16,0.00
+"Chart a Course",Ixalan,0.43,0.00
+"Checklist Card - Ixalan",Ixalan,0.16,0.00
+"Cobbled Wings",Ixalan,0.15,0.00
 "Colossal Dreadmaw",Ixalan,0.14,0.00
 "Commune with Dinosaurs",Ixalan,0.23,0.00
-"Conqueror's Galleon",Ixalan,0.39,0.00
+"Conqueror's Galleon",Ixalan,0.38,0.00
 "Contract Killing",Ixalan,0.14,0.00
 "Costly Plunder",Ixalan,0.18,0.00
 "Crash the Ramparts",Ixalan,0.14,0.00
@@ -49,9 +49,9 @@ Cancel,Ixalan,0.15,0.00
 "Deadeye Tracker",Ixalan,0.48,0.00
 "Deathgorge Scavenger",Ixalan,0.71,0.10
 "Deathless Ancient",Ixalan,0.24,0.00
-"Deeproot Champion",Ixalan,0.47,0.00
+"Deeproot Champion",Ixalan,0.45,0.00
 "Deeproot Warrior",Ixalan,0.14,0.00
-"Deeproot Waters",Ixalan,0.27,0.00
+"Deeproot Waters",Ixalan,0.26,0.00
 Demolish,Ixalan,0.14,0.00
 Demystify,Ixalan,0.15,0.00
 "Depths of Desire",Ixalan,0.14,0.00
@@ -63,13 +63,13 @@ Demystify,Ixalan,0.15,0.00
 "Dire Fleet Captain",Ixalan,0.24,0.00
 "Dire Fleet Hoarder",Ixalan,0.15,0.00
 "Dire Fleet Interloper",Ixalan,0.14,0.00
-"Dire Fleet Ravager",Ixalan,0.84,0.10
+"Dire Fleet Ravager",Ixalan,0.85,0.10
 "Dive Down",Ixalan,0.24,0.00
-"Dowsing Dagger",Ixalan,0.82,0.10
-"Dragonskull Summit",Ixalan,3.68,1.73
+"Dowsing Dagger",Ixalan,0.81,0.10
+"Dragonskull Summit",Ixalan,3.64,1.80
 "Dreamcaller Siren",Ixalan,0.33,0.00
 "Drover of the Mighty",Ixalan,0.36,0.00
-"Drowned Catacomb",Ixalan,5.48,2.58
+"Drowned Catacomb",Ixalan,5.33,2.64
 "Dual Shot",Ixalan,0.15,0.00
 Duress,Ixalan,0.17,0.00
 "Dusk Legion Dreadnought",Ixalan,0.24,0.00
@@ -77,7 +77,7 @@ Duress,Ixalan,0.17,0.00
 "Elaborate Firecannon",Ixalan,0.23,0.00
 "Emergent Growth",Ixalan,0.23,0.00
 "Emissary of Sunrise",Ixalan,0.24,0.00
-"Emperor's Vanguard",Ixalan,0.31,0.00
+"Emperor's Vanguard",Ixalan,0.30,0.00
 "Encampment Keeper",Ixalan,0.14,0.00
 "Entrancing Melody",Ixalan,0.47,0.00
 "Fathom Fleet Captain",Ixalan,0.47,0.00
@@ -85,7 +85,7 @@ Duress,Ixalan,0.17,0.00
 "Fathom Fleet Firebrand",Ixalan,0.14,0.00
 "Favorable Winds",Ixalan,0.24,0.00
 "Fell Flagship",Ixalan,0.38,0.00
-"Field of Ruin",Ixalan,3.71,1.74
+"Field of Ruin",Ixalan,3.71,1.83
 "Fiery Cannonade",Ixalan,0.24,0.00
 "Fire Shrine Keeper",Ixalan,0.15,0.00
 "Firecannon Blast",Ixalan,0.15,0.00
@@ -96,21 +96,21 @@ Duress,Ixalan,0.17,0.00
 "Forest (279)",Ixalan,0.14,0.00
 "Frenzied Raptor",Ixalan,0.14,0.00
 "Gilded Sentinel",Ixalan,0.14,0.00
-"Gishath, Sun's Avatar",Ixalan,3.38,1.59
-"Glacial Fortress",Ixalan,4.74,2.23
+"Gishath, Sun's Avatar",Ixalan,3.38,1.67
+"Glacial Fortress",Ixalan,4.74,2.35
 "Glorifier of Dusk",Ixalan,0.24,0.00
 "Goring Ceratops",Ixalan,0.37,0.00
 "Grasping Current",Ixalan,0.37,0.00
 "Grazing Whiptail",Ixalan,0.14,0.00
 "Grim Captain's Call",Ixalan,0.24,0.00
-"Growing Rites of Itlimoc",Ixalan,7.02,3.30
+"Growing Rites of Itlimoc",Ixalan,7.02,3.47
 "Headstrong Brute",Ixalan,0.14,0.00
 "Headwater Sentries",Ixalan,0.14,0.00
 "Heartless Pillage",Ixalan,0.24,0.00
-"Herald of Secret Streams",Ixalan,0.87,0.10
+"Herald of Secret Streams",Ixalan,0.86,0.10
 "Hierophant's Chalice",Ixalan,0.15,0.00
 Hijack,Ixalan,0.15,0.00
-"Hostage Taker",Ixalan,3.10,1.46
+"Hostage Taker",Ixalan,3.09,1.53
 "Huatli, Dinosaur Knight",Ixalan,0.00,0.00
 "Huatli, Warrior Poet",Ixalan,2.23,0.25
 "Huatli's Snubhorn",Ixalan,0.37,0.00
@@ -123,10 +123,10 @@ Hijack,Ixalan,0.15,0.00
 "Island (265)",Ixalan,0.15,0.00
 "Island (266)",Ixalan,0.14,0.00
 "Island (267)",Ixalan,0.14,0.00
-"Ixalan's Binding",Ixalan,0.78,0.10
+"Ixalan's Binding",Ixalan,0.76,0.10
 "Ixalli's Diviner",Ixalan,0.14,0.00
 "Ixalli's Keeper",Ixalan,0.14,0.00
-"Jace, Cunning Castaway",Ixalan,2.29,0.25
+"Jace, Cunning Castaway",Ixalan,2.19,0.25
 "Jace, Ingenious Mind-Mage",Ixalan,0.00,0.00
 "Jace's Sentinel",Ixalan,0.24,0.00
 "Jade Guardian",Ixalan,0.14,0.00
@@ -134,7 +134,7 @@ Hijack,Ixalan,0.15,0.00
 "Kinjalli's Caller",Ixalan,0.17,0.00
 "Kinjalli's Sunwing",Ixalan,0.71,0.10
 "Kitesail Freebooter",Ixalan,0.56,0.10
-"Kopala, Warden of Waves",Ixalan,0.49,0.00
+"Kopala, Warden of Waves",Ixalan,0.48,0.10
 "Kumena's Speaker",Ixalan,0.24,0.00
 "Legion Conquistador",Ixalan,0.15,0.00
 "Legion's Judgment",Ixalan,0.17,0.00
@@ -149,9 +149,9 @@ Hijack,Ixalan,0.15,0.00
 "March of the Drowned",Ixalan,0.17,0.00
 "Mark of the Vampire",Ixalan,0.15,0.00
 "Mavren Fein, Dusk Apostle",Ixalan,0.66,0.10
-"Merfolk Branchwalker",Ixalan,0.35,0.00
+"Merfolk Branchwalker",Ixalan,0.33,0.00
 "Merfolk Token (003)",Ixalan,0.21,0.00
-"Mountain (272)",Ixalan,0.20,0.00
+"Mountain (272)",Ixalan,0.19,0.00
 "Mountain (273)",Ixalan,0.15,0.00
 "Mountain (274)",Ixalan,0.14,0.00
 "Mountain (275)",Ixalan,0.14,0.00
@@ -167,17 +167,17 @@ Opt,Ixalan,0.24,0.00
 "Perilous Voyage",Ixalan,0.24,0.00
 "Pillar of Origins",Ixalan,0.35,0.00
 "Pious Interdiction",Ixalan,0.14,0.00
-"Pirate Token (004)",Ixalan,0.22,0.00
+"Pirate Token (004)",Ixalan,0.21,0.00
 "Pirate's Cutlass",Ixalan,0.14,0.00
 "Pirate's Prize",Ixalan,0.16,0.00
 "Plains (260)",Ixalan,0.17,0.00
 "Plains (261)",Ixalan,0.15,0.00
 "Plains (262)",Ixalan,0.14,0.00
-"Plains (263)",Ixalan,0.15,0.00
-"Plant Token (006)",Ixalan,0.19,0.00
+"Plains (263)",Ixalan,0.14,0.00
+"Plant Token (006)",Ixalan,0.20,0.00
 Pounce,Ixalan,0.18,0.00
 "Priest of the Wakening Sun",Ixalan,0.40,0.00
-"Primal Amulet",Ixalan,3.38,1.59
+"Primal Amulet",Ixalan,3.35,1.66
 "Prosperous Pirates",Ixalan,0.14,0.00
 "Prying Blade",Ixalan,0.18,0.00
 "Pterodon Knight",Ixalan,0.14,0.00
@@ -193,55 +193,55 @@ Pounce,Ixalan,0.18,0.00
 "Raptor Hatchling",Ixalan,0.25,0.00
 "Ravenous Daggertooth",Ixalan,0.16,0.00
 "Regisaur Alpha",Ixalan,0.86,0.10
-"Repeating Barrage",Ixalan,0.31,0.00
+"Repeating Barrage",Ixalan,0.33,0.00
 "Revel in Riches",Ixalan,2.12,0.25
 "Rigging Runner",Ixalan,0.24,0.00
 Rile,Ixalan,0.18,0.00
-"Ripjaw Raptor",Ixalan,2.74,0.25
+"Ripjaw Raptor",Ixalan,2.75,0.25
 "Ritual of Rejuvenation",Ixalan,0.16,0.00
-"River Heralds' Boon",Ixalan,0.15,0.00
+"River Heralds' Boon",Ixalan,0.14,0.00
 "River Sneak",Ixalan,0.24,0.00
 "River's Rebuke",Ixalan,0.94,0.10
-"Rootbound Crag",Ixalan,3.60,1.69
+"Rootbound Crag",Ixalan,3.59,1.78
 "Rowdy Crew",Ixalan,0.70,0.10
-"Ruin Raider",Ixalan,0.43,0.00
+"Ruin Raider",Ixalan,0.44,0.00
 "Rummaging Goblin",Ixalan,0.14,0.00
 "Run Aground",Ixalan,0.14,0.00
 "Ruthless Knave",Ixalan,0.24,0.00
-"Sailor of Means",Ixalan,0.16,0.00
-"Sanctum Seeker",Ixalan,1.18,0.10
+"Sailor of Means",Ixalan,0.15,0.00
+"Sanctum Seeker",Ixalan,1.19,0.10
 "Sanguine Sacrament",Ixalan,0.39,0.00
 "Savage Stomp",Ixalan,0.24,0.00
-"Search for Azcanta",Ixalan,8.25,3.88
+"Search for Azcanta",Ixalan,8.24,4.07
 "Seekers' Squire",Ixalan,0.24,0.00
 "Sentinel Totem",Ixalan,0.24,0.00
-"Settle the Wreckage",Ixalan,2.11,0.25
-"Shadowed Caravel",Ixalan,0.35,0.00
+"Settle the Wreckage",Ixalan,2.07,0.25
+"Shadowed Caravel",Ixalan,0.36,0.00
 "Shaper Apprentice",Ixalan,0.15,0.00
 "Shapers of Nature",Ixalan,0.22,0.00
 "Shapers' Sanctuary",Ixalan,0.90,0.10
-"Sheltering Light",Ixalan,0.70,0.10
+"Sheltering Light",Ixalan,0.71,0.10
 "Shining Aerosaur",Ixalan,0.16,0.00
 "Shipwreck Looter",Ixalan,0.14,0.00
 "Shore Keeper",Ixalan,0.14,0.00
 "Siren Lookout",Ixalan,0.15,0.00
-"Siren Stormtamer",Ixalan,1.88,0.10
+"Siren Stormtamer",Ixalan,1.87,0.10
 "Siren's Ruse",Ixalan,0.17,0.00
 "Skittering Heartstopper",Ixalan,0.15,0.00
 Skulduggery,Ixalan,0.14,0.00
 "Sky Terror",Ixalan,0.24,0.00
-"Skyblade of the Legion",Ixalan,0.16,0.00
+"Skyblade of the Legion",Ixalan,0.15,0.00
 "Skymarch Bloodletter",Ixalan,0.15,0.00
 "Slash of Talons",Ixalan,0.14,0.00
 "Sleek Schooner",Ixalan,0.24,0.00
 "Slice in Twain",Ixalan,0.24,0.00
 "Snapping Sailback",Ixalan,0.24,0.00
 "Sorcerous Spyglass",Ixalan,1.89,0.10
-"Spell Pierce",Ixalan,0.32,0.00
-"Spell Swindle",Ixalan,1.08,0.10
+"Spell Pierce",Ixalan,0.33,0.00
+"Spell Swindle",Ixalan,1.06,0.10
 "Spike-Tailed Ceratops",Ixalan,0.14,0.00
 "Spreading Rot",Ixalan,0.14,0.00
-"Star of Extinction",Ixalan,1.94,0.10
+"Star of Extinction",Ixalan,1.92,0.25
 "Steadfast Armasaur",Ixalan,0.24,0.00
 "Stone Quarry",Ixalan,0.14,0.00
 "Storm Fleet Aerialist",Ixalan,0.24,0.00
@@ -250,9 +250,9 @@ Skulduggery,Ixalan,0.14,0.00
 "Storm Fleet Spy",Ixalan,0.24,0.00
 "Storm Sculptor",Ixalan,0.14,0.00
 "Sunbird's Invocation",Ixalan,1.19,0.10
-"Sun-Blessed Mount",Ixalan,0.52,0.10
+"Sun-Blessed Mount",Ixalan,0.57,0.10
 "Sun-Crowned Hunters",Ixalan,0.18,0.00
-"Sunpetal Grove",Ixalan,3.42,1.61
+"Sunpetal Grove",Ixalan,3.38,1.67
 "Sunrise Seeker",Ixalan,0.14,0.00
 "Sure Strike",Ixalan,0.14,0.00
 "Swamp (268)",Ixalan,0.14,0.00
@@ -263,15 +263,15 @@ Swashbuckling,Ixalan,0.14,0.00
 "Sword-Point Diplomacy",Ixalan,0.47,0.00
 "Tempest Caller",Ixalan,0.23,0.00
 "Territorial Hammerskull",Ixalan,0.18,0.00
-"Thaumatic Compass",Ixalan,2.07,0.25
-"Thrash of Raptors",Ixalan,0.17,0.00
+"Thaumatic Compass",Ixalan,2.06,0.25
+"Thrash of Raptors",Ixalan,0.16,0.00
 "Thundering Spineback",Ixalan,0.24,0.00
 "Tilonalli's Knight",Ixalan,0.14,0.00
 "Tilonalli's Skinshifter",Ixalan,0.36,0.00
 "Tishana, Voice of Thunder",Ixalan,1.51,0.10
-"Tishana's Wayfinder",Ixalan,0.16,0.00
+"Tishana's Wayfinder",Ixalan,0.15,0.00
 "Tocatli Honor Guard",Ixalan,0.47,0.00
-"Treasure Map",Ixalan,2.71,0.25
+"Treasure Map",Ixalan,2.67,0.25
 "Treasure Token (007)",Ixalan,0.15,0.00
 "Treasure Token (008)",Ixalan,0.16,0.00
 "Treasure Token (009)",Ixalan,0.14,0.00
@@ -280,17 +280,17 @@ Swashbuckling,Ixalan,0.14,0.00
 "Unclaimed Territory",Ixalan,2.22,0.25
 "Unfriendly Fire",Ixalan,0.14,0.00
 "Unknown Shores",Ixalan,0.14,0.00
-"Vampire // Treasure Double-sided Token",Ixalan,0.38,0.00
+"Vampire // Treasure Double-sided Token",Ixalan,0.39,0.00
 "Vampire Token (001)",Ixalan,0.23,0.00
 "Vampire's Zeal",Ixalan,0.14,0.00
 "Vance's Blasting Cannons",Ixalan,0.46,0.00
 "Vanquish the Weak",Ixalan,0.14,0.00
-"Vanquisher's Banner",Ixalan,4.40,2.07
+"Vanquisher's Banner",Ixalan,4.38,2.17
 "Verdant Rebirth",Ixalan,0.24,0.00
 "Verdant Sun's Avatar",Ixalan,0.48,0.00
 "Vicious Conquistador",Ixalan,0.36,0.00
 "Vineshaper Mystic",Ixalan,0.24,0.00
-"Vona, Butcher of Magan",Ixalan,2.61,0.25
+"Vona, Butcher of Magan",Ixalan,2.60,0.25
 "Vraska, Relic Seeker",Ixalan,1.87,0.10
 "Vraska's Contempt",Ixalan,2.04,0.25
 "Wakening Sun's Avatar",Ixalan,1.41,0.10
@@ -301,4 +301,4 @@ Swashbuckling,Ixalan,0.14,0.00
 "Wildgrowth Walker",Ixalan,0.24,0.00
 "Wily Goblin",Ixalan,0.26,0.00
 "Wind Strider",Ixalan,0.14,0.00
-"Woodland Stream",Ixalan,0.19,0.00
+"Woodland Stream",Ixalan,0.18,0.00

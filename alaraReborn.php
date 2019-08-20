@@ -1,7 +1,8 @@
 <?php 
     // Includes
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
-
+    include_once 'includes/helper.php';
+    
     // Global Variables
     $setName = "Alara Reborn"; // Used for Categories in Crystal Commerce
     $tableName = "alaraReborn"; // Used for mysql
@@ -85,34 +86,17 @@
         }
             
         foreach ($price as $median){
-            array_push($medianPrices, str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext)));
+          array_push($medianPrices, str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext)));
 
-            $rowValue = str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext));
-            $numValue = number_format($rowValue,2);
-            $theSellPrice = number_format(($numValue * .95),2);
+          $rowValue = str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext));
+          $numValue = number_format($rowValue,2);
 
-            if ($theSellPrice >= 0.51 && $theSellPrice <= 1.99)
-            {
-              $theBuyPrice = number_format(0.10,2);
-            }
-
-            if ($theSellPrice >= 2.00 && $theSellPrice <= 2.99)
-            {
-                $theBuyPrice = number_format(0.25,2);
-            }
-
-            if ($theSellPrice <= 0.50)
-            {
-                $theBuyPrice = number_format(0.00,2);
-            }
-            if ($theSellPrice > 3)
-            {
-                $theBuyPrice = number_format(($theSellPrice * 0.47),2);
-            }
-    
-            array_push($sellPrice, $theSellPrice);
-            array_push($buyPrice, $theBuyPrice);
-        }
+          $theSellPrice = findSellPrice($numValue);
+          $theBuyPrice = findBuyPrice($numValue);
+  
+          array_push($sellPrice, $theSellPrice);
+          array_push($buyPrice, $theBuyPrice);
+      }
             
     // ****** END SCRAPE $tcgPlayerSetURL ******
 
