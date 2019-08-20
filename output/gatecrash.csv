@@ -1,56 +1,56 @@
 "Product Name",Category,"Sell Price","Buy Price"
 "Act of Treason",Gatecrash,0.14,0.00
-"Adaptive Snapjaw",Gatecrash,0.14,0.00
+"Adaptive Snapjaw",Gatecrash,0.15,0.00
 "Aerial Maneuver",Gatecrash,0.14,0.00
-Aetherize,Gatecrash,0.36,0.00
+Aetherize,Gatecrash,0.37,0.00
 Agoraphobia,Gatecrash,0.23,0.00
-"Alms Beast",Gatecrash,0.30,0.00
-"Alpha Authority",Gatecrash,0.28,0.00
+"Alms Beast",Gatecrash,0.32,0.00
+"Alpha Authority",Gatecrash,0.29,0.00
 "Angel Token",Gatecrash,0.29,0.00
-"Angelic Edict",Gatecrash,0.16,0.00
-"Angelic Skirmisher",Gatecrash,0.75,0.10
-"Armored Transport",Gatecrash,0.14,0.00
+"Angelic Edict",Gatecrash,0.17,0.00
+"Angelic Skirmisher",Gatecrash,0.74,0.10
+"Armored Transport",Gatecrash,0.15,0.00
 "Arrows of Justice",Gatecrash,0.23,0.00
-"Assault Griffin",Gatecrash,0.14,0.00
-"Assemble the Legion",Gatecrash,2.71,0.25
-"Aurelia, the Warleader",Gatecrash,6.13,3.03
-"Aurelia's Fury",Gatecrash,4.75,2.35
+"Assault Griffin",Gatecrash,0.15,0.00
+"Assemble the Legion",Gatecrash,2.59,0.25
+"Aurelia, the Warleader",Gatecrash,6.15,2.89
+"Aurelia's Fury",Gatecrash,4.75,2.23
 "Balustrade Spy",Gatecrash,0.18,0.00
 "Bane Alley Broker",Gatecrash,0.22,0.00
 "Basilica Guards",Gatecrash,0.16,0.00
-"Basilica Screecher",Gatecrash,0.16,0.00
-"Beckon Apparition",Gatecrash,0.15,0.00
-"Biomass Mutation",Gatecrash,0.35,0.00
+"Basilica Screecher",Gatecrash,0.17,0.00
+"Beckon Apparition",Gatecrash,0.16,0.00
+"Biomass Mutation",Gatecrash,0.36,0.00
 Bioshift,Gatecrash,0.19,0.00
 Biovisionary,Gatecrash,0.45,0.00
-"Blind Obedience",Gatecrash,1.92,0.25
+"Blind Obedience",Gatecrash,1.90,0.10
 "Bomber Corps",Gatecrash,0.14,0.00
 "Borborygmos Enraged",Gatecrash,1.81,0.10
 "Boros Charm",Gatecrash,1.88,0.10
 "Boros Elite",Gatecrash,0.24,0.00
 "Boros Guildgate",Gatecrash,0.18,0.00
 "Boros Keyrune",Gatecrash,0.24,0.00
-"Boros Reckoner",Gatecrash,0.90,0.10
-"Breeding Pool",Gatecrash,15.19,7.52
+"Boros Reckoner",Gatecrash,0.91,0.10
+"Breeding Pool",Gatecrash,15.21,7.15
 "Burning-Tree Emissary",Gatecrash,0.32,0.00
 "Burst of Strength",Gatecrash,0.14,0.00
 "Call of the Nightwing",Gatecrash,0.23,0.00
 "Cartel Aristocrat",Gatecrash,0.24,0.00
 "Cinder Elemental",Gatecrash,0.21,0.00
-"Clan Defiance",Gatecrash,0.32,0.00
+"Clan Defiance",Gatecrash,0.33,0.00
 "Cleric Token",Gatecrash,0.31,0.00
 "Clinging Anemones",Gatecrash,0.14,0.00
-"Cloudfin Raptor",Gatecrash,0.18,0.00
+"Cloudfin Raptor",Gatecrash,0.19,0.00
 "Coerced Confession",Gatecrash,0.22,0.00
-"Consuming Aberration",Gatecrash,1.77,0.10
+"Consuming Aberration",Gatecrash,1.78,0.10
 "Contaminated Ground",Gatecrash,0.15,0.00
 "Corpse Blockade",Gatecrash,0.14,0.00
 "Court Street Denizen",Gatecrash,0.16,0.00
-"Crackling Perimeter",Gatecrash,0.22,0.00
-Crocanura,Gatecrash,0.14,0.00
-"Crowned Ceratok",Gatecrash,0.23,0.00
-"Crypt Ghast",Gatecrash,4.74,2.35
-"Daring Skyjek",Gatecrash,0.16,0.00
+"Crackling Perimeter",Gatecrash,0.23,0.00
+Crocanura,Gatecrash,0.15,0.00
+"Crowned Ceratok",Gatecrash,0.24,0.00
+"Crypt Ghast",Gatecrash,4.74,2.23
+"Daring Skyjek",Gatecrash,0.17,0.00
 "Deathcult Rogue",Gatecrash,0.18,0.00
 "Deathpact Angel",Gatecrash,0.83,0.10
 "Death's Approach",Gatecrash,0.14,0.00
@@ -62,7 +62,7 @@ Crocanura,Gatecrash,0.14,0.00
 "Dimir Keyrune",Gatecrash,0.24,0.00
 "Dinrova Horror",Gatecrash,0.24,0.00
 "Disciple of the Old Ways",Gatecrash,0.14,0.00
-"Domri Rade",Gatecrash,3.32,1.64
+"Domri Rade",Gatecrash,3.33,1.57
 "Drakewing Krasis",Gatecrash,0.14,0.00
 "Duskmantle Guildmage",Gatecrash,1.19,0.10
 "Duskmantle Seer",Gatecrash,0.48,0.00
@@ -70,18 +70,18 @@ Crocanura,Gatecrash,0.14,0.00
 "Dying Wish",Gatecrash,0.21,0.00
 "Elusive Krasis",Gatecrash,0.24,0.00
 "Ember Beast",Gatecrash,0.14,0.00
-"Emblem - Domri Rade",Gatecrash,0.47,0.00
-"Enter the Infinite",Gatecrash,4.74,2.35
+"Emblem - Domri Rade",Gatecrash,0.46,0.00
+"Enter the Infinite",Gatecrash,4.74,2.23
 "Executioner's Swing",Gatecrash,0.14,0.00
-"Experiment One",Gatecrash,0.88,0.10
+"Experiment One",Gatecrash,0.87,0.10
 "Fathom Mage",Gatecrash,0.43,0.00
-"Firefist Striker",Gatecrash,0.22,0.00
+"Firefist Striker",Gatecrash,0.23,0.00
 "Firemane Avenger",Gatecrash,0.44,0.00
 "Five-Alarm Fire",Gatecrash,0.29,0.00
 "Forced Adaptation",Gatecrash,0.22,0.00
 "Fortress Cyclops",Gatecrash,0.22,0.00
 "Foundry Champion",Gatecrash,0.32,0.00
-"Foundry Street Denizen",Gatecrash,0.17,0.00
+"Foundry Street Denizen",Gatecrash,0.18,0.00
 "Frenzied Tilling",Gatecrash,0.24,0.00
 "Frilled Oculus",Gatecrash,0.14,0.00
 "Frog Lizard Token",Gatecrash,0.23,0.00
@@ -90,11 +90,11 @@ Crocanura,Gatecrash,0.14,0.00
 "Gateway Shade",Gatecrash,0.20,0.00
 "Ghor-Clan Rampager",Gatecrash,0.24,0.00
 "Giant Adephage",Gatecrash,1.63,0.10
-"Gideon, Champion of Justice",Gatecrash,3.24,1.60
-"Gift of Orzhova",Gatecrash,0.21,0.00
+"Gideon, Champion of Justice",Gatecrash,3.25,1.53
+"Gift of Orzhova",Gatecrash,0.22,0.00
 "Glaring Spotlight",Gatecrash,0.73,0.10
-"Godless Shrine",Gatecrash,11.52,5.70
-"Greenside Watcher",Gatecrash,0.14,0.00
+"Godless Shrine",Gatecrash,11.52,5.41
+"Greenside Watcher",Gatecrash,0.15,0.00
 Gridlock,Gatecrash,0.22,0.00
 "Grisly Spectacle",Gatecrash,0.15,0.00
 "Ground Assault",Gatecrash,0.24,0.00
@@ -107,36 +107,36 @@ Gridlock,Gatecrash,0.22,0.00
 "Gutter Skulk",Gatecrash,0.14,0.00
 "Gyre Sage",Gatecrash,1.89,0.10
 "Hands of Binding",Gatecrash,0.14,0.00
-"Hellkite Tyrant",Gatecrash,7.19,3.56
+"Hellkite Tyrant",Gatecrash,7.27,3.42
 "Hellraiser Goblin",Gatecrash,0.23,0.00
-"High Priest of Penance",Gatecrash,0.42,0.00
+"High Priest of Penance",Gatecrash,0.41,0.00
 Hindervines,Gatecrash,0.19,0.00
 "Hold the Gates",Gatecrash,0.24,0.00
-"Holy Mantle",Gatecrash,0.26,0.00
-"Homing Lightning",Gatecrash,0.21,0.00
+"Holy Mantle",Gatecrash,0.27,0.00
+"Homing Lightning",Gatecrash,0.22,0.00
 "Horror of the Dim",Gatecrash,0.14,0.00
 "Horror Token",Gatecrash,0.18,0.00
 Hydroform,Gatecrash,0.14,0.00
 "Illness in the Ranks",Gatecrash,0.24,0.00
-"Illusionist's Bracers",Gatecrash,4.47,2.21
+"Illusionist's Bracers",Gatecrash,4.46,2.10
 "Immortal Servitude",Gatecrash,0.48,0.00
 "Incursion Specialist",Gatecrash,0.21,0.00
 "Ivy Lane Denizen",Gatecrash,0.17,0.00
 "Keymaster Rogue",Gatecrash,0.14,0.00
-"Killing Glare",Gatecrash,0.21,0.00
-"Kingpin's Pet",Gatecrash,0.16,0.00
+"Killing Glare",Gatecrash,0.22,0.00
+"Kingpin's Pet",Gatecrash,0.17,0.00
 "Knight of Obligation",Gatecrash,0.24,0.00
 "Knight Watch",Gatecrash,0.14,0.00
 "Last Thoughts",Gatecrash,0.14,0.00
 "Lazav, Dimir Mastermind",Gatecrash,1.89,0.10
-"Legion Loyalist",Gatecrash,4.04,2.00
+"Legion Loyalist",Gatecrash,4.04,1.90
 "Leyline Phantom",Gatecrash,0.14,0.00
-"Lord of the Void",Gatecrash,6.18,3.06
+"Lord of the Void",Gatecrash,6.18,2.90
 "Luminate Primordial",Gatecrash,0.40,0.00
-"Madcap Skills",Gatecrash,0.17,0.00
+"Madcap Skills",Gatecrash,0.18,0.00
 "Mark for Death",Gatecrash,0.21,0.00
 "Martial Glory",Gatecrash,0.14,0.00
-"Massive Raid",Gatecrash,0.16,0.00
+"Massive Raid",Gatecrash,0.17,0.00
 "Master Biomancer",Gatecrash,2.16,0.25
 "Mental Vapors",Gatecrash,0.20,0.00
 "Merciless Eviction",Gatecrash,2.84,0.25
@@ -145,22 +145,22 @@ Hydroform,Gatecrash,0.14,0.00
 "Midnight Recovery",Gatecrash,0.14,0.00
 "Millennial Gargoyle",Gatecrash,0.14,0.00
 "Miming Slime",Gatecrash,0.23,0.00
-"Mind Grind",Gatecrash,2.34,0.25
-"Mindeye Drake",Gatecrash,0.20,0.00
-"Molten Primordial",Gatecrash,0.47,0.00
+"Mind Grind",Gatecrash,2.25,0.25
+"Mindeye Drake",Gatecrash,0.21,0.00
+"Molten Primordial",Gatecrash,0.46,0.00
 "Mortus Strider",Gatecrash,0.14,0.00
-Mugging,Gatecrash,0.15,0.00
+Mugging,Gatecrash,0.16,0.00
 "Murder Investigation",Gatecrash,0.23,0.00
 "Mystic Genesis",Gatecrash,0.32,0.00
 Naturalize,Gatecrash,0.15,0.00
-"Nav Squad Commandos",Gatecrash,0.14,0.00
+"Nav Squad Commandos",Gatecrash,0.15,0.00
 "Nightveil Specter",Gatecrash,0.71,0.10
 "Nimbus Swimmer",Gatecrash,0.24,0.00
 "Obzedat, Ghost Council",Gatecrash,1.19,0.10
 "Ogre Slumlord",Gatecrash,2.64,0.25
 "One Thousand Lashes",Gatecrash,0.23,0.00
-"Ooze Flux",Gatecrash,0.33,0.00
-"Ordruun Veteran",Gatecrash,0.21,0.00
+"Ooze Flux",Gatecrash,0.34,0.00
+"Ordruun Veteran",Gatecrash,0.22,0.00
 "Orzhov Charm",Gatecrash,0.24,0.00
 "Orzhov Guildgate",Gatecrash,0.18,0.00
 "Orzhov Keyrune",Gatecrash,0.24,0.00
@@ -168,7 +168,7 @@ Naturalize,Gatecrash,0.15,0.00
 "Pit Fight",Gatecrash,0.16,0.00
 "Predator's Rapport",Gatecrash,0.14,0.00
 "Primal Visitation",Gatecrash,0.14,0.00
-"Prime Speaker Zegana",Gatecrash,4.02,1.99
+"Prime Speaker Zegana",Gatecrash,3.99,1.88
 "Prophetic Prism",Gatecrash,0.19,0.00
 "Psychic Strike",Gatecrash,0.21,0.00
 "Purge the Profane",Gatecrash,0.14,0.00
@@ -176,51 +176,51 @@ Naturalize,Gatecrash,0.15,0.00
 "Rat Token",Gatecrash,1.19,0.10
 "Razortip Whip",Gatecrash,0.14,0.00
 Realmwright,Gatecrash,0.33,0.00
-"Righteous Charge",Gatecrash,0.21,0.00
+"Righteous Charge",Gatecrash,0.22,0.00
 "Riot Gear",Gatecrash,0.14,0.00
 "Ripscale Predator",Gatecrash,0.23,0.00
-"Rubblebelt Raiders",Gatecrash,0.31,0.00
+"Rubblebelt Raiders",Gatecrash,0.32,0.00
 Rubblehulk,Gatecrash,0.33,0.00
 "Ruination Wurm",Gatecrash,0.14,0.00
-"Rust Scarab",Gatecrash,0.21,0.00
-"Sacred Foundry",Gatecrash,8.93,4.42
+"Rust Scarab",Gatecrash,0.22,0.00
+"Sacred Foundry",Gatecrash,9.03,4.24
 "Sage's Row Denizen",Gatecrash,0.14,0.00
 "Sapphire Drake",Gatecrash,0.24,0.00
 "Scab-Clan Charger",Gatecrash,0.14,0.00
 "Scatter Arc",Gatecrash,0.14,0.00
 Scorchwalker,Gatecrash,0.15,0.00
-"Sepulchral Primordial",Gatecrash,2.62,0.25
-"Serene Remembrance",Gatecrash,0.22,0.00
+"Sepulchral Primordial",Gatecrash,2.61,0.25
+"Serene Remembrance",Gatecrash,0.23,0.00
 "Shadow Alley Denizen",Gatecrash,0.16,0.00
 "Shadow Slice",Gatecrash,0.14,0.00
-Shambleshark,Gatecrash,0.15,0.00
+Shambleshark,Gatecrash,0.16,0.00
 "Shattering Blow",Gatecrash,0.14,0.00
 "Shielded Passage",Gatecrash,0.14,0.00
 "Signal the Clans",Gatecrash,0.34,0.00
 "Simic Charm",Gatecrash,0.64,0.10
 "Simic Fluxmage",Gatecrash,0.24,0.00
 "Simic Guildgate",Gatecrash,0.19,0.00
-"Simic Keyrune",Gatecrash,0.23,0.00
-"Simic Manipulator",Gatecrash,0.43,0.00
+"Simic Keyrune",Gatecrash,0.24,0.00
+"Simic Manipulator",Gatecrash,0.44,0.00
 "Skarrg Goliath",Gatecrash,0.29,0.00
-"Skarrg Guildmage",Gatecrash,0.22,0.00
+"Skarrg Guildmage",Gatecrash,0.23,0.00
 "Skinbrand Goblin",Gatecrash,0.14,0.00
 Skullcrack,Gatecrash,1.69,0.10
 "Skyblinder Staff",Gatecrash,0.15,0.00
 Skygames,Gatecrash,0.14,0.00
-"Skyknight Legionnaire",Gatecrash,0.15,0.00
+"Skyknight Legionnaire",Gatecrash,0.16,0.00
 "Slate Street Ruffian",Gatecrash,0.14,0.00
 Slaughterhorn,Gatecrash,0.14,0.00
 Smite,Gatecrash,0.14,0.00
 "Smog Elemental",Gatecrash,0.20,0.00
-"Soldier Token (Red/White)",Gatecrash,0.16,0.00
+"Soldier Token (Red/White)",Gatecrash,0.17,0.00
 "Soul Ransom",Gatecrash,0.33,0.00
 "Spark Trooper",Gatecrash,0.34,0.00
 "Spell Rupture",Gatecrash,0.14,0.00
 "Spire Tracer",Gatecrash,0.14,0.00
 "Spirit Token (Black/White)",Gatecrash,0.18,0.00
 "Stolen Identity",Gatecrash,0.55,0.10
-"Stomping Ground",Gatecrash,10.70,5.29
+"Stomping Ground",Gatecrash,10.62,4.99
 "Structural Collapse",Gatecrash,0.14,0.00
 "Sunhome Guildmage",Gatecrash,0.23,0.00
 "Sylvan Primordial",Gatecrash,0.42,0.00
@@ -229,30 +229,30 @@ Smite,Gatecrash,0.14,0.00
 "Thespian's Stage",Gatecrash,2.83,0.25
 "Thrull Parasite",Gatecrash,0.25,0.00
 "Tin Street Market",Gatecrash,0.14,0.00
-"Totally Lost",Gatecrash,0.14,0.00
-"Tower Defense",Gatecrash,0.46,0.00
+"Totally Lost",Gatecrash,0.15,0.00
+"Tower Defense",Gatecrash,0.49,0.00
 "Towering Thunderfist",Gatecrash,0.14,0.00
 "Treasury Thrull",Gatecrash,0.32,0.00
 "Truefire Paladin",Gatecrash,0.23,0.00
 "Undercity Informer",Gatecrash,0.24,0.00
-"Undercity Plague",Gatecrash,0.32,0.00
-"Unexpected Results",Gatecrash,0.50,0.10
+"Undercity Plague",Gatecrash,0.33,0.00
+"Unexpected Results",Gatecrash,0.50,0.00
 "Urban Evolution",Gatecrash,0.24,0.00
 "Urbis Protector",Gatecrash,0.21,0.00
 "Verdant Haven",Gatecrash,0.15,0.00
-"Viashino Shanktail",Gatecrash,0.20,0.00
+"Viashino Shanktail",Gatecrash,0.21,0.00
 "Vizkopa Confessor",Gatecrash,0.23,0.00
 "Vizkopa Guildmage",Gatecrash,0.29,0.00
 Voidwalk,Gatecrash,0.22,0.00
 "Warmind Infantry",Gatecrash,0.14,0.00
 "Wasteland Viper",Gatecrash,0.24,0.00
-"Watery Grave",Gatecrash,13.72,6.79
+"Watery Grave",Gatecrash,13.59,6.39
 "Way of the Thief",Gatecrash,0.14,0.00
 "Whispering Madness",Gatecrash,0.48,0.00
 "Wight of Precinct Six",Gatecrash,0.24,0.00
 "Wildwood Rebirth",Gatecrash,0.14,0.00
 "Wojek Halberdiers",Gatecrash,0.15,0.00
-"Wrecking Ogre",Gatecrash,0.31,0.00
+"Wrecking Ogre",Gatecrash,0.29,0.00
 "Zameck Guildmage",Gatecrash,0.25,0.00
 "Zarichi Tiger",Gatecrash,0.14,0.00
 "Zhur-Taa Swine",Gatecrash,0.16,0.00

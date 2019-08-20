@@ -1,7 +1,7 @@
 "Product Name",Category,"Sell Price","Buy Price"
 "Air Elemental","Unlimited Edition",4.74,2.23
 "Ancestral Recall","Unlimited Edition",0.00,0.00
-"Animate Artifact","Unlimited Edition",2.34,0.25
+"Animate Artifact","Unlimited Edition",2.57,0.25
 "Animate Dead","Unlimited Edition",20.23,9.51
 "Animate Wall","Unlimited Edition",19.68,9.25
 "Ankh of Mishra","Unlimited Edition",63.80,29.99
@@ -15,12 +15,12 @@ Bayou,"Unlimited Edition",721.05,432.63
 "Benalish Hero","Unlimited Edition",0.94,0.10
 Berserk,"Unlimited Edition",80.75,37.95
 "Birds of Paradise","Unlimited Edition",353.86,212.32
-"Black Knight","Unlimited Edition",18.53,8.71
+"Black Knight","Unlimited Edition",14.24,6.69
 "Black Lotus","Unlimited Edition",0.00,0.00
 "Black Vise","Unlimited Edition",19.00,8.93
 "Black Ward","Unlimited Edition",1.93,0.10
 "Blaze of Glory","Unlimited Edition",74.90,35.20
-Blessing,"Unlimited Edition",10.80,5.08
+Blessing,"Unlimited Edition",14.24,6.69
 "Blue Elemental Blast","Unlimited Edition",1.90,0.10
 "Blue Ward","Unlimited Edition",1.85,0.10
 "Bog Wraith","Unlimited Edition",3.13,1.47
@@ -35,28 +35,28 @@ Chaoslace,"Unlimited Edition",10.42,4.90
 "Circle of Protection: Black","Unlimited Edition",0.90,0.10
 "Circle of Protection: Blue","Unlimited Edition",0.47,0.00
 "Circle of Protection: Green","Unlimited Edition",0.90,0.10
-"Circle of Protection: Red","Unlimited Edition",1.16,0.10
+"Circle of Protection: Red","Unlimited Edition",1.79,0.10
 "Circle of Protection: White","Unlimited Edition",0.57,0.10
 "Clockwork Beast","Unlimited Edition",29.78,14.00
 Clone,"Unlimited Edition",9.97,4.69
 Cockatrice,"Unlimited Edition",19.00,8.93
-"Consecrate Land","Unlimited Edition",2.82,0.25
+"Consecrate Land","Unlimited Edition",2.81,0.25
 Conservator,"Unlimited Edition",2.33,0.25
 "Contract from Below","Unlimited Edition",57.93,27.23
 "Control Magic","Unlimited Edition",13.11,6.16
 Conversion,"Unlimited Edition",1.73,0.10
-"Copper Tablet","Unlimited Edition",14.56,6.84
+"Copper Tablet","Unlimited Edition",16.63,7.82
 "Copy Artifact","Unlimited Edition",178.58,107.15
 Counterspell,"Unlimited Edition",52.22,24.54
 "Craw Wurm","Unlimited Edition",0.96,0.10
-"Creature Bond","Unlimited Edition",0.44,0.00
+"Creature Bond","Unlimited Edition",0.46,0.00
 Crusade,"Unlimited Edition",0.00,0.00
 "Crystal Rod","Unlimited Edition",2.84,0.25
 "Cursed Land","Unlimited Edition",2.42,0.25
 "Cyclopean Tomb","Unlimited Edition",150.19,90.11
 "Dark Ritual","Unlimited Edition",9.15,4.30
 Darkpact,"Unlimited Edition",20.42,9.60
-"Death Ward","Unlimited Edition",0.40,0.00
+"Death Ward","Unlimited Edition",0.41,0.00
 Deathgrip,"Unlimited Edition",5.68,2.67
 Deathlace,"Unlimited Edition",20.90,9.82
 "Demonic Attorney","Unlimited Edition",25.94,12.19
@@ -73,26 +73,26 @@ Disintegrate,"Unlimited Edition",1.88,0.10
 "Dwarven Demolition Team","Unlimited Edition",3.18,1.49
 "Dwarven Warriors","Unlimited Edition",0.40,0.00
 "Earth Elemental","Unlimited Edition",3.11,1.46
-Earthbind,"Unlimited Edition",1.24,0.10
+Earthbind,"Unlimited Edition",1.32,0.10
 Earthquake,"Unlimited Edition",111.58,66.95
 "Elvish Archers","Unlimited Edition",47.49,22.32
 "Evil Presence","Unlimited Edition",2.84,0.25
 "False Orders","Unlimited Edition",1.98,0.10
 Farmstead,"Unlimited Edition",15.12,7.11
 Fastbond,"Unlimited Edition",75.99,35.72
-Fear,"Unlimited Edition",0.95,0.10
+Fear,"Unlimited Edition",0.94,0.10
 Feedback,"Unlimited Edition",1.83,0.10
 "Fire Elemental","Unlimited Edition",4.28,2.01
 Fireball,"Unlimited Edition",5.71,2.68
-Firebreathing,"Unlimited Edition",0.41,0.00
+Firebreathing,"Unlimited Edition",0.40,0.00
 Flashfires,"Unlimited Edition",2.85,0.25
-Flight,"Unlimited Edition",0.60,0.10
+Flight,"Unlimited Edition",0.49,0.00
 Fog,"Unlimited Edition",2.74,0.25
 "Force of Nature","Unlimited Edition",80.70,37.93
 Forcefield,"Unlimited Edition","1,045.00",627.00
 "Forest (A)","Unlimited Edition",2.12,0.25
 "Forest (B)","Unlimited Edition",2.42,0.25
-"Forest (C)","Unlimited Edition",2.37,0.25
+"Forest (C)","Unlimited Edition",2.41,0.25
 Fork,"Unlimited Edition",142.50,85.50
 "Frozen Shade","Unlimited Edition",0.65,0.10
 Fungusaur,"Unlimited Edition",25.32,11.90
@@ -103,17 +103,17 @@ Fungusaur,"Unlimited Edition",25.32,11.90
 "Glasses of Urza","Unlimited Edition",5.69,2.67
 Gloom,"Unlimited Edition",11.45,5.38
 "Goblin Balloon Brigade","Unlimited Edition",9.65,4.54
-"Goblin King","Unlimited Edition",55.78,26.22
-"Granite Gargoyle","Unlimited Edition",71.24,33.48
-"Gray Ogre","Unlimited Edition",0.92,0.10
+"Goblin King","Unlimited Edition",57.98,27.25
+"Granite Gargoyle","Unlimited Edition",27.30,12.83
+"Gray Ogre","Unlimited Edition",0.74,0.10
 "Green Ward","Unlimited Edition",1.82,0.10
 "Grizzly Bears","Unlimited Edition",1.56,0.10
-"Guardian Angel","Unlimited Edition",0.42,0.00
-"Healing Salve","Unlimited Edition",0.44,0.00
+"Guardian Angel","Unlimited Edition",0.41,0.00
+"Healing Salve","Unlimited Edition",0.45,0.00
 "Helm of Chatzuk","Unlimited Edition",14.24,6.69
-"Hill Giant","Unlimited Edition",0.46,0.00
+"Hill Giant","Unlimited Edition",0.45,0.00
 "Holy Armor","Unlimited Edition",0.44,0.00
-"Holy Strength","Unlimited Edition",0.95,0.10
+"Holy Strength","Unlimited Edition",0.94,0.10
 "Howl from Beyond","Unlimited Edition",0.69,0.10
 "Howling Mine","Unlimited Edition",161.50,96.90
 "Hurloon Minotaur","Unlimited Edition",0.48,0.00
@@ -126,7 +126,7 @@ Hurricane,"Unlimited Edition",4.75,2.23
 Invisibility,"Unlimited Edition",0.61,0.10
 "Iron Star","Unlimited Edition",2.02,0.25
 "Ironclaw Orcs","Unlimited Edition",0.90,0.10
-"Ironroot Treefolk","Unlimited Edition",0.67,0.10
+"Ironroot Treefolk","Unlimited Edition",0.63,0.10
 "Island (A)","Unlimited Edition",3.32,1.56
 "Island (B)","Unlimited Edition",3.19,1.50
 "Island (C)","Unlimited Edition",2.84,0.25
@@ -157,43 +157,43 @@ Lifetap,"Unlimited Edition",1.43,0.10
 "Lord of the Pit","Unlimited Edition",71.24,33.48
 Lure,"Unlimited Edition",3.80,1.79
 "Magical Hack","Unlimited Edition",17.81,8.37
-"Mahamoti Djinn","Unlimited Edition",109.16,65.50
+"Mahamoti Djinn","Unlimited Edition",123.50,74.10
 "Mana Flare","Unlimited Edition",66.48,31.25
-"Mana Short","Unlimited Edition",22.78,10.71
+"Mana Short","Unlimited Edition",33.24,15.62
 "Mana Vault","Unlimited Edition",133.47,80.08
 Manabarbs,"Unlimited Edition",19.53,9.18
 Meekstone,"Unlimited Edition",64.59,30.36
 "Merfolk of the Pearl Trident","Unlimited Edition",0.92,0.10
 "Mesa Pegasus","Unlimited Edition",0.48,0.00
 "Mind Twist","Unlimited Edition",185.24,111.14
-"Mons's Goblin Raiders","Unlimited Edition",0.92,0.10
+"Mons's Goblin Raiders","Unlimited Edition",0.90,0.10
 "Mountain (A)","Unlimited Edition",1.65,0.10
 "Mountain (B)","Unlimited Edition",1.90,0.10
-"Mountain (C)","Unlimited Edition",2.12,0.25
+"Mountain (C)","Unlimited Edition",2.43,0.25
 "Mox Emerald","Unlimited Edition","3,134.53","1,880.72"
 "Mox Jet","Unlimited Edition",0.00,0.00
 "Mox Pearl","Unlimited Edition","3,087.50","1,852.50"
 "Mox Ruby","Unlimited Edition",0.00,0.00
 "Mox Sapphire","Unlimited Edition",0.00,0.00
-"Natural Selection","Unlimited Edition",103.29,61.97
-"Nether Shadow","Unlimited Edition",17.14,8.06
+"Natural Selection","Unlimited Edition",116.38,69.83
+"Nether Shadow","Unlimited Edition",28.50,13.40
 "Nettling Imp","Unlimited Edition",5.23,2.46
 "Nevinyrral's Disk","Unlimited Edition",189.95,113.97
-Nightmare,"Unlimited Edition",47.47,22.31
+Nightmare,"Unlimited Edition",0.00,0.00
 "Northern Paladin","Unlimited Edition",23.75,11.16
 "Obsianus Golem","Unlimited Edition",1.52,0.10
 "Orcish Artillery","Unlimited Edition",3.38,1.59
 "Orcish Oriflamme","Unlimited Edition",3.09,1.45
 Paralyze,"Unlimited Edition",1.56,0.10
-"Pearled Unicorn","Unlimited Edition",0.45,0.00
+"Pearled Unicorn","Unlimited Edition",0.47,0.00
 "Personal Incarnation","Unlimited Edition",19.00,8.93
 Pestilence,"Unlimited Edition",1.89,0.10
-"Phantasmal Forces","Unlimited Edition",3.43,1.61
+"Phantasmal Forces","Unlimited Edition",3.52,1.65
 "Phantasmal Terrain","Unlimited Edition",0.45,0.00
 "Phantom Monster","Unlimited Edition",6.60,3.10
 "Pirate Ship","Unlimited Edition",20.63,9.70
 "Plague Rats","Unlimited Edition",1.97,0.10
-"Plains (A)","Unlimited Edition",2.44,0.25
+"Plains (A)","Unlimited Edition",2.41,0.25
 "Plains (B)","Unlimited Edition",2.08,0.25
 "Plains (C)","Unlimited Edition",2.38,0.25
 Plateau,"Unlimited Edition",522.49,313.49
@@ -213,16 +213,16 @@ Regrowth,"Unlimited Edition",16.13,7.58
 Resurrection,"Unlimited Edition",3.64,1.71
 "Reverse Damage","Unlimited Edition",18.95,8.91
 Righteousness,"Unlimited Edition",34.20,16.07
-"Roc of Kher Ridges","Unlimited Edition",27.08,12.73
+"Roc of Kher Ridges","Unlimited Edition",33.66,15.82
 "Rock Hydra","Unlimited Edition",56.99,26.79
 "Rod of Ruin","Unlimited Edition",1.90,0.10
 "Royal Assassin","Unlimited Edition",65.96,31.00
 Sacrifice,"Unlimited Edition",3.45,1.62
-"Samite Healer","Unlimited Edition",0.46,0.00
+"Samite Healer","Unlimited Edition",0.43,0.00
 Savannah,"Unlimited Edition",760.00,456.00
 "Savannah Lions","Unlimited Edition",133.26,79.96
 "Scathe Zombies","Unlimited Edition",0.33,0.00
-"Scavenging Ghoul","Unlimited Edition",2.29,0.25
+"Scavenging Ghoul","Unlimited Edition",1.92,0.10
 Scrubland,"Unlimited Edition",0.00,0.00
 "Scryb Sprites","Unlimited Edition",2.12,0.25
 "Sea Serpent","Unlimited Edition",0.92,0.10
@@ -237,20 +237,20 @@ Sinkhole,"Unlimited Edition",16.09,7.56
 "Siren's Call","Unlimited Edition",2.97,0.25
 "Sleight of Mind","Unlimited Edition",0.00,0.00
 Smoke,"Unlimited Edition",23.54,11.06
-"Sol Ring","Unlimited Edition",187.50,112.50
+"Sol Ring","Unlimited Edition",82.58,38.81
 "Soul Net","Unlimited Edition",2.84,0.25
 "Spell Blast","Unlimited Edition",2.57,0.25
 Stasis,"Unlimited Edition",85.45,40.16
 "Steal Artifact","Unlimited Edition",4.93,2.32
-"Stone Giant","Unlimited Edition",1.27,0.10
+"Stone Giant","Unlimited Edition",2.40,0.25
 "Stone Rain","Unlimited Edition",2.76,0.25
-"Stream of Life","Unlimited Edition",0.48,0.00
+"Stream of Life","Unlimited Edition",0.47,0.00
 "Sunglasses of Urza","Unlimited Edition",24.67,11.59
 "Swamp (A)","Unlimited Edition",2.00,0.25
 "Swamp (B)","Unlimited Edition",2.18,0.25
-"Swamp (C)","Unlimited Edition",3.38,1.59
+"Swamp (C)","Unlimited Edition",1.90,0.10
 "Swords to Plowshares","Unlimited Edition",36.21,17.02
-Taiga,"Unlimited Edition",342.24,205.34
+Taiga,"Unlimited Edition",0.00,0.00
 Terror,"Unlimited Edition",3.33,1.57
 "The Hive","Unlimited Edition",23.68,11.13
 "Thicket Basilisk","Unlimited Edition",1.89,0.10
@@ -272,7 +272,7 @@ Twiddle,"Unlimited Edition",2.39,0.25
 Unsummon,"Unlimited Edition",1.19,0.10
 "Uthden Troll","Unlimited Edition",5.70,2.68
 "Verduran Enchantress","Unlimited Edition",94.96,44.63
-"Vesuvan Doppelganger","Unlimited Edition",94.99,44.65
+"Vesuvan Doppelganger","Unlimited Edition",85.45,40.16
 "Veteran Bodyguard","Unlimited Edition",28.50,13.40
 "Volcanic Eruption","Unlimited Edition",13.77,6.47
 "Volcanic Island","Unlimited Edition","1,140.09",684.05
@@ -288,7 +288,7 @@ Unsummon,"Unlimited Edition",1.19,0.10
 Wanderlust,"Unlimited Edition",3.56,1.67
 "War Mammoth","Unlimited Edition",0.45,0.00
 "Warp Artifact","Unlimited Edition",17.08,8.03
-"Water Elemental","Unlimited Edition",1.54,0.10
+"Water Elemental","Unlimited Edition",5.69,2.67
 Weakness,"Unlimited Edition",0.71,0.10
 Web,"Unlimited Edition",19.95,9.38
 "Wheel of Fortune","Unlimited Edition",403.28,241.97

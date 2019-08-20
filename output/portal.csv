@@ -7,9 +7,9 @@ Anaconda,Portal,0.19,0.00
 "Angelic Blessing",Portal,0.19,0.00
 Archangel,Portal,1.23,0.10
 "Ardent Militia",Portal,0.24,0.00
-Armageddon,Portal,6.64,3.29
+Armageddon,Portal,5.91,2.78
 "Armored Pegasus",Portal,0.19,0.00
-"Armored Pegasus (Reminder Text)",Portal,2.85,
+"Armored Pegasus (Reminder Text)",Portal,2.85,0.25
 "Arrogant Vampire",Portal,0.33,0.00
 "Assassin's Blade",Portal,0.45,0.00
 "Balance of Power",Portal,0.63,0.10
@@ -35,28 +35,28 @@ Blaze,Portal,0.27,0.00
 "Cloak of Feathers",Portal,0.23,0.00
 "Cloud Dragon",Portal,2.75,0.25
 "Cloud Pirates",Portal,1.89,0.10
-"Cloud Pirates (Reminder Text)",Portal,8.42,4.16
+"Cloud Pirates (Reminder Text)",Portal,18.98,8.92
 "Cloud Spirit",Portal,0.28,0.00
 "Command of Unsummoning",Portal,0.24,0.00
 "Coral Eel",Portal,0.18,0.00
 "Craven Giant",Portal,0.18,0.00
 "Craven Knight",Portal,0.17,0.00
-"Cruel Bargain",Portal,8.07,3.99
+"Cruel Bargain",Portal,8.07,3.79
 "Cruel Fate",Portal,0.69,0.10
-"Cruel Tutor",Portal,43.64,21.59
+"Cruel Tutor",Portal,43.64,20.51
 "Deep Wood",Portal,0.24,0.00
 "Deep-Sea Serpent",Portal,0.24,0.00
 "Defiant Stand",Portal,0.21,0.00
 "Deja Vu",Portal,0.43,0.00
 "Desert Drake",Portal,0.24,0.00
-Devastation,Portal,27.54,13.63
+Devastation,Portal,27.54,12.94
 "Devoted Hero",Portal,0.18,0.00
 "Djinn of the Lamp",Portal,0.70,0.10
 "Dread Charge",Portal,0.71,0.10
 "Dread Reaper",Portal,0.64,0.10
 "Dry Spell",Portal,0.23,0.00
 Earthquake,Portal,1.18,0.10
-"Ebon Dragon",Portal,3.65,1.80
+"Ebon Dragon",Portal,3.65,1.72
 "Elite Cat Warrior",Portal,0.20,0.00
 "Elite Cat Warrior (Flavor Text)",Portal,0.24,0.00
 "Elven Cache",Portal,0.24,0.00
@@ -65,9 +65,9 @@ Earthquake,Portal,1.18,0.10
 Exhaustion,Portal,2.14,0.25
 "False Peace",Portal,0.24,0.00
 "Feral Shadow",Portal,0.18,0.00
-"Feral Shadow (Reminder Text)",Portal,3.86,1.91
+"Feral Shadow (Reminder Text)",Portal,3.86,1.81
 "Final Strike",Portal,0.91,0.10
-"Fire Dragon",Portal,4.27,2.11
+"Fire Dragon",Portal,4.27,2.01
 "Fire Imp",Portal,0.25,0.00
 "Fire Snake",Portal,0.20,0.00
 "Fire Tempest",Portal,0.90,0.10
@@ -83,14 +83,14 @@ Flux,Portal,0.30,0.00
 Fruition,Portal,0.44,0.00
 "Giant Octopus",Portal,0.22,0.00
 "Giant Spider",Portal,0.17,0.00
-"Gift of Estates",Portal,3.52,1.74
+"Gift of Estates",Portal,3.17,1.49
 "Goblin Bully",Portal,0.18,0.00
 "Gorilla Warrior",Portal,0.17,0.00
 Gravedigger,Portal,0.19,0.00
 "Grizzly Bears",Portal,0.22,0.00
 "Hand of Death",Portal,0.19,0.00
 "Hand of Death (Reminder Text)",Portal,0.24,0.00
-"Harsh Justice",Portal,4.17,2.06
+"Harsh Justice",Portal,4.17,1.96
 "Highland Giant",Portal,0.20,0.00
 "Hill Giant",Portal,0.15,0.00
 "Horned Turtle",Portal,0.18,0.00
@@ -102,54 +102,54 @@ Hurricane,Portal,0.65,0.10
 "Island (Beach Right)",Portal,0.92,0.10
 "Island (Castle Cove)",Portal,1.36,0.10
 "Island (Sea Arch)",Portal,2.21,0.25
-"Island (Waterfall)",Portal,0.50,0.10
+"Island (Waterfall)",Portal,0.50,0.00
 "Jungle Lion",Portal,0.67,0.10
 "Keen-Eyed Archers",Portal,0.18,0.00
-"King's Assassin",Portal,3.12,1.54
+"King's Assassin",Portal,3.12,1.47
 "Knight Errant",Portal,0.17,0.00
-"Last Chance",Portal,11.40,5.64
+"Last Chance",Portal,11.40,5.36
 "Lava Axe",Portal,0.18,0.00
 "Lava Flow",Portal,0.29,0.00
 "Lizard Warrior",Portal,0.18,0.00
-Man-o'-War,Portal,0.50,0.10
-"Mercenary Knight",Portal,3.52,1.74
+Man-o'-War,Portal,0.50,0.00
+"Mercenary Knight",Portal,3.52,1.65
 "Merfolk of the Pearl Trident",Portal,0.18,0.00
 "Mind Knives",Portal,0.21,0.00
 "Mind Rot",Portal,0.17,0.00
 "Minotaur Warrior",Portal,0.18,0.00
-Mobilize,Portal,4.73,2.34
+Mobilize,Portal,4.73,2.22
 "Monstrous Growth",Portal,0.20,0.00
 "Monstrous Growth (Flavor Text)",Portal,0.22,0.00
 "Moon Sprite",Portal,0.27,0.00
 "Mountain (Middle Chasm)",Portal,0.47,0.00
-"Mountain (Peaks Right)",Portal,0.70,0.10
+"Mountain (Peaks Right)",Portal,0.47,0.00
 "Mountain (Three Peaks)",Portal,2.28,0.25
-"Mountain (Trees Center)",Portal,0.75,0.10
+"Mountain (Trees Center)",Portal,0.95,0.10
 "Mountain Goat",Portal,0.28,0.00
 "Muck Rats",Portal,0.19,0.00
 "Mystic Denial",Portal,0.27,0.00
-"Natural Order",Portal,16.24,8.03
+"Natural Order",Portal,16.24,7.63
 "Natural Spring",Portal,0.20,0.00
 "Nature's Cloak",Portal,0.95,0.10
-"Nature's Lore",Portal,3.55,1.76
+"Nature's Lore",Portal,3.55,1.67
 "Nature's Ruin",Portal,1.05,0.10
 "Needle Storm",Portal,0.23,0.00
-"Noxious Toad",Portal,1.59,0.10
+"Noxious Toad",Portal,1.56,0.10
 Omen,Portal,0.29,0.00
 "Owl Familiar",Portal,0.30,0.00
 "Panther Warriors",Portal,0.17,0.00
 "Path of Peace",Portal,0.19,0.00
-"Personal Tutor",Portal,24.03,11.89
+"Personal Tutor",Portal,24.03,11.29
 "Phantom Warrior",Portal,0.67,0.10
 "Pillaging Horde",Portal,0.72,0.10
-"Plains (Clouds Left)",Portal,0.71,0.10
-"Plains (Clouds Right)",Portal,0.33,0.00
-"Plains (No Flowers)",Portal,0.74,0.10
+"Plains (Clouds Left)",Portal,0.68,0.10
+"Plains (Clouds Right)",Portal,0.38,0.00
+"Plains (No Flowers)",Portal,0.92,0.10
 "Plains (White Sky)",Portal,1.07,0.10
 "Plant Elemental",Portal,0.34,0.00
 "Primeval Force",Portal,0.48,0.00
 Prosperity,Portal,2.24,0.25
-Pyroclasm,Portal,4.46,2.20
+Pyroclasm,Portal,4.46,2.10
 Python,Portal,0.16,0.00
 "Raging Cougar",Portal,0.23,0.00
 "Raging Goblin",Portal,0.23,0.00
@@ -172,7 +172,7 @@ Python,Portal,0.16,0.00
 "Skeletal Crocodile",Portal,0.17,0.00
 "Skeletal Snake",Portal,0.19,0.00
 "Snapping Drake",Portal,0.19,0.00
-"Snapping Drake (Reminder Text)",Portal,5.32,2.63
+"Snapping Drake (Reminder Text)",Portal,5.32,2.50
 "Sorcerous Sight",Portal,0.26,0.00
 "Soul Shred",Portal,0.18,0.00
 "Spined Wurm",Portal,0.18,0.00
@@ -187,15 +187,15 @@ Steadfastness,Portal,0.18,0.00
 "Stone Rain",Portal,0.31,0.00
 "Storm Crow",Portal,0.24,0.00
 "Storm Crow (Reminder Text)",Portal,0.00,0.00
-"Summer Bloom",Portal,3.09,1.53
-"Swamp (Crossed Trees)",Portal,0.74,0.10
-"Swamp (Hanging Moss)",Portal,0.33,0.00
+"Summer Bloom",Portal,3.09,1.45
+"Swamp (Crossed Trees)",Portal,0.89,0.10
+"Swamp (Hanging Moss)",Portal,0.39,0.00
 "Swamp (White Tree)",Portal,2.63,0.25
-"Swamp (Yellow Sun)",Portal,3.14,1.55
-"Sylvan Tutor",Portal,52.70,26.07
+"Swamp (Yellow Sun)",Portal,3.14,1.48
+"Sylvan Tutor",Portal,52.70,24.77
 "Symbol of Unsummoning",Portal,0.19,0.00
 Taunt,Portal,0.74,0.10
-"Temporary Truce",Portal,2.85,
+"Temporary Truce",Portal,2.85,0.25
 "Theft of Dreams",Portal,0.29,0.00
 "Thing from the Deep",Portal,0.97,0.10
 "Thundering Wurm",Portal,0.98,0.10
@@ -222,8 +222,8 @@ Vengeance,Portal,0.24,0.00
 "Wicked Pact",Portal,0.95,0.10
 "Willow Dryad",Portal,0.23,0.00
 "Wind Drake",Portal,0.18,0.00
-"Winds of Change",Portal,17.55,8.68
-"Winter's Grasp",Portal,0.48,0.10
+"Winds of Change",Portal,17.55,8.25
+"Winter's Grasp",Portal,0.48,0.00
 "Withering Gaze",Portal,0.24,0.00
-"Wood Elves",Portal,9.45,4.68
-"Wrath of God",Portal,14.24,7.05
+"Wood Elves",Portal,9.45,4.44
+"Wrath of God",Portal,14.24,6.69
