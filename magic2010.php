@@ -87,13 +87,11 @@
             
         foreach ($price as $median){
           array_push($medianPrices, str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext)));
+        }
 
-          $rowValue = str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext));
-          $numValue = number_format($rowValue,2);
-
-          $theSellPrice = findSellPrice($numValue);
-          $theBuyPrice = findBuyPrice($numValue);
-  
+      for ($a = 0; $a < count($medianPrices); $a++){
+          $theSellPrice = findSellPrice($medianPrices[$a]);
+          $theBuyPrice = findBuyPRice($theSellPrice);
           array_push($sellPrice, $theSellPrice);
           array_push($buyPrice, $theBuyPrice);
       }
