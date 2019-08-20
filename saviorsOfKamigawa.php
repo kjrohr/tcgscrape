@@ -2,6 +2,7 @@
     // Includes
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
     include_once 'includes/helper.php';
+    
     // Global Variables
     $setName = "Saviors of Kamigawa"; // Used for Categories in Crystal Commerce
     $tableName = "saviorsOfKamigawa"; // Used for mysql

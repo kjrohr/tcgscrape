@@ -18,6 +18,9 @@
 <a href="modernMasters2015.php">MM2015 - Shards of Alara</a>
 <a href="eventide.php">Eventide - Dissension</a>
 <a href="guildpact.php">Guildpact - Legions</a>
+<a href="onslaught.php">Onslaught - Nemesis</a>
+<a href="mercadianMasques.php">Mercadian Masques - Portal</a>
+<a href="fifthEdition.php">Fifth Edition - Antiquities</a>
 
 
 </body>

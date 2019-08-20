@@ -1,7 +1,7 @@
 <?php
 
 function findSellPrice($inputPrice) {
-    $sellPrice = number_format(($inputPrice * .95),2);
+    $sellPrice = number_format(($inputPrice * 0.95),2);
     return $sellPrice;
     
 }

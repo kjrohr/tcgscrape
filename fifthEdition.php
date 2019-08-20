@@ -4,9 +4,9 @@
     include_once 'includes/helper.php';
     
     // Global Variables
-    $setName = "Rise of the Eldrazi"; // Used for Categories in Crystal Commerce
-    $tableName = "riseOfTheEldrazi"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/rise-of-the-eldrazi"; // URL to scrape
+    $setName = "Fifth Edition"; // Used for Categories in Crystal Commerce
+    $tableName = "fifthEdition"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/fifth-edition"; // URL to scrape
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
@@ -162,6 +162,6 @@
     // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: worldwake.php");
+      header("Location: visions.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
