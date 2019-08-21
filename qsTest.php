@@ -8,38 +8,25 @@
 
     $html = file_get_html($tcgPlayerSetURL);
     $data = $html->find('tbody tr');
-    $price = $html->find('tbody tr .text-right');
-    $tableDataArray = array();
     $foilPriceArray = array();
     $cardNamesArray = array();
 
     foreach ($data as $card){
-        // array_push($cardNamesArray, str_replace("&#39;", "'", $card->plaintext));
-        //echo str_replace("&#39;", "'", $card->plaintext) . "<br />";
-        // This does it
-        // echo $card->first_child()->plaintext . "<br />";
         array_push($cardNamesArray, str_replace("&#39;", "'", $card->first_child()->plaintext));
-        echo $card->first_child()->plaintext . " price: " .  $card->last_child()->prev_sibling()->plaintext . "<br />";
-        //echo $card->first_child()->plaintext . " price: " . $card->lastplaintext . "<br />";
+        array_push($foilPriceArray, str_replace("$", "", str_replace('&mdash;', '0.00', $card->last_child()->prev_sibling()->plaintext)));
     }
-    
-    // foreach ($price as $median){
-    //     array_push($tableDataArray, str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext)));
-    //   }
-    //   $counter = 0;
-    //   for ($i = 0; $i < count($tableDataArray); $i+=5)
-    //   {
-          
-    //       //echo  $counter . ": " . $foilPriceArray[$i] . "<br />";
-    //       $foilPriceArray[$counter] = $tableDataArray[$i];
-    //       $counter++;
-    //   }
 
-    // //   for ($x = 0; $x < count($foilPriceArray); $x++)
-    // //   {
-    // //       echo $x . ": " . $foilPriceArray[$x] . "<br />";
-    // //   }
+    for ($a = 0; $a<4;$a++)
+    {
+        array_pop($cardNamesArray);
+        array_pop($foilPriceArray);
+    }
+
+       for ($x = 0; $x < count($foilPriceArray); $x++)
+       {
+           echo $x . ": " . $cardNamesArray[$x] . "<br />";
+       }
 
        echo "cardNamesArray count: " . count($cardNamesArray) . "<br />";
-    //   echo "foilPriceArray count: " . count($foilPriceArray) . "<br />";
+       echo "foilPriceArray count: " . count($foilPriceArray) . "<br />";
 ?> 
