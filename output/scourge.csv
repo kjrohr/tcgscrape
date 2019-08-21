@@ -1,11 +1,11 @@
 "Product Name",Category,"Sell Price","Buy Price"
 "Accelerated Mutation",Scourge,0.15,0.00
-"Ageless Sentinels",Scourge,0.42,0.00
+"Ageless Sentinels",Scourge,0.38,0.00
 "Alpha Status",Scourge,1.15,0.10
 "Ambush Commander",Scourge,1.42,0.10
 "Ancient Ooze",Scourge,0.58,0.10
-"Aphetto Runecaster",Scourge,1.42,0.10
-"Ark of Blight",Scourge,0.24,0.00
+"Aphetto Runecaster",Scourge,0.94,0.10
+"Ark of Blight",Scourge,0.23,0.00
 "Astral Steel",Scourge,0.18,0.00
 "Aven Farseer",Scourge,0.16,0.00
 "Aven Liberator",Scourge,0.17,0.00
@@ -14,7 +14,7 @@
 "Bonethorn Valesk",Scourge,0.17,0.00
 "Brain Freeze",Scourge,1.40,0.10
 "Break Asunder",Scourge,0.17,0.00
-"Cabal Conditioning",Scourge,0.47,0.00
+"Cabal Conditioning",Scourge,0.41,0.00
 "Cabal Interrogator",Scourge,0.24,0.00
 "Call to the Grave",Scourge,1.14,0.10
 Carbonize,Scourge,0.24,0.00
@@ -27,12 +27,12 @@ Carbonize,Scourge,0.24,0.00
 "Consumptive Goo",Scourge,0.44,0.00
 "Daru Spiritualist",Scourge,0.19,0.00
 "Daru Warchief",Scourge,1.23,0.10
-"Dawn Elemental",Scourge,0.68,0.10
+"Dawn Elemental",Scourge,0.63,0.10
 "Day of the Dragons",Scourge,0.48,0.00
 "Death's-Head Buzzard",Scourge,0.14,0.00
 "Decree of Annihilation",Scourge,2.89,0.25
 "Decree of Justice",Scourge,0.81,0.10
-"Decree of Pain",Scourge,4.41,2.07
+"Decree of Pain",Scourge,3.97,1.87
 "Decree of Savagery",Scourge,0.71,0.10
 "Decree of Silence",Scourge,4.23,1.99
 "Dimensional Breach",Scourge,0.46,0.00
@@ -45,10 +45,10 @@ Carbonize,Scourge,0.24,0.00
 "Dragon Shadow",Scourge,0.17,0.00
 "Dragon Tyrant",Scourge,2.37,0.25
 "Dragon Wings",Scourge,0.19,0.00
-"Dragonspeaker Shaman",Scourge,2.37,0.25
-Dragonstalker,Scourge,0.23,0.00
-Dragonstorm,Scourge,1.11,0.10
-Edgewalker,Scourge,1.10,0.10
+"Dragonspeaker Shaman",Scourge,2.65,0.25
+Dragonstalker,Scourge,0.24,0.00
+Dragonstorm,Scourge,1.04,0.10
+Edgewalker,Scourge,1.22,0.10
 "Elvish Aberration",Scourge,0.24,0.00
 Enrage,Scourge,0.24,0.00
 "Eternal Dragon",Scourge,1.19,0.10
@@ -56,30 +56,30 @@ Enrage,Scourge,0.24,0.00
 "Extra Arms",Scourge,0.23,0.00
 "Faces of the Past",Scourge,0.72,0.10
 "Fatal Mutation",Scourge,0.24,0.00
-"Fierce Empath",Scourge,0.42,0.00
+"Fierce Empath",Scourge,0.47,0.00
 "Final Punishment",Scourge,0.40,0.00
-"Force Bubble",Scourge,0.42,0.00
+"Force Bubble",Scourge,0.44,0.00
 "Forgotten Ancient",Scourge,1.51,0.10
 "Form of the Dragon",Scourge,0.71,0.10
 "Frontline Strategist",Scourge,0.18,0.00
 "Frozen Solid",Scourge,0.18,0.00
 "Gilded Light",Scourge,0.24,0.00
 "Goblin Brigand",Scourge,0.15,0.00
-"Goblin Psychopath",Scourge,0.23,0.00
+"Goblin Psychopath",Scourge,0.24,0.00
 "Goblin War Strike",Scourge,0.71,0.10
-"Goblin Warchief",Scourge,1.10,0.10
+"Goblin Warchief",Scourge,1.13,0.10
 "Grip of Chaos",Scourge,1.91,0.10
-"Guilty Conscience",Scourge,0.23,0.00
+"Guilty Conscience",Scourge,0.24,0.00
 "Hindering Touch",Scourge,0.16,0.00
 "Hunting Pack",Scourge,0.24,0.00
 "Karona, False God",Scourge,1.23,0.10
 "Karona's Zealot",Scourge,0.24,0.00
-"Krosan Drover",Scourge,0.21,0.00
-"Krosan Warchief",Scourge,0.29,0.00
+"Krosan Drover",Scourge,0.20,0.00
+"Krosan Warchief",Scourge,0.27,0.00
 Kurgadon,Scourge,0.24,0.00
 "Lethal Vapors",Scourge,2.60,0.25
 "Lingering Death",Scourge,0.16,0.00
-"Long-Term Plans",Scourge,2.84,0.25
+"Long-Term Plans",Scourge,3.21,1.51
 "Mercurial Kite",Scourge,0.15,0.00
 Metamorphose,Scourge,0.26,0.00
 "Mind's Desire",Scourge,1.15,0.10
@@ -88,11 +88,11 @@ Metamorphose,Scourge,0.26,0.00
 "Mistform Warchief",Scourge,0.24,0.00
 Nefashu,Scourge,0.43,0.00
 "Noble Templar",Scourge,0.20,0.00
-"One with Nature",Scourge,0.33,0.00
+"One with Nature",Scourge,0.32,0.00
 "Parallel Thoughts",Scourge,0.55,0.10
-"Pemmin's Aura",Scourge,3.98,1.87
-"Primitive Etchings",Scourge,0.47,0.00
-"Proteus Machine",Scourge,0.23,0.00
+"Pemmin's Aura",Scourge,4.28,2.01
+"Primitive Etchings",Scourge,0.41,0.00
+"Proteus Machine",Scourge,0.24,0.00
 "Putrid Raptor",Scourge,0.23,0.00
 "Pyrostatic Pillar",Scourge,0.66,0.10
 "Rain of Blades",Scourge,0.23,0.00
@@ -117,7 +117,7 @@ Skulltap,Scourge,0.15,0.00
 "Spark Spray",Scourge,0.19,0.00
 "Sprouting Vines",Scourge,0.19,0.00
 Stabilizer,Scourge,0.51,0.10
-Stifle,Scourge,5.98,2.81
+Stifle,Scourge,6.64,3.12
 "Sulfuric Vortex",Scourge,1.17,0.10
 "Temple of the False God",Scourge,1.28,0.10
 "Temporal Fissure",Scourge,0.22,0.00
@@ -132,13 +132,13 @@ Unburden,Scourge,0.17,0.00
 "Uncontrolled Infestation",Scourge,0.18,0.00
 "Undead Warchief",Scourge,5.36,2.52
 "Unspeakable Symbol",Scourge,1.34,0.10
-Upwelling,Scourge,0.69,0.10
+Upwelling,Scourge,0.70,0.10
 "Vengeful Dead",Scourge,0.56,0.10
 "Wing Shards",Scourge,0.27,0.00
 "Wipe Clean",Scourge,0.19,0.00
 "Wirewood Guardian",Scourge,0.20,0.00
-"Wirewood Symbiote",Scourge,0.83,0.10
+"Wirewood Symbiote",Scourge,0.76,0.10
 Woodcloaker,Scourge,0.17,0.00
-"Xantid Swarm",Scourge,1.24,0.10
+"Xantid Swarm",Scourge,1.23,0.10
 "Zealous Inquisitor",Scourge,0.16,0.00
 "Zombie Cutthroat",Scourge,0.15,0.00

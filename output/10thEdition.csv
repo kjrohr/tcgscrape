@@ -6,17 +6,17 @@ Afflict,"10th Edition",0.16,0.00
 "Aggressive Urge","10th Edition",0.16,0.00
 "Agonizing Memories","10th Edition",0.24,0.00
 "Air Elemental","10th Edition",0.22,0.00
-"Ambassador Laquatus","10th Edition",1.25,0.10
+"Ambassador Laquatus","10th Edition",1.62,0.10
 "Anaba Bodyguard","10th Edition",0.16,0.00
 "Ancestor's Chosen","10th Edition",0.24,0.00
 "Angel of Mercy","10th Edition",0.24,0.00
 "Angelic Blessing","10th Edition",0.17,0.00
-"Angelic Chorus","10th Edition",3.31,1.56
+"Angelic Chorus","10th Edition",3.30,1.55
 "Angelic Wall","10th Edition",0.20,0.00
 "Angel's Feather","10th Edition",0.24,0.00
 "Arcane Teachings","10th Edition",0.24,0.00
-"Arcanis the Omnipotent","10th Edition",1.46,0.10
-"Ascendant Evincar","10th Edition",0.94,0.10
+"Arcanis the Omnipotent","10th Edition",1.54,0.10
+"Ascendant Evincar","10th Edition",0.96,0.10
 Assassinate,"10th Edition",0.16,0.00
 "Aura Graft","10th Edition",0.24,0.00
 "Aura of Silence","10th Edition",5.18,2.43
@@ -43,7 +43,7 @@ Boomerang,"10th Edition",0.24,0.00
 Brushland,"10th Edition",8.07,3.79
 Cancel,"10th Edition",0.19,0.00
 "Canopy Spider","10th Edition",0.15,0.00
-"Caves of Koilos","10th Edition",1.84,0.10
+"Caves of Koilos","10th Edition",1.85,0.10
 "Cephalid Constable","10th Edition",1.21,0.10
 "Chimeric Staff","10th Edition",0.44,0.00
 "Cho-Manno, Revolutionary","10th Edition",0.60,0.10
@@ -121,10 +121,10 @@ Flashfreeze,"10th Edition",0.24,0.00
 "Ghost Warden","10th Edition",0.18,0.00
 "Giant Growth","10th Edition",0.19,0.00
 "Giant Spider","10th Edition",0.15,0.00
-"Glorious Anthem","10th Edition",1.51,0.10
+"Glorious Anthem","10th Edition",1.58,0.10
 "Goblin Elite Infantry","10th Edition",0.16,0.00
 "Goblin King","10th Edition",5.24,2.46
-"Goblin Lore","10th Edition",9.44,4.44
+"Goblin Lore","10th Edition",9.43,4.43
 "Goblin Piker","10th Edition",0.15,0.00
 "Goblin Sky Raider","10th Edition",0.17,0.00
 "Goblin Token","10th Edition",0.25,0.00
@@ -145,7 +145,7 @@ Gravedigger,"10th Edition",0.16,0.00
 "Holy Strength","10th Edition",0.17,0.00
 "Honor Guard","10th Edition",0.17,0.00
 "Horseshoe Crab","10th Edition",0.19,0.00
-"Howling Mine","10th Edition",3.79,1.78
+"Howling Mine","10th Edition",3.78,1.78
 "Hunted Wumpus","10th Edition",0.26,0.00
 "Hurkyl's Recall","10th Edition",4.42,2.08
 Hurricane,"10th Edition",0.75,0.10
@@ -160,7 +160,7 @@ Incinerate,"10th Edition",0.23,0.00
 "Jayemdae Tome","10th Edition",0.37,0.00
 "Joiner Adept","10th Edition",3.27,1.54
 Juggernaut,"10th Edition",0.24,0.00
-"Kamahl, Pit Fighter","10th Edition",0.44,0.00
+"Kamahl, Pit Fighter","10th Edition",0.46,0.00
 "Karplusan Forest","10th Edition",5.16,2.43
 "Karplusan Strider","10th Edition",0.24,0.00
 "Kavu Climber","10th Edition",0.17,0.00
@@ -174,7 +174,7 @@ Juggernaut,"10th Edition",0.24,0.00
 "Lightning Elemental","10th Edition",0.16,0.00
 "Llanowar Elves","10th Edition",0.28,0.00
 "Llanowar Sentinel","10th Edition",0.23,0.00
-"Llanowar Wastes","10th Edition",2.13,0.25
+"Llanowar Wastes","10th Edition",2.57,0.25
 "Looming Shade","10th Edition",0.15,0.00
 "Lord of the Pit","10th Edition",0.47,0.00
 "Lord of the Undead","10th Edition",14.10,6.63
@@ -183,7 +183,7 @@ Juggernaut,"10th Edition",0.24,0.00
 "Loyal Sentry","10th Edition",0.71,0.10
 "Lumengrid Warden","10th Edition",0.15,0.00
 Luminesce,"10th Edition",0.24,0.00
-Lure,"10th Edition",0.24,0.00
+Lure,"10th Edition",0.26,0.00
 "Mahamoti Djinn","10th Edition",0.40,0.00
 Manabarbs,"10th Edition",0.47,0.00
 "Mantis Engine","10th Edition",0.24,0.00
@@ -234,11 +234,11 @@ Plagiarize,"10th Edition",0.42,0.00
 "Plague Beetle","10th Edition",0.16,0.00
 "Plague Wind","10th Edition",2.23,0.25
 "Plains (364)","10th Edition",0.24,0.00
-"Plains (365)","10th Edition",0.18,0.00
+"Plains (365)","10th Edition",0.19,0.00
 "Plains (366)","10th Edition",0.20,0.00
 "Plains (367)","10th Edition",0.24,0.00
 "Platinum Angel","10th Edition",6.17,2.90
-"Primal Rage","10th Edition",1.73,0.10
+"Primal Rage","10th Edition",1.75,0.10
 "Prodigal Pyromancer","10th Edition",0.17,0.00
 Puppeteer,"10th Edition",0.24,0.00
 Pyroclasm,"10th Edition",0.47,0.00
@@ -249,7 +249,7 @@ Quicksand,"10th Edition",0.24,0.00
 "Rain of Tears","10th Edition",0.71,0.10
 "Rampant Growth","10th Edition",0.28,0.00
 "Ravenous Rats","10th Edition",0.19,0.00
-"Razormane Masticore","10th Edition",0.36,0.00
+"Razormane Masticore","10th Edition",0.37,0.00
 Recollect,"10th Edition",0.27,0.00
 Recover,"10th Edition",0.18,0.00
 Regeneration,"10th Edition",0.24,0.00
@@ -259,7 +259,7 @@ Reminisce,"10th Edition",0.24,0.00
 "Remove Soul","10th Edition",0.19,0.00
 "Reviving Dose","10th Edition",0.16,0.00
 "Reya Dawnbringer","10th Edition",1.65,0.10
-Rhox,"10th Edition",0.49,0.00
+Rhox,"10th Edition",0.56,0.10
 Righteousness,"10th Edition",0.48,0.00
 "Robe of Mirrors","10th Edition",0.22,0.00
 "Rock Badger","10th Edition",0.18,0.00
@@ -276,13 +276,13 @@ Rootwalla,"10th Edition",0.15,0.00
 "Saproling Token","10th Edition",0.24,0.00
 Scalpelexis,"10th Edition",0.47,0.00
 "Scathe Zombies","10th Edition",0.14,0.00
-"Scion of the Wild","10th Edition",0.37,0.00
-"Scoria Wurm","10th Edition",0.43,0.00
+"Scion of the Wild","10th Edition",0.38,0.00
+"Scoria Wurm","10th Edition",0.46,0.00
 "Sculpting Steel","10th Edition",7.59,3.57
 "Sea Monster","10th Edition",0.18,0.00
 "Seedborn Muse","10th Edition",12.44,5.85
 "Seismic Assault","10th Edition",2.78,0.25
-"Sengir Vampire","10th Edition",0.43,0.00
+"Sengir Vampire","10th Edition",0.47,0.00
 "Serra Angel","10th Edition",0.49,0.00
 "Serra's Embrace","10th Edition",0.28,0.00
 "Severed Legion","10th Edition",0.16,0.00
@@ -303,10 +303,10 @@ Sift,"10th Edition",0.17,0.00
 "Sleeper Agent","10th Edition",0.63,0.10
 Smash,"10th Edition",0.17,0.00
 "Snapping Drake","10th Edition",0.14,0.00
-"Soldier Token","10th Edition",0.22,0.00
+"Soldier Token","10th Edition",0.24,0.00
 "Soul Feast","10th Edition",0.24,0.00
 "Soul Warden","10th Edition",0.86,0.10
-Soulblast,"10th Edition",0.47,0.00
+Soulblast,"10th Edition",0.48,0.00
 "Spark Elemental","10th Edition",0.80,0.10
 "Spawning Pool","10th Edition",0.37,0.00
 Spellbook,"10th Edition",1.58,0.10
@@ -331,7 +331,7 @@ Stun,"10th Edition",0.23,0.00
 "Suntail Hawk","10th Edition",0.18,0.00
 "Swamp (372)","10th Edition",0.24,0.00
 "Swamp (373)","10th Edition",0.19,0.00
-"Swamp (374)","10th Edition",0.24,0.00
+"Swamp (374)","10th Edition",0.23,0.00
 "Swamp (375)","10th Edition",0.24,0.00
 "Sylvan Basilisk","10th Edition",0.30,0.00
 "Sylvan Scrying","10th Edition",0.89,0.10
@@ -371,7 +371,7 @@ Upwelling,"10th Edition",0.94,0.10
 "Viashino Runner","10th Edition",0.15,0.00
 "Viashino Sandscout","10th Edition",0.18,0.00
 "Viridian Shaman","10th Edition",0.25,0.00
-"Voice of All","10th Edition",0.59,0.10
+"Voice of All","10th Edition",0.57,0.10
 "Wall of Air","10th Edition",0.33,0.00
 "Wall of Fire","10th Edition",0.24,0.00
 "Wall of Swords","10th Edition",0.24,0.00

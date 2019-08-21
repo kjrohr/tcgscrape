@@ -4,18 +4,18 @@
 "Agent of the Fates",Theros,0.36,0.00
 "Akroan Crusader",Theros,0.18,0.00
 "Akroan Hoplite",Theros,0.23,0.00
-"Akroan Horse",Theros,0.32,0.00
+"Akroan Horse",Theros,0.29,0.00
 "Anax and Cymede",Theros,0.41,0.00
-"Anger of the Gods",Theros,2.85,0.25
+"Anger of the Gods",Theros,2.87,0.25
 Annul,Theros,0.16,0.00
 "Anthousa, Setessan Hero",Theros,0.32,0.00
 "Anvilwrought Raptor",Theros,0.21,0.00
 "Aqueous Form",Theros,0.22,0.00
-"Arbor Colossus",Theros,0.32,0.00
+"Arbor Colossus",Theros,0.31,0.00
 "Arena Athlete",Theros,0.21,0.00
-"Artisan of Forms",Theros,0.33,0.00
+"Artisan of Forms",Theros,0.35,0.00
 "Artisan's Sorrow",Theros,0.23,0.00
-"Ashen Rider",Theros,1.69,0.10
+"Ashen Rider",Theros,1.82,0.10
 "Ashiok, Nightmare Weaver",Theros,6.91,3.25
 "Asphodel Wanderer",Theros,0.14,0.00
 "Baleful Eidolon",Theros,0.15,0.00
@@ -26,8 +26,8 @@ Annul,Theros,0.16,0.00
 "Bird Token",Theros,0.29,0.00
 "Blood-Toll Harpy",Theros,0.14,0.00
 "Boar Token",Theros,0.29,0.00
-"Boon of Erebos",Theros,0.15,0.00
-"Boon Satyr",Theros,0.34,0.00
+"Boon of Erebos",Theros,0.14,0.00
+"Boon Satyr",Theros,0.37,0.00
 "Borderland Minotaur",Theros,0.14,0.00
 Boulderfall,Theros,0.14,0.00
 "Bow of Nylea",Theros,2.61,0.25
@@ -43,7 +43,7 @@ Boulderfall,Theros,0.14,0.00
 "Chronicler of Heroes",Theros,0.22,0.00
 "Cleric Token",Theros,3.52,1.65
 "Coastline Chimera",Theros,0.14,0.00
-"Colossus of Akros",Theros,1.13,0.10
+"Colossus of Akros",Theros,1.15,0.10
 "Commune with the Gods",Theros,0.19,0.00
 "Coordinated Assault",Theros,0.24,0.00
 "Crackling Triton",Theros,0.14,0.00
@@ -61,12 +61,12 @@ Demolish,Theros,0.14,0.00
 Dissolve,Theros,0.30,0.00
 "Divine Verdict",Theros,0.14,0.00
 "Dragon Mantle",Theros,0.18,0.00
-"Elemental Token",Theros,0.65,0.10
-"Elspeth, Sun's Champion",Theros,10.19,4.79
+"Elemental Token",Theros,0.75,0.10
+"Elspeth, Sun's Champion",Theros,10.18,4.78
 "Ember Swallower",Theros,0.29,0.00
 "Emblem - Elspeth, Sun's Champion",Theros,3.14,1.48
-"Ephara's Warden",Theros,0.15,0.00
-"Erebos, God of the Dead",Theros,9.48,4.46
+"Ephara's Warden",Theros,0.14,0.00
+"Erebos, God of the Dead",Theros,9.49,4.46
 "Erebos's Emissary",Theros,0.22,0.00
 "Evangel of Heliod",Theros,0.24,0.00
 "Fabled Hero",Theros,0.47,0.00
@@ -79,7 +79,7 @@ Dissolve,Theros,0.30,0.00
 "Firedrinker Satyr",Theros,0.33,0.00
 "Flamecast Wheel",Theros,0.22,0.00
 "Flamespeaker Adept",Theros,0.22,0.00
-"Fleecemane Lion",Theros,0.68,0.10
+"Fleecemane Lion",Theros,0.67,0.10
 "Fleetfeather Sandals",Theros,0.18,0.00
 "Fleshmad Steed",Theros,0.15,0.00
 "Forest (246)",Theros,0.18,0.00
@@ -89,14 +89,14 @@ Dissolve,Theros,0.30,0.00
 Gainsay,Theros,0.23,0.00
 "Gift of Immortality",Theros,1.78,0.10
 "Glare of Heresy",Theros,0.24,0.00
-"Gods Willing",Theros,0.18,0.00
+"Gods Willing",Theros,0.19,0.00
 "Golem Token",Theros,0.19,0.00
 "Gray Merchant of Asphodel",Theros,0.67,0.10
 Griptide,Theros,0.14,0.00
 "Guardians of Meletis",Theros,0.15,0.00
 "Hammer of Purphoros",Theros,0.97,0.10
 "Harpy Token",Theros,0.19,0.00
-"Heliod, God of the Sun",Theros,5.13,2.41
+"Heliod, God of the Sun",Theros,5.12,2.41
 "Heliod's Emissary",Theros,0.23,0.00
 "Hero's Downfall",Theros,2.84,0.25
 "Hopeful Eidolon",Theros,0.17,0.00
@@ -149,7 +149,7 @@ Nighthowler,Theros,0.41,0.00
 "Nylea's Presence",Theros,0.15,0.00
 "Observant Alseid",Theros,0.17,0.00
 Omenspeaker,Theros,0.16,0.00
-"Opaline Unicorn",Theros,0.17,0.00
+"Opaline Unicorn",Theros,0.16,0.00
 "Ordeal of Erebos",Theros,0.23,0.00
 "Ordeal of Heliod",Theros,0.24,0.00
 "Ordeal of Nylea",Theros,0.24,0.00
@@ -165,19 +165,19 @@ Omenspeaker,Theros,0.16,0.00
 "Plains (232)",Theros,0.18,0.00
 "Plains (233)",Theros,0.19,0.00
 "Polis Crusher",Theros,0.32,0.00
-"Polukranos, World Eater",Theros,1.30,0.10
+"Polukranos, World Eater",Theros,1.33,0.10
 "Portent of Betrayal",Theros,0.15,0.00
 "Prescient Chimera",Theros,0.14,0.00
 "Priest of Iroas",Theros,0.14,0.00
-"Prognostic Sphinx",Theros,0.32,0.00
+"Prognostic Sphinx",Theros,0.33,0.00
 "Prophet of Kruphix",Theros,0.94,0.10
 "Prowler's Helm",Theros,0.26,0.00
 "Psychic Intrusion",Theros,0.32,0.00
-"Purphoros, God of the Forge",Theros,23.65,11.12
+"Purphoros, God of the Forge",Theros,23.75,11.16
 "Purphoros's Emissary",Theros,0.23,0.00
 "Pyxis of Pandemonium",Theros,0.39,0.00
 "Rage of Purphoros",Theros,0.14,0.00
-"Rageblood Shaman",Theros,0.37,0.00
+"Rageblood Shaman",Theros,0.39,0.00
 "Ray of Dissolution",Theros,0.15,0.00
 "Read the Bones",Theros,0.19,0.00
 "Reaper of the Wilds",Theros,0.29,0.00
@@ -198,7 +198,7 @@ Scourgemark,Theros,0.14,0.00
 "Sentry of the Underworld",Theros,0.23,0.00
 "Setessan Battle Priest",Theros,0.15,0.00
 "Setessan Griffin",Theros,0.15,0.00
-"Shipbreaker Kraken",Theros,0.33,0.00
+"Shipbreaker Kraken",Theros,0.34,0.00
 "Shipwreck Singer",Theros,0.24,0.00
 "Shredding Winds",Theros,0.14,0.00
 "Silent Artisan",Theros,0.14,0.00
@@ -208,33 +208,33 @@ Scourgemark,Theros,0.14,0.00
 "Soldier Token (Red)",Theros,0.18,0.00
 "Soldier Token (Velinov)",Theros,0.19,0.00
 "Spark Jolt",Theros,0.16,0.00
-"Spear of Heliod",Theros,1.04,0.10
+"Spear of Heliod",Theros,1.09,0.10
 "Spearpoint Oread",Theros,0.14,0.00
 "Spellheart Chimera",Theros,0.23,0.00
 "Staunch-Hearted Warrior",Theros,0.14,0.00
 "Steam Augury",Theros,0.29,0.00
 "Stoneshock Giant",Theros,0.23,0.00
-"Stormbreath Dragon",Theros,3.13,1.47
+"Stormbreath Dragon",Theros,3.09,1.45
 "Stymied Hopes",Theros,0.14,0.00
 "Swamp (238)",Theros,0.17,0.00
 "Swamp (239)",Theros,0.23,0.00
 "Swamp (240)",Theros,0.18,0.00
 "Swamp (241)",Theros,0.18,0.00
-"Swan Song",Theros,4.08,1.92
-"Sylvan Caryatid",Theros,2.77,0.25
-"Temple of Abandon",Theros,1.09,0.10
-"Temple of Deceit",Theros,3.61,1.70
+"Swan Song",Theros,4.07,1.91
+"Sylvan Caryatid",Theros,2.75,0.25
+"Temple of Abandon",Theros,1.03,0.10
+"Temple of Deceit",Theros,3.64,1.71
 "Temple of Mystery",Theros,2.51,0.25
-"Temple of Silence",Theros,3.07,1.44
-"Temple of Triumph",Theros,2.39,0.25
-"Thassa, God of the Sea",Theros,12.33,5.80
+"Temple of Silence",Theros,3.08,1.45
+"Temple of Triumph",Theros,2.57,0.25
+"Thassa, God of the Sea",Theros,11.49,5.40
 "Thassa's Bounty",Theros,0.14,0.00
 "Thassa's Emissary",Theros,0.24,0.00
 Thoughtseize,Theros,14.24,6.69
 "Time to Feed",Theros,0.14,0.00
 "Titan of Eternal Fire",Theros,0.32,0.00
 "Titan's Strength",Theros,0.20,0.00
-"Tormented Hero",Theros,0.21,0.00
+"Tormented Hero",Theros,0.23,0.00
 "Traveler's Amulet",Theros,0.14,0.00
 "Traveling Philosopher",Theros,0.15,0.00
 "Triad of Fates",Theros,0.32,0.00
@@ -243,17 +243,17 @@ Thoughtseize,Theros,14.24,6.69
 "Triton Tactics",Theros,0.23,0.00
 "Two-Headed Cerberus",Theros,0.14,0.00
 "Tymaret, the Murder King",Theros,0.33,0.00
-"Underworld Cerberus",Theros,0.62,0.10
+"Underworld Cerberus",Theros,0.66,0.10
 "Unknown Shores",Theros,0.17,0.00
 "Vanquish the Foul",Theros,0.23,0.00
 Vaporkin,Theros,0.14,0.00
-"Viper's Kiss",Theros,0.15,0.00
+"Viper's Kiss",Theros,0.14,0.00
 "Voyage's End",Theros,0.15,0.00
 "Voyaging Satyr",Theros,0.16,0.00
 "Vulpine Goliath",Theros,0.14,0.00
 "Warriors' Lesson",Theros,0.22,0.00
 "Wavecrash Triton",Theros,0.15,0.00
-"Whip of Erebos",Theros,2.33,0.25
+"Whip of Erebos",Theros,2.34,0.25
 "Wild Celebrants",Theros,0.14,0.00
 "Wingsteed Rider",Theros,0.15,0.00
 "Witches' Eye",Theros,0.23,0.00

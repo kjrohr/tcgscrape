@@ -1,5 +1,5 @@
 "Product Name",Category,"Sell Price","Buy Price"
-"Aether Spellbomb",Mirrodin,0.21,0.00
+"Aether Spellbomb",Mirrodin,0.24,0.00
 "Alpha Myr",Mirrodin,0.16,0.00
 "Altar of Shadows",Mirrodin,0.48,0.00
 "Altar's Light",Mirrodin,0.24,0.00
@@ -8,7 +8,7 @@ Annul,Mirrodin,0.23,0.00
 Arc-Slogger,Mirrodin,0.47,0.00
 Arrest,Mirrodin,0.18,0.00
 "Assert Authority",Mirrodin,0.24,0.00
-Atog,Mirrodin,0.37,0.00
+Atog,Mirrodin,0.43,0.00
 "Auriok Bladewarden",Mirrodin,0.24,0.00
 "Auriok Steelshaper",Mirrodin,1.31,0.10
 "Auriok Transfixer",Mirrodin,0.17,0.00
@@ -18,26 +18,26 @@ Atog,Mirrodin,0.37,0.00
 Battlegrowth,Mirrodin,0.17,0.00
 "Betrayal of Flesh",Mirrodin,0.24,0.00
 "Blinding Beam",Mirrodin,0.18,0.00
-"Blinkmoth Urn",Mirrodin,1.26,0.10
-"Blinkmoth Well",Mirrodin,0.24,0.00
+"Blinkmoth Urn",Mirrodin,1.25,0.10
+"Blinkmoth Well",Mirrodin,0.25,0.00
 Bloodscent,Mirrodin,0.24,0.00
 Bonesplitter,Mirrodin,0.43,0.00
 "Bosh, Iron Golem",Mirrodin,0.46,0.00
 "Bottle Gnomes",Mirrodin,0.24,0.00
-Broodstar,Mirrodin,0.62,0.10
+Broodstar,Mirrodin,0.63,0.10
 "Brown Ouphe",Mirrodin,0.23,0.00
 Cathodion,Mirrodin,0.24,0.00
 "Chalice of the Void",Mirrodin,74.19,34.87
 "Chimney Imp",Mirrodin,0.17,0.00
-"Chromatic Sphere",Mirrodin,0.73,0.10
-"Chrome Mox",Mirrodin,37.81,17.77
+"Chromatic Sphere",Mirrodin,0.88,0.10
+"Chrome Mox",Mirrodin,37.84,17.78
 "Clockwork Beetle",Mirrodin,0.17,0.00
 "Clockwork Condor",Mirrodin,0.18,0.00
-"Clockwork Dragon",Mirrodin,0.53,0.10
+"Clockwork Dragon",Mirrodin,0.58,0.10
 "Clockwork Vorrac",Mirrodin,0.24,0.00
-Cloudpost,Mirrodin,0.73,0.10
+Cloudpost,Mirrodin,0.64,0.10
 "Cobalt Golem",Mirrodin,0.19,0.00
-"Confusion in the Ranks",Mirrodin,1.84,0.10
+"Confusion in the Ranks",Mirrodin,1.90,0.10
 "Consume Spirit",Mirrodin,0.21,0.00
 "Contaminated Bond",Mirrodin,0.17,0.00
 "Copper Myr",Mirrodin,0.20,0.00
@@ -53,8 +53,8 @@ Disarm,Mirrodin,0.17,0.00
 "Disciple of the Vault",Mirrodin,0.29,0.00
 Domineer,Mirrodin,0.22,0.00
 "Dragon Blood",Mirrodin,0.24,0.00
-"Dream's Grip",Mirrodin,0.37,0.00
-"Dross Harvester",Mirrodin,0.46,0.00
+"Dream's Grip",Mirrodin,0.41,0.00
+"Dross Harvester",Mirrodin,0.47,0.00
 "Dross Prowler",Mirrodin,0.17,0.00
 "Dross Scorpion",Mirrodin,0.22,0.00
 Duplicant,Mirrodin,2.84,0.25
@@ -62,8 +62,8 @@ Duskworker,Mirrodin,0.24,0.00
 "Electrostatic Bolt",Mirrodin,0.19,0.00
 "Elf Replica",Mirrodin,0.18,0.00
 "Empyrial Plate",Mirrodin,0.57,0.10
-"Extraplanar Lens",Mirrodin,41.36,19.44
-Fabricate,Mirrodin,4.75,2.23
+"Extraplanar Lens",Mirrodin,41.80,19.65
+Fabricate,Mirrodin,4.91,2.31
 "Fangren Hunter",Mirrodin,0.19,0.00
 "Farsight Mask",Mirrodin,0.24,0.00
 Fatespinner,Mirrodin,6.05,2.84
@@ -79,11 +79,11 @@ Fireshrieker,Mirrodin,0.33,0.00
 "Fractured Loyalty",Mirrodin,0.23,0.00
 Frogmite,Mirrodin,0.24,0.00
 "Galvanic Key",Mirrodin,0.18,0.00
-"Gate to the Aether",Mirrodin,1.40,0.10
+"Gate to the Aether",Mirrodin,1.50,0.10
 "Gilded Lotus",Mirrodin,4.75,2.23
-Glimmervoid,Mirrodin,9.40,4.42
+Glimmervoid,Mirrodin,10.45,4.91
 "Glissa Sunseeker",Mirrodin,1.45,0.10
-"Goblin Charbelcher",Mirrodin,1.65,0.10
+"Goblin Charbelcher",Mirrodin,1.88,0.10
 "Goblin Dirigible",Mirrodin,0.24,0.00
 "Goblin Replica",Mirrodin,0.19,0.00
 "Goblin Striker",Mirrodin,0.17,0.00
@@ -93,7 +93,7 @@ Glimmervoid,Mirrodin,9.40,4.42
 "Grab the Reins",Mirrodin,0.32,0.00
 "Granite Shard",Mirrodin,0.23,0.00
 "Great Furnace",Mirrodin,0.72,0.10
-"Grid Monitor",Mirrodin,0.52,0.10
+"Grid Monitor",Mirrodin,0.53,0.10
 "Grim Reminder",Mirrodin,0.40,0.00
 Groffskithur,Mirrodin,0.19,0.00
 "Heartwood Shard",Mirrodin,0.24,0.00
@@ -108,34 +108,34 @@ Irradiate,Mirrodin,0.18,0.00
 "Island (292)",Mirrodin,0.20,0.00
 "Island (293)",Mirrodin,0.19,0.00
 "Island (294)",Mirrodin,0.23,0.00
-"Isochron Scepter",Mirrodin,12.35,5.80
-"Jinxed Choker",Mirrodin,0.47,0.00
+"Isochron Scepter",Mirrodin,12.92,6.07
+"Jinxed Choker",Mirrodin,0.48,0.00
 "Journey of Discovery",Mirrodin,0.24,0.00
 "Krark-Clan Grunt",Mirrodin,0.17,0.00
 "Krark-Clan Shaman",Mirrodin,0.29,0.00
-"Krark's Thumb",Mirrodin,6.60,3.10
+"Krark's Thumb",Mirrodin,6.65,3.13
 "Leaden Myr",Mirrodin,0.21,0.00
 "Leonin Abunas",Mirrodin,3.51,1.65
 "Leonin Bladetrap",Mirrodin,0.24,0.00
 "Leonin Den-Guard",Mirrodin,0.19,0.00
-"Leonin Elder",Mirrodin,0.19,0.00
+"Leonin Elder",Mirrodin,0.21,0.00
 "Leonin Scimitar",Mirrodin,0.19,0.00
 "Leonin Skyhunter",Mirrodin,0.24,0.00
-"Leonin Sun Standard",Mirrodin,0.47,0.00
-Leveler,Mirrodin,4.75,2.23
+"Leonin Sun Standard",Mirrodin,0.45,0.00
+Leveler,Mirrodin,5.54,2.60
 "Liar's Pendulum",Mirrodin,0.43,0.00
 "Lifespark Spellbomb",Mirrodin,0.19,0.00
 "Lightning Coils",Mirrodin,0.58,0.10
-"Lightning Greaves",Mirrodin,8.09,3.80
+"Lightning Greaves",Mirrodin,8.55,4.02
 "Living Hive",Mirrodin,0.48,0.00
 "Lodestone Myr",Mirrodin,0.47,0.00
 "Looming Hoverguard",Mirrodin,0.23,0.00
 "Loxodon Mender",Mirrodin,0.19,0.00
 "Loxodon Peacekeeper",Mirrodin,0.43,0.00
 "Loxodon Punisher",Mirrodin,0.45,0.00
-"Loxodon Warhammer",Mirrodin,0.77,0.10
+"Loxodon Warhammer",Mirrodin,0.94,0.10
 "Lumengrid Augur",Mirrodin,0.33,0.00
-"Lumengrid Sentinel",Mirrodin,0.24,0.00
+"Lumengrid Sentinel",Mirrodin,0.23,0.00
 "Lumengrid Warden",Mirrodin,0.19,0.00
 "Luminous Angel",Mirrodin,0.49,0.00
 "Malachite Golem",Mirrodin,0.19,0.00
@@ -144,12 +144,12 @@ Leveler,Mirrodin,4.75,2.23
 "Mass Hysteria",Mirrodin,3.59,1.69
 Megatog,Mirrodin,0.39,0.00
 "Mesmeric Orb",Mirrodin,20.90,9.82
-"Mind's Eye",Mirrodin,4.00,1.88
+"Mind's Eye",Mirrodin,4.09,1.92
 Mindslaver,Mirrodin,4.73,2.22
 "Mindstorm Crown",Mirrodin,0.24,0.00
 "Mirror Golem",Mirrodin,0.24,0.00
 "Molder Slug",Mirrodin,0.48,0.00
-"Molten Rain",Mirrodin,1.25,0.10
+"Molten Rain",Mirrodin,1.42,0.10
 "Moriok Scavenger",Mirrodin,0.18,0.00
 "Mountain (299)",Mirrodin,0.19,0.00
 "Mountain (300)",Mirrodin,0.18,0.00
@@ -161,9 +161,9 @@ Mindslaver,Mirrodin,4.73,2.22
 "Myr Incubator",Mirrodin,0.66,0.10
 "Myr Mindservant",Mirrodin,0.24,0.00
 "Myr Prototype",Mirrodin,0.24,0.00
-"Myr Retriever",Mirrodin,1.36,0.10
+"Myr Retriever",Mirrodin,1.66,0.10
 "Necrogen Mists",Mirrodin,3.92,1.84
-"Necrogen Spellbomb",Mirrodin,0.16,0.00
+"Necrogen Spellbomb",Mirrodin,0.17,0.00
 Needlebug,Mirrodin,0.24,0.00
 "Neurok Familiar",Mirrodin,0.17,0.00
 "Neurok Hoversail",Mirrodin,0.20,0.00
@@ -172,7 +172,7 @@ Needlebug,Mirrodin,0.24,0.00
 "Nim Devourer",Mirrodin,0.39,0.00
 "Nim Lasher",Mirrodin,0.17,0.00
 "Nim Replica",Mirrodin,0.18,0.00
-"Nim Shambler",Mirrodin,0.24,0.00
+"Nim Shambler",Mirrodin,0.22,0.00
 "Nim Shrieker",Mirrodin,0.16,0.00
 "Nuisance Engine",Mirrodin,0.25,0.00
 "Oblivion Stone",Mirrodin,9.63,4.53
@@ -193,37 +193,37 @@ Pentavus,Mirrodin,0.38,0.00
 "Power Conduit",Mirrodin,1.19,0.10
 "Predator's Strike",Mirrodin,0.33,0.00
 "Promise of Power",Mirrodin,0.48,0.00
-"Proteus Staff",Mirrodin,7.46,3.51
+"Proteus Staff",Mirrodin,8.05,3.78
 "Psychic Membrane",Mirrodin,0.29,0.00
 "Psychogenic Probe",Mirrodin,0.46,0.00
 "Pyrite Spellbomb",Mirrodin,0.23,0.00
 "Quicksilver Elemental",Mirrodin,1.42,0.10
 "Quicksilver Fountain",Mirrodin,2.97,0.25
-"Raise the Alarm",Mirrodin,0.22,0.00
+"Raise the Alarm",Mirrodin,0.24,0.00
 "Razor Barrier",Mirrodin,0.18,0.00
 Regress,Mirrodin,0.18,0.00
 "Reiver Demon",Mirrodin,0.94,0.10
 "Relic Bane",Mirrodin,0.23,0.00
 "Roar of the Kha",Mirrodin,0.24,0.00
 "Rule of Law",Mirrodin,2.91,0.25
-"Rust Elemental",Mirrodin,0.28,0.00
+"Rust Elemental",Mirrodin,0.30,0.00
 "Rustmouth Ogre",Mirrodin,0.24,0.00
 "Rustspore Ram",Mirrodin,0.24,0.00
 "Scale of Chiss-Goria",Mirrodin,0.19,0.00
-"Scrabbling Claws",Mirrodin,0.30,0.00
-"Sculpting Steel",Mirrodin,7.54,3.54
-"Scythe of the Wretched",Mirrodin,2.17,0.25
+"Scrabbling Claws",Mirrodin,0.33,0.00
+"Sculpting Steel",Mirrodin,7.59,3.57
+"Scythe of the Wretched",Mirrodin,2.34,0.25
 "Seat of the Synod",Mirrodin,0.93,0.10
-"Second Sunrise",Mirrodin,2.37,0.25
+"Second Sunrise",Mirrodin,2.35,0.25
 "Seething Song",Mirrodin,0.73,0.10
 "Serum Tank",Mirrodin,0.24,0.00
-"Shared Fate",Mirrodin,0.84,0.10
+"Shared Fate",Mirrodin,0.93,0.10
 Shatter,Mirrodin,0.18,0.00
 "Shrapnel Blast",Mirrodin,0.31,0.00
 "Silver Myr",Mirrodin,0.24,0.00
 "Skeleton Shard",Mirrodin,0.24,0.00
 "Skyhunter Cub",Mirrodin,0.19,0.00
-"Skyhunter Patrol",Mirrodin,0.18,0.00
+"Skyhunter Patrol",Mirrodin,0.17,0.00
 "Slagwurm Armor",Mirrodin,0.41,0.00
 "Slith Ascendant",Mirrodin,0.23,0.00
 "Slith Bloodletter",Mirrodin,0.24,0.00
@@ -232,31 +232,31 @@ Shatter,Mirrodin,0.18,0.00
 "Slith Strider",Mirrodin,0.24,0.00
 "Solar Tide",Mirrodin,0.72,0.10
 "Soldier Replica",Mirrodin,0.18,0.00
-"Solemn Simulacrum",Mirrodin,6.42,3.02
+"Solemn Simulacrum",Mirrodin,6.53,3.07
 "Somber Hoverguard",Mirrodin,0.19,0.00
-"Soul Foundry",Mirrodin,2.89,0.25
+"Soul Foundry",Mirrodin,3.09,1.45
 "Soul Nova",Mirrodin,0.24,0.00
-"Spellweaver Helix",Mirrodin,0.50,0.00
+"Spellweaver Helix",Mirrodin,0.48,0.00
 "Sphere of Purity",Mirrodin,0.18,0.00
 "Spikeshot Goblin",Mirrodin,0.17,0.00
-"Spoils of the Vault",Mirrodin,1.62,0.10
-"Stalking Stones",Mirrodin,0.24,0.00
-"Steel Wall",Mirrodin,0.32,0.00
+"Spoils of the Vault",Mirrodin,1.66,0.10
+"Stalking Stones",Mirrodin,0.23,0.00
+"Steel Wall",Mirrodin,0.33,0.00
 "Sun Droplet",Mirrodin,0.98,0.10
 "Sunbeam Spellbomb",Mirrodin,0.24,0.00
 "Swamp (295)",Mirrodin,0.19,0.00
 "Swamp (296)",Mirrodin,0.24,0.00
 "Swamp (297)",Mirrodin,0.24,0.00
 "Swamp (298)",Mirrodin,0.23,0.00
-"Sword of Kaldra",Mirrodin,5.64,2.65
+"Sword of Kaldra",Mirrodin,5.93,2.79
 "Sylvan Scrying",Mirrodin,0.96,0.10
 "Synod Sanctum",Mirrodin,0.33,0.00
 "Taj-Nar Swordsmith",Mirrodin,0.24,0.00
 "Talisman of Dominance",Mirrodin,1.81,0.10
 "Talisman of Impulse",Mirrodin,0.37,0.00
-"Talisman of Indulgence",Mirrodin,1.89,0.10
-"Talisman of Progress",Mirrodin,4.88,2.29
-"Talisman of Unity",Mirrodin,0.33,0.00
+"Talisman of Indulgence",Mirrodin,1.46,0.10
+"Talisman of Progress",Mirrodin,5.46,2.57
+"Talisman of Unity",Mirrodin,0.37,0.00
 Tanglebloom,Mirrodin,0.18,0.00
 Tangleroot,Mirrodin,0.46,0.00
 "Tel-Jilad Archers",Mirrodin,0.17,0.00
@@ -266,12 +266,12 @@ Tangleroot,Mirrodin,0.46,0.00
 "Tempest of Light",Mirrodin,0.24,0.00
 "Temporal Cascade",Mirrodin,0.47,0.00
 Terror,Mirrodin,0.18,0.00
-"Thirst for Knowledge",Mirrodin,0.65,0.10
+"Thirst for Knowledge",Mirrodin,0.69,0.10
 "Thought Prison",Mirrodin,0.24,0.00
 Thoughtcast,Mirrodin,0.44,0.00
-Timesifter,Mirrodin,1.40,0.10
+Timesifter,Mirrodin,1.66,0.10
 "Titanium Golem",Mirrodin,0.19,0.00
-"Tooth and Nail",Mirrodin,18.94,8.90
+"Tooth and Nail",Mirrodin,19.07,8.96
 "Tooth of Chiss-Goria",Mirrodin,0.22,0.00
 "Tower of Champions",Mirrodin,0.40,0.00
 "Tower of Eons",Mirrodin,0.48,0.00
@@ -279,15 +279,15 @@ Timesifter,Mirrodin,1.40,0.10
 "Tower of Murmurs",Mirrodin,0.40,0.00
 "Trash for Treasure",Mirrodin,4.05,1.90
 "Tree of Tales",Mirrodin,1.05,0.10
-Triskelion,Mirrodin,0.90,0.10
+Triskelion,Mirrodin,0.89,0.10
 "Troll Ascetic",Mirrodin,0.56,0.10
 "Trolls of Tel-Jilad",Mirrodin,0.24,0.00
 "Turn to Dust",Mirrodin,0.18,0.00
 "Vault of Whispers",Mirrodin,0.56,0.10
-"Vedalken Archmage",Mirrodin,9.82,4.62
+"Vedalken Archmage",Mirrodin,10.13,4.76
 Vermiculos,Mirrodin,0.47,0.00
 "Viridian Joiner",Mirrodin,0.21,0.00
-"Viridian Longbow",Mirrodin,0.82,0.10
+"Viridian Longbow",Mirrodin,0.90,0.10
 "Viridian Shaman",Mirrodin,0.24,0.00
 "Vorrac Battlehorns",Mirrodin,0.24,0.00
 "Vulshok Battlegear",Mirrodin,0.24,0.00
@@ -295,13 +295,13 @@ Vermiculos,Mirrodin,0.47,0.00
 "Vulshok Berserker",Mirrodin,0.18,0.00
 "Vulshok Gauntlets",Mirrodin,0.18,0.00
 "Wail of the Nim",Mirrodin,0.19,0.00
-"Wall of Blood",Mirrodin,0.71,0.10
+"Wall of Blood",Mirrodin,0.83,0.10
 "Wanderguard Sentry",Mirrodin,0.17,0.00
 "War Elemental",Mirrodin,1.05,0.10
 "Welding Jar",Mirrodin,2.84,0.25
 "Wizard Replica",Mirrodin,0.19,0.00
 Woebearer,Mirrodin,0.24,0.00
 Worldslayer,Mirrodin,1.04,0.10
-"Wrench Mind",Mirrodin,0.41,0.00
+"Wrench Mind",Mirrodin,0.48,0.00
 "Wurmskin Forger",Mirrodin,0.18,0.00
 "Yotian Soldier",Mirrodin,0.19,0.00

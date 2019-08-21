@@ -24,6 +24,7 @@
 <a href="unlimitedEdition.php">Unlimited Edition - Modern Masters</a>
 <p>
 <a href="arabianNights.php">Arabian Nights - Knights vs. Dragons</a>
+<a href="duelDecksElspethVsTezzeret.php">Elspeth vs. Tezzeret - Elves vs. Goblins</a>
 </p>
 
 

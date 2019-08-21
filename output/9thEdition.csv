@@ -1,10 +1,10 @@
 "Product Name",Category,"Sell Price","Buy Price"
 "Adarkar Wastes","9th Edition",6.49,3.05
-"Air Elemental","9th Edition",0.23,0.00
+"Air Elemental","9th Edition",0.21,0.00
 "Aladdin's Ring","9th Edition",0.44,0.00
 "Anaba Shaman","9th Edition",0.14,0.00
-Anaconda,"9th Edition",0.24,0.00
-Anarchist,"9th Edition",0.23,0.00
+Anaconda,"9th Edition",0.23,0.00
+Anarchist,"9th Edition",0.24,0.00
 "Ancient Silverback","9th Edition",0.43,0.00
 "Angel of Mercy","9th Edition",0.24,0.00
 "Angelic Blessing","9th Edition",0.16,0.00
@@ -58,7 +58,7 @@ Cowardice,"9th Edition",0.42,0.00
 "Cruel Edict","9th Edition",0.45,0.00
 "Dancing Scimitar","9th Edition",0.23,0.00
 "Daring Apprentice","9th Edition",0.46,0.00
-"Dark Banishing","9th Edition",0.15,0.00
+"Dark Banishing","9th Edition",0.14,0.00
 "Death Pits of Rath","9th Edition",0.54,0.10
 Deathgazer,"9th Edition",0.23,0.00
 "Defense Grid","9th Edition",8.85,4.16
@@ -78,7 +78,7 @@ Demystify,"9th Edition",0.15,0.00
 "Elvish Champion","9th Edition",7.12,3.35
 "Elvish Piper","9th Edition",3.84,1.80
 "Elvish Warrior","9th Edition",0.14,0.00
-"Emperor Crocodile","9th Edition",0.37,0.00
+"Emperor Crocodile","9th Edition",0.39,0.00
 Enfeeblement,"9th Edition",0.14,0.00
 "Enormous Baloth","9th Edition",0.24,0.00
 Enrage,"9th Edition",0.24,0.00
@@ -93,13 +93,13 @@ Firebreathing,"9th Edition",0.14,0.00
 "Fishliver Oil","9th Edition",0.16,0.00
 "Flame Wave","9th Edition",0.28,0.00
 Flashfires,"9th Edition",0.24,0.00
-"Fleeting Image","9th Edition",0.37,0.00
+"Fleeting Image","9th Edition",0.38,0.00
 Flight,"9th Edition",0.14,0.00
 "Flowstone Crusher","9th Edition",0.24,0.00
 "Flowstone Shambler","9th Edition",0.14,0.00
 "Flowstone Slide","9th Edition",0.43,0.00
 "Foot Soldiers","9th Edition",0.13,0.00
-"Force of Nature","9th Edition",0.37,0.00
+"Force of Nature","9th Edition",0.38,0.00
 "Forest (347)","9th Edition",0.24,0.00
 "Forest (348)","9th Edition",0.24,0.00
 "Forest (349)","9th Edition",0.22,0.00
@@ -127,7 +127,7 @@ Flight,"9th Edition",0.14,0.00
 "Grave Pact","9th Edition",15.29,7.19
 Gravedigger,"9th Edition",0.14,0.00
 "Greater Good","9th Edition",4.74,2.23
-"Grizzly Bears","9th Edition",0.15,0.00
+"Grizzly Bears","9th Edition",0.14,0.00
 Groundskeeper,"9th Edition",0.30,0.00
 "Guerrilla Tactics","9th Edition",0.23,0.00
 "Hell's Caretaker","9th Edition",3.32,1.56
@@ -143,7 +143,7 @@ Groundskeeper,"9th Edition",0.30,0.00
 "Hunted Wumpus","9th Edition",0.24,0.00
 "Hypnotic Specter","9th Edition",1.89,0.10
 "Icy Manipulator","9th Edition",0.38,0.00
-"Imaginary Pet","9th Edition",0.43,0.00
+"Imaginary Pet","9th Edition",0.47,0.00
 Index,"9th Edition",0.24,0.00
 "Infantry Veteran","9th Edition",0.14,0.00
 Inspirit,"9th Edition",0.23,0.00
@@ -162,7 +162,7 @@ Inspirit,"9th Edition",0.23,0.00
 "Kird Ape","9th Edition",0.94,0.10
 "Kraken's Eye","9th Edition",0.23,0.00
 "Lava Axe","9th Edition",0.14,0.00
-"Leonin Skyhunter","9th Edition",0.30,0.00
+"Leonin Skyhunter","9th Edition",0.29,0.00
 Levitation,"9th Edition",0.24,0.00
 "Ley Druid","9th Edition",0.23,0.00
 "Lightning Elemental","9th Edition",0.14,0.00
@@ -174,27 +174,27 @@ Levitation,"9th Edition",0.24,0.00
 "Loxodon Warhammer","9th Edition",1.08,0.10
 "Lumengrid Warden","9th Edition",0.14,0.00
 Magnivore,"9th Edition",0.46,0.00
-"Mahamoti Djinn","9th Edition",0.40,0.00
+"Mahamoti Djinn","9th Edition",0.41,0.00
 "Mana Clash","9th Edition",0.48,0.00
 "Mana Leak","9th Edition",0.32,0.00
 "Marble Titan","9th Edition",4.25,2.00
 Maro,"9th Edition",0.45,0.00
 "Master Decoy","9th Edition",0.15,0.00
-"Master Healer","9th Edition",0.37,0.00
+"Master Healer","9th Edition",0.41,0.00
 Megrim,"9th Edition",0.35,0.00
 "Mending Hands","9th Edition",0.15,0.00
 "Might of Oaks","9th Edition",0.46,0.00
 Millstone,"9th Edition",0.42,0.00
-"Mind Bend","9th Edition",0.34,0.00
+"Mind Bend","9th Edition",0.41,0.00
 "Mind Rot","9th Edition",0.14,0.00
-Mindslicer,"9th Edition",6.63,3.12
+Mindslicer,"9th Edition",6.65,3.13
 "Mogg Sentry","9th Edition",0.47,0.00
-Mortivore,"9th Edition",1.19,0.10
+Mortivore,"9th Edition",1.33,0.10
 "Mountain (343)","9th Edition",0.24,0.00
 "Mountain (344)","9th Edition",0.22,0.00
 "Mountain (345)","9th Edition",0.41,0.00
 "Mountain (346)","9th Edition",0.21,0.00
-"Nantuko Husk","9th Edition",0.25,0.00
+"Nantuko Husk","9th Edition",0.24,0.00
 "Natural Affinity","9th Edition",0.61,0.10
 "Natural Spring","9th Edition",0.14,0.00
 Naturalize,"9th Edition",0.16,0.00
@@ -205,7 +205,7 @@ Nightmare,"9th Edition",0.41,0.00
 "Ogre Taskmaster","9th Edition",0.23,0.00
 "Oracle's Attendants","9th Edition",0.46,0.00
 "Orcish Artillery","9th Edition",0.24,0.00
-"Order of the Sacred Bell","9th Edition",0.15,0.00
+"Order of the Sacred Bell","9th Edition",0.14,0.00
 Ornithopter,"9th Edition",0.39,0.00
 Overgrowth,"9th Edition",0.37,0.00
 Pacifism,"9th Edition",0.15,0.00
@@ -219,7 +219,7 @@ Persecute,"9th Edition",0.71,0.10
 "Phyrexian Gargantua","9th Edition",0.24,0.00
 "Phyrexian Hulk","9th Edition",0.24,0.00
 Plagiarize,"9th Edition",0.42,0.00
-"Plague Beetle","9th Edition",0.16,0.00
+"Plague Beetle","9th Edition",0.15,0.00
 "Plague Wind","9th Edition",1.89,0.10
 "Plains (331)","9th Edition",0.19,0.00
 "Plains (332)","9th Edition",0.20,0.00
@@ -235,10 +235,10 @@ Quicksand,"9th Edition",0.24,0.00
 "Rathi Dragon","9th Edition",0.54,0.10
 "Ravenous Rats","9th Edition",0.17,0.00
 "Razortooth Rats","9th Edition",0.14,0.00
-Reclaim,"9th Edition",0.18,0.00
+Reclaim,"9th Edition",0.17,0.00
 Reflexes,"9th Edition",0.16,0.00
 Regeneration,"9th Edition",0.24,0.00
-"Relentless Assault","9th Edition",0.85,0.10
+"Relentless Assault","9th Edition",0.94,0.10
 Reminisce,"9th Edition",0.24,0.00
 "Remove Soul","9th Edition",0.17,0.00
 "Reverse Damage","9th Edition",0.47,0.00
@@ -271,9 +271,9 @@ Rootwalla,"9th Edition",0.14,0.00
 "Serra's Blessing","9th Edition",0.67,0.10
 "Shard Phoenix","9th Edition",0.47,0.00
 Shatter,"9th Edition",0.14,0.00
-"Shivan Dragon","9th Edition",0.45,0.00
+"Shivan Dragon","9th Edition",0.47,0.00
 "Shivan Reef","9th Edition",3.53,1.66
-Shock,"9th Edition",0.21,0.00
+Shock,"9th Edition",0.20,0.00
 Sift,"9th Edition",0.14,0.00
 "Silklash Spider","9th Edition",0.48,0.00
 "Skyhunter Prowler","9th Edition",0.14,0.00
@@ -285,7 +285,7 @@ Slay,"9th Edition",0.23,0.00
 Spellbook,"9th Edition",1.50,0.10
 "Spined Wurm","9th Edition",0.18,0.00
 "Spineless Thug","9th Edition",0.14,0.00
-"Spirit Link","9th Edition",0.64,0.10
+"Spirit Link","9th Edition",0.66,0.10
 "Stone Rain","9th Edition",0.24,0.00
 "Storage Matrix","9th Edition",5.12,2.41
 "Storm Crow","9th Edition",0.22,0.00
@@ -293,7 +293,7 @@ Spellbook,"9th Edition",1.50,0.10
 "Stream of Life","9th Edition",0.33,0.00
 "Sudden Impact","9th Edition",0.24,0.00
 "Sulfurous Springs","9th Edition",6.98,3.28
-"Summer Bloom","9th Edition",1.51,0.10
+"Summer Bloom","9th Edition",1.68,0.10
 "Suntail Hawk","9th Edition",0.14,0.00
 "Swamp (339)","9th Edition",0.38,0.00
 "Swamp (340)","9th Edition",0.27,0.00
@@ -301,15 +301,15 @@ Spellbook,"9th Edition",1.50,0.10
 "Swamp (342)","9th Edition",0.24,0.00
 "Swarm of Rats","9th Edition",1.09,0.10
 Tanglebloom,"9th Edition",0.24,0.00
-"Teferi's Puzzle Box","9th Edition",16.52,7.76
-Telepathy,"9th Edition",0.32,0.00
+"Teferi's Puzzle Box","9th Edition",16.58,7.79
+Telepathy,"9th Edition",0.31,0.00
 "Tempest of Light","9th Edition",0.24,0.00
-"Temporal Adept","9th Edition",0.63,0.10
+"Temporal Adept","9th Edition",0.68,0.10
 "Thieving Magpie","9th Edition",0.24,0.00
-"Thought Courier","9th Edition",0.23,0.00
+"Thought Courier","9th Edition",0.24,0.00
 "Thran Golem","9th Edition",0.42,0.00
 Threaten,"9th Edition",0.29,0.00
-Thundermare,"9th Edition",0.57,0.10
+Thundermare,"9th Edition",0.63,0.10
 "Tidal Kraken","9th Edition",0.71,0.10
 Tidings,"9th Edition",0.31,0.00
 "Time Ebb","9th Edition",0.14,0.00
@@ -320,16 +320,16 @@ Traumatize,"9th Edition",2.63,0.25
 "Tree Monkey","9th Edition",0.18,0.00
 "Treetop Bracers","9th Edition",0.14,0.00
 "Underground River","9th Edition",4.27,2.01
-"Underworld Dreams","9th Edition",3.56,1.67
+"Underworld Dreams","9th Edition",3.34,1.57
 "Unholy Strength","9th Edition",0.14,0.00
-"Ur-Golem's Eye","9th Edition",0.31,0.00
+"Ur-Golem's Eye","9th Edition",0.32,0.00
 "Urza's Mine","9th Edition",4.03,1.89
 "Urza's Power Plant","9th Edition",4.52,2.12
 "Urza's Tower","9th Edition",4.28,2.01
 "Utopia Tree","9th Edition",1.46,0.10
 "Venerable Monk","9th Edition",0.14,0.00
 Vengeance,"9th Edition",0.24,0.00
-"Verdant Force","9th Edition",0.58,0.10
+"Verdant Force","9th Edition",0.67,0.10
 "Verduran Enchantress","9th Edition",2.38,0.25
 "Veteran Cavalier","9th Edition",0.15,0.00
 "Viashino Sandstalker","9th Edition",0.22,0.00
@@ -342,7 +342,7 @@ Vizzerdrix,"9th Edition",0.38,0.00
 "Weathered Wayfarer","9th Edition",12.64,5.94
 Web,"9th Edition",0.24,0.00
 "Weird Harvest","9th Edition",0.95,0.10
-"Whip Sergeant","9th Edition",0.23,0.00
+"Whip Sergeant","9th Edition",0.24,0.00
 Wildfire,"9th Edition",0.50,0.00
 Will-o'-the-Wisp,"9th Edition",1.65,0.10
 "Wind Drake","9th Edition",0.14,0.00

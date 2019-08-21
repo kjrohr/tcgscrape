@@ -1,6 +1,6 @@
 "Product Name",Category,"Sell Price","Buy Price"
 "&quot;Ach! Hans, Run!&quot;",Unhinged,2.55,0.25
-_____,Unhinged,0.55,0.10
+_____,Unhinged,0.54,0.10
 "Aesthetic Consultation",Unhinged,0.46,0.00
 "Aesthetic Consultation (Alternate Foil)",Unhinged,0.00,0.00
 Ambiguity,Unhinged,0.90,0.10
@@ -9,17 +9,17 @@ Ambiguity,Unhinged,0.90,0.10
 Assquatch,Unhinged,1.46,0.10
 "Atinlay Igpay",Unhinged,0.24,0.00
 "Avatar of Me",Unhinged,1.90,0.10
-AWOL,Unhinged,0.65,0.10
+AWOL,Unhinged,0.66,0.10
 "AWOL (Alternate Foil)",Unhinged,0.00,0.00
 "Bad Ass",Unhinged,0.24,0.00
 "Bad Ass (Alternate Foil)",Unhinged,0.00,0.00
 B-I-N-G-O,Unhinged,1.89,0.10
-"Blast from the Past",Unhinged,3.11,1.46
+"Blast from the Past",Unhinged,3.12,1.47
 Bloodletter,Unhinged,0.19,0.00
 "Booster Tutor",Unhinged,1.47,0.10
 "Bosom Buddy",Unhinged,0.29,0.00
 "Brushstroke Paintermage",Unhinged,0.23,0.00
-"Bursting Beebles",Unhinged,0.21,0.00
+"Bursting Beebles",Unhinged,0.19,0.00
 Cardpecker,Unhinged,0.24,0.00
 "Cardpecker (Alternate Foil)",Unhinged,0.00,0.00
 "Carnivorous Death-Parrot",Unhinged,0.27,0.00
@@ -29,7 +29,7 @@ Cheatyface,Unhinged,3.20,1.50
 "City of Ass",Unhinged,6.75,3.17
 "Collector Protector",Unhinged,0.45,0.00
 "Creature Guy",Unhinged,0.28,0.00
-"Curse of the Fire Penguin",Unhinged,1.04,0.10
+"Curse of the Fire Penguin",Unhinged,1.07,0.10
 "Deal Damage",Unhinged,0.33,0.00
 "Double Header",Unhinged,0.23,0.00
 "Drawn Together",Unhinged,0.47,0.00
@@ -44,25 +44,25 @@ Emcee,Unhinged,0.44,0.00
 "Face to Face",Unhinged,0.30,0.00
 "Farewell to Arms",Unhinged,0.24,0.00
 "Farewell to Arms (Alternate Foil)",Unhinged,0.00,0.00
-"Fascist Art Director",Unhinged,0.22,0.00
+"Fascist Art Director",Unhinged,0.21,0.00
 "Fat Ass",Unhinged,0.24,0.00
 "First Come, First Served",Unhinged,0.24,0.00
 Flaccify,Unhinged,0.23,0.00
 "Forest - Full Art",Unhinged,8.54,4.01
 "Form of the Squirrel",Unhinged,3.01,1.41
 "Fraction Jackson",Unhinged,0.48,0.00
-Framed!,Unhinged,0.21,0.00
+Framed!,Unhinged,0.19,0.00
 "Frankie Peanuts",Unhinged,3.11,1.46
 "Frazzled Editor",Unhinged,0.24,0.00
 "Frazzled Editor (Alternate Foil)",Unhinged,0.00,0.00
 Gleemax,Unhinged,3.54,1.66
 "Gleemax (Alternate Foil)",Unhinged,0.00,0.00
 "Gluetius Maximus",Unhinged,0.24,0.00
-"Goblin Mime",Unhinged,0.18,0.00
+"Goblin Mime",Unhinged,0.19,0.00
 "Goblin Mime (Alternate Foil)",Unhinged,0.00,0.00
 "Goblin S.W.A.T. Team",Unhinged,0.24,0.00
-"Goblin Secret Agent",Unhinged,0.18,0.00
-"Granny's Payback",Unhinged,0.42,0.00
+"Goblin Secret Agent",Unhinged,0.17,0.00
+"Granny's Payback",Unhinged,0.41,0.00
 "Graphic Violence",Unhinged,0.19,0.00
 "Greater Morphling",Unhinged,2.00,0.25
 "Head to Head",Unhinged,0.24,0.00
@@ -73,8 +73,8 @@ Gleemax,Unhinged,3.54,1.66
 "Kill! Destroy!",Unhinged,0.94,0.10
 "Ladies' Knight",Unhinged,0.24,0.00
 "Land Aid '04",Unhinged,0.23,0.00
-"Laughing Hyena",Unhinged,0.23,0.00
-"Letter Bomb",Unhinged,2.20,0.25
+"Laughing Hyena",Unhinged,0.21,0.00
+"Letter Bomb",Unhinged,2.33,0.25
 "Letter Bomb (Alternate Foil)",Unhinged,0.00,0.00
 "Little Girl",Unhinged,0.33,0.00
 "Look at Me, I'm R&amp;D",Unhinged,1.25,0.10
@@ -82,7 +82,7 @@ Gleemax,Unhinged,3.54,1.66
 "Magical Hacker",Unhinged,0.40,0.00
 "Man of Measure",Unhinged,0.24,0.00
 "Mana Flair",Unhinged,0.19,0.00
-"Mana Screw",Unhinged,0.67,0.10
+"Mana Screw",Unhinged,0.69,0.10
 "Mana Screw (Alternate Foil)",Unhinged,0.00,0.00
 "Meddling Kids",Unhinged,0.96,0.10
 Mise,Unhinged,0.25,0.00
@@ -90,9 +90,9 @@ Mise,Unhinged,0.25,0.00
 "Monkey Monkey Monkey",Unhinged,0.20,0.00
 "Monkey Monkey Monkey (Alternate Foil)",Unhinged,0.00,0.00
 "Mons's Goblin Waiters",Unhinged,0.19,0.00
-"Mother of Goons",Unhinged,0.21,0.00
+"Mother of Goons",Unhinged,0.20,0.00
 "Mountain - Full Art",Unhinged,7.59,3.57
-"Mouth to Mouth",Unhinged,0.26,0.00
+"Mouth to Mouth",Unhinged,0.25,0.00
 "Mox Lotus",Unhinged,7.60,3.57
 "Mox Lotus (Alternate Foil)",Unhinged,0.00,0.00
 "My First Tome",Unhinged,0.29,0.00
@@ -101,7 +101,7 @@ Mise,Unhinged,0.25,0.00
 Necro-Impotence,Unhinged,0.53,0.10
 "Now I Know My ABC's",Unhinged,2.43,0.25
 "Number Crunch",Unhinged,0.23,0.00
-"Old Fogey",Unhinged,2.70,0.25
+"Old Fogey",Unhinged,2.61,0.25
 "Orcish Paratroopers",Unhinged,0.19,0.00
 "Our Market Research Shows That Players Like Really Long Card Names....",Unhinged,0.26,0.00
 "Persecute Artist",Unhinged,0.24,0.00
@@ -114,12 +114,12 @@ Punctuate,Unhinged,0.19,0.00
 "Question Elemental? (Alternate Foil)",Unhinged,0.00,0.00
 "R&amp;D's Secret Lair",Unhinged,1.86,0.10
 Rare-B-Gone,Unhinged,1.60,0.10
-"Red-Hot Hottie",Unhinged,0.31,0.00
-Remodel,Unhinged,0.19,0.00
+"Red-Hot Hottie",Unhinged,0.30,0.00
+Remodel,Unhinged,0.18,0.00
 "Richard Garfield, Ph.D.",Unhinged,5.68,2.67
 "Richard Garfield, Ph.D. (Alternate Foil)",Unhinged,0.00,0.00
 "Rocket-Powered Turbo Slug",Unhinged,0.71,0.10
-"Rod of Spanking",Unhinged,0.90,0.10
+"Rod of Spanking",Unhinged,0.86,0.10
 S.N.O.T.,Unhinged,0.29,0.00
 Saut&#233;,Unhinged,0.21,0.00
 "Save Life",Unhinged,0.33,0.00
@@ -132,10 +132,10 @@ Saut&#233;,Unhinged,0.21,0.00
 "Standing Army",Unhinged,0.21,0.00
 "Staying Power",Unhinged,1.90,0.10
 "Stone-Cold Basilisk",Unhinged,0.30,0.00
-"Stop That",Unhinged,0.24,0.00
+"Stop That",Unhinged,0.23,0.00
 "Super Secret Tech",Unhinged,0.00,0.00
 Supersize,Unhinged,0.19,0.00
-"Swamp - Full Art",Unhinged,7.48,3.52
+"Swamp - Full Art",Unhinged,8.05,3.78
 "Symbol Status",Unhinged,0.24,0.00
 "Tainted Monkey",Unhinged,0.21,0.00
 "The Fallen Apart",Unhinged,0.20,0.00
@@ -143,13 +143,13 @@ Supersize,Unhinged,0.19,0.00
 "Time Machine (Alternate Foil)",Unhinged,0.00,0.00
 Togglodyte,Unhinged,0.24,0.00
 "Topsy Turvy",Unhinged,1.87,0.10
-"Touch and Go",Unhinged,0.20,0.00
-"Toy Boat",Unhinged,0.40,0.00
-"Uktabi Kong",Unhinged,0.86,0.10
+"Touch and Go",Unhinged,0.19,0.00
+"Toy Boat",Unhinged,0.37,0.00
+"Uktabi Kong",Unhinged,0.87,0.10
 "Urza's Hot Tub",Unhinged,0.26,0.00
 "Vile Bile",Unhinged,0.23,0.00
 "Water Gun Balloon Game",Unhinged,1.83,0.10
-"Wet Willie of the Damned",Unhinged,0.22,0.00
+"Wet Willie of the Damned",Unhinged,0.21,0.00
 "When Fluffy Bunnies Attack",Unhinged,0.22,0.00
 "When Fluffy Bunnies Attack (Alternate Foil)",Unhinged,0.00,0.00
 "Who // What // When // Where // Why",Unhinged,3.52,1.65
@@ -158,4 +158,4 @@ Wordmail,Unhinged,0.24,0.00
 "World-Bottling Kit",Unhinged,0.62,0.10
 "Yet Another Aether Vortex",Unhinged,1.63,0.10
 "Zombie Fanboy",Unhinged,0.24,0.00
-"Zzzyxas's Abyss",Unhinged,0.74,0.10
+"Zzzyxas's Abyss",Unhinged,0.80,0.10

@@ -2,24 +2,24 @@
 "Affectionate Indrik","Guilds of Ravnica",0.20,0.00
 "Angel Token","Guilds of Ravnica",0.48,0.00
 "Arboretum Elemental","Guilds of Ravnica",0.22,0.00
-"Arclight Phoenix","Guilds of Ravnica",20.74,9.75
+"Arclight Phoenix","Guilds of Ravnica",20.82,9.79
 "Artful Takedown","Guilds of Ravnica",0.14,0.00
 "Assassin's Trophy","Guilds of Ravnica",12.35,5.80
 "Assure // Assemble","Guilds of Ravnica",0.35,0.00
 "Attendant of Vraska","Guilds of Ravnica",0.24,0.00
-"Aurelia, Exemplar of Justice","Guilds of Ravnica",3.44,1.62
+"Aurelia, Exemplar of Justice","Guilds of Ravnica",3.49,1.64
 "Barging Sergeant","Guilds of Ravnica",0.14,0.00
 "Barrier of Bones","Guilds of Ravnica",0.14,0.00
 "Bartizan Bats","Guilds of Ravnica",0.14,0.00
 "Beacon Bolt","Guilds of Ravnica",0.23,0.00
 "Beamsplitter Mage","Guilds of Ravnica",0.23,0.00
-"Beast Whisperer","Guilds of Ravnica",2.47,0.25
+"Beast Whisperer","Guilds of Ravnica",2.46,0.25
 "Bird Illusion Token","Guilds of Ravnica",0.17,0.00
 "Blade Instructor","Guilds of Ravnica",0.14,0.00
 "Blood Operative","Guilds of Ravnica",0.34,0.00
-"Book Devourer","Guilds of Ravnica",0.23,0.00
+"Book Devourer","Guilds of Ravnica",0.22,0.00
 "Boros Challenger","Guilds of Ravnica",0.24,0.00
-"Boros Guildgate (243)","Guilds of Ravnica",0.15,0.00
+"Boros Guildgate (243)","Guilds of Ravnica",0.14,0.00
 "Boros Guildgate (244)","Guilds of Ravnica",0.14,0.00
 "Boros Locket","Guilds of Ravnica",0.14,0.00
 "Bounty Agent","Guilds of Ravnica",0.37,0.00
@@ -34,7 +34,7 @@ Camaraderie,"Guilds of Ravnica",0.33,0.00
 "Charnel Troll","Guilds of Ravnica",0.47,0.00
 "Chemister's Insight","Guilds of Ravnica",0.48,0.00
 "Child of Night","Guilds of Ravnica",0.14,0.00
-"Chromatic Lantern","Guilds of Ravnica",7.06,3.32
+"Chromatic Lantern","Guilds of Ravnica",7.02,3.30
 "Circuitous Route","Guilds of Ravnica",0.92,0.10
 "Citywatch Sphinx","Guilds of Ravnica",0.20,0.00
 "Citywide Bust","Guilds of Ravnica",0.38,0.00
@@ -42,11 +42,11 @@ Camaraderie,"Guilds of Ravnica",0.33,0.00
 "Command the Storm","Guilds of Ravnica",0.14,0.00
 "Conclave Cavalier","Guilds of Ravnica",0.23,0.00
 "Conclave Guildmage","Guilds of Ravnica",0.23,0.00
-"Conclave Tribunal","Guilds of Ravnica",0.27,0.00
+"Conclave Tribunal","Guilds of Ravnica",0.28,0.00
 "Connive // Concoct","Guilds of Ravnica",0.47,0.00
 "Cosmotronic Wave","Guilds of Ravnica",0.14,0.00
 "Crackling Drake","Guilds of Ravnica",0.32,0.00
-"Creeping Chill","Guilds of Ravnica",0.42,0.00
+"Creeping Chill","Guilds of Ravnica",0.40,0.00
 "Crush Contraband","Guilds of Ravnica",0.24,0.00
 "Crushing Canopy","Guilds of Ravnica",0.14,0.00
 "Darkblade Agent","Guilds of Ravnica",0.14,0.00
@@ -64,7 +64,7 @@ Demotion,"Guilds of Ravnica",0.20,0.00
 "Dimir Locket","Guilds of Ravnica",0.14,0.00
 "Dimir Spybug","Guilds of Ravnica",0.24,0.00
 "Direct Current","Guilds of Ravnica",0.14,0.00
-"Discovery // Dispersal","Guilds of Ravnica",1.19,0.10
+"Discovery // Dispersal","Guilds of Ravnica",1.18,0.10
 "Disdainful Stroke","Guilds of Ravnica",0.14,0.00
 "Disinformation Campaign","Guilds of Ravnica",0.24,0.00
 "District Guide","Guilds of Ravnica",0.23,0.00
@@ -76,14 +76,14 @@ Demotion,"Guilds of Ravnica",0.20,0.00
 "Electrostatic Field","Guilds of Ravnica",0.37,0.00
 "Elf Knight Token","Guilds of Ravnica",0.14,0.00
 "Emblem - Ral, Izzet Viceroy","Guilds of Ravnica",0.24,0.00
-"Emblem - Vraska, Golgari Queen","Guilds of Ravnica",0.24,0.00
+"Emblem - Vraska, Golgari Queen","Guilds of Ravnica",0.26,0.00
 "Emmara, Soul of the Accord","Guilds of Ravnica",0.48,0.00
 "Enhanced Surveillance","Guilds of Ravnica",0.23,0.00
 "Erratic Cyclops","Guilds of Ravnica",0.32,0.00
 "Erstwhile Trooper","Guilds of Ravnica",0.14,0.00
 "Etrata, the Silencer","Guilds of Ravnica",0.48,0.00
-"Expansion // Explosion","Guilds of Ravnica",1.81,0.10
-"Experimental Frenzy","Guilds of Ravnica",1.39,0.10
+"Expansion // Explosion","Guilds of Ravnica",1.89,0.10
+"Experimental Frenzy","Guilds of Ravnica",1.38,0.10
 "Fearless Halberdier","Guilds of Ravnica",0.14,0.00
 "Find // Finality","Guilds of Ravnica",0.48,0.00
 "Fire Urchin","Guilds of Ravnica",0.14,0.00
@@ -109,7 +109,7 @@ Forest,"Guilds of Ravnica",0.25,0.00
 "Golgari Guildgate (249)","Guilds of Ravnica",0.14,0.00
 "Golgari Locket","Guilds of Ravnica",0.15,0.00
 "Golgari Raiders","Guilds of Ravnica",0.22,0.00
-"Grappling Sundew","Guilds of Ravnica",0.22,0.00
+"Grappling Sundew","Guilds of Ravnica",0.21,0.00
 "Gravitic Punch","Guilds of Ravnica",0.14,0.00
 "Gruesome Menagerie","Guilds of Ravnica",0.47,0.00
 "Guild Summit","Guilds of Ravnica",0.47,0.00
@@ -151,13 +151,13 @@ Leapfrog,"Guilds of Ravnica",0.14,0.00
 "Ledev Champion","Guilds of Ravnica",0.23,0.00
 "Ledev Guardian","Guilds of Ravnica",0.14,0.00
 "Legion Guildmage","Guilds of Ravnica",0.21,0.00
-"Legion Warboss","Guilds of Ravnica",3.90,1.83
+"Legion Warboss","Guilds of Ravnica",4.18,1.96
 "Light of the Legion","Guilds of Ravnica",0.37,0.00
 "Lotleth Giant","Guilds of Ravnica",0.21,0.00
 "Loxodon Restorer","Guilds of Ravnica",0.14,0.00
 "Luminous Bonds","Guilds of Ravnica",0.14,0.00
 "Maniacal Rage","Guilds of Ravnica",0.14,0.00
-"March of the Multitudes","Guilds of Ravnica",3.23,1.52
+"March of the Multitudes","Guilds of Ravnica",3.29,1.55
 "Mausoleum Secrets","Guilds of Ravnica",0.51,0.10
 "Maximize Altitude","Guilds of Ravnica",0.14,0.00
 "Maximize Velocity","Guilds of Ravnica",0.15,0.00
@@ -165,7 +165,7 @@ Leapfrog,"Guilds of Ravnica",0.14,0.00
 "Midnight Reaper","Guilds of Ravnica",2.07,0.25
 "Might of the Masses","Guilds of Ravnica",0.19,0.00
 "Mission Briefing","Guilds of Ravnica",1.42,0.10
-"Mnemonic Betrayal","Guilds of Ravnica",0.89,0.10
+"Mnemonic Betrayal","Guilds of Ravnica",0.87,0.10
 Molderhulk,"Guilds of Ravnica",0.24,0.00
 "Moodmark Painter","Guilds of Ravnica",0.14,0.00
 Mountain,"Guilds of Ravnica",0.23,0.00
@@ -176,13 +176,13 @@ Narcomoeba,"Guilds of Ravnica",0.47,0.00
 "Never Happened","Guilds of Ravnica",0.14,0.00
 "Nightveil Predator","Guilds of Ravnica",0.24,0.00
 "Nightveil Sprite","Guilds of Ravnica",0.25,0.00
-"Niv-Mizzet, Parun","Guilds of Ravnica",1.31,0.10
+"Niv-Mizzet, Parun","Guilds of Ravnica",1.30,0.10
 "Notion Rain","Guilds of Ravnica",0.16,0.00
 "Nullhide Ferox","Guilds of Ravnica",2.39,0.25
 "Ochran Assassin","Guilds of Ravnica",0.23,0.00
 "Omnispell Adept","Guilds of Ravnica",0.38,0.00
 "Ornery Goblin","Guilds of Ravnica",0.14,0.00
-"Overgrown Tomb","Guilds of Ravnica",6.54,3.07
+"Overgrown Tomb","Guilds of Ravnica",6.58,3.09
 "Pack's Favor","Guilds of Ravnica",0.14,0.00
 "Parhelion Patrol","Guilds of Ravnica",0.14,0.00
 "Passwall Adept","Guilds of Ravnica",0.14,0.00
@@ -191,29 +191,29 @@ Narcomoeba,"Guilds of Ravnica",0.47,0.00
 "Pilfering Imp","Guilds of Ravnica",0.23,0.00
 "Piston-Fist Cyclops","Guilds of Ravnica",0.14,0.00
 "Pitiless Gorgon","Guilds of Ravnica",0.14,0.00
-Plaguecrafter,"Guilds of Ravnica",0.55,0.10
+Plaguecrafter,"Guilds of Ravnica",0.54,0.10
 Plains,"Guilds of Ravnica",0.18,0.00
 "Portcullis Vine","Guilds of Ravnica",0.14,0.00
 "Precision Bolt","Guilds of Ravnica",0.19,0.00
 "Prey Upon","Guilds of Ravnica",0.14,0.00
 "Price of Fame","Guilds of Ravnica",0.24,0.00
-Quasiduplicate,"Guilds of Ravnica",0.70,0.10
+Quasiduplicate,"Guilds of Ravnica",0.71,0.10
 "Radical Idea","Guilds of Ravnica",0.17,0.00
 "Ral, Caller of Storms","Guilds of Ravnica",0.00,0.00
-"Ral, Izzet Viceroy","Guilds of Ravnica",3.16,1.49
-"Ral's Dispersal","Guilds of Ravnica",0.46,0.00
+"Ral, Izzet Viceroy","Guilds of Ravnica",3.08,1.45
+"Ral's Dispersal","Guilds of Ravnica",0.45,0.00
 "Ral's Staticaster","Guilds of Ravnica",0.24,0.00
 "Rampaging Monument","Guilds of Ravnica",0.20,0.00
 "Response // Resurgence","Guilds of Ravnica",0.46,0.00
 "Rhizome Lurcher","Guilds of Ravnica",0.14,0.00
 "Righteous Blow","Guilds of Ravnica",0.14,0.00
-"Risk Factor","Guilds of Ravnica",3.14,1.48
+"Risk Factor","Guilds of Ravnica",3.19,1.50
 "Ritual of Soot","Guilds of Ravnica",0.94,0.10
 "Roc Charger","Guilds of Ravnica",0.19,0.00
 "Rosemane Centaur","Guilds of Ravnica",0.14,0.00
 "Rubblebelt Boar","Guilds of Ravnica",0.14,0.00
-"Runaway Steam-Kin","Guilds of Ravnica",1.19,0.10
-"Sacred Foundry","Guilds of Ravnica",7.84,3.68
+"Runaway Steam-Kin","Guilds of Ravnica",1.20,0.10
+"Sacred Foundry","Guilds of Ravnica",7.82,3.68
 "Selective Snare","Guilds of Ravnica",0.21,0.00
 "Selesnya Guildgate (255)","Guilds of Ravnica",0.16,0.00
 "Selesnya Guildgate (256)","Guilds of Ravnica",0.18,0.00
@@ -233,27 +233,27 @@ Quasiduplicate,"Guilds of Ravnica",0.70,0.10
 "Steam Vents","Guilds of Ravnica",12.83,6.03
 "Street Riot","Guilds of Ravnica",0.21,0.00
 "Sumala Woodshaper","Guilds of Ravnica",0.14,0.00
-"Sunhome Stalwart","Guilds of Ravnica",0.23,0.00
+"Sunhome Stalwart","Guilds of Ravnica",0.22,0.00
 "Sure Strike","Guilds of Ravnica",0.14,0.00
 Swamp,"Guilds of Ravnica",0.31,0.00
 "Swarm Guildmage","Guilds of Ravnica",0.22,0.00
-"Swathcutter Giant","Guilds of Ravnica",0.20,0.00
+"Swathcutter Giant","Guilds of Ravnica",0.19,0.00
 "Swiftblade Vindicator","Guilds of Ravnica",0.56,0.10
 "Sworn Companions","Guilds of Ravnica",0.14,0.00
-"Tajic, Legion's Edge","Guilds of Ravnica",0.67,0.10
+"Tajic, Legion's Edge","Guilds of Ravnica",0.66,0.10
 "Take Heart","Guilds of Ravnica",0.14,0.00
-"Temple Garden","Guilds of Ravnica",7.25,3.41
+"Temple Garden","Guilds of Ravnica",7.24,3.40
 "Tenth District Guard","Guilds of Ravnica",0.14,0.00
-"Thief of Sanity","Guilds of Ravnica",3.07,1.44
+"Thief of Sanity","Guilds of Ravnica",3.10,1.46
 "Thought Erasure","Guilds of Ravnica",0.95,0.10
 "Thoughtbound Phantasm","Guilds of Ravnica",0.24,0.00
 "Thousand-Year Storm","Guilds of Ravnica",3.14,1.48
 "Torch Courier","Guilds of Ravnica",0.14,0.00
-"Trostani Discordant","Guilds of Ravnica",2.28,0.25
+"Trostani Discordant","Guilds of Ravnica",2.36,0.25
 "Truefire Captain","Guilds of Ravnica",0.24,0.00
 "Undercity Necrolisk","Guilds of Ravnica",0.19,0.00
 "Undercity Uprising","Guilds of Ravnica",0.14,0.00
-"Underrealm Lich","Guilds of Ravnica",1.98,0.10
+"Underrealm Lich","Guilds of Ravnica",1.90,0.10
 "Unexplained Disappearance","Guilds of Ravnica",0.14,0.00
 "Unmoored Ego","Guilds of Ravnica",1.05,0.10
 "Urban Utopia","Guilds of Ravnica",0.14,0.00
@@ -264,7 +264,7 @@ Swamp,"Guilds of Ravnica",0.31,0.00
 "Vicious Rumors","Guilds of Ravnica",0.18,0.00
 "Vigorspore Wurm","Guilds of Ravnica",0.14,0.00
 "Vivid Revival","Guilds of Ravnica",0.32,0.00
-"Vraska, Golgari Queen","Guilds of Ravnica",6.64,3.12
+"Vraska, Golgari Queen","Guilds of Ravnica",6.65,3.13
 "Vraska, Regal Gorgon","Guilds of Ravnica",0.00,0.00
 "Vraska's Stoneglare","Guilds of Ravnica",0.47,0.00
 "Wall of Mist","Guilds of Ravnica",0.14,0.00

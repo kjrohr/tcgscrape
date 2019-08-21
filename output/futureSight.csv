@@ -1,6 +1,6 @@
 "Product Name",Category,"Sell Price","Buy Price"
-"Akroma's Memorial","Future Sight",21.84,10.26
-"Angel of Salvation","Future Sight",0.48,0.00
+"Akroma's Memorial","Future Sight",21.85,10.27
+"Angel of Salvation","Future Sight",0.49,0.00
 "Arc Blade","Future Sight",0.35,0.00
 "Arcanum Wings","Future Sight",0.47,0.00
 "Augur il-Vec","Future Sight",0.19,0.00
@@ -9,7 +9,7 @@
 "Aven Mindcensor","Future Sight",1.43,0.10
 "Barren Glory","Future Sight",0.71,0.10
 "Baru, Fist of Krosa","Future Sight",0.94,0.10
-"Bitter Ordeal","Future Sight",15.19,7.14
+"Bitter Ordeal","Future Sight",14.95,7.03
 "Blade of the Sixth Pride","Future Sight",0.20,0.00
 "Blind Phantasm","Future Sight",0.18,0.00
 "Bloodshot Trainee","Future Sight",0.23,0.00
@@ -17,13 +17,13 @@
 "Boldwyr Intimidator","Future Sight",0.24,0.00
 "Bonded Fetch","Future Sight",0.29,0.00
 "Bound in Silence","Future Sight",0.24,0.00
-"Bridge from Below","Future Sight",13.24,6.22
+"Bridge from Below","Future Sight",13.19,6.20
 "Centaur Omenreader","Future Sight",0.28,0.00
 Char-Rumbler,"Future Sight",0.24,0.00
 "Chronomantic Escape","Future Sight",0.34,0.00
-"Cloud Key","Future Sight",15.91,7.48
+"Cloud Key","Future Sight",15.69,7.37
 Cloudseeder,"Future Sight",0.24,0.00
-"Coalition Relic","Future Sight",10.66,5.01
+"Coalition Relic","Future Sight",10.65,5.01
 "Cryptic Annelid","Future Sight",0.26,0.00
 "Cutthroat il-Dal","Future Sight",0.17,0.00
 "Cyclical Evolution","Future Sight",0.24,0.00
@@ -46,7 +46,7 @@ Fleshwrither,"Future Sight",0.92,0.10
 "Flowstone Embrace","Future Sight",0.17,0.00
 "Fomori Nomad","Future Sight",0.18,0.00
 "Force of Savagery","Future Sight",1.35,0.10
-Foresee,"Future Sight",0.20,0.00
+Foresee,"Future Sight",0.21,0.00
 "Frenzy Sliver","Future Sight",0.24,0.00
 "Gathan Raiders","Future Sight",0.18,0.00
 Ghostfire,"Future Sight",0.18,0.00
@@ -55,20 +55,20 @@ Ghostfire,"Future Sight",0.18,0.00
 "Glittering Wish","Future Sight",6.64,3.12
 "Goldmeadow Lookout","Future Sight",0.24,0.00
 "Grave Peril","Future Sight",0.17,0.00
-"Grave Scrabbler","Future Sight",0.33,0.00
-"Graven Cairns","Future Sight",4.86,2.28
+"Grave Scrabbler","Future Sight",0.45,0.00
+"Graven Cairns","Future Sight",4.83,2.27
 "Grinning Ignus","Future Sight",0.20,0.00
-"Grove of the Burnwillows","Future Sight",19.86,9.33
+"Grove of the Burnwillows","Future Sight",19.84,9.32
 "Haze of Rage","Future Sight",0.80,0.10
-"Heartwood Storyteller","Future Sight",7.49,3.52
+"Heartwood Storyteller","Future Sight",7.41,3.48
 "Henchfiend of Ukor","Future Sight",0.18,0.00
 "Homing Sliver","Future Sight",0.69,0.10
-"Horizon Canopy","Future Sight",80.64,37.90
-"Ichor Slick","Future Sight",0.18,0.00
+"Horizon Canopy","Future Sight",80.55,37.86
+"Ichor Slick","Future Sight",0.17,0.00
 "Imperial Mask","Future Sight",0.48,0.00
 Imperiosaur,"Future Sight",0.24,0.00
 "Infiltrator il-Kor","Future Sight",0.18,0.00
-"Intervention Pact","Future Sight",2.62,0.25
+"Intervention Pact","Future Sight",2.57,0.25
 "Jhoira of the Ghitu","Future Sight",2.22,0.25
 "Judge Unworthy","Future Sight",0.19,0.00
 "Kavu Primarch","Future Sight",0.16,0.00
@@ -99,10 +99,10 @@ Imperiosaur,"Future Sight",0.24,0.00
 "Minions' Murmurs","Future Sight",0.24,0.00
 "Mistmeadow Skulk","Future Sight",0.24,0.00
 "Molten Disaster","Future Sight",0.47,0.00
-"Muraganda Petroglyphs","Future Sight",5.70,2.68
+"Muraganda Petroglyphs","Future Sight",6.45,3.03
 "Mystic Speculation","Future Sight",1.45,0.10
 "Nacatl War-Pride","Future Sight",1.66,0.10
-Narcomoeba,"Future Sight",2.07,0.25
+Narcomoeba,"Future Sight",2.06,0.25
 "Nessian Courser","Future Sight",0.17,0.00
 "New Benalia","Future Sight",0.24,0.00
 Nihilith,"Future Sight",0.90,0.10
@@ -110,7 +110,7 @@ Nihilith,"Future Sight",0.90,0.10
 Nix,"Future Sight",1.61,0.10
 "Oblivion Crown","Future Sight",0.19,0.00
 "Oriss, Samite Guardian","Future Sight",0.95,0.10
-"Pact of Negation","Future Sight",20.11,9.45
+"Pact of Negation","Future Sight",20.27,9.53
 "Pact of the Titan","Future Sight",2.96,0.25
 "Patrician's Scorn","Future Sight",0.23,0.00
 "Petrified Plating","Future Sight",0.18,0.00
@@ -126,13 +126,13 @@ Quagnoth,"Future Sight",0.47,0.00
 "Riddle of Lightning","Future Sight",0.18,0.00
 "Rift Elemental","Future Sight",0.21,0.00
 Riftsweeper,"Future Sight",1.90,0.10
-"Rites of Flourishing","Future Sight",3.32,1.56
+"Rites of Flourishing","Future Sight",3.31,1.56
 "River of Tears","Future Sight",3.67,1.72
 Saltskitter,"Future Sight",0.18,0.00
 "Samite Censer-Bearer","Future Sight",0.18,0.00
 "Sarcomite Myr","Future Sight",0.20,0.00
-"Scourge of Kher Ridges","Future Sight",3.49,1.64
-"Scout's Warning","Future Sight",1.80,0.10
+"Scourge of Kher Ridges","Future Sight",3.44,1.62
+"Scout's Warning","Future Sight",1.77,0.10
 "Second Wind","Future Sight",0.28,0.00
 "Seht's Tiger","Future Sight",0.62,0.10
 "Shah of Naar Isle","Future Sight",0.47,0.00
@@ -141,8 +141,8 @@ Saltskitter,"Future Sight",0.18,0.00
 "Shivan Sand-Mage","Future Sight",0.55,0.10
 "Skirk Ridge Exhumer","Future Sight",0.33,0.00
 "Skizzik Surger","Future Sight",0.24,0.00
-"Slaughter Pact","Future Sight",3.78,1.78
-"Sliver Legion","Future Sight",99.88,46.94
+"Slaughter Pact","Future Sight",3.55,1.67
+"Sliver Legion","Future Sight",108.10,64.86
 Sliversmith,"Future Sight",0.35,0.00
 "Snake Cult Initiation","Future Sight",0.31,0.00
 "Soultether Golem","Future Sight",0.24,0.00
@@ -155,12 +155,12 @@ Sparkspitter,"Future Sight",0.24,0.00
 "Sprout Swarm","Future Sight",0.89,0.10
 "Steamflogger Boss","Future Sight",1.43,0.10
 "Storm Entity","Future Sight",0.29,0.00
-"Street Wraith","Future Sight",4.75,2.23
-"Stronghold Rats","Future Sight",0.90,0.10
-"Summoner's Pact","Future Sight",17.48,8.22
+"Street Wraith","Future Sight",4.74,2.23
+"Stronghold Rats","Future Sight",0.79,0.10
+"Summoner's Pact","Future Sight",17.27,8.12
 "Sword of the Meek","Future Sight",22.72,10.68
 "Take Possession","Future Sight",0.47,0.00
-Tarmogoyf,"Future Sight",80.74,37.95
+Tarmogoyf,"Future Sight",79.51,37.37
 "Tarox Bladewing","Future Sight",0.48,0.00
 "Thornweald Archer","Future Sight",0.22,0.00
 "Thunderblade Charge","Future Sight",0.46,0.00
@@ -169,7 +169,7 @@ Tombstalker,"Future Sight",2.44,0.25
 "Unblinking Bleb","Future Sight",0.24,0.00
 "Utopia Mycon","Future Sight",4.85,2.28
 "Vedalken Aethermage","Future Sight",0.30,0.00
-"Veilstone Amulet","Future Sight",5.46,2.57
+"Veilstone Amulet","Future Sight",5.47,2.57
 "Venser, Shaper Savant","Future Sight",8.75,4.11
 "Venser's Diffusion","Future Sight",0.17,0.00
 "Virulent Sliver","Future Sight",1.17,0.10
@@ -177,5 +177,5 @@ Whetwheel,"Future Sight",0.47,0.00
 "Whip-Spine Drake","Future Sight",0.17,0.00
 "Witch's Mist","Future Sight",0.24,0.00
 "Wrap in Vigor","Future Sight",0.27,0.00
-"Yixlid Jailer","Future Sight",4.51,2.12
+"Yixlid Jailer","Future Sight",4.75,2.23
 "Zoetic Cavern","Future Sight",0.24,0.00

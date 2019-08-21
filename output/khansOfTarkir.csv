@@ -33,9 +33,9 @@
 "Bloodfire Expert","Khans of Tarkir",0.15,0.00
 "Bloodfire Mentor","Khans of Tarkir",0.15,0.00
 "Bloodsoaked Champion","Khans of Tarkir",0.48,0.00
-"Bloodstained Mire","Khans of Tarkir",28.34,13.32
+"Bloodstained Mire","Khans of Tarkir",28.18,13.24
 "Blossoming Sands","Khans of Tarkir",0.21,0.00
-"Brave the Sands","Khans of Tarkir",0.56,0.10
+"Brave the Sands","Khans of Tarkir",0.57,0.10
 "Briber's Purse","Khans of Tarkir",0.24,0.00
 "Bring Low","Khans of Tarkir",0.14,0.00
 "Burn Away","Khans of Tarkir",0.24,0.00
@@ -53,10 +53,10 @@ Cancel,"Khans of Tarkir",0.15,0.00
 "Dead Drop","Khans of Tarkir",0.24,0.00
 "Death Frenzy","Khans of Tarkir",0.24,0.00
 "Debilitating Injury","Khans of Tarkir",0.14,0.00
-"Defiant Strike","Khans of Tarkir",0.23,0.00
+"Defiant Strike","Khans of Tarkir",0.21,0.00
 "Deflecting Palm","Khans of Tarkir",1.43,0.10
 Despise,"Khans of Tarkir",0.24,0.00
-"Dig Through Time","Khans of Tarkir",1.50,0.10
+"Dig Through Time","Khans of Tarkir",1.53,0.10
 "Disdainful Stroke","Khans of Tarkir",0.17,0.00
 "Dismal Backwater","Khans of Tarkir",0.21,0.00
 "Disowned Ancestor","Khans of Tarkir",0.14,0.00
@@ -77,7 +77,7 @@ Erase,"Khans of Tarkir",0.16,0.00
 "Feat of Resistance","Khans of Tarkir",0.20,0.00
 "Feed the Clan","Khans of Tarkir",0.19,0.00
 "Firehoof Cavalry","Khans of Tarkir",0.14,0.00
-"Flooded Strand","Khans of Tarkir",23.65,11.12
+"Flooded Strand","Khans of Tarkir",23.56,11.07
 "Flying Crane Technique","Khans of Tarkir",0.29,0.00
 "Force Away","Khans of Tarkir",0.14,0.00
 "Forest (266)","Khans of Tarkir",0.19,0.00
@@ -107,8 +107,8 @@ Goblinslide,"Khans of Tarkir",0.24,0.00
 "Icy Blast","Khans of Tarkir",0.33,0.00
 "Incremental Growth","Khans of Tarkir",0.24,0.00
 "Island (254)","Khans of Tarkir",0.18,0.00
-"Island (255)","Khans of Tarkir",0.20,0.00
-"Island (256)","Khans of Tarkir",0.23,0.00
+"Island (255)","Khans of Tarkir",0.21,0.00
+"Island (256)","Khans of Tarkir",0.24,0.00
 "Island (257)","Khans of Tarkir",0.18,0.00
 "Ivorytusk Fortress","Khans of Tarkir",0.33,0.00
 "Jeering Instigator","Khans of Tarkir",0.33,0.00
@@ -122,21 +122,21 @@ Goblinslide,"Khans of Tarkir",0.24,0.00
 "Kheru Bloodsucker","Khans of Tarkir",0.24,0.00
 "Kheru Dreadmaw","Khans of Tarkir",0.15,0.00
 "Kheru Lich Lord","Khans of Tarkir",0.32,0.00
-"Kheru Spellsnatcher","Khans of Tarkir",0.34,0.00
+"Kheru Spellsnatcher","Khans of Tarkir",0.37,0.00
 "Kill Shot","Khans of Tarkir",0.15,0.00
 "Kin-Tree Invocation","Khans of Tarkir",0.23,0.00
 "Kin-Tree Warden","Khans of Tarkir",0.14,0.00
 "Krumar Bond-Kin","Khans of Tarkir",0.14,0.00
 "Leaping Master","Khans of Tarkir",0.14,0.00
-"Lens of Clarity","Khans of Tarkir",0.18,0.00
+"Lens of Clarity","Khans of Tarkir",0.17,0.00
 "Longshot Squad","Khans of Tarkir",0.17,0.00
-"Mantis Rider","Khans of Tarkir",0.94,0.10
+"Mantis Rider","Khans of Tarkir",0.89,0.10
 "Mardu Ascendancy","Khans of Tarkir",0.37,0.00
 "Mardu Banner","Khans of Tarkir",0.18,0.00
 "Mardu Blazebringer","Khans of Tarkir",0.23,0.00
 "Mardu Charm","Khans of Tarkir",0.24,0.00
 "Mardu Hateblade","Khans of Tarkir",0.14,0.00
-"Mardu Heart-Piercer","Khans of Tarkir",0.24,0.00
+"Mardu Heart-Piercer","Khans of Tarkir",0.23,0.00
 "Mardu Hordechief","Khans of Tarkir",0.14,0.00
 "Mardu Roughrider","Khans of Tarkir",0.23,0.00
 "Mardu Skullhunter","Khans of Tarkir",0.15,0.00
@@ -153,7 +153,7 @@ Mindswipe,"Khans of Tarkir",0.37,0.00
 "Morph Token","Khans of Tarkir",0.15,0.00
 "Mountain (262)","Khans of Tarkir",0.19,0.00
 "Mountain (263)","Khans of Tarkir",0.20,0.00
-"Mountain (264)","Khans of Tarkir",0.24,0.00
+"Mountain (264)","Khans of Tarkir",0.23,0.00
 "Mountain (265)","Khans of Tarkir",0.23,0.00
 "Murderous Cut","Khans of Tarkir",0.24,0.00
 "Mystic Monastery","Khans of Tarkir",0.39,0.00
@@ -191,7 +191,7 @@ Naturalize,"Khans of Tarkir",0.14,0.00
 "Sagu Archer","Khans of Tarkir",0.15,0.00
 "Sagu Mauler","Khans of Tarkir",0.32,0.00
 "Salt Road Patrol","Khans of Tarkir",0.16,0.00
-"Sandsteppe Citadel","Khans of Tarkir",0.63,0.10
+"Sandsteppe Citadel","Khans of Tarkir",0.69,0.10
 "Sarkhan, the Dragonspeaker","Khans of Tarkir",1.79,0.10
 "Savage Knuckleblade","Khans of Tarkir",0.37,0.00
 "Savage Punch","Khans of Tarkir",0.19,0.00
@@ -218,7 +218,7 @@ Siegecraft,"Khans of Tarkir",0.15,0.00
 "Sorin, Solemn Visitor","Khans of Tarkir",4.51,2.12
 "Spirit Token","Khans of Tarkir",0.24,0.00
 "Spirit Warrior Token","Khans of Tarkir",0.20,0.00
-"Stubborn Denial","Khans of Tarkir",0.84,0.10
+"Stubborn Denial","Khans of Tarkir",0.78,0.10
 "Sultai Ascendancy","Khans of Tarkir",0.42,0.00
 "Sultai Banner","Khans of Tarkir",0.17,0.00
 "Sultai Charm","Khans of Tarkir",0.24,0.00
@@ -257,7 +257,7 @@ Throttle,"Khans of Tarkir",0.14,0.00
 "Ugin's Nexus","Khans of Tarkir",0.73,0.10
 "Unyielding Krumar","Khans of Tarkir",0.15,0.00
 "Utter End","Khans of Tarkir",1.33,0.10
-"Valley Dasher","Khans of Tarkir",0.15,0.00
+"Valley Dasher","Khans of Tarkir",0.14,0.00
 "Vampire Token","Khans of Tarkir",1.87,0.10
 "Venerable Lammasu","Khans of Tarkir",0.23,0.00
 "Villainous Wealth","Khans of Tarkir",0.91,0.10
@@ -271,13 +271,13 @@ Waterwhirl,"Khans of Tarkir",0.22,0.00
 "Weave Fate","Khans of Tarkir",0.14,0.00
 "Wetland Sambar","Khans of Tarkir",0.15,0.00
 "Whirlwind Adept","Khans of Tarkir",0.18,0.00
-"Wind-Scarred Crag","Khans of Tarkir",0.20,0.00
+"Wind-Scarred Crag","Khans of Tarkir",0.19,0.00
 Windstorm,"Khans of Tarkir",0.24,0.00
 "Windswept Heath","Khans of Tarkir",14.69,6.90
-"Wingmate Roc","Khans of Tarkir",0.73,0.10
+"Wingmate Roc","Khans of Tarkir",0.70,0.10
 Winterflame,"Khans of Tarkir",0.23,0.00
 "Witness of the Ages","Khans of Tarkir",0.24,0.00
-"Wooded Foothills","Khans of Tarkir",24.71,11.61
+"Wooded Foothills","Khans of Tarkir",24.80,11.66
 "Woolly Loxodon","Khans of Tarkir",0.15,0.00
 "Zombie Token","Khans of Tarkir",0.33,0.00
 "Zurgo Helmsmasher","Khans of Tarkir",0.65,0.10

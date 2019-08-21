@@ -1,18 +1,18 @@
 "Product Name",Category,"Sell Price","Buy Price"
 "Aether Snap",Darksteel,0.81,0.10
-"Aether Vial",Darksteel,38.83,18.25
+"Aether Vial",Darksteel,40.73,19.14
 "Ageless Entity",Darksteel,0.51,0.10
 "Angel's Feather",Darksteel,0.24,0.00
 "Arcane Spyglass",Darksteel,0.18,0.00
 "Arcbound Bruiser",Darksteel,0.17,0.00
-"Arcbound Crusher",Darksteel,0.50,0.00
+"Arcbound Crusher",Darksteel,0.52,0.10
 "Arcbound Fiend",Darksteel,0.24,0.00
 "Arcbound Hybrid",Darksteel,0.18,0.00
 "Arcbound Lancer",Darksteel,0.24,0.00
-"Arcbound Overseer",Darksteel,1.40,0.10
+"Arcbound Overseer",Darksteel,1.50,0.10
 "Arcbound Ravager",Darksteel,39.89,18.75
 "Arcbound Reclaimer",Darksteel,1.11,0.10
-"Arcbound Slith",Darksteel,0.47,0.00
+"Arcbound Slith",Darksteel,0.48,0.00
 "Arcbound Stinger",Darksteel,0.18,0.00
 "Arcbound Worker",Darksteel,0.35,0.00
 "Auriok Glaivemaster",Darksteel,0.17,0.00
@@ -22,19 +22,19 @@
 "Burden of Greed",Darksteel,0.15,0.00
 "Carry Away",Darksteel,0.24,0.00
 "Chimeric Egg",Darksteel,0.24,0.00
-"Chittering Rats",Darksteel,0.70,0.10
-"Chromescale Drake",Darksteel,0.40,0.00
-Coretapper,Darksteel,2.84,0.25
+"Chittering Rats",Darksteel,0.71,0.10
+"Chromescale Drake",Darksteel,0.41,0.00
+Coretapper,Darksteel,2.85,0.25
 "Crazed Goblin",Darksteel,0.14,0.00
 "Darksteel Brute",Darksteel,0.24,0.00
-"Darksteel Citadel",Darksteel,0.59,0.10
-"Darksteel Colossus",Darksteel,7.50,3.53
-"Darksteel Forge",Darksteel,20.89,9.82
+"Darksteel Citadel",Darksteel,0.65,0.10
+"Darksteel Colossus",Darksteel,8.01,3.76
+"Darksteel Forge",Darksteel,21.35,10.03
 "Darksteel Gargoyle",Darksteel,0.27,0.00
-"Darksteel Ingot",Darksteel,0.71,0.10
+"Darksteel Ingot",Darksteel,0.78,0.10
 "Darksteel Pendant",Darksteel,0.20,0.00
-"Darksteel Reactor",Darksteel,5.23,2.46
-"Death Cloud",Darksteel,2.79,0.25
+"Darksteel Reactor",Darksteel,5.85,2.75
+"Death Cloud",Darksteel,3.00,
 "Death-Mask Duplicant",Darksteel,0.24,0.00
 "Demon's Horn",Darksteel,0.24,0.00
 Dismantle,Darksteel,0.24,0.00
@@ -42,22 +42,22 @@ Dismantle,Darksteel,0.24,0.00
 Drill-Skimmer,Darksteel,0.17,0.00
 "Drooling Ogre",Darksteel,0.17,0.00
 "Dross Golem",Darksteel,0.19,0.00
-"Eater of Days",Darksteel,1.91,0.10
+"Eater of Days",Darksteel,2.14,0.25
 "Echoing Calm",Darksteel,0.18,0.00
 "Echoing Courage",Darksteel,0.14,0.00
-"Echoing Decay",Darksteel,1.08,0.10
+"Echoing Decay",Darksteel,1.19,0.10
 "Echoing Ruin",Darksteel,0.18,0.00
-"Echoing Truth",Darksteel,0.75,0.10
+"Echoing Truth",Darksteel,0.86,0.10
 "Emissary of Despair",Darksteel,0.24,0.00
 "Emissary of Hope",Darksteel,0.24,0.00
 "Essence Drain",Darksteel,0.15,0.00
-"Fangren Firstborn",Darksteel,0.84,0.10
-Fireball,Darksteel,0.22,0.00
-Flamebreak,Darksteel,0.98,0.10
-"Furnace Dragon",Darksteel,0.47,0.00
+"Fangren Firstborn",Darksteel,0.94,0.10
+Fireball,Darksteel,0.24,0.00
+Flamebreak,Darksteel,1.06,0.10
+"Furnace Dragon",Darksteel,0.48,0.00
 "Gemini Engine",Darksteel,0.32,0.00
-"Genesis Chamber",Darksteel,0.94,0.10
-"Geth's Grimoire",Darksteel,2.54,0.25
+"Genesis Chamber",Darksteel,0.95,0.10
+"Geth's Grimoire",Darksteel,2.84,0.25
 "Goblin Archaeologist",Darksteel,0.30,0.00
 "Greater Harvester",Darksteel,0.42,0.00
 "Grimclaw Bats",Darksteel,0.15,0.00
@@ -66,43 +66,43 @@ Heartseeker,Darksteel,0.76,0.10
 "Hoverguard Observer",Darksteel,0.24,0.00
 "Hunger of the Nim",Darksteel,0.15,0.00
 "Infested Roothold",Darksteel,0.23,0.00
-Inflame,Darksteel,0.16,0.00
+Inflame,Darksteel,0.17,0.00
 Juggernaut,Darksteel,0.24,0.00
 Karstoderm,Darksteel,0.24,0.00
 "Kraken's Eye",Darksteel,0.24,0.00
 "Krark-Clan Stoker",Darksteel,0.15,0.00
-"Last Word",Darksteel,1.12,0.10
-"Leonin Battlemage",Darksteel,0.24,0.00
+"Last Word",Darksteel,1.18,0.10
+"Leonin Battlemage",Darksteel,0.26,0.00
 "Leonin Bola",Darksteel,0.18,0.00
-"Leonin Shikari",Darksteel,1.55,0.10
+"Leonin Shikari",Darksteel,1.77,0.10
 "Lich's Tomb",Darksteel,0.48,0.00
 "Loxodon Mystic",Darksteel,0.17,0.00
 Machinate,Darksteel,0.17,0.00
 "Magnetic Flux",Darksteel,0.14,0.00
-Memnarch,Darksteel,8.31,3.91
+Memnarch,Darksteel,8.65,4.07
 "Mephitic Ooze",Darksteel,0.34,0.00
 "Metal Fatigue",Darksteel,0.17,0.00
-"Mirrodin's Core",Darksteel,0.31,0.00
+"Mirrodin's Core",Darksteel,0.33,0.00
 "Murderous Spoils",Darksteel,0.24,0.00
-"Mycosynth Lattice",Darksteel,55.71,26.18
+"Mycosynth Lattice",Darksteel,56.02,26.33
 "Myr Landshaper",Darksteel,0.24,0.00
-"Myr Matrix",Darksteel,2.37,0.25
+"Myr Matrix",Darksteel,2.42,0.25
 "Myr Moonvessel",Darksteel,0.24,0.00
-"Nemesis Mask",Darksteel,0.48,0.00
+"Nemesis Mask",Darksteel,0.64,0.10
 "Neurok Prodigy",Darksteel,0.16,0.00
 "Neurok Transmuter",Darksteel,0.24,0.00
 "Nim Abomination",Darksteel,0.23,0.00
 Nourish,Darksteel,0.19,0.00
 "Oxidda Golem",Darksteel,0.16,0.00
 Oxidize,Darksteel,0.30,0.00
-"Panoptic Mirror",Darksteel,2.95,0.25
-"Pristine Angel",Darksteel,1.07,0.10
+"Panoptic Mirror",Darksteel,3.09,1.45
+"Pristine Angel",Darksteel,1.26,0.10
 "Psychic Overload",Darksteel,0.24,0.00
-"Pteron Ghost",Darksteel,0.15,0.00
-"Pulse of the Dross",Darksteel,0.40,0.00
+"Pteron Ghost",Darksteel,0.17,0.00
+"Pulse of the Dross",Darksteel,0.41,0.00
 "Pulse of the Fields",Darksteel,0.48,0.00
 "Pulse of the Forge",Darksteel,0.49,0.00
-"Pulse of the Grid",Darksteel,0.48,0.00
+"Pulse of the Grid",Darksteel,0.52,0.10
 "Pulse of the Tangle",Darksteel,0.46,0.00
 Purge,Darksteel,0.24,0.00
 "Quicksilver Behemoth",Darksteel,0.16,0.00
@@ -110,31 +110,31 @@ Purge,Darksteel,0.24,0.00
 "Reap and Sow",Darksteel,0.20,0.00
 "Rebuking Ceremony",Darksteel,0.43,0.00
 Reshape,Darksteel,11.96,5.62
-Retract,Darksteel,7.01,3.29
-"Ritual of Restoration",Darksteel,0.15,0.00
+Retract,Darksteel,7.59,3.57
+"Ritual of Restoration",Darksteel,0.16,0.00
 "Roaring Slagwurm",Darksteel,0.43,0.00
-"Savage Beating",Darksteel,7.19,3.38
+"Savage Beating",Darksteel,7.86,3.69
 "Scavenging Scarab",Darksteel,0.17,0.00
 "Screams from Within",Darksteel,0.24,0.00
 Scrounge,Darksteel,0.24,0.00
-"Second Sight",Darksteel,0.23,0.00
-"Serum Powder",Darksteel,6.41,3.01
-"Shield of Kaldra",Darksteel,5.20,2.44
+"Second Sight",Darksteel,0.24,0.00
+"Serum Powder",Darksteel,8.04,3.78
+"Shield of Kaldra",Darksteel,5.23,2.46
 "Shriveling Rot",Darksteel,0.41,0.00
 Shunt,Darksteel,0.47,0.00
-Skullclamp,Darksteel,4.91,2.31
+Skullclamp,Darksteel,4.97,2.34
 "Slobad, Goblin Tinkerer",Darksteel,0.71,0.10
 Soulscour,Darksteel,0.48,0.00
-"Spawning Pit",Darksteel,1.66,0.10
+"Spawning Pit",Darksteel,1.81,0.10
 "Specter's Shroud",Darksteel,0.25,0.00
 Spellbinder,Darksteel,0.84,0.10
 Spincrusher,Darksteel,0.27,0.00
 "Spire Golem",Darksteel,0.48,0.00
 "Stand Together",Darksteel,0.24,0.00
-"Steelshaper Apprentice",Darksteel,0.67,0.10
+"Steelshaper Apprentice",Darksteel,0.72,0.10
 "Stir the Pride",Darksteel,0.24,0.00
-"Sundering Titan",Darksteel,1.92,0.10
-"Surestrike Trident",Darksteel,0.33,0.00
+"Sundering Titan",Darksteel,1.91,0.10
+"Surestrike Trident",Darksteel,0.38,0.00
 "Sword of Fire and Ice",Darksteel,59.71,28.06
 "Sword of Light and Shadow",Darksteel,27.41,12.88
 "Synod Artificer",Darksteel,0.42,0.00
@@ -156,11 +156,11 @@ Unforge,Darksteel,0.17,0.00
 Vex,Darksteel,0.17,0.00
 "Viridian Acolyte",Darksteel,0.17,0.00
 "Viridian Zealot",Darksteel,0.70,0.10
-"Voltaic Construct",Darksteel,0.36,0.00
+"Voltaic Construct",Darksteel,0.38,0.00
 "Vulshok Morningstar",Darksteel,0.21,0.00
 "Vulshok War Boar",Darksteel,0.23,0.00
 "Wand of the Elements",Darksteel,0.39,0.00
-"Well of Lost Dreams",Darksteel,2.87,0.25
-"Whispersilk Cloak",Darksteel,0.95,0.10
+"Well of Lost Dreams",Darksteel,2.86,0.25
+"Whispersilk Cloak",Darksteel,0.99,0.10
 "Wirefly Hive",Darksteel,0.24,0.00
 "Wurm's Tooth",Darksteel,0.24,0.00

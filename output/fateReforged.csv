@@ -1,5 +1,5 @@
 "Product Name",Category,"Sell Price","Buy Price"
-"Abzan Advantage","Fate Reforged",0.15,0.00
+"Abzan Advantage","Fate Reforged",0.14,0.00
 "Abzan Beastmaster","Fate Reforged",0.24,0.00
 "Abzan Kin-Guard","Fate Reforged",0.22,0.00
 "Abzan Runemark","Fate Reforged",0.15,0.00
@@ -13,9 +13,9 @@
 "Arashin War Beast","Fate Reforged",0.23,0.00
 Arcbond,"Fate Reforged",0.37,0.00
 "Archers of Qarsi","Fate Reforged",0.14,0.00
-"Archfiend of Depravity","Fate Reforged",1.10,0.10
+"Archfiend of Depravity","Fate Reforged",1.13,0.10
 "Atarka, World Render","Fate Reforged",0.52,0.10
-"Aven Skirmisher","Fate Reforged",0.15,0.00
+"Aven Skirmisher","Fate Reforged",0.14,0.00
 "Aven Surveyor","Fate Reforged",0.14,0.00
 "Bathe in Dragonfire","Fate Reforged",0.14,0.00
 "Battle Brawler","Fate Reforged",0.24,0.00
@@ -68,7 +68,7 @@ Fascination,"Fate Reforged",0.24,0.00
 "Grave Strength","Fate Reforged",0.23,0.00
 "Great-Horn Krushok","Fate Reforged",0.14,0.00
 "Grim Contest","Fate Reforged",0.17,0.00
-"Gurmag Angler","Fate Reforged",0.35,0.00
+"Gurmag Angler","Fate Reforged",0.38,0.00
 "Harsh Sustenance","Fate Reforged",0.18,0.00
 "Hero's Blade","Fate Reforged",0.28,0.00
 "Hewed Stone Retainers","Fate Reforged",0.24,0.00
@@ -79,12 +79,12 @@ Fascination,"Fate Reforged",0.24,0.00
 "Hunt the Weak","Fate Reforged",0.14,0.00
 "Island (178)","Fate Reforged",0.19,0.00
 "Island (179)","Fate Reforged",0.19,0.00
-"Jeskai Barricade","Fate Reforged",0.51,0.10
+"Jeskai Barricade","Fate Reforged",0.52,0.10
 "Jeskai Infiltrator","Fate Reforged",0.32,0.00
 "Jeskai Runemark","Fate Reforged",0.14,0.00
 "Jeskai Sage","Fate Reforged",0.18,0.00
 "Jungle Hollow","Fate Reforged",0.18,0.00
-"Kolaghan, the Storm's Fury","Fate Reforged",0.45,0.00
+"Kolaghan, the Storm's Fury","Fate Reforged",0.47,0.00
 Lightform,"Fate Reforged",0.23,0.00
 "Lightning Shrieker","Fate Reforged",0.15,0.00
 "Lotus Path Djinn","Fate Reforged",0.14,0.00
@@ -101,8 +101,8 @@ Lightform,"Fate Reforged",0.23,0.00
 "Merciless Executioner","Fate Reforged",0.75,0.10
 "Mindscour Dragon","Fate Reforged",0.24,0.00
 "Mistfire Adept","Fate Reforged",0.23,0.00
-"Mob Rule","Fate Reforged",0.44,0.00
-"Monastery Mentor","Fate Reforged",32.18,15.12
+"Mob Rule","Fate Reforged",0.45,0.00
+"Monastery Mentor","Fate Reforged",32.77,15.40
 "Monastery Siege","Fate Reforged",0.52,0.10
 "Monk Token","Fate Reforged",1.13,0.10
 "Mountain (182)","Fate Reforged",0.17,0.00
@@ -117,13 +117,13 @@ Lightform,"Fate Reforged",0.23,0.00
 "Plains (176)","Fate Reforged",0.15,0.00
 "Plains (177)","Fate Reforged",0.20,0.00
 "Pressure Point","Fate Reforged",0.14,0.00
-Pyrotechnics,"Fate Reforged",0.24,0.00
+Pyrotechnics,"Fate Reforged",0.23,0.00
 "Qarsi High Priest","Fate Reforged",0.23,0.00
 Rageform,"Fate Reforged",0.23,0.00
 "Rakshasa's Disdain","Fate Reforged",0.14,0.00
 "Rally the Ancestors","Fate Reforged",0.57,0.10
 "Reach of Shadows","Fate Reforged",0.14,0.00
-"Reality Shift","Fate Reforged",1.80,0.10
+"Reality Shift","Fate Reforged",1.76,0.10
 Refocus,"Fate Reforged",0.14,0.00
 "Renowned Weaponsmith","Fate Reforged",0.24,0.00
 "Return to the Earth","Fate Reforged",0.14,0.00
@@ -137,12 +137,12 @@ Sandblast,"Fate Reforged",0.14,0.00
 "Sandsteppe Outcast","Fate Reforged",0.14,0.00
 "Scoured Barrens","Fate Reforged",0.23,0.00
 "Scroll of the Masters","Fate Reforged",0.33,0.00
-"Shaman of the Great Hunt","Fate Reforged",0.72,0.10
-"Shamanic Revelation","Fate Reforged",1.90,0.10
+"Shaman of the Great Hunt","Fate Reforged",0.73,0.10
+"Shamanic Revelation","Fate Reforged",1.53,0.10
 "Shifting Loyalties","Fate Reforged",0.22,0.00
 "Shockmaw Dragon","Fate Reforged",0.24,0.00
 "Shu Yun, the Silent Tempest","Fate Reforged",0.42,0.00
-"Sibsig Host","Fate Reforged",0.16,0.00
+"Sibsig Host","Fate Reforged",0.15,0.00
 "Sibsig Muckdraggers","Fate Reforged",0.24,0.00
 "Silumgar, the Drifting Death","Fate Reforged",0.47,0.00
 "Smoldering Efreet","Fate Reforged",0.15,0.00
@@ -154,33 +154,33 @@ Soulflayer,"Fate Reforged",0.47,0.00
 "Sultai Emissary","Fate Reforged",0.19,0.00
 "Sultai Runemark","Fate Reforged",0.15,0.00
 "Sultai Skullkeeper","Fate Reforged",0.14,0.00
-"Supplant Form","Fate Reforged",0.37,0.00
+"Supplant Form","Fate Reforged",0.36,0.00
 "Swamp (180)","Fate Reforged",0.21,0.00
 "Swamp (181)","Fate Reforged",0.18,0.00
 "Swiftwater Cliffs","Fate Reforged",0.19,0.00
-"Tasigur, the Golden Fang","Fate Reforged",0.93,0.10
+"Tasigur, the Golden Fang","Fate Reforged",0.91,0.10
 "Tasigur's Cruelty","Fate Reforged",0.18,0.00
 "Temporal Trespass","Fate Reforged",4.28,2.01
-"Temur Battle Rage","Fate Reforged",0.46,0.00
+"Temur Battle Rage","Fate Reforged",0.45,0.00
 "Temur Runemark","Fate Reforged",0.14,0.00
 "Temur Sabertooth","Fate Reforged",1.76,0.10
 "Temur War Shaman","Fate Reforged",0.33,0.00
-"Thornwood Falls","Fate Reforged",0.22,0.00
+"Thornwood Falls","Fate Reforged",0.23,0.00
 "Torrent Elemental","Fate Reforged",0.74,0.10
 "Tranquil Cove","Fate Reforged",0.19,0.00
 "Typhoid Rats","Fate Reforged",0.18,0.00
 "Ugin, the Spirit Dragon","Fate Reforged",61.66,28.98
-"Ugin's Construct","Fate Reforged",0.23,0.00
+"Ugin's Construct","Fate Reforged",0.22,0.00
 "Valorous Stance","Fate Reforged",0.39,0.00
-Vaultbreaker,"Fate Reforged",0.24,0.00
+Vaultbreaker,"Fate Reforged",0.23,0.00
 "Wandering Champion","Fate Reforged",0.23,0.00
-"War Flare","Fate Reforged",0.15,0.00
+"War Flare","Fate Reforged",0.14,0.00
 "Warden of the First Tree","Fate Reforged",0.65,0.10
 "Wardscale Dragon","Fate Reforged",0.24,0.00
 "Warrior Token","Fate Reforged",0.19,0.00
 "Whisk Away","Fate Reforged",0.14,0.00
 "Whisperer of the Wilds","Fate Reforged",0.18,0.00
-"Whisperwood Elemental","Fate Reforged",1.00,0.10
+"Whisperwood Elemental","Fate Reforged",1.01,0.10
 "Wild Slash","Fate Reforged",0.24,0.00
 Wildcall,"Fate Reforged",0.33,0.00
 "Will of the Naga","Fate Reforged",0.14,0.00
