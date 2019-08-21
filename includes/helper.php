@@ -93,4 +93,139 @@ function scrapeTCG($url){
     return $returnArray;
 
 }
+
+function dropTable($tableName){
+    $host = 'localhost';
+    $db   = 'mtg';
+    $user = 'root';
+    $pass = 'root';
+    $charset = 'utf8mb4';
+    $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
+    try {
+        $pdo = new PDO($dsn, $user, $pass, $options);
+    } catch (\PDOException $e) {
+        throw new \PDOException($e->getMessage(), (int)$e->getCode());
+    }
+    
+      try{
+        // Create prepared statement
+        $sql = "DROP TABLE IF EXISTS $tableName";
+        
+        $stmt = $pdo->prepare($sql);
+        
+        // Execute the prepared statement
+        $stmt->execute();
+      } catch(PDOException $e){
+        die("ERROR: Could not able to execute $sql. " . $e->getMessage());
+      }
+      
+      // Close connection
+      unset($pdo);
+}
+
+function createTable($tableName){
+    $host = 'localhost';
+    $db   = 'mtg';
+    $user = 'root';
+    $pass = 'root';
+    $charset = 'utf8mb4';
+    $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
+    try {
+        $pdo = new PDO($dsn, $user, $pass, $options);
+    } catch (\PDOException $e) {
+        throw new \PDOException($e->getMessage(), (int)$e->getCode());
+    }
+      
+      // Attempt insert query execution
+      try{
+
+        // Create prepared statement
+        $sql = "create table $tableName(
+          cardId int(11) AUTO_INCREMENT not null,
+          cardName varchar(70) not null,
+          medianPrice varchar(70) not null,
+          sellPrice varchar(70),
+          buyPrice varchar(70),
+          primary key (cardId)
+          );";
+        
+        $stmt = $pdo->prepare($sql);
+        
+        // Execute the prepared statement
+        $stmt->execute();
+      } catch(PDOException $e){
+        die("ERROR: Could not able to execute $sql. " . $e->getMessage());
+      }
+      
+      // Close connection
+      unset($pdo);
+}
+
+function insertIntoTable($tableName, $cardNames, $medianPrices, $sellPrice, $buyPrice) {
+    $host = 'localhost';
+    $db   = 'mtg';
+    $user = 'root';
+    $pass = 'root';
+    $charset = 'utf8mb4';
+    $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
+
+    for($x = 0; $x < count($cardNames); $x++)
+    {
+        /* Attempt MySQL server connection. Assuming you are running MySQL
+        server with default setting (user 'root' with no password) */
+        try {
+            $pdo = new PDO($dsn, $user, $pass, $options);
+        } catch (\PDOException $e) {
+            throw new \PDOException($e->getMessage(), (int)$e->getCode());
+        }
+        
+        // Attempt insert query execution
+        try{
+            // Create prepared statement
+            $sql = "INSERT INTO $tableName (cardName, medianPrice, sellPrice, buyPrice) VALUES (:cardName, :medianPrice, :sellPrice, :buyPrice)";
+            $stmt = $pdo->prepare($sql);
+            
+            // Bind parameters to statement
+            $stmt->bindParam(':cardName', $cardNames[$x]);
+            $stmt->bindParam(':medianPrice', $medianPrices[$x]);
+            $stmt->bindParam(':sellPrice', $sellPrice[$x]);
+            $stmt->bindParam(':buyPrice', $buyPrice[$x]);
+            // Execute the prepared statement
+            $stmt->execute();
+            
+        } catch(PDOException $e){
+            die("ERROR: Could not able to execute $sql. " . $e->getMessage());
+        }
+        
+        // Close connection
+        unset($pdo);
+    }
+}
+
+function generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice){
+    $file = fopen("output/". $tableName . ".csv","w");
+
+    fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
+
+    // Need to allow cards to have a , in their name
+    for ($id = 0; $id < count($cardNames); $id++){
+      //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+      fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+    }
+    fclose($file);
+}
+
+function generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice){
+    $file = fopen("output/theMasterSheet.csv","w");
+
+    fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
+
+    // Need to allow cards to have a , in their name
+    for ($id = 0; $id < count($cardNames); $id++){
+      //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+      fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+    }
+
+    fclose($file); 
+}
 ?>

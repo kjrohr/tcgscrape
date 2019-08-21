@@ -13,70 +13,16 @@
     $buyPrice = array(); // Array to hold our buy prices
     $foilCardDataArray = array(); // Array to hold the 2d array that's returned from the helper function
     $tcgPlayerCardDataArray = array();
-    $host = 'localhost';
-    $db   = 'mtg';
-    $user = 'root';
-    $pass = 'root';
-    $charset = 'utf8mb4';
-    $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
     // ****** DROP TABLE IF EXISTS ******
-    try {
-        $pdo = new PDO($dsn, $user, $pass, $options);
-    } catch (\PDOException $e) {
-        throw new \PDOException($e->getMessage(), (int)$e->getCode());
-    }
-    
-      try{
-        // Create prepared statement
-        $sql = "DROP TABLE IF EXISTS $tableName";
-        
-        $stmt = $pdo->prepare($sql);
-        
-        // Execute the prepared statement
-        $stmt->execute();
-      } catch(PDOException $e){
-        die("ERROR: Could not able to execute $sql. " . $e->getMessage());
-      }
-      
-      // Close connection
-      unset($pdo);
+      dropTable($tableName);
 
     // ****** END DROP TABLE IF EXISTS *******
 
     // ****** CREATE TABLE ******
-    try {
-        $pdo = new PDO($dsn, $user, $pass, $options);
-    } catch (\PDOException $e) {
-        throw new \PDOException($e->getMessage(), (int)$e->getCode());
-    }
-      
-      // Attempt insert query execution
-      try{
-
-        // Create prepared statement
-        $sql = "create table $tableName(
-          cardId int(11) AUTO_INCREMENT not null,
-          cardName varchar(70) not null,
-          medianPrice varchar(70) not null,
-          sellPrice varchar(70),
-          buyPrice varchar(70),
-          primary key (cardId)
-          );";
-        
-        $stmt = $pdo->prepare($sql);
-        
-        // Execute the prepared statement
-        $stmt->execute();
-      } catch(PDOException $e){
-        die("ERROR: Could not able to execute $sql. " . $e->getMessage());
-      }
-      
-      // Close connection
-      unset($pdo);
+      createTable($tableName);
     // ****** END CREATE TABLE ******
-
-
+    
     // ****** SCRAPE $tcgPlayerSetURL ******
         $tcgPlayerCardDataArray = scrapeTCG($tcgPlayerSetURL);
 
@@ -107,65 +53,15 @@
     // ****** END SCRAPE QUIET SPECULATION ******
 
     // ****** INSERT INTO TABLE ******
-    for($x = 0; $x < count($cardNames); $x++)
-    {
-        /* Attempt MySQL server connection. Assuming you are running MySQL
-        server with default setting (user 'root' with no password) */
-        try {
-            $pdo = new PDO($dsn, $user, $pass, $options);
-        } catch (\PDOException $e) {
-            throw new \PDOException($e->getMessage(), (int)$e->getCode());
-        }
-        
-        // Attempt insert query execution
-        try{
-            // Create prepared statement
-            $sql = "INSERT INTO $tableName (cardName, medianPrice, sellPrice, buyPrice) VALUES (:cardName, :medianPrice, :sellPrice, :buyPrice)";
-            $stmt = $pdo->prepare($sql);
-            
-            // Bind parameters to statement
-            $stmt->bindParam(':cardName', $cardNames[$x]);
-            $stmt->bindParam(':medianPrice', $medianPrices[$x]);
-            $stmt->bindParam(':sellPrice', $sellPrice[$x]);
-            $stmt->bindParam(':buyPrice', $buyPrice[$x]);
-            // Execute the prepared statement
-            $stmt->execute();
-            
-        } catch(PDOException $e){
-            die("ERROR: Could not able to execute $sql. " . $e->getMessage());
-        }
-        
-        // Close connection
-        unset($pdo);
-    }
+      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
     // ****** END INSERT INTO TABLE ******
 
     // ****** GENERATE CSV ******
-      $file = fopen("output/". $tableName . ".csv","w");
-
-      fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
-
-      // Need to allow cards to have a , in their name
-      for ($id = 0; $id < count($cardNames); $id++){
-        //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
-        fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
-      }
-
-      fclose($file); 
+      generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
     // ****** END GENERATE CSV ******
 
     // ****** GENERATE MASTER CSV ******
-        $file = fopen("output/theMasterSheet.csv","w");
-
-        fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
-  
-        // Need to allow cards to have a , in their name
-        for ($id = 0; $id < count($cardNames); $id++){
-          //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
-          fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
-        }
-  
-        fclose($file); 
+      generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
       // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
