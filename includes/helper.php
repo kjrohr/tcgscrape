@@ -42,7 +42,6 @@ function findBuyPrice($inputPrice) {
 
 }
 
-
 function scrapeFoils($url){
     $returnArray = array();
     $html = file_get_html($url);
@@ -65,5 +64,33 @@ function scrapeFoils($url){
     array_push($returnArray, $foilPriceArray);
     
     return $returnArray;
+}
+
+function scrapeTCG($url){
+    $returnArray = array();
+    $cardNamesArray = array();
+    $cardMedianPriceArray = array();
+    $html = file_get_html($url);
+    $data = $html->find('.productDetail a');
+    $price = $html->find('.medianPrice .cellWrapper');
+
+    foreach ($data as $card){
+        array_push($cardNamesArray, str_replace("&#39;", "'", $card->plaintext));
+    }
+        
+    foreach ($price as $median){
+      array_push($cardMedianPriceArray, str_replace(" ", "", str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext))));
+    }
+
+    array_push($returnArray, $cardNamesArray);
+    array_push($returnArray, $cardMedianPriceArray);
+
+    // For debugging
+    // for($i=0;$i<count($returnArray[0]);$i++){
+    //     echo $returnArray[0][$i] . " price: " . $returnArray[1][$i] . "<br />";
+    // }
+
+    return $returnArray;
+
 }
 ?>
