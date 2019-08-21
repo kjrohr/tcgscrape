@@ -1,4 +1,5 @@
 <?php
+include_once 'simplehtmldom_1_9/simple_html_dom.php';
 
 function findSellPrice($inputPrice) {
     $medianPrice = $inputPrice;
@@ -39,5 +40,30 @@ function findBuyPrice($inputPrice) {
     }
     return $buyPrice;
 
+}
+
+
+function scrapeFoils($url){
+    $returnArray = array();
+    $html = file_get_html($url);
+    $data = $html->find('tbody tr');
+    $cardNamesArray = array();
+    $foilPriceArray = array();
+    
+    foreach ($data as $card){
+        array_push($cardNamesArray, str_replace("&#39;", "'", $card->first_child()->plaintext . " - Foil"));
+        array_push($foilPriceArray, str_replace("$", "", str_replace('&mdash;', '0.00', $card->last_child()->prev_sibling()->plaintext)));
+    }
+
+    for ($a = 0; $a<4;$a++)
+    {
+        array_pop($cardNamesArray);
+        array_pop($foilPriceArray);
+    }
+
+    array_push($returnArray, $cardNamesArray);
+    array_push($returnArray, $foilPriceArray);
+    
+    return $returnArray;
 }
 ?>
