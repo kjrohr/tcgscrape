@@ -48,10 +48,16 @@ function scrapeFoils($url){
     $data = $html->find('tbody tr');
     $cardNamesArray = array();
     $foilPriceArray = array();
+    $medianPrice = 0;
     
     foreach ($data as $card){
         array_push($cardNamesArray, str_replace("&#39;", "'", $card->first_child()->plaintext . " - Foil"));
-        array_push($foilPriceArray, str_replace("$", "", str_replace('&mdash;', '0.00', $card->last_child()->prev_sibling()->plaintext)));
+        $medianPrice = $card->last_child()->prev_sibling()->plaintext;
+        if ($medianPrice == ""){
+            $medianPrice = "0.00";
+        }
+        array_push($foilPriceArray, str_replace("$", "", str_replace('&mdash;', '0.00', $medianPrice)));
+
     }
 
     for ($a = 0; $a<4;$a++)
@@ -219,6 +225,18 @@ function generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice){
     $file = fopen("output/theMasterSheet.csv","w");
 
     fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
+
+    // Need to allow cards to have a , in their name
+    for ($id = 0; $id < count($cardNames); $id++){
+      //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+      fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+    }
+
+    fclose($file); 
+}
+
+function appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice){
+    $file = fopen("output/theMasterSheet.csv","a");
 
     // Need to allow cards to have a , in their name
     for ($id = 0; $id < count($cardNames); $id++){

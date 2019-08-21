@@ -14,20 +14,11 @@
     $foilCardDataArray = array(); // Array to hold the 2d array that's returned from the helper function
     $tcgPlayerCardDataArray = array();
 
-    // ****** DROP TABLE IF EXISTS ******
       dropTable($tableName);
-
-    // ****** END DROP TABLE IF EXISTS *******
-
-    // ****** CREATE TABLE ******
       createTable($tableName);
-    // ****** END CREATE TABLE ******
-    
-    // ****** SCRAPE $tcgPlayerSetURL ******
-        $tcgPlayerCardDataArray = scrapeTCG($tcgPlayerSetURL);
 
+      $tcgPlayerCardDataArray = scrapeTCG($tcgPlayerSetURL);
       for ($a = 0; $a < count($tcgPlayerCardDataArray[0]); $a++){
-            //echo $tcgPlayerCardDataArray[0][$a] . " price: " . $tcgPlayerCardDataArray[1][$a] . "<br />";
           array_push($cardNames, $tcgPlayerCardDataArray[0][$a]);
           array_push($medianPrices, $tcgPlayerCardDataArray[1][$a]);
           $theSellPrice = findSellPrice($tcgPlayerCardDataArray[1][$a]);
@@ -35,14 +26,8 @@
           array_push($sellPrice, $theSellPrice);
           array_push($buyPrice, $theBuyPrice);
       }
-            
-    // ****** END SCRAPE $tcgPlayerSetURL ******
-
-
-    // ****** SCRAPE QUIET SPECULATION ******
-
+      
       $foilCardDataArray = scrapeFoils($quietSpeculationURL);
-
       for($i=0;$i<count($foilCardDataArray[0]);$i++){
         array_push($cardNames, $foilCardDataArray[0][$i]);
         array_push($medianPrices, $foilCardDataArray[1][$i]);
@@ -50,23 +35,13 @@
         array_push($buyPrice, findBuyPrice($foilCardDataArray[1][$i]));
     }
 
-    // ****** END SCRAPE QUIET SPECULATION ******
-
-    // ****** INSERT INTO TABLE ******
       insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
-    // ****** END INSERT INTO TABLE ******
-
-    // ****** GENERATE CSV ******
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
-    // ****** END GENERATE CSV ******
-
-    // ****** GENERATE MASTER CSV ******
       generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
-      // ****** END GENERATE MASTER CSV ******
 
     // ****** CHAIN SCRIPTS ******
     // modernHorizons.php is next
-    header("Location: index.php");
+    header("Location: modernHorizons.php");
     // ****** END CHAIN SCRIPTS ******
 
 ?>
