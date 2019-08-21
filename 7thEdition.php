@@ -41,6 +41,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      //header("Location: planeshift.php");
+      header("Location: planeshift.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
