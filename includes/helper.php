@@ -88,7 +88,9 @@ function scrapeTCG($url){
     foreach ($data as $card){
         array_push($cardNamesArray, str_replace("&#39;", "'", $card->plaintext));
     }
-        
+    
+    // TODO
+    // one of the str_replaces will probably need to be removed
     foreach ($price as $median){
       array_push($cardMedianPriceArray, str_replace(" ", "", str_replace("$", "", str_replace('&mdash;', '0.00', $median->plaintext))));
     }
