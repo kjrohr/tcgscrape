@@ -4,7 +4,7 @@
     include_once 'includes/helper.php';
     
     // Global Variables
-    $setName = "Magic 2014"; // Used for Categories in Crystal Commerce
+    $setName = "Magic 2014 (M14)"; // Used for Categories in Crystal Commerce
     $tableName = "magic2014"; // Used for mysql
     $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/magic-2014-m14"; // URL to scrape
     $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/Magic%202014%20Core%20Set/foil";

@@ -4,9 +4,9 @@
     include_once 'includes/helper.php';
     
     // Global Variables
-    $setName = "Battle for Zendikar"; // Used for Categories in Crystal Commerce
-    $tableName = "battleForZendikar"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/battle-for-zendikar"; // URL to scrape
+    $setName = "Magic Origins"; // Used for Categories in Crystal Commerce
+    $tableName = "magicOrigins"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/magic-origins"; // URL to scrape
     $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/Magic%20Origins/foil";
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices

@@ -4,7 +4,7 @@
     include_once 'includes/helper.php';
     
     // Global Variables
-    $setName = "Cold Snap"; // Used for Categories in Crystal Commerce
+    $setName = "ColdSnap"; // Used for Categories in Crystal Commerce
     $tableName = "coldsnap"; // Used for mysql
     $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/coldsnap"; // URL to scrape
     $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/Coldsnap/foil";

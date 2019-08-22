@@ -14,6 +14,7 @@ function findBuyPrice($inputPrice) {
     // ,if(and(or(B3="R",B3="M"),D3<2),if(B3="R",0.08,0.25),if(D3<3,mround(0.2*D3,0.05),if(D3<10,mround(0.4*D3,0.1),if(D3<25,mround(0.45*D3,0.25),if(D3<50,mround(0.5*D3,0.25),if(D3<100,mround(0.55*D3,0.5),mround(0.6*D3,0.5))))))))))
     $sellPrice = $inputPrice;
     $sellPrice = str_replace(",","", $sellPrice);
+    
     if ($sellPrice >= 0.51 && $sellPrice <= 1.99)
     {
       $buyPrice = number_format(0.10,2);
@@ -29,7 +30,7 @@ function findBuyPrice($inputPrice) {
         $buyPrice = number_format(0.00,2);
     }
 
-    if ($sellPrice > 3)
+    if ($sellPrice >= 3)
     {
         $buyPrice = number_format(($sellPrice * 0.47),2);
     }
