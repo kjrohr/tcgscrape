@@ -5,6 +5,10 @@ function findSellPrice($inputPrice) {
     $medianPrice = $inputPrice;
     $medianPrice = str_replace(",","", $medianPrice);
     $sellPrice = number_format($medianPrice * 0.95,2);
+    if ($sellPrice <= 0.20)
+    {
+        $sellPrice = "0.20";
+    }
     return $sellPrice;
     
 }
@@ -17,7 +21,7 @@ function findBuyPrice($inputPrice) {
     
     if ($sellPrice >= 0.51 && $sellPrice <= 1.99)
     {
-      $buyPrice = number_format(0.10,2);
+      $buyPrice = number_format(0.08,2);
     }
     
     if ($sellPrice >= 2.00 && $sellPrice <= 2.99)
