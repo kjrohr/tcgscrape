@@ -42,6 +42,6 @@
 
     // ****** CHAIN SCRIPTS ******
       // planeshift is next
-      //header("Location: planeshift.php");
+      header("Location: planeshift.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

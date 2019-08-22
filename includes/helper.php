@@ -5,10 +5,12 @@ function findSellPrice($inputPrice) {
     $medianPrice = $inputPrice;
     $medianPrice = str_replace(",","", $medianPrice);
     $sellPrice = number_format($medianPrice * 0.95,2);
+
     if ($sellPrice <= 0.20)
     {
         $sellPrice = "0.20";
     }
+
     return $sellPrice;
     
 }
@@ -44,6 +46,15 @@ function findBuyPrice($inputPrice) {
         $buyPrice = number_format(($sellPrice * 0.6),2);
     }
     return $buyPrice;
+
+
+    // Common
+
+    // Uncommon
+
+    // Rare
+
+    // Mythic
 
 }
 
@@ -88,7 +99,7 @@ function scrapeTCG($url){
     foreach ($data as $card){
         array_push($cardNamesArray, str_replace("&#39;", "'", $card->plaintext));
     }
-    
+
     // TODO
     // one of the str_replaces will probably need to be removed
     foreach ($price as $median){
