@@ -38,6 +38,8 @@
       insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
+      generateStandardCSV($setName,$cardNames,$sellPrice,$buyPrice);
+      generateModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
     // modernHorizons.php is next

@@ -39,6 +39,9 @@
       insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
+      appendStandardCSV($setName,$cardNames,$sellPrice,$buyPrice);
+      appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
+      
     // ****** CHAIN SCRIPTS ******
     header("Location: ultimateMasters.php");
     // ****** END CHAIN SCRIPTS ******
