@@ -10,7 +10,7 @@ function findSellPrice($inputPrice) {
         $sellPrice = number_format($medianPrice * 0.95,2);
     }
 
-    if ($sellPrice < 0.20){
+    if ($sellPrice < 0.20 && $sellPrice > 0.01){
         $sellPrice == "0.20";
     }
 
@@ -37,8 +37,11 @@ function findBuyPrice($inputPrice) {
                 $buyPrice=number_format((0.4*$sellPrice),2);
             }elseif($sellPrice > 2){
                 $buyPrice=number_format((0.25),2);
-            }else{
+            }elseif($sellPrice > 1){
                 $buyPrice=number_format((0.08),2);
+            }
+            else{
+                $buyPrice=number_format((0.00),2);
             }
     }
     
@@ -53,6 +56,10 @@ function findBuyPrice($inputPrice) {
 
     // Mythic
 
+}
+
+function findFoilBuyPrice(){
+    
 }
 
 function scrapeFoils($url){

@@ -1,34 +1,34 @@
 "Product Name",Category,"Sell Price","Buy Price"
-"Air Elemental","Alpha Edition",69.82,38.40
+"Air Elemental","Alpha Edition",-,-
 "Ancestral Recall","Alpha Edition",-,-
-"Animate Artifact","Alpha Edition",59.38,32.66
+"Animate Artifact","Alpha Edition",75.99,41.79
 "Animate Dead","Alpha Edition",-,-
 "Animate Wall","Alpha Edition",-,-
 "Ankh of Mishra","Alpha Edition",-,-
-Armageddon,"Alpha Edition","1,425.00",0.08
+Armageddon,"Alpha Edition",-,-
 "Aspect of Wolf","Alpha Edition",-,-
 "Bad Moon","Alpha Edition",-,-
 Badlands,"Alpha Edition",-,-
 Balance,"Alpha Edition","3,325.48",0.25
 "Basalt Monolith","Alpha Edition",427.49,256.49
 Bayou,"Alpha Edition",-,-
-"Benalish Hero","Alpha Edition",29.14,14.57
+"Benalish Hero","Alpha Edition",73.96,40.68
 Berserk,"Alpha Edition",560.49,336.29
 "Birds of Paradise","Alpha Edition",-,-
 "Black Knight","Alpha Edition",570.00,342.00
 "Black Lotus","Alpha Edition",-,-
 "Black Vise","Alpha Edition",-,-
-"Black Ward","Alpha Edition",43.17,21.59
+"Black Ward","Alpha Edition",75.99,41.79
 "Blaze of Glory","Alpha Edition",-,-
 Blessing,"Alpha Edition",-,-
 "Blue Elemental Blast","Alpha Edition",83.50,45.93
-"Blue Ward","Alpha Edition",46.50,23.25
+"Blue Ward","Alpha Edition",57.00,31.35
 "Bog Wraith","Alpha Edition",-,-
 Braingeyser,"Alpha Edition",-,-
 Burrowing,"Alpha Edition",94.76,52.12
 Camouflage,"Alpha Edition",150.10,90.06
 Castle,"Alpha Edition",-,-
-"Celestial Prism","Alpha Edition",66.44,36.54
+"Celestial Prism","Alpha Edition",-,-
 Channel,"Alpha Edition",323.00,193.80
 "Chaos Orb","Alpha Edition",-,-
 Chaoslace,"Alpha Edition",-,-
@@ -38,20 +38,20 @@ Chaoslace,"Alpha Edition",-,-
 "Circle of Protection: White","Alpha Edition",34.43,17.22
 "Clockwork Beast","Alpha Edition",-,-
 Clone,"Alpha Edition",308.74,185.24
-Cockatrice,"Alpha Edition",641.25,384.75
-"Consecrate Land","Alpha Edition",94.99,52.24
+Cockatrice,"Alpha Edition",760.00,456.00
+"Consecrate Land","Alpha Edition",118.75,71.25
 Conservator,"Alpha Edition",109.25,65.55
 "Contract from Below","Alpha Edition",912.09,547.25
 "Control Magic","Alpha Edition",427.49,256.49
 Conversion,"Alpha Edition",-,-
 "Copper Tablet","Alpha Edition",209.71,125.83
-"Copy Artifact","Alpha Edition","1,614.99",0.08
-Counterspell,"Alpha Edition",760.00,456.00
+"Copy Artifact","Alpha Edition","1,899.99",0.08
+Counterspell,"Alpha Edition",-,-
 "Craw Wurm","Alpha Edition",56.98,31.34
 "Creature Bond","Alpha Edition",28.48,14.24
 Crusade,"Alpha Edition",-,-
-"Crystal Rod","Alpha Edition",35.62,17.81
-"Cursed Land","Alpha Edition",71.24,39.18
+"Crystal Rod","Alpha Edition",-,-
+"Cursed Land","Alpha Edition",-,-
 "Cyclopean Tomb","Alpha Edition",-,-
 "Dark Ritual","Alpha Edition",524.88,314.93
 Darkpact,"Alpha Edition",-,-
@@ -60,12 +60,12 @@ Deathgrip,"Alpha Edition","2,027.09",0.08
 Deathlace,"Alpha Edition",-,-
 "Demonic Attorney","Alpha Edition",-,-
 "Demonic Hordes","Alpha Edition",-,-
-"Demonic Tutor","Alpha Edition",852.13,511.28
+"Demonic Tutor","Alpha Edition",-,-
 "Dingus Egg","Alpha Edition",-,-
 Disenchant,"Alpha Edition",154.37,92.62
 Disintegrate,"Alpha Edition",41.80,20.90
 "Disrupting Scepter","Alpha Edition",-,-
-"Dragon Whelp","Alpha Edition",399.00,239.40
+"Dragon Whelp","Alpha Edition",413.25,247.95
 "Drain Life","Alpha Edition",66.49,36.57
 "Drain Power","Alpha Edition",-,-
 "Drudge Skeletons","Alpha Edition",45.59,22.80
@@ -80,7 +80,7 @@ Earthquake,"Alpha Edition",-,-
 Farmstead,"Alpha Edition",-,-
 Fastbond,"Alpha Edition",-,-
 Fear,"Alpha Edition",28.49,14.25
-Feedback,"Alpha Edition",39.30,19.65
+Feedback,"Alpha Edition",-,-
 "Fire Elemental","Alpha Edition",-,-
 Fireball,"Alpha Edition",137.75,82.65
 Firebreathing,"Alpha Edition",33.03,16.52
@@ -104,7 +104,7 @@ Gloom,"Alpha Edition",212.32,127.39
 "Goblin King","Alpha Edition",-,-
 "Granite Gargoyle","Alpha Edition",-,-
 "Gray Ogre","Alpha Edition",47.33,23.67
-"Green Ward","Alpha Edition",43.31,21.66
+"Green Ward","Alpha Edition",-,-
 "Grizzly Bears","Alpha Edition",56.99,31.34
 "Guardian Angel","Alpha Edition",27.08,13.54
 "Healing Salve","Alpha Edition",36.81,18.41
@@ -116,9 +116,9 @@ Gloom,"Alpha Edition",212.32,127.39
 "Howling Mine","Alpha Edition",-,-
 "Hurloon Minotaur","Alpha Edition",26.12,13.06
 Hurricane,"Alpha Edition",-,-
-"Hypnotic Specter","Alpha Edition",520.55,312.33
+"Hypnotic Specter","Alpha Edition",-,-
 "Ice Storm","Alpha Edition",-,-
-"Icy Manipulator","Alpha Edition",709.65,425.79
+"Icy Manipulator","Alpha Edition",755.25,453.15
 "Illusionary Mask","Alpha Edition",-,-
 "Instill Energy","Alpha Edition",94.95,52.22
 Invisibility,"Alpha Edition",33.23,16.62
@@ -133,19 +133,19 @@ Invisibility,"Alpha Edition",33.23,16.62
 "Jade Statue","Alpha Edition",189.98,113.99
 "Jayemdae Tome","Alpha Edition",-,-
 Juggernaut,"Alpha Edition",569.99,341.99
-Jump,"Alpha Edition",16.67,7.50
+Jump,"Alpha Edition",28.48,14.24
 Karma,"Alpha Edition",-,-
 "Keldon Warlord","Alpha Edition",189.99,113.99
 "Kormus Bell","Alpha Edition",284.99,170.99
-Kudzu,"Alpha Edition",265.99,159.59
-Lance,"Alpha Edition",56.99,31.34
+Kudzu,"Alpha Edition",-,-
+Lance,"Alpha Edition",85.48,47.01
 "Ley Druid","Alpha Edition",71.25,39.19
 "Library of Leng","Alpha Edition",-,-
 Lich,"Alpha Edition",-,-
 Lifeforce,"Alpha Edition",109.24,65.54
 Lifelace,"Alpha Edition",-,-
-Lifetap,"Alpha Edition",57.00,31.35
-"Lightning Bolt","Alpha Edition",522.50,313.50
+Lifetap,"Alpha Edition",94.98,52.24
+"Lightning Bolt","Alpha Edition",878.75,527.25
 "Living Artifact","Alpha Edition",-,-
 "Living Lands","Alpha Edition",-,-
 "Living Wall","Alpha Edition",142.49,85.49
@@ -155,11 +155,11 @@ Lifetap,"Alpha Edition",57.00,31.35
 Lure,"Alpha Edition",-,-
 "Magical Hack","Alpha Edition",-,-
 "Mahamoti Djinn","Alpha Edition",-,-
-"Mana Flare","Alpha Edition",657.20,394.32
+"Mana Flare","Alpha Edition",836.09,501.65
 "Mana Short","Alpha Edition",-,-
 "Mana Vault","Alpha Edition",-,-
-Manabarbs,"Alpha Edition",322.99,193.79
-Meekstone,"Alpha Edition",641.25,384.75
+Manabarbs,"Alpha Edition",-,-
+Meekstone,"Alpha Edition",-,-
 "Merfolk of the Pearl Trident","Alpha Edition",37.89,18.95
 "Mesa Pegasus","Alpha Edition",28.46,14.23
 "Mind Twist","Alpha Edition",-,-
@@ -179,7 +179,7 @@ Nightmare,"Alpha Edition",-,-
 "Northern Paladin","Alpha Edition",-,-
 "Obsianus Golem","Alpha Edition",-,-
 "Orcish Artillery","Alpha Edition",361.00,216.60
-"Orcish Oriflamme","Alpha Edition",225.62,135.37
+"Orcish Oriflamme","Alpha Edition",284.99,170.99
 Paralyze,"Alpha Edition",56.99,31.34
 "Pearled Unicorn","Alpha Edition",-,-
 "Personal Incarnation","Alpha Edition",-,-
@@ -195,35 +195,35 @@ Plateau,"Alpha Edition",-,-
 "Power Leak","Alpha Edition",21.68,9.76
 "Power Sink","Alpha Edition",75.99,41.79
 "Power Surge","Alpha Edition",-,-
-"Prodigal Sorcerer","Alpha Edition",47.49,23.75
-"Psionic Blast","Alpha Edition",324.66,194.80
+"Prodigal Sorcerer","Alpha Edition",63.59,34.97
+"Psionic Blast","Alpha Edition",-,-
 "Psychic Venom","Alpha Edition",31.01,15.51
 Purelace,"Alpha Edition",-,-
 "Raging River","Alpha Edition",-,-
 "Raise Dead","Alpha Edition",28.47,14.24
 "Red Elemental Blast","Alpha Edition",137.75,82.65
-"Red Ward","Alpha Edition",45.97,22.99
+"Red Ward","Alpha Edition",66.97,36.83
 Regeneration,"Alpha Edition",33.24,16.62
 Regrowth,"Alpha Edition",284.99,170.99
 Resurrection,"Alpha Edition",118.74,71.24
 "Reverse Damage","Alpha Edition",-,-
 Righteousness,"Alpha Edition",-,-
-"Roc of Kher Ridges","Alpha Edition",474.40,284.64
+"Roc of Kher Ridges","Alpha Edition",-,-
 "Rock Hydra","Alpha Edition",570.00,342.00
-"Rod of Ruin","Alpha Edition",52.23,28.73
+"Rod of Ruin","Alpha Edition",80.70,44.39
 "Royal Assassin","Alpha Edition",-,-
 Sacrifice,"Alpha Edition",-,-
 "Samite Healer","Alpha Edition",31.16,15.58
 Savannah,"Alpha Edition",-,-
 "Savannah Lions","Alpha Edition",-,-
-"Scathe Zombies","Alpha Edition",17.09,7.69
+"Scathe Zombies","Alpha Edition",36.06,18.03
 "Scavenging Ghoul","Alpha Edition",-,-
 Scrubland,"Alpha Edition",-,-
 "Scryb Sprites","Alpha Edition",52.24,28.73
 "Sea Serpent","Alpha Edition",28.73,14.37
 "Sedge Troll","Alpha Edition",-,-
-"Sengir Vampire","Alpha Edition",379.99,227.99
-"Serra Angel","Alpha Edition",614.65,368.79
+"Sengir Vampire","Alpha Edition",394.25,236.55
+"Serra Angel","Alpha Edition",-,-
 "Shanodin Dryads","Alpha Edition",37.96,18.98
 Shatter,"Alpha Edition",56.97,31.33
 "Shivan Dragon","Alpha Edition",-,-
@@ -238,7 +238,7 @@ Smoke,"Alpha Edition",-,-
 Stasis,"Alpha Edition",-,-
 "Steal Artifact","Alpha Edition",-,-
 "Stone Giant","Alpha Edition",94.99,52.24
-"Stone Rain","Alpha Edition",60.08,33.04
+"Stone Rain","Alpha Edition",92.63,50.95
 "Stream of Life","Alpha Edition",-,-
 "Sunglasses of Urza","Alpha Edition",379.99,227.99
 "Swamp (A)","Alpha Edition",37.99,19.00
@@ -251,7 +251,7 @@ Terror,"Alpha Edition",103.88,62.33
 Thoughtlace,"Alpha Edition",-,-
 "Throne of Bone","Alpha Edition",75.99,41.79
 "Timber Wolves","Alpha Edition",-,-
-"Time Vault","Alpha Edition","3,752.49",0.25
+"Time Vault","Alpha Edition","4,369.99",1.60
 "Time Walk","Alpha Edition",-,-
 Timetwister,"Alpha Edition",-,-
 Tranquility,"Alpha Edition",36.57,18.29
@@ -265,7 +265,7 @@ Twiddle,"Alpha Edition",52.24,28.73
 "Unholy Strength","Alpha Edition",-,-
 Unsummon,"Alpha Edition",51.71,28.44
 "Uthden Troll","Alpha Edition",132.99,79.79
-"Verduran Enchantress","Alpha Edition",417.97,250.78
+"Verduran Enchantress","Alpha Edition",-,-
 "Vesuvan Doppelganger","Alpha Edition",-,-
 "Veteran Bodyguard","Alpha Edition",-,-
 "Volcanic Eruption","Alpha Edition",-,-
@@ -273,17 +273,17 @@ Unsummon,"Alpha Edition",51.71,28.44
 "Wall of Bone","Alpha Edition",-,-
 "Wall of Brambles","Alpha Edition",-,-
 "Wall of Fire","Alpha Edition",99.75,54.86
-"Wall of Ice","Alpha Edition",106.49,63.89
+"Wall of Ice","Alpha Edition",-,-
 "Wall of Stone","Alpha Edition",57.59,31.67
 "Wall of Swords","Alpha Edition",94.99,52.24
-"Wall of Water","Alpha Edition",56.99,31.34
+"Wall of Water","Alpha Edition",94.97,52.23
 "Wall of Wood","Alpha Edition",49.86,24.93
 Wanderlust,"Alpha Edition",-,-
 "War Mammoth","Alpha Edition",34.17,17.09
 "Warp Artifact","Alpha Edition",-,-
 "Water Elemental","Alpha Edition",-,-
 Weakness,"Alpha Edition",27.50,13.75
-Web,"Alpha Edition",227.99,136.79
+Web,"Alpha Edition",403.70,242.22
 "Wheel of Fortune","Alpha Edition",-,-
 "White Knight","Alpha Edition",-,-
 "White Ward","Alpha Edition",48.85,24.43

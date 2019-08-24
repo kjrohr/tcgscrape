@@ -39,7 +39,7 @@
       insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
-
+      appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
     // ****** CHAIN SCRIPTS ******
       header("Location: magic2012.php");
     // ****** END CHAIN SCRIPTS ******

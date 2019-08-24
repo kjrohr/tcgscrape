@@ -8,7 +8,7 @@
 "Air Elemental","Core Set 2020",0.19,0.08
 "Ajani, Inspiring Leader","Core Set 2020",-,-
 "Ajani, Strength of the Pride","Core Set 2020",4.93,1.97
-"Ajani's Pridemate Token","Core Set 2020",0.18,0.08
+"Ajani's Pridemate Token","Core Set 2020",0.19,0.08
 "Ancestral Blade","Core Set 2020",0.18,0.08
 "Angel of Vitality","Core Set 2020",0.26,0.08
 "Angelic Gift","Core Set 2020",0.14,0.08
@@ -22,7 +22,7 @@ Anticipate,"Core Set 2020",0.14,0.08
 "Barkhide Troll","Core Set 2020",0.19,0.08
 "Barony Vampire","Core Set 2020",0.14,0.08
 "Bartizan Bats","Core Set 2020",0.38,0.08
-"Bastion Enforcer","Core Set 2020",0.22,0.08
+"Bastion Enforcer","Core Set 2020",0.20,0.08
 "Battalion Foot Soldier","Core Set 2020",0.14,0.08
 Befuddle,"Core Set 2020",0.13,0.08
 "Bishop of Wings","Core Set 2020",0.52,0.08
@@ -42,9 +42,9 @@ Bogstomper,"Core Set 2020",2.37,0.25
 "Brightwood Tracker","Core Set 2020",0.14,0.08
 "Brineborn Cutthroat","Core Set 2020",0.34,0.08
 "Bristling Boar","Core Set 2020",-,-
-"Brought Back","Core Set 2020",1.28,0.08
-"Canopy Spider","Core Set 2020",2.44,0.25
-"Captivating Gyre","Core Set 2020",0.19,0.08
+"Brought Back","Core Set 2020",1.27,0.08
+"Canopy Spider","Core Set 2020",2.23,0.25
+"Captivating Gyre","Core Set 2020",0.20,0.08
 "Cavalier of Dawn","Core Set 2020",1.89,0.08
 "Cavalier of Flame","Core Set 2020",2.19,0.25
 "Cavalier of Gales","Core Set 2020",3.31,1.32
@@ -58,7 +58,7 @@ Bogstomper,"Core Set 2020",2.37,0.25
 "Chandra, Flame's Fury","Core Set 2020",-,-
 "Chandra, Novice Pyromancer","Core Set 2020",0.29,0.08
 "Chandra's Embercat","Core Set 2020",0.14,0.08
-"Chandra's Flame Wave","Core Set 2020",0.73,0.08
+"Chandra's Flame Wave","Core Set 2020",0.75,0.08
 "Chandra's Outrage","Core Set 2020",0.14,0.08
 "Chandra's Regulator","Core Set 2020",0.47,0.08
 "Chandra's Spitfire","Core Set 2020",0.24,0.08
@@ -75,7 +75,7 @@ Convolute,"Core Set 2020",0.14,0.08
 "Dark Remedy","Core Set 2020",0.31,0.08
 "Dawning Angel","Core Set 2020",0.14,0.08
 "Daybreak Chaplain","Core Set 2020",0.13,0.08
-"Demon Token","Core Set 2020",0.17,0.08
+"Demon Token","Core Set 2020",0.18,0.08
 "Destructive Digger","Core Set 2020",0.14,0.08
 "Devout Decree","Core Set 2020",0.22,0.08
 "Diamond Knight","Core Set 2020",0.18,0.08
@@ -88,7 +88,7 @@ Disfigure,"Core Set 2020",0.22,0.08
 "Drakuseth, Maw of Flames","Core Set 2020",0.65,0.08
 "Drawn from Dreams","Core Set 2020",0.83,0.08
 "Dread Presence","Core Set 2020",0.95,0.08
-"Dungeon Geists","Core Set 2020",0.25,0.08
+"Dungeon Geists","Core Set 2020",0.26,0.08
 Duress,"Core Set 2020",0.14,0.08
 "Elemental Bird Token","Core Set 2020",0.19,0.08
 "Elemental Token","Core Set 2020",0.18,0.08
@@ -101,15 +101,15 @@ Duress,"Core Set 2020",0.14,0.08
 "Engulfing Eruption","Core Set 2020",0.29,0.08
 "Epicure of Blood","Core Set 2020",0.14,0.08
 "Eternal Isolation","Core Set 2020",0.17,0.08
-"Ethereal Elk","Core Set 2020",0.56,0.08
+"Ethereal Elk","Core Set 2020",0.59,0.08
 "Evolving Wilds","Core Set 2020",0.14,0.08
 "Faerie Miscreant","Core Set 2020",0.14,0.08
 "Fathom Fleet Cutthroat","Core Set 2020",0.14,0.08
-"Fearless Halberdier","Core Set 2020",0.23,0.08
+"Fearless Halberdier","Core Set 2020",0.24,0.08
 "Fencing Ace","Core Set 2020",0.19,0.08
 "Feral Abomination","Core Set 2020",0.14,0.08
 "Feral Invocation","Core Set 2020",0.14,0.08
-"Ferocious Pup","Core Set 2020",0.14,0.08
+"Ferocious Pup","Core Set 2020",0.15,0.08
 "Field of the Dead","Core Set 2020",3.60,1.44
 "Fire Elemental","Core Set 2020",0.13,0.08
 "Flame Sweep","Core Set 2020",0.24,0.08
@@ -117,9 +117,9 @@ Duress,"Core Set 2020",0.14,0.08
 Forest,"Core Set 2020",0.19,0.08
 "Forest (278)","Core Set 2020",0.14,0.08
 "Forest (279)","Core Set 2020",0.14,0.08
-"Forest (280)","Core Set 2020",0.12,0.08
+"Forest (280)","Core Set 2020",0.13,0.08
 "Fortress Crab","Core Set 2020",0.14,0.08
-"Frilled Sandwalla","Core Set 2020",1.43,0.08
+"Frilled Sandwalla","Core Set 2020",3.48,1.39
 "Frilled Sea Serpent","Core Set 2020",0.14,0.08
 "Frost Lynx","Core Set 2020",0.14,0.08
 Fry,"Core Set 2020",0.48,0.08
@@ -130,13 +130,13 @@ Fry,"Core Set 2020",0.48,0.08
 "Glint-Horn Buccaneer","Core Set 2020",0.33,0.08
 "Gnarlback Rhino","Core Set 2020",0.29,0.08
 "Goblin Assailant","Core Set 2020",0.21,0.08
-"Goblin Bird-Grabber","Core Set 2020",0.13,0.08
+"Goblin Bird-Grabber","Core Set 2020",0.14,0.08
 "Goblin Ringleader","Core Set 2020",0.24,0.08
 "Goblin Smuggler","Core Set 2020",0.14,0.08
 "Gods Willing","Core Set 2020",0.20,0.08
 "Goldmane Griffin","Core Set 2020",0.83,0.08
 "Golem Token","Core Set 2020",0.17,0.08
-"Golos, Tireless Pilgrim","Core Set 2020",1.47,0.08
+"Golos, Tireless Pilgrim","Core Set 2020",1.50,0.08
 "Gorging Vulture","Core Set 2020",0.14,0.08
 "Grafdigger's Cage","Core Set 2020",1.67,0.08
 Gravedigger,"Core Set 2020",0.19,0.08
@@ -154,19 +154,19 @@ Gravewaker,"Core Set 2020",0.66,0.08
 "Herald of the Sun","Core Set 2020",0.19,0.08
 "Hostile Minotaur","Core Set 2020",0.40,0.08
 "Howling Giant","Core Set 2020",0.19,0.08
-"Icon of Ancestry","Core Set 2020",1.96,0.08
+"Icon of Ancestry","Core Set 2020",1.97,0.08
 "Immortal Phoenix","Core Set 2020",3.39,1.36
-"Impassioned Orator","Core Set 2020",0.19,0.08
+"Impassioned Orator","Core Set 2020",0.23,0.08
 "Imperial Outrider","Core Set 2020",2.34,0.25
 Infuriate,"Core Set 2020",0.14,0.08
 "Inspired Charge","Core Set 2020",0.14,0.08
 "Inspiring Captain","Core Set 2020",0.14,0.08
 "Ironclad Krovod","Core Set 2020",0.78,0.08
 "Ironroot Warlord","Core Set 2020",0.18,0.08
-Island,"Core Set 2020",0.20,0.08
-"Island (266)","Core Set 2020",0.13,0.08
+Island,"Core Set 2020",0.21,0.08
+"Island (266)","Core Set 2020",0.14,0.08
 "Island (267)","Core Set 2020",0.10,0.08
-"Island (268)","Core Set 2020",0.10,0.08
+"Island (268)","Core Set 2020",0.11,0.08
 "Jungle Hollow","Core Set 2020",0.15,0.08
 "Kaalia, Zenith Seeker","Core Set 2020",2.83,0.25
 "Keldon Raider","Core Set 2020",0.14,0.08
@@ -177,13 +177,13 @@ Island,"Core Set 2020",0.20,0.08
 "Leafkin Druid","Core Set 2020",0.17,0.08
 "Legion's End","Core Set 2020",0.57,0.08
 "Leyline of Abundance","Core Set 2020",1.83,0.08
-"Leyline of Anticipation","Core Set 2020",5.20,2.08
+"Leyline of Anticipation","Core Set 2020",5.22,2.09
 "Leyline of Combustion","Core Set 2020",0.74,0.08
 "Leyline of Sanctity","Core Set 2020",4.11,1.64
 "Leyline of the Void","Core Set 2020",16.15,7.27
 "Lightning Stormkin","Core Set 2020",0.19,0.08
 "Loaming Shaman","Core Set 2020",0.19,0.08
-"Lotus Field","Core Set 2020",6.30,2.52
+"Lotus Field","Core Set 2020",6.27,2.51
 "Loxodon Lifechanter","Core Set 2020",0.26,0.08
 "Loyal Pegasus","Core Set 2020",0.19,0.08
 "Mammoth Spider","Core Set 2020",0.14,0.08
@@ -205,7 +205,7 @@ Island,"Core Set 2020",0.20,0.08
 Mountain,"Core Set 2020",0.14,0.08
 "Mountain (274)","Core Set 2020",0.13,0.08
 "Mountain (275)","Core Set 2020",0.10,0.08
-"Mountain (276)","Core Set 2020",0.12,0.08
+"Mountain (276)","Core Set 2020",0.13,0.08
 "Mu Yanling, Celestial Wind","Core Set 2020",-,-
 "Mu Yanling, Sky Dancer","Core Set 2020",8.65,3.46
 Murder,"Core Set 2020",0.14,0.08
@@ -216,7 +216,7 @@ Negate,"Core Set 2020",0.14,0.08
 "Nightpack Ambusher","Core Set 2020",4.06,1.62
 "Nimble Birdsticker","Core Set 2020",2.37,0.25
 "Noxious Grasp","Core Set 2020",0.24,0.08
-Oakenform,"Core Set 2020",1.57,0.08
+Oakenform,"Core Set 2020",1.72,0.08
 Octoprophet,"Core Set 2020",0.14,0.08
 "Ogre Siegebreaker","Core Set 2020",0.17,0.08
 "Omnath, Locus of the Roil","Core Set 2020",14.28,6.43
@@ -225,11 +225,11 @@ Overcome,"Core Set 2020",0.19,0.08
 Pacifism,"Core Set 2020",0.14,0.08
 "Pack Mastiff","Core Set 2020",0.14,0.08
 "Pattern Matcher","Core Set 2020",0.19,0.08
-"Phantom Warrior","Core Set 2020",4.74,1.90
+"Phantom Warrior","Core Set 2020",3.93,1.57
 Plains,"Core Set 2020",0.18,0.08
-"Plains (262)","Core Set 2020",0.10,0.08
+"Plains (262)","Core Set 2020",0.11,0.08
 "Plains (263)","Core Set 2020",0.11,0.08
-"Plains (264)","Core Set 2020",0.11,0.08
+"Plains (264)","Core Set 2020",0.12,0.08
 "Planar Cleansing","Core Set 2020",0.28,0.08
 Plummet,"Core Set 2020",0.14,0.08
 "Portal of Sanctuary","Core Set 2020",0.23,0.08
@@ -242,7 +242,7 @@ Prismite,"Core Set 2020",0.14,0.08
 "Raise the Alarm","Core Set 2020",0.14,0.08
 "Rapacious Dragon","Core Set 2020",0.19,0.08
 "Reckless Air Strike","Core Set 2020",0.14,0.08
-"Reduce to Ashes","Core Set 2020",0.13,0.08
+"Reduce to Ashes","Core Set 2020",0.14,0.08
 "Renowned Weaponsmith","Core Set 2020",0.21,0.08
 "Repeated Reverberation","Core Set 2020",0.43,0.08
 "Retributive Wand","Core Set 2020",0.19,0.08
@@ -264,9 +264,9 @@ Prismite,"Core Set 2020",0.14,0.08
 "Scorch Spitter","Core Set 2020",0.14,0.08
 "Scoured Barrens","Core Set 2020",0.14,0.08
 Scuttlemutt,"Core Set 2020",0.19,0.08
-"Season of Growth","Core Set 2020",0.27,0.08
+"Season of Growth","Core Set 2020",0.28,0.08
 "Sedge Scorpion","Core Set 2020",0.14,0.08
-"Sephara, Sky's Blade","Core Set 2020",1.77,0.08
+"Sephara, Sky's Blade","Core Set 2020",1.76,0.08
 "Serra's Guardian","Core Set 2020",0.63,0.08
 "Shared Summons","Core Set 2020",0.48,0.08
 "Shifting Ceratops","Core Set 2020",4.27,1.71
@@ -279,12 +279,12 @@ Shock,"Core Set 2020",0.14,0.08
 "Skyknight Vanguard","Core Set 2020",0.20,0.08
 "Sleep Paralysis","Core Set 2020",0.14,0.08
 "Snapping Drake","Core Set 2020",0.19,0.08
-"Soldier Token","Core Set 2020",0.14,0.08
+"Soldier Token","Core Set 2020",0.15,0.08
 "Sorcerer of the Fang","Core Set 2020",0.14,0.08
 "Sorin, Imperious Bloodlord","Core Set 2020",15.20,6.84
 "Sorin, Vampire Lord","Core Set 2020",-,-
 "Sorin's Guide","Core Set 2020",0.56,0.08
-"Sorin's Thirst","Core Set 2020",0.14,0.08
+"Sorin's Thirst","Core Set 2020",0.13,0.08
 "Soul Salvage","Core Set 2020",0.14,0.08
 Soulmender,"Core Set 2020",0.14,0.08
 "Spectral Sailor","Core Set 2020",0.85,0.08
@@ -294,13 +294,13 @@ Soulmender,"Core Set 2020",0.14,0.08
 "Steadfast Sentry","Core Set 2020",0.14,0.08
 "Steel Overseer","Core Set 2020",2.14,0.25
 "Stone Golem","Core Set 2020",0.14,0.08
-Swamp,"Core Set 2020",0.21,0.08
+Swamp,"Core Set 2020",0.22,0.08
 "Swamp (270)","Core Set 2020",0.14,0.08
 "Swamp (271)","Core Set 2020",0.13,0.08
 "Swamp (272)","Core Set 2020",0.13,0.08
 "Swiftwater Cliffs","Core Set 2020",0.14,0.08
 "Take Vengeance","Core Set 2020",0.24,0.08
-"Tale's End","Core Set 2020",0.74,0.08
+"Tale's End","Core Set 2020",0.73,0.08
 "Tectonic Rift","Core Set 2020",0.14,0.08
 "Temple of Epiphany","Core Set 2020",1.85,0.08
 "Temple of Malady","Core Set 2020",1.73,0.08
@@ -308,12 +308,12 @@ Swamp,"Core Set 2020",0.21,0.08
 "Temple of Silence","Core Set 2020",1.67,0.08
 "Temple of Triumph","Core Set 2020",1.65,0.08
 "Thicket Crasher","Core Set 2020",0.14,0.08
-"Thirsting Bloodlord","Core Set 2020",2.17,0.25
+"Thirsting Bloodlord","Core Set 2020",2.20,0.25
 "Thornwood Falls","Core Set 2020",0.14,0.08
 "Thought Distortion","Core Set 2020",0.19,0.08
 "Thrashing Brontodon","Core Set 2020",0.24,0.08
 "Thunderkin Awakener","Core Set 2020",1.42,0.08
-"Titanic Growth","Core Set 2020",0.11,0.08
+"Titanic Growth","Core Set 2020",0.18,0.08
 "Tomebound Lich","Core Set 2020",0.24,0.08
 "Tranquil Cove","Core Set 2020",0.14,0.08
 "Treasure Token","Core Set 2020",0.24,0.08
@@ -324,8 +324,8 @@ Swamp,"Core Set 2020",0.21,0.08
 "Undead Servant","Core Set 2020",0.14,0.08
 "Unholy Indenture","Core Set 2020",0.14,0.08
 Unsummon,"Core Set 2020",0.14,0.08
-"Vampire of the Dire Moon","Core Set 2020",0.32,0.08
-"Vampire Opportunist","Core Set 2020",0.17,0.08
+"Vampire of the Dire Moon","Core Set 2020",0.33,0.08
+"Vampire Opportunist","Core Set 2020",0.16,0.08
 "Veil of Summer","Core Set 2020",2.85,0.25
 "Vengeful Warchief","Core Set 2020",0.19,0.08
 "Vial of Dragonfire","Core Set 2020",0.14,0.08
@@ -336,7 +336,7 @@ Unsummon,"Core Set 2020",0.14,0.08
 "Volcanic Dragon","Core Set 2020",3.58,1.43
 "Voracious Hydra","Core Set 2020",1.41,0.08
 Vorstclaw,"Core Set 2020",0.14,0.08
-"Wakeroot Elemental","Core Set 2020",0.24,0.08
+"Wakeroot Elemental","Core Set 2020",0.25,0.08
 "Walking Corpse","Core Set 2020",0.28,0.08
 "Warden of Evos Isle","Core Set 2020",0.19,0.08
 "Waterkin Shaman","Core Set 2020",0.29,0.08
@@ -346,8 +346,8 @@ Vorstclaw,"Core Set 2020",0.14,0.08
 "Wolf Token","Core Set 2020",0.14,0.08
 "Wolfkin Bond","Core Set 2020",0.14,0.08
 "Wolfrider's Saddle","Core Set 2020",0.17,0.08
-"Woodland Champion","Core Set 2020",0.18,0.08
-"Woodland Mystic","Core Set 2020",3.79,1.52
+"Woodland Champion","Core Set 2020",0.19,0.08
+"Woodland Mystic","Core Set 2020",5.69,2.28
 "Yanling's Harbinger","Core Set 2020",0.48,0.08
 "Yarok, the Desecrated","Core Set 2020",13.27,5.97
 "Yarok's Fenlurker","Core Set 2020",0.20,0.08
@@ -355,275 +355,275 @@ Vorstclaw,"Core Set 2020",0.14,0.08
 "Yoked Ox","Core Set 2020",0.14,0.08
 "Zephyr Charge","Core Set 2020",0.14,0.08
 "Zombie Token","Core Set 2020",0.18,0.08
-"Salvager of Ruin - Foil","Core Set 2020",0.07,0.08
-"Mystic Forge - Foil","Core Set 2020",9.64,3.86
-"Act of Treason - Foil","Core Set 2020",0.04,0.08
-"Moldervine Reclamation - Foil","Core Set 2020",0.26,0.08
-"Loaming Shaman - Foil","Core Set 2020",0.12,0.08
-"Tectonic Rift - Foil","Core Set 2020",0.02,0.08
-"Nightpack Ambusher - Foil","Core Set 2020",3.89,1.56
-"Inspiring Captain - Foil","Core Set 2020",0.04,0.08
-"Metropolis Sprite - Foil","Core Set 2020",0.02,0.08
-"Rugged Highlands - Foil","Core Set 2020",0.10,0.08
-"Silverback Shaman - Foil","Core Set 2020",0.14,0.08
-"Temple of Triumph - Foil","Core Set 2020",1.33,0.08
-"Mammoth Spider - Foil","Core Set 2020",0.04,0.08
-"Portal of Sanctuary - Foil","Core Set 2020",0.19,0.08
-"Unholy Indenture - Foil","Core Set 2020",0.08,0.08
-"Ajani, Inspiring Leader - Foil","Core Set 2020",6.00,2.40
-"Gorging Vulture - Foil","Core Set 2020",0.12,0.08
-"Undead Servant - Foil","Core Set 2020",0.05,0.08
-"Warden of Evos Isle - Foil","Core Set 2020",0.12,0.08
-"Dungeon Geists - Foil","Core Set 2020",0.19,0.08
-"Squad Captain - Foil","Core Set 2020",0.05,0.08
-"Apostle of Purifying Light - Foil","Core Set 2020",0.12,0.08
-"Angelic Gift - Foil","Core Set 2020",0.05,0.08
-"Spectral Sailor - Foil","Core Set 2020",3.27,1.31
-"Steel Overseer - Foil","Core Set 2020",3.74,1.50
-"Ancestral Blade - Foil","Core Set 2020",0.20,0.08
-"Leyline of Anticipation - Foil","Core Set 2020",7.15,2.86
-"Bladebrand - Foil","Core Set 2020",0.05,0.08
-"Chandra, Novice Pyromancer - Foil","Core Set 2020",0.98,0.08
-"Fry - Foil","Core Set 2020",2.20,0.25
-"Ironroot Warlord - Foil","Core Set 2020",0.20,0.08
-"Maniacal Rage - Foil","Core Set 2020",0.05,0.08
-"Sorin, Vampire Lord - Foil","Core Set 2020",6.00,2.40
-"Rabid Bite - Foil","Core Set 2020",0.01,0.08
-"Gift of Paradise - Foil","Core Set 2020",0.05,0.08
-"Convolute - Foil","Core Set 2020",0.02,0.08
-"Befuddle - Foil","Core Set 2020",0.05,0.08
-"Loyal Pegasus - Foil","Core Set 2020",0.05,0.08
-"Sanitarium Skeleton - Foil","Core Set 2020",0.07,0.08
-"Chandra's Regulator - Foil","Core Set 2020",0.41,0.08
-"Jungle Hollow - Foil","Core Set 2020",0.08,0.08
-"Zephyr Charge - Foil","Core Set 2020",0.05,0.08
-"Griffin Sentinel - Foil","Core Set 2020",0.05,0.08
-"Shared Summons - Foil","Core Set 2020",1.00,0.08
-"Destructive Digger - Foil","Core Set 2020",0.08,0.08
-"Battalion Foot Soldier - Foil","Core Set 2020",0.05,0.08
-"Gruesome Scourger - Foil","Core Set 2020",0.08,0.08
-"Marauder's Axe - Foil","Core Set 2020",0.02,0.08
-"Glaring Aegis - Foil","Core Set 2020",0.01,0.08
-"Daybreak Chaplain - Foil","Core Set 2020",0.05,0.08
-"Keldon Raider - Foil","Core Set 2020",0.04,0.08
-"Knight of the Ebon Legion - Foil","Core Set 2020",3.41,1.36
-"Temple of Mystery - Foil","Core Set 2020",2.37,0.25
-"Ironclad Krovod - Foil","Core Set 2020",6.99,2.80
-"Kaalia, Zenith Seeker - Foil","Core Set 2020",9.03,3.61
-"Might of the Masses - Foil","Core Set 2020",0.08,0.08
-"Rule of Law - Foil","Core Set 2020",0.39,0.08
-"Dismal Backwater - Foil","Core Set 2020",0.05,0.08
-"Air Elemental - Foil","Core Set 2020",0.04,0.08
-"Swamp - Foil","Core Set 2020",0.10,0.08
-"Masterful Replication - Foil","Core Set 2020",0.23,0.08
-"Season of Growth - Foil","Core Set 2020",0.68,0.08
-"Rotting Regisaur - Foil","Core Set 2020",3.31,1.32
-"Thicket Crasher - Foil","Core Set 2020",0.01,0.08
+"Rotting Regisaur - Foil","Core Set 2020",3.29,1.32
 "Blood Burglar - Foil","Core Set 2020",0.05,0.08
+"Season of Growth - Foil","Core Set 2020",0.68,0.08
+"Thicket Crasher - Foil","Core Set 2020",0.01,0.08
 "Leyline of Abundance - Foil","Core Set 2020",1.37,0.08
 "Scuttlemutt - Foil","Core Set 2020",0.08,0.08
-"Scholar of the Ages - Foil","Core Set 2020",0.19,0.08
 "Blightbeetle - Foil","Core Set 2020",0.10,0.08
+"Scholar of the Ages - Foil","Core Set 2020",0.19,0.08
 "Leyline of Sanctity - Foil","Core Set 2020",5.57,2.23
 "Inspired Charge - Foil","Core Set 2020",0.05,0.08
 "Moment of Heroism - Foil","Core Set 2020",0.07,0.08
-"Mu Yanling, Celestial Wind - Foil","Core Set 2020",2.99,0.25
-"Uncaged Fury - Foil","Core Set 2020",0.05,0.08
 "Bloodsoaked Altar - Foil","Core Set 2020",0.05,0.08
 "Frost Lynx - Foil","Core Set 2020",0.05,0.08
 "Creeping Trailblazer - Foil","Core Set 2020",0.67,0.08
 "Octoprophet - Foil","Core Set 2020",0.05,0.08
 "Risen Reef - Foil","Core Set 2020",5.17,2.07
+"Mu Yanling, Celestial Wind - Foil","Core Set 2020",2.99,0.25
+"Uncaged Fury - Foil","Core Set 2020",0.05,0.08
 "Brightwood Tracker - Foil","Core Set 2020",0.01,0.08
 "Cavalier of Flame - Foil","Core Set 2020",4.08,1.63
 "Lotus Field - Foil","Core Set 2020",14.36,6.46
+"Drawn from Dreams - Foil","Core Set 2020",1.58,0.08
 "Boneclad Necromancer - Foil","Core Set 2020",0.02,0.08
 "Flood of Tears - Foil","Core Set 2020",2.12,0.25
-"Drawn from Dreams - Foil","Core Set 2020",1.60,0.08
 "Chandra, Flame's Fury - Foil","Core Set 2020",8.99,3.60
+"Vilis, Broker of Blood - Foil","Core Set 2020",8.02,3.21
 "Heart-Piercer Bow - Foil","Core Set 2020",0.01,0.08
 "Lavakin Brawler - Foil","Core Set 2020",0.08,0.08
 "Legion's End - Foil","Core Set 2020",0.81,0.08
-"Vilis, Broker of Blood - Foil","Core Set 2020",8.02,3.21
-"Bone Splinters - Foil","Core Set 2020",0.07,0.08
-"Feral Abomination - Foil","Core Set 2020",0.05,0.08
+"Bishop of Wings - Foil","Core Set 2020",0.75,0.08
+"Mystic Forge - Foil","Core Set 2020",9.64,3.86
+"Salvager of Ruin - Foil","Core Set 2020",0.07,0.08
+"Nightpack Ambusher - Foil","Core Set 2020",3.89,1.56
+"Loaming Shaman - Foil","Core Set 2020",0.12,0.08
+"Tectonic Rift - Foil","Core Set 2020",0.02,0.08
+"Act of Treason - Foil","Core Set 2020",0.04,0.08
+"Moldervine Reclamation - Foil","Core Set 2020",0.26,0.08
+"Ajani, Inspiring Leader - Foil","Core Set 2020",6.00,2.40
+"Mammoth Spider - Foil","Core Set 2020",0.04,0.08
+"Portal of Sanctuary - Foil","Core Set 2020",0.19,0.08
+"Unholy Indenture - Foil","Core Set 2020",0.08,0.08
+"Inspiring Captain - Foil","Core Set 2020",0.04,0.08
+"Metropolis Sprite - Foil","Core Set 2020",0.02,0.08
+"Rugged Highlands - Foil","Core Set 2020",0.10,0.08
+"Silverback Shaman - Foil","Core Set 2020",0.14,0.08
+"Temple of Triumph - Foil","Core Set 2020",1.33,0.08
+"Apostle of Purifying Light - Foil","Core Set 2020",0.12,0.08
+"Dungeon Geists - Foil","Core Set 2020",0.19,0.08
+"Squad Captain - Foil","Core Set 2020",0.05,0.08
+"Warden of Evos Isle - Foil","Core Set 2020",0.12,0.08
+"Gorging Vulture - Foil","Core Set 2020",0.12,0.08
+"Undead Servant - Foil","Core Set 2020",0.05,0.08
+"Spectral Sailor - Foil","Core Set 2020",3.27,1.31
+"Steel Overseer - Foil","Core Set 2020",3.74,1.50
+"Angelic Gift - Foil","Core Set 2020",0.05,0.08
+"Bladebrand - Foil","Core Set 2020",0.05,0.08
+"Chandra, Novice Pyromancer - Foil","Core Set 2020",0.98,0.08
+"Fry - Foil","Core Set 2020",2.20,0.25
+"Icon of Ancestry - Foil","Core Set 2020",2.75,0.25
+"Wakeroot Elemental - Foil","Core Set 2020",0.23,0.08
 "Blossoming Sands - Foil","Core Set 2020",0.10,0.08
 "Cryptic Caves - Foil","Core Set 2020",0.69,0.08
 "Dragon Mage - Foil","Core Set 2020",0.17,0.08
 "Goblin Bird-Grabber - Foil","Core Set 2020",0.08,0.08
 "Negate - Foil","Core Set 2020",0.17,0.08
-"Mountain - Foil","Core Set 2020",0.10,0.08
 "Diviner's Lockbox - Foil","Core Set 2020",0.08,0.08
 "Repeated Reverberation - Foil","Core Set 2020",0.81,0.08
-"Plummet - Foil","Core Set 2020",0.04,0.08
+"Feral Abomination - Foil","Core Set 2020",0.05,0.08
+"Mountain - Foil","Core Set 2020",0.10,0.08
 "Skyknight Vanguard - Foil","Core Set 2020",0.14,0.08
+"Plummet - Foil","Core Set 2020",0.04,0.08
+"Howling Giant - Foil","Core Set 2020",0.12,0.08
 "Captivating Gyre - Foil","Core Set 2020",0.08,0.08
 "Gravedigger - Foil","Core Set 2020",0.05,0.08
-"Howling Giant - Foil","Core Set 2020",0.12,0.08
 "Epicure of Blood - Foil","Core Set 2020",0.08,0.08
 "Leyline of Combustion - Foil","Core Set 2020",0.98,0.08
 "Moat Piranhas - Foil","Core Set 2020",0.05,0.08
-"Prismite - Foil","Core Set 2020",0.07,0.08
 "Embodiment of Agonies - Foil","Core Set 2020",1.50,0.08
+"Prismite - Foil","Core Set 2020",0.07,0.08
 "Kethis, the Hidden Hand - Foil","Core Set 2020",7.55,3.02
-"Sage's Row Denizen - Foil","Core Set 2020",0.05,0.08
 "Pacifism - Foil","Core Set 2020",0.10,0.08
 "Voracious Hydra - Foil","Core Set 2020",1.84,0.08
+"Sage's Row Denizen - Foil","Core Set 2020",0.05,0.08
 "Sorcerer of the Fang - Foil","Core Set 2020",0.01,0.08
 "Temple of Silence - Foil","Core Set 2020",1.84,0.08
 "Overcome - Foil","Core Set 2020",0.07,0.08
 "Chandra, Acolyte of Flame - Foil","Core Set 2020",9.42,3.77
 "Kykar, Wind's Fury - Foil","Core Set 2020",12.99,5.85
-"Chandra, Awakened Inferno - Foil","Core Set 2020",31.01,15.51
 "Glint-Horn Buccaneer - Foil","Core Set 2020",1.00,0.08
-"Icon of Ancestry - Foil","Core Set 2020",2.75,0.25
-"Wakeroot Elemental - Foil","Core Set 2020",0.23,0.08
-"Moorland Inquisitor - Foil","Core Set 2020",0.02,0.08
-"Scoured Barrens - Foil","Core Set 2020",0.12,0.08
-"Yarok, the Desecrated - Foil","Core Set 2020",28.93,14.47
-"Soul Salvage - Foil","Core Set 2020",0.04,0.08
-"Eternal Isolation - Foil","Core Set 2020",0.10,0.08
-"Temple of Epiphany - Foil","Core Set 2020",2.02,0.25
-"Bloodfell Caves - Foil","Core Set 2020",0.08,0.08
-"Pack Mastiff - Foil","Core Set 2020",0.07,0.08
-"Manifold Key - Foil","Core Set 2020",4.00,1.60
-"Anvilwrought Raptor - Foil","Core Set 2020",0.01,0.08
-"Ogre Siegebreaker - Foil","Core Set 2020",0.07,0.08
-"Retributive Wand - Foil","Core Set 2020",0.12,0.08
-"Barkhide Troll - Foil","Core Set 2020",0.12,0.08
-"Hard Cover - Foil","Core Set 2020",0.05,0.08
-"Rienne, Angel of Rebirth - Foil","Core Set 2020",3.99,1.60
-"Meteor Golem - Foil","Core Set 2020",0.19,0.08
-"Thought Distortion - Foil","Core Set 2020",0.10,0.08
-"Planar Cleansing - Foil","Core Set 2020",0.31,0.08
-"Wolfrider's Saddle - Foil","Core Set 2020",0.10,0.08
-"Marauding Raptor - Foil","Core Set 2020",1.00,0.08
-"Cloudkin Seer - Foil","Core Set 2020",0.14,0.08
-"Shifting Ceratops - Foil","Core Set 2020",4.04,1.62
-"Gauntlets of Light - Foil","Core Set 2020",0.10,0.08
-"Leyline of the Void - Foil","Core Set 2020",24.62,11.08
-"Wolfkin Bond - Foil","Core Set 2020",0.05,0.08
-"Yarok's Fenlurker - Foil","Core Set 2020",0.25,0.08
-"Dread Presence - Foil","Core Set 2020",1.79,0.08
-"Frilled Sea Serpent - Foil","Core Set 2020",0.04,0.08
-"Winged Words - Foil","Core Set 2020",0.13,0.08
-"Aerial Assault - Foil","Core Set 2020",0.05,0.08
-"Leafkin Druid - Foil","Core Set 2020",0.25,0.08
-"Griffin Protector - Foil","Core Set 2020",0.04,0.08
-"Mu Yanling, Sky Dancer - Foil","Core Set 2020",22.34,10.05
-"Audacious Thief - Foil","Core Set 2020",0.11,0.08
-"Colossus Hammer - Foil","Core Set 2020",2.00,0.08
-"Scampering Scorcher - Foil","Core Set 2020",0.13,0.08
-"Yoked Ox - Foil","Core Set 2020",0.01,0.08
-"Corpse Knight - Foil","Core Set 2020",0.46,0.08
-"Elvish Reclaimer - Foil","Core Set 2020",5.75,2.30
-"Atemsis, All-Seeing - Foil","Core Set 2020",0.72,0.08
-"Brought Back - Foil","Core Set 2020",2.00,0.08
-"Raise the Alarm - Foil","Core Set 2020",0.02,0.08
-"Sleep Paralysis - Foil","Core Set 2020",0.07,0.08
-"Greenwood Sentinel - Foil","Core Set 2020",0.04,0.08
-"Vampire of the Dire Moon - Foil","Core Set 2020",1.50,0.08
-"Sedge Scorpion - Foil","Core Set 2020",0.04,0.08
-"Empyrean Eagle - Foil","Core Set 2020",0.83,0.08
-"Flame Sweep - Foil","Core Set 2020",0.20,0.08
-"Golos, Tireless Pilgrim - Foil","Core Set 2020",7.90,3.16
-"Herald of the Sun - Foil","Core Set 2020",0.10,0.08
-"Faerie Miscreant - Foil","Core Set 2020",0.10,0.08
-"Steadfast Sentry - Foil","Core Set 2020",0.02,0.08
-"Yarok's Wavecrasher - Foil","Core Set 2020",0.08,0.08
-"Brineborn Cutthroat - Foil","Core Set 2020",1.02,0.08
-"Field of the Dead - Foil","Core Set 2020",7.75,3.10
-"Omnath, Locus of the Roil - Foil","Core Set 2020",20.50,9.23
-"Chandra's Spitfire - Foil","Core Set 2020",0.14,0.08
-"Plains - Foil","Core Set 2020",0.07,0.08
-"Temple of Malady - Foil","Core Set 2020",1.68,0.08
-"Woodland Champion - Foil","Core Set 2020",0.12,0.08
 "Duress - Foil","Core Set 2020",0.08,0.08
-"Drakuseth, Maw of Flames - Foil","Core Set 2020",1.41,0.08
-"Reduce to Ashes - Foil","Core Set 2020",0.01,0.08
-"Starfield Mystic - Foil","Core Set 2020",1.09,0.08
-"Aether Gust - Foil","Core Set 2020",0.17,0.08
-"Fire Elemental - Foil","Core Set 2020",0.02,0.08
-"Fortress Crab - Foil","Core Set 2020",0.01,0.08
-"Pulse of Murasa - Foil","Core Set 2020",0.08,0.08
-"Bag of Holding - Foil","Core Set 2020",1.68,0.08
-"Veil of Summer - Foil","Core Set 2020",16.80,7.56
-"Vial of Dragonfire - Foil","Core Set 2020",0.05,0.08
-"Diamond Knight - Foil","Core Set 2020",0.20,0.08
-"Centaur Courser - Foil","Core Set 2020",0.01,0.08
-"Growth Cycle - Foil","Core Set 2020",0.05,0.08
-"Vorstclaw - Foil","Core Set 2020",0.05,0.08
-"Fencing Ace - Foil","Core Set 2020",0.08,0.08
-"Cerulean Drake - Foil","Core Set 2020",0.19,0.08
-"Thunderkin Awakener - Foil","Core Set 2020",2.74,0.25
-"Mask of Immolation - Foil","Core Set 2020",0.14,0.08
-"Reckless Air Strike - Foil","Core Set 2020",0.05,0.08
-"Gods Willing - Foil","Core Set 2020",0.01,0.08
-"Ferocious Pup - Foil","Core Set 2020",0.17,0.08
-"Cavalier of Dawn - Foil","Core Set 2020",3.00,0.25
-"Scheming Symmetry - Foil","Core Set 2020",7.66,3.06
-"Vivien, Arkbow Ranger - Foil","Core Set 2020",5.95,2.38
-"Chandra's Outrage - Foil","Core Set 2020",0.05,0.08
-"Swiftwater Cliffs - Foil","Core Set 2020",0.08,0.08
-"Cavalier of Gales - Foil","Core Set 2020",4.23,1.69
-"Sorin, Imperious Bloodlord - Foil","Core Set 2020",17.98,8.09
-"Bishop of Wings - Foil","Core Set 2020",0.75,0.08
+"Rabid Bite - Foil","Core Set 2020",0.01,0.08
+"Sorin, Vampire Lord - Foil","Core Set 2020",6.00,2.40
+"Ironroot Warlord - Foil","Core Set 2020",0.20,0.08
+"Maniacal Rage - Foil","Core Set 2020",0.05,0.08
+"Gift of Paradise - Foil","Core Set 2020",0.05,0.08
+"Befuddle - Foil","Core Set 2020",0.05,0.08
+"Convolute - Foil","Core Set 2020",0.02,0.08
+"Chandra's Regulator - Foil","Core Set 2020",0.41,0.08
+"Loyal Pegasus - Foil","Core Set 2020",0.05,0.08
+"Sanitarium Skeleton - Foil","Core Set 2020",0.07,0.08
+"Griffin Sentinel - Foil","Core Set 2020",0.05,0.08
+"Shared Summons - Foil","Core Set 2020",1.00,0.08
+"Zephyr Charge - Foil","Core Set 2020",0.05,0.08
+"Jungle Hollow - Foil","Core Set 2020",0.08,0.08
+"Gruesome Scourger - Foil","Core Set 2020",0.08,0.08
+"Battalion Foot Soldier - Foil","Core Set 2020",0.05,0.08
+"Destructive Digger - Foil","Core Set 2020",0.08,0.08
+"Glaring Aegis - Foil","Core Set 2020",0.01,0.08
+"Marauder's Axe - Foil","Core Set 2020",0.02,0.08
+"Dismal Backwater - Foil","Core Set 2020",0.05,0.08
+"Ironclad Krovod - Foil","Core Set 2020",6.99,2.80
+"Kaalia, Zenith Seeker - Foil","Core Set 2020",9.03,3.61
+"Might of the Masses - Foil","Core Set 2020",0.08,0.08
+"Rule of Law - Foil","Core Set 2020",0.39,0.08
+"Daybreak Chaplain - Foil","Core Set 2020",0.05,0.08
+"Keldon Raider - Foil","Core Set 2020",0.04,0.08
+"Knight of the Ebon Legion - Foil","Core Set 2020",3.41,1.36
+"Temple of Mystery - Foil","Core Set 2020",2.35,0.25
+"Air Elemental - Foil","Core Set 2020",0.04,0.08
+"Swamp - Foil","Core Set 2020",0.10,0.08
+"Audacious Thief - Foil","Core Set 2020",0.11,0.08
 "Chandra's Embercat - Foil","Core Set 2020",0.22,0.08
 "Soulmender - Foil","Core Set 2020",0.13,0.08
 "Stone Golem - Foil","Core Set 2020",0.04,0.08
-"Sephara, Sky's Blade - Foil","Core Set 2020",2.68,0.25
+"Bone Splinters - Foil","Core Set 2020",0.07,0.08
+"Sorin, Imperious Bloodlord - Foil","Core Set 2020",17.98,8.09
 "Thrashing Brontodon - Foil","Core Set 2020",0.17,0.08
+"Sephara, Sky's Blade - Foil","Core Set 2020",2.68,0.25
 "Cavalier of Thorns - Foil","Core Set 2020",11.59,5.22
 "Scorch Spitter - Foil","Core Set 2020",0.10,0.08
+"Goblin Smuggler - Foil","Core Set 2020",0.01,0.08
+"Daggersail Aeronaut - Foil","Core Set 2020",0.02,0.08
 "Noxious Grasp - Foil","Core Set 2020",0.50,0.08
 "Tranquil Cove - Foil","Core Set 2020",0.08,0.08
 "Unsummon - Foil","Core Set 2020",0.10,0.08
 "Vivien, Nature's Avenger - Foil","Core Set 2020",5.00,2.00
-"Goblin Smuggler - Foil","Core Set 2020",0.01,0.08
 "Forest - Foil","Core Set 2020",0.10,0.08
 "Master Splicer - Foil","Core Set 2020",0.08,0.08
-"Daggersail Aeronaut - Foil","Core Set 2020",0.02,0.08
+"Gargos, Vicious Watcher - Foil","Core Set 2020",1.54,0.08
+"Murder - Foil","Core Set 2020",0.08,0.08
 "Devout Decree - Foil","Core Set 2020",0.20,0.08
 "Shock - Foil","Core Set 2020",0.13,0.08
-"Tale's End - Foil","Core Set 2020",1.83,0.08
-"Gargos, Vicious Watcher - Foil","Core Set 2020",1.54,0.08
+"Tale's End - Foil","Core Set 2020",1.62,0.08
 "Agent of Treachery - Foil","Core Set 2020",1.34,0.08
 "Feral Invocation - Foil","Core Set 2020",0.07,0.08
-"Murder - Foil","Core Set 2020",0.08,0.08
-"Disenchant - Foil","Core Set 2020",0.08,0.08
 "Pattern Matcher - Foil","Core Set 2020",0.20,0.08
-"Grafdigger's Cage - Foil","Core Set 2020",3.70,1.48
 "Ember Hauler - Foil","Core Set 2020",0.14,0.08
+"Disenchant - Foil","Core Set 2020",0.08,0.08
+"Grafdigger's Cage - Foil","Core Set 2020",3.70,1.48
 "Boreal Elemental - Foil","Core Set 2020",0.05,0.08
 "Hanged Executioner - Foil","Core Set 2020",0.40,0.08
 "Unchained Berserker - Foil","Core Set 2020",0.08,0.08
+"Ancestral Blade - Foil","Core Set 2020",0.20,0.08
+"Leyline of Anticipation - Foil","Core Set 2020",7.15,2.86
+"Soul Salvage - Foil","Core Set 2020",0.04,0.08
+"Yarok, the Desecrated - Foil","Core Set 2020",28.93,14.47
+"Moorland Inquisitor - Foil","Core Set 2020",0.02,0.08
+"Scoured Barrens - Foil","Core Set 2020",0.12,0.08
+"Bloodfell Caves - Foil","Core Set 2020",0.08,0.08
+"Pack Mastiff - Foil","Core Set 2020",0.07,0.08
+"Eternal Isolation - Foil","Core Set 2020",0.10,0.08
+"Temple of Epiphany - Foil","Core Set 2020",2.02,0.25
+"Barkhide Troll - Foil","Core Set 2020",0.12,0.08
+"Anvilwrought Raptor - Foil","Core Set 2020",0.01,0.08
+"Ogre Siegebreaker - Foil","Core Set 2020",0.07,0.08
+"Retributive Wand - Foil","Core Set 2020",0.12,0.08
+"Manifold Key - Foil","Core Set 2020",4.00,1.60
+"Thought Distortion - Foil","Core Set 2020",0.10,0.08
+"Meteor Golem - Foil","Core Set 2020",0.19,0.08
+"Hard Cover - Foil","Core Set 2020",0.05,0.08
+"Rienne, Angel of Rebirth - Foil","Core Set 2020",3.99,1.60
+"Planar Cleansing - Foil","Core Set 2020",0.31,0.08
+"Gauntlets of Light - Foil","Core Set 2020",0.10,0.08
+"Cloudkin Seer - Foil","Core Set 2020",0.14,0.08
+"Shifting Ceratops - Foil","Core Set 2020",4.04,1.62
+"Marauding Raptor - Foil","Core Set 2020",1.00,0.08
+"Wolfrider's Saddle - Foil","Core Set 2020",0.10,0.08
+"Dread Presence - Foil","Core Set 2020",1.79,0.08
+"Frilled Sea Serpent - Foil","Core Set 2020",0.04,0.08
+"Netcaster Spider - Foil","Core Set 2020",0.05,0.08
+"Overgrowth Elemental - Foil","Core Set 2020",0.14,0.08
+"Leyline of the Void - Foil","Core Set 2020",24.75,11.14
+"Colossus Hammer - Foil","Core Set 2020",2.00,0.08
+"Griffin Protector - Foil","Core Set 2020",0.04,0.08
+"Mu Yanling, Sky Dancer - Foil","Core Set 2020",22.34,10.05
+"Aerial Assault - Foil","Core Set 2020",0.05,0.08
+"Leafkin Druid - Foil","Core Set 2020",0.25,0.08
+"Masterful Replication - Foil","Core Set 2020",0.20,0.08
+"Winged Words - Foil","Core Set 2020",0.13,0.08
+"Corpse Knight - Foil","Core Set 2020",0.46,0.08
+"Elvish Reclaimer - Foil","Core Set 2020",5.75,2.30
+"Scampering Scorcher - Foil","Core Set 2020",0.13,0.08
+"Yoked Ox - Foil","Core Set 2020",0.01,0.08
+"Greenwood Sentinel - Foil","Core Set 2020",0.04,0.08
+"Vampire of the Dire Moon - Foil","Core Set 2020",1.50,0.08
+"Atemsis, All-Seeing - Foil","Core Set 2020",0.72,0.08
+"Brought Back - Foil","Core Set 2020",2.00,0.08
+"Raise the Alarm - Foil","Core Set 2020",0.02,0.08
+"Sleep Paralysis - Foil","Core Set 2020",0.07,0.08
+"Empyrean Eagle - Foil","Core Set 2020",0.83,0.08
+"Sedge Scorpion - Foil","Core Set 2020",0.04,0.08
+"Faerie Miscreant - Foil","Core Set 2020",0.10,0.08
+"Steadfast Sentry - Foil","Core Set 2020",0.02,0.08
+"Flame Sweep - Foil","Core Set 2020",0.20,0.08
+"Golos, Tireless Pilgrim - Foil","Core Set 2020",7.90,3.16
+"Herald of the Sun - Foil","Core Set 2020",0.10,0.08
+"Omnath, Locus of the Roil - Foil","Core Set 2020",20.50,9.23
+"Brineborn Cutthroat - Foil","Core Set 2020",1.02,0.08
+"Field of the Dead - Foil","Core Set 2020",7.75,3.10
+"Yarok's Wavecrasher - Foil","Core Set 2020",0.08,0.08
+"Natural End - Foil","Core Set 2020",0.01,0.08
+"Ripscale Predator - Foil","Core Set 2020",0.05,0.08
+"Chandra, Awakened Inferno - Foil","Core Set 2020",31.01,15.51
+"Temple of Malady - Foil","Core Set 2020",1.68,0.08
+"Woodland Champion - Foil","Core Set 2020",0.12,0.08
+"Drakuseth, Maw of Flames - Foil","Core Set 2020",1.41,0.08
+"Reduce to Ashes - Foil","Core Set 2020",0.01,0.08
+"Starfield Mystic - Foil","Core Set 2020",1.09,0.08
+"Bag of Holding - Foil","Core Set 2020",1.68,0.08
+"Veil of Summer - Foil","Core Set 2020",16.80,7.56
+"Vial of Dragonfire - Foil","Core Set 2020",0.05,0.08
+"Aether Gust - Foil","Core Set 2020",0.17,0.08
+"Fire Elemental - Foil","Core Set 2020",0.02,0.08
+"Fortress Crab - Foil","Core Set 2020",0.01,0.08
+"Pulse of Murasa - Foil","Core Set 2020",0.08,0.08
+"Diamond Knight - Foil","Core Set 2020",0.20,0.08
+"Centaur Courser - Foil","Core Set 2020",0.01,0.08
+"Growth Cycle - Foil","Core Set 2020",0.05,0.08
+"Vorstclaw - Foil","Core Set 2020",0.05,0.08
+"Cerulean Drake - Foil","Core Set 2020",0.19,0.08
+"Thunderkin Awakener - Foil","Core Set 2020",2.74,0.25
+"Fencing Ace - Foil","Core Set 2020",0.08,0.08
+"Reckless Air Strike - Foil","Core Set 2020",0.05,0.08
+"Gods Willing - Foil","Core Set 2020",0.01,0.08
+"Mask of Immolation - Foil","Core Set 2020",0.14,0.08
+"Ferocious Pup - Foil","Core Set 2020",0.17,0.08
+"Cavalier of Dawn - Foil","Core Set 2020",3.00,0.25
+"Scheming Symmetry - Foil","Core Set 2020",7.66,3.06
+"Vivien, Arkbow Ranger - Foil","Core Set 2020",5.95,2.38
+"Swiftwater Cliffs - Foil","Core Set 2020",0.08,0.08
+"Chandra's Outrage - Foil","Core Set 2020",0.05,0.08
+"Cavalier of Gales - Foil","Core Set 2020",4.23,1.69
 "Ajani, Strength of the Pride - Foil","Core Set 2020",9.50,3.80
 "Angel of Vitality - Foil","Core Set 2020",1.00,0.08
 "Tomebound Lich - Foil","Core Set 2020",0.44,0.08
-"Ripscale Predator - Foil","Core Set 2020",0.05,0.08
-"Natural End - Foil","Core Set 2020",0.01,0.08
+"Chandra's Spitfire - Foil","Core Set 2020",0.14,0.08
+"Plains - Foil","Core Set 2020",0.07,0.08
 "Agonizing Syphon - Foil","Core Set 2020",0.07,0.08
 "Barony Vampire - Foil","Core Set 2020",0.01,0.08
 "Thornwood Falls - Foil","Core Set 2020",0.01,0.08
 "Island - Foil","Core Set 2020",0.13,0.08
 "Wind-Scarred Crag - Foil","Core Set 2020",0.10,0.08
+"Evolving Wilds - Foil","Core Set 2020",0.10,0.08
+"Vengeful Warchief - Foil","Core Set 2020",0.08,0.08
 "Lightning Stormkin - Foil","Core Set 2020",0.20,0.08
 "Mind Rot - Foil","Core Set 2020",0.07,0.08
 "Bone to Ash - Foil","Core Set 2020",0.05,0.08
-"Evolving Wilds - Foil","Core Set 2020",0.10,0.08
-"Vengeful Warchief - Foil","Core Set 2020",0.08,0.08
-"Netcaster Spider - Foil","Core Set 2020",0.05,0.08
-"Overgrowth Elemental - Foil","Core Set 2020",0.14,0.08
-"Infuriate - Foil","Core Set 2020",0.08,0.08
-"Renowned Weaponsmith - Foil","Core Set 2020",0.10,0.08
+"Wolfkin Bond - Foil","Core Set 2020",0.05,0.08
+"Yarok's Fenlurker - Foil","Core Set 2020",0.25,0.08
 "Goblin Ringleader - Foil","Core Set 2020",0.68,0.08
-"Cavalier of Night - Foil","Core Set 2020",6.00,2.40
-"Blood for Bones - Foil","Core Set 2020",0.70,0.08
+"Renowned Weaponsmith - Foil","Core Set 2020",0.10,0.08
+"Infuriate - Foil","Core Set 2020",0.08,0.08
 "Bloodthirsty Aerialist - Foil","Core Set 2020",0.50,0.08
 "Fathom Fleet Cutthroat - Foil","Core Set 2020",0.05,0.08
 "Rapacious Dragon - Foil","Core Set 2020",0.19,0.08
+"Blood for Bones - Foil","Core Set 2020",0.70,0.08
+"Cavalier of Night - Foil","Core Set 2020",6.00,2.40
+"Anticipate - Foil","Core Set 2020",0.05,0.08
+"Disfigure - Foil","Core Set 2020",0.10,0.08
 "Dawning Angel - Foil","Core Set 2020",0.07,0.08
 "Healer of the Glade - Foil","Core Set 2020",0.10,0.08
 "Loxodon Lifechanter - Foil","Core Set 2020",0.10,0.08
-"Anticipate - Foil","Core Set 2020",0.05,0.08
-"Disfigure - Foil","Core Set 2020",0.10,0.08
