@@ -40,6 +40,8 @@
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
+
+      
     // ****** CHAIN SCRIPTS ******
       header("Location: dissension.php");
     // ****** END CHAIN SCRIPTS ******

@@ -1,19 +1,20 @@
 <?php 
     // Includes
     include_once 'simplehtmldom_1_9/simple_html_dom.php';
-    include_once 'includes/helper.php';
+    include_once 'includes/testHelper.php';
     
     // Global Variables
-    $setName = "Kaladesh"; // Used for Categories in Crystal Commerce
-    $tableName = "kaladesh"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/kaladesh"; // URL to scrape
-    $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/Kaladesh/foil";
+    $setName = "testScript"; // Used for Categories in Crystal Commerce
+    $tableName = "testScript"; // Used for mysql
+    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/nemesis"; // URL to scrape
+    $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/Nemesis/foil";
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
     $buyPrice = array(); // Array to hold our buy prices
     $foilCardDataArray = array(); // Array to hold the 2d array that's returned from the helper function
     $tcgPlayerCardDataArray = array();
+    $rarityArray = array();
 
       dropTable($tableName);
       createTable($tableName);
@@ -26,6 +27,7 @@
           $theBuyPrice = findBuyPrice($theSellPrice);
           array_push($sellPrice, $theSellPrice);
           array_push($buyPrice, $theBuyPrice);
+          array_push($rarityArray, $tcgPlayerCardDataArray[2][$a]); 
       }
       
       $foilCardDataArray = scrapeFoils($quietSpeculationURL);
@@ -34,14 +36,15 @@
         array_push($medianPrices, $foilCardDataArray[1][$i]);
         array_push($sellPrice, $foilCardDataArray[1][$i]);
         array_push($buyPrice, findBuyPrice($foilCardDataArray[1][$i]));
+        array_push($rarityArray, $foilCardDataArray[2][$i]);
     }
 
-      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
+      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice,$buyPrice,$rarityArray);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
-      appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
       
+
     // ****** CHAIN SCRIPTS ******
-      header("Location: conspiracyTakeTheCrown.php");
+      //header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
