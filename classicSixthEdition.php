@@ -12,6 +12,7 @@
     $sellPrice = array(); // Array to hold our sell prices
     $buyPrice = array(); // Array to hold our buy prices
     $tcgPlayerCardDataArray = array();
+    $rarityArray = array();
 
       dropTable($tableName);
       createTable($tableName);

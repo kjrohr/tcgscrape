@@ -13,6 +13,7 @@
     $buyPrice = array(); // Array to hold our buy prices
     $foilCardDataArray = array(); // Array to hold the 2d array that's returned from the helper function
     $tcgPlayerCardDataArray = array();
+    $rarityArray = array();
 
       dropTable($tableName);
       createTable($tableName);
@@ -45,7 +46,7 @@
 
     // ****** CHAIN SCRIPTS ******
     // modernHorizons.php is next
-    header("Location: modernHorizons.php");
+      header("Location: modernHorizons.php");
     // ****** END CHAIN SCRIPTS ******
 
 ?>

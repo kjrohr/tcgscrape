@@ -263,7 +263,7 @@ function insertIntoTable($tableName, $cardNames, $medianPrices, $sellPrice, $buy
 
     for($x = 0; $x < count($cardNames); $x++)
     {
-        //echo "Card Name: " . $cardNames[$x] . " - Median Price: " . $medianPrices[$x] . " - Sell Price: " . $sellPrice[$x] . " - Buy Price: " . $buyPrice[$x] . " - Rarity: " . $rarity[$x] . "<br />";
+        echo "Card Name: " . $cardNames[$x] . " - Median Price: " . $medianPrices[$x] . " - Sell Price: " . $sellPrice[$x] . " - Buy Price: " . $buyPrice[$x] . " - Rarity: " . $rarity[$x] . "<br />";
         /* Attempt MySQL server connection. Assuming you are running MySQL
         server with default setting (user 'root' with no password) */
         try {
