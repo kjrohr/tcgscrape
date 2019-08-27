@@ -11,7 +11,7 @@
 "Angel (002) // Zombie (007) Double-sided Token","Modern Horizons",0.16,0.00
 "Angel Token (002)","Modern Horizons",-,-
 "Answered Prayers","Modern Horizons",0.14,0.00
-"Archmage's Charm","Modern Horizons",1.89,0.08
+"Archmage's Charm","Modern Horizons",1.86,0.08
 "Arcum's Astrolabe","Modern Horizons",1.11,0.00
 "Aria of Flame","Modern Horizons",3.52,1.41
 "Astral Drift","Modern Horizons",0.48,0.08
@@ -49,13 +49,13 @@ Chillerpillar,"Modern Horizons",0.14,0.00
 "Conifer Wurm","Modern Horizons",0.19,0.01
 "Construct Token (017)","Modern Horizons",-,-
 "Cordial Vampire","Modern Horizons",0.95,0.08
-"Crashing Footfalls","Modern Horizons",1.07,0.08
+"Crashing Footfalls","Modern Horizons",1.08,0.08
 "Crypt Rats","Modern Horizons",0.24,0.01
 "Cunning Evasion","Modern Horizons",0.21,0.01
-"Dead of Winter","Modern Horizons",1.51,0.08
+"Dead of Winter","Modern Horizons",1.52,0.08
 "Deep Forest Hermit","Modern Horizons",0.47,0.08
 Defile,"Modern Horizons",0.23,0.00
-"Diabolic Edict","Modern Horizons",0.17,0.00
+"Diabolic Edict","Modern Horizons",0.18,0.00
 "Dismantling Blow","Modern Horizons",0.19,0.01
 "Dregscape Sliver","Modern Horizons",0.24,0.01
 "Echo of Eons","Modern Horizons",7.59,3.04
@@ -82,7 +82,7 @@ Everdream,"Modern Horizons",0.19,0.01
 Exclude,"Modern Horizons",0.22,0.01
 Eyekite,"Modern Horizons",0.14,0.00
 "Face of Divinity","Modern Horizons",0.18,0.01
-"Fact or Fiction","Modern Horizons",0.30,0.01
+"Fact or Fiction","Modern Horizons",0.31,0.01
 "Faerie Seer","Modern Horizons",0.24,0.00
 "Fallen Shinobi","Modern Horizons",0.83,0.08
 "Farmstead Gleaner","Modern Horizons",0.21,0.01
@@ -92,24 +92,24 @@ Firebolt,"Modern Horizons",0.20,0.01
 "First Sliver's Chosen","Modern Horizons",0.23,0.01
 "First-Sphere Gargantua","Modern Horizons",0.14,0.00
 "Fists of Flame","Modern Horizons",0.14,0.00
-"Force of Despair","Modern Horizons",1.50,0.08
-"Force of Negation","Modern Horizons",36.65,18.33
-"Force of Rage","Modern Horizons",0.43,0.08
+"Force of Despair","Modern Horizons",1.54,0.08
+"Force of Negation","Modern Horizons",36.60,18.30
+"Force of Rage","Modern Horizons",0.45,0.08
 "Force of Vigor","Modern Horizons",6.08,2.43
-"Force of Virtue","Modern Horizons",0.88,0.08
+"Force of Virtue","Modern Horizons",0.89,0.08
 "Forgotten Cave","Modern Horizons",0.23,0.01
 "Fountain of Ichor","Modern Horizons",0.14,0.00
 "Frostwalk Bastion","Modern Horizons",0.22,0.01
 Frostwalla,"Modern Horizons",0.14,0.00
 "Future Sight","Modern Horizons",0.35,0.08
 "Generous Gift","Modern Horizons",0.94,0.01
-Genesis,"Modern Horizons",0.62,0.08
+Genesis,"Modern Horizons",0.61,0.08
 "Geomancer's Gambit","Modern Horizons",0.15,0.00
 "Gilded Light","Modern Horizons",0.14,0.00
 "Giver of Runes","Modern Horizons",8.03,3.21
 "Glacial Revelation","Modern Horizons",0.19,0.01
 "Gluttonous Slug","Modern Horizons",0.14,0.00
-Goatnap,"Modern Horizons",0.15,0.00
+Goatnap,"Modern Horizons",0.14,0.00
 "Goblin (010) // Bear (011) Double-sided Token","Modern Horizons",0.14,0.00
 "Goblin (010) // Construct (017) Double-sided Token","Modern Horizons",0.15,0.00
 "Goblin (010) // Elephant (012) Double-sided Token","Modern Horizons",0.14,0.00
@@ -129,15 +129,15 @@ Goatnap,"Modern Horizons",0.15,0.00
 "Golem Token (018)","Modern Horizons",-,-
 "Good-Fortune Unicorn","Modern Horizons",0.24,0.01
 Graveshifter,"Modern Horizons",0.19,0.01
-"Hall of Heliod's Generosity","Modern Horizons",3.13,1.25
+"Hall of Heliod's Generosity","Modern Horizons",3.14,1.26
 "Headless Specter","Modern Horizons",0.14,0.00
-Hexdrinker,"Modern Horizons",12.27,5.52
+Hexdrinker,"Modern Horizons",12.57,5.66
 "Hogaak, Arisen Necropolis","Modern Horizons",4.75,1.90
-"Hollowhead Sliver","Modern Horizons",0.23,0.01
+"Hollowhead Sliver","Modern Horizons",0.24,0.01
 "Iceberg Cancrix","Modern Horizons",0.14,0.00
-"Ice-Fang Coatl","Modern Horizons",3.15,1.26
+"Ice-Fang Coatl","Modern Horizons",3.17,1.27
 "Icehide Golem","Modern Horizons",0.20,0.01
-"Igneous Elemental","Modern Horizons",0.15,0.00
+"Igneous Elemental","Modern Horizons",0.14,0.00
 "Illusion (005) // Construct (017) Double-sided Token","Modern Horizons",0.17,0.00
 "Illusion (005) // Elemental (009) Double-sided Token","Modern Horizons",0.14,0.00
 "Illusion (005) // Elephant (012) Double-sided Token","Modern Horizons",0.14,0.00
@@ -154,26 +154,26 @@ Hexdrinker,"Modern Horizons",12.27,5.52
 "Ingenious Infiltrator","Modern Horizons",0.29,0.01
 "Irregular Cohort","Modern Horizons",0.14,0.00
 "Kaya's Guile","Modern Horizons",1.81,0.08
-"Kess, Dissident Mage","Modern Horizons",1.93,0.25
+"Kess, Dissident Mage","Modern Horizons",2.03,0.25
 "King of the Pride","Modern Horizons",0.24,0.01
 "Knight of Old Benalia","Modern Horizons",0.14,0.00
-"Krosan Tusker","Modern Horizons",0.16,0.00
+"Krosan Tusker","Modern Horizons",0.15,0.00
 "Lancer Sliver","Modern Horizons",0.14,0.00
-"Lava Dart","Modern Horizons",0.20,0.00
+"Lava Dart","Modern Horizons",0.19,0.00
 "Lavabelly Sliver","Modern Horizons",0.24,0.01
 "Lesser Masticore","Modern Horizons",0.19,0.01
 "Lightning Skelemental","Modern Horizons",2.85,0.25
 "Llanowar Tribe","Modern Horizons",0.39,0.01
-"Lonely Sandbar","Modern Horizons",0.23,0.01
+"Lonely Sandbar","Modern Horizons",0.22,0.01
 "Magmatic Sinkhole","Modern Horizons",0.19,0.00
-Man-o'-War,"Modern Horizons",0.15,0.00
+Man-o'-War,"Modern Horizons",0.14,0.00
 "Marit Lage (006) // Elemental (008) Double-sided Token","Modern Horizons",0.39,0.00
 "Marit Lage (006) // Goblin (010) Double-sided Token","Modern Horizons",0.45,0.00
 "Marit Lage (006) // Spirit (016) Double-sided Token","Modern Horizons",0.35,0.00
 "Marit Lage Token (006)","Modern Horizons",-,-
-"Marit Lage's Slumber","Modern Horizons",0.52,0.08
+"Marit Lage's Slumber","Modern Horizons",0.49,0.08
 "Martyr's Soul","Modern Horizons",0.14,0.00
-"Mind Rake","Modern Horizons",0.15,0.00
+"Mind Rake","Modern Horizons",0.14,0.00
 "Mirrodin Besieged","Modern Horizons",0.71,0.08
 "Mist-Syndicate Naga","Modern Horizons",0.48,0.08
 Mob,"Modern Horizons",0.14,0.00
@@ -187,8 +187,8 @@ Mob,"Modern Horizons",0.14,0.00
 "Nantuko Cultivator","Modern Horizons",0.19,0.01
 "Nature's Chant","Modern Horizons",0.14,0.00
 "Nether Spirit","Modern Horizons",0.33,0.08
-"Nimble Mongoose","Modern Horizons",0.17,0.00
-"Ninja of the New Moon","Modern Horizons",0.15,0.00
+"Nimble Mongoose","Modern Horizons",0.15,0.00
+"Ninja of the New Moon","Modern Horizons",0.14,0.00
 "Nurturing Peatland","Modern Horizons",12.32,5.54
 "On Thin Ice","Modern Horizons",0.54,0.08
 Oneirophage,"Modern Horizons",0.19,0.01
@@ -198,20 +198,20 @@ Oneirophage,"Modern Horizons",0.19,0.01
 "Phantasmal Form","Modern Horizons",0.14,0.00
 "Phantom Ninja","Modern Horizons",0.14,0.00
 Pillage,"Modern Horizons",0.19,0.01
-"Plague Engineer","Modern Horizons",8.49,3.40
+"Plague Engineer","Modern Horizons",8.44,3.38
 "Planebound Accomplice","Modern Horizons",0.60,0.08
 "Pondering Mage","Modern Horizons",0.14,0.00
-"Prismatic Vista","Modern Horizons",24.34,10.95
+"Prismatic Vista","Modern Horizons",24.18,10.88
 Prohibit,"Modern Horizons",0.18,0.00
 "Putrid Goblin","Modern Horizons",0.14,0.00
 Pyrophobia,"Modern Horizons",0.14,0.00
 "Quakefoot Cyclops","Modern Horizons",0.14,0.00
-"Rain of Revelation","Modern Horizons",0.16,0.00
-"Ranger-Captain of Eos","Modern Horizons",14.59,6.57
+"Rain of Revelation","Modern Horizons",0.14,0.00
+"Ranger-Captain of Eos","Modern Horizons",15.54,6.99
 "Rank Officer","Modern Horizons",0.14,0.00
 "Ransack the Lab","Modern Horizons",0.14,0.00
 "Ravenous Giant","Modern Horizons",0.19,0.01
-"Reap the Past","Modern Horizons",0.33,0.08
+"Reap the Past","Modern Horizons",0.36,0.08
 Rebuild,"Modern Horizons",0.24,0.01
 "Reckless Charge","Modern Horizons",0.14,0.00
 "Recruit the Worthy","Modern Horizons",0.14,0.00
@@ -223,15 +223,15 @@ Reprobation,"Modern Horizons",0.14,0.00
 "Rhox Veteran","Modern Horizons",0.14,0.00
 "Rime Tender","Modern Horizons",0.14,0.00
 "Rotwidow Pack","Modern Horizons",0.19,0.01
-"Ruination Rioter","Modern Horizons",0.20,0.01
+"Ruination Rioter","Modern Horizons",0.19,0.01
 "Saddled Rimestag","Modern Horizons",0.19,0.01
 "Sadistic Obsession","Modern Horizons",0.19,0.01
 "Savage Swipe","Modern Horizons",0.17,0.00
 "Scale Up","Modern Horizons",0.76,0.01
-"Scour All Possibilities","Modern Horizons",0.15,0.00
+"Scour All Possibilities","Modern Horizons",0.14,0.00
 "Scrapyard Recombiner","Modern Horizons",0.48,0.08
 "Scuttling Sliver","Modern Horizons",0.23,0.01
-"Seasoned Pyromancer","Modern Horizons",23.41,10.53
+"Seasoned Pyromancer","Modern Horizons",22.89,10.30
 "Secluded Steppe","Modern Horizons",0.19,0.01
 "Segovian Angel","Modern Horizons",0.19,0.00
 "Serra the Benevolent","Modern Horizons",9.12,3.65
@@ -249,12 +249,12 @@ Reprobation,"Modern Horizons",0.14,0.00
 Shelter,"Modern Horizons",0.14,0.00
 Shenanigans,"Modern Horizons",0.23,0.00
 "Silent Clearing","Modern Horizons",10.45,4.70
-"Silumgar Scavenger","Modern Horizons",0.15,0.00
-"Sisay, Weatherlight Captain","Modern Horizons",0.48,0.08
+"Silumgar Scavenger","Modern Horizons",0.14,0.00
+"Sisay, Weatherlight Captain","Modern Horizons",0.49,0.08
 "Sling-Gang Lieutenant","Modern Horizons",0.24,0.01
 "Smiting Helix","Modern Horizons",0.19,0.01
 "Smoke Shroud","Modern Horizons",0.14,0.00
-"Snow-Covered Forest","Modern Horizons",0.47,0.00
+"Snow-Covered Forest","Modern Horizons",0.48,0.00
 "Snow-Covered Island","Modern Horizons",0.93,0.00
 "Snow-Covered Mountain","Modern Horizons",0.61,0.00
 "Snow-Covered Plains","Modern Horizons",0.43,0.00
@@ -282,31 +282,31 @@ Soulherder,"Modern Horizons",0.48,0.01
 "Splicer's Skill","Modern Horizons",0.19,0.01
 "Spore Frog","Modern Horizons",0.23,0.00
 "Springbloom Druid","Modern Horizons",0.23,0.00
-"Squirrel Nest","Modern Horizons",0.23,0.01
+"Squirrel Nest","Modern Horizons",0.22,0.01
 "Squirrel Token (015)","Modern Horizons",-,-
 "Stirring Address","Modern Horizons",0.14,0.00
 "Stream of Thought","Modern Horizons",0.15,0.00
 "String of Disappearances","Modern Horizons",0.14,0.00
 "Sunbaked Canyon","Modern Horizons",14.62,6.58
-"Sword of Sinew and Steel","Modern Horizons",9.01,3.60
+"Sword of Sinew and Steel","Modern Horizons",9.05,3.62
 "Sword of Truth and Justice","Modern Horizons",11.88,5.35
 "Talisman of Conviction","Modern Horizons",0.56,0.01
 "Talisman of Creativity","Modern Horizons",0.74,0.01
 "Talisman of Curiosity","Modern Horizons",0.47,0.01
 "Talisman of Hierarchy","Modern Horizons",0.58,0.01
 "Talisman of Resilience","Modern Horizons",0.47,0.01
-"Tectonic Reformation","Modern Horizons",0.55,0.08
+"Tectonic Reformation","Modern Horizons",0.56,0.08
 "Tempered Sliver","Modern Horizons",0.24,0.01
 "The First Sliver","Modern Horizons",11.39,5.13
 Thornado,"Modern Horizons",0.14,0.00
 Throatseeker,"Modern Horizons",0.19,0.01
 "Throes of Chaos","Modern Horizons",0.24,0.01
 "Thundering Djinn","Modern Horizons",0.19,0.01
-"Tranquil Thicket","Modern Horizons",0.22,0.01
+"Tranquil Thicket","Modern Horizons",0.19,0.01
 "Treefolk Umbra","Modern Horizons",0.14,0.00
 "Treetop Ambusher","Modern Horizons",0.14,0.00
 "Tribute Mage","Modern Horizons",0.43,0.01
-"Trumpeting Herd","Modern Horizons",0.15,0.00
+"Trumpeting Herd","Modern Horizons",0.14,0.00
 "Trustworthy Scout","Modern Horizons",0.14,0.00
 "Twin-Silk Spider","Modern Horizons",0.14,0.00
 "Twisted Reflection","Modern Horizons",0.19,0.01
@@ -316,9 +316,9 @@ Throatseeker,"Modern Horizons",0.19,0.01
 Unearth,"Modern Horizons",0.26,0.00
 "Universal Automaton","Modern Horizons",0.14,0.00
 "Unsettled Mariner","Modern Horizons",2.27,0.25
-"Urza, Lord High Artificer","Modern Horizons",38.81,19.41
+"Urza, Lord High Artificer","Modern Horizons",38.92,19.46
 "Urza's Rage","Modern Horizons",0.23,0.01
-"Valiant Changeling","Modern Horizons",0.23,0.01
+"Valiant Changeling","Modern Horizons",0.21,0.01
 "Vengeful Devil","Modern Horizons",0.19,0.01
 "Venomous Changeling","Modern Horizons",0.14,0.00
 Vesperlark,"Modern Horizons",0.30,0.01
@@ -328,7 +328,7 @@ Vesperlark,"Modern Horizons",0.30,0.01
 "Wall of One Thousand Cuts","Modern Horizons",0.14,0.00
 "Warteye Witch","Modern Horizons",0.14,0.00
 "Watcher for Tomorrow","Modern Horizons",0.24,0.01
-"Waterlogged Grove","Modern Horizons",10.43,4.69
+"Waterlogged Grove","Modern Horizons",10.44,4.70
 "Weather the Storm","Modern Horizons",0.18,0.00
 "Webweaver Changeling","Modern Horizons",0.19,0.01
 "Windcaller Aven","Modern Horizons",0.14,0.00
@@ -348,126 +348,57 @@ Vesperlark,"Modern Horizons",0.30,0.01
 "Zombie (007) // Spider (014) Double-sided Token","Modern Horizons",0.10,0.00
 "Zombie (007) // Squirrel (015) Double-sided Token","Modern Horizons",0.19,0.00
 "Zombie Token (007)","Modern Horizons",-,-
-"Scale Up - Foil","Modern Horizons",4.12,1.65
-"Return from Extinction - Foil","Modern Horizons",0.16,0.00
-"Undead Augur - Foil","Modern Horizons",1.80,0.01
-"Force of Vigor - Foil","Modern Horizons",31.53,15.77
-"Watcher for Tomorrow - Foil","Modern Horizons",2.39,0.25
-"Ruination Rioter - Foil","Modern Horizons",0.31,0.01
-"Savage Swipe - Foil","Modern Horizons",0.08,0.00
-"Face of Divinity - Foil","Modern Horizons",0.28,0.01
-"Splicer's Skill - Foil","Modern Horizons",0.10,0.01
-"Ingenious Infiltrator - Foil","Modern Horizons",1.85,0.01
-"Sling-Gang Lieutenant - Foil","Modern Horizons",2.18,0.25
-"Abominable Treefolk - Foil","Modern Horizons",0.20,0.01
-"Icehide Golem - Foil","Modern Horizons",0.23,0.01
-"Genesis - Foil","Modern Horizons",1.17,0.08
-"Winter's Rest - Foil","Modern Horizons",0.14,0.00
-"Secluded Steppe - Foil","Modern Horizons",0.48,0.01
-"Birthing Boughs - Foil","Modern Horizons",0.49,0.01
-"Mob - Foil","Modern Horizons",0.05,0.00
-"String of Disappearances - Foil","Modern Horizons",0.14,0.00
-"Nantuko Cultivator - Foil","Modern Horizons",0.14,0.01
-"Giver of Runes - Foil","Modern Horizons",28.00,14.00
-"Thornado - Foil","Modern Horizons",0.05,0.00
-"Cabal Therapist - Foil","Modern Horizons",2.93,0.25
-"Crashing Footfalls - Foil","Modern Horizons",2.79,0.25
-"Nature's Chant - Foil","Modern Horizons",0.25,0.00
-"Pondering Mage - Foil","Modern Horizons",0.20,0.00
-"Rain of Revelation - Foil","Modern Horizons",0.08,0.00
-"Unsettled Mariner - Foil","Modern Horizons",12.16,5.47
-"Ice-Fang Coatl - Foil","Modern Horizons",12.00,5.40
-"Astral Drift - Foil","Modern Horizons",0.84,0.08
-"Fists of Flame - Foil","Modern Horizons",0.10,0.00
-"Aria of Flame - Foil","Modern Horizons",14.56,6.55
-"Azra Smokeshaper - Foil","Modern Horizons",0.01,0.00
-"Hall of Heliod's Generosity - Foil","Modern Horizons",15.49,6.97
-"Scuttling Sliver - Foil","Modern Horizons",0.35,0.01
-"Volatile Claws - Foil","Modern Horizons",0.05,0.00
-"Geomancer's Gambit - Foil","Modern Horizons",0.10,0.00
-"Goblin Matron - Foil","Modern Horizons",4.21,1.68
-"Martyr's Soul - Foil","Modern Horizons",0.01,0.00
-"Deep Forest Hermit - Foil","Modern Horizons",2.29,0.25
-"Ravenous Giant - Foil","Modern Horizons",0.14,0.01
-"Wall of One Thousand Cuts - Foil","Modern Horizons",0.08,0.00
-"Headless Specter - Foil","Modern Horizons",0.08,0.00
-"Collected Conjuring - Foil","Modern Horizons",0.80,0.08
-"Archmage's Charm - Foil","Modern Horizons",5.17,2.07
-"Magmatic Sinkhole - Foil","Modern Horizons",4.95,1.98
-"Moonblade Shinobi - Foil","Modern Horizons",0.14,0.00
-"Impostor of the Sixth Pride - Foil","Modern Horizons",0.05,0.00
-"Vengeful Devil - Foil","Modern Horizons",0.05,0.01
-"Graveshifter - Foil","Modern Horizons",0.32,0.01
-"Fallen Shinobi - Foil","Modern Horizons",2.27,0.25
-"Hexdrinker - Foil","Modern Horizons",41.07,20.54
-"Iceberg Cancrix - Foil","Modern Horizons",0.08,0.00
-"Rhox Veteran - Foil","Modern Horizons",0.10,0.00
-"Stream of Thought - Foil","Modern Horizons",0.28,0.00
-"Man-o'-War - Foil","Modern Horizons",0.08,0.00
-"Prismatic Vista - Foil","Modern Horizons",89.06,48.98
-"Smiting Helix - Foil","Modern Horizons",2.49,0.25
-"Snow-Covered Forest - Foil","Modern Horizons",6.50,2.60
-"Trumpeting Herd - Foil","Modern Horizons",0.10,0.00
-"Hollowhead Sliver - Foil","Modern Horizons",0.49,0.01
-"Segovian Angel - Foil","Modern Horizons",1.25,0.00
-"Force of Rage - Foil","Modern Horizons",0.39,0.08
-"Frostwalla - Foil","Modern Horizons",0.05,0.00
-"Ore-Scale Guardian - Foil","Modern Horizons",0.14,0.01
-"Talisman of Conviction - Foil","Modern Horizons",4.78,1.91
-"Urza's Rage - Foil","Modern Horizons",0.08,0.01
-"Etchings of the Chosen - Foil","Modern Horizons",0.70,0.01
-"Weather the Storm - Foil","Modern Horizons",2.37,0.25
-"Irregular Cohort - Foil","Modern Horizons",0.17,0.00
-"Mind Rake - Foil","Modern Horizons",0.10,0.00
 "Wall of Blossoms - Foil","Modern Horizons",0.57,0.01
-"Dregscape Sliver - Foil","Modern Horizons",2.08,0.25
 "Goblin Engineer - Foil","Modern Horizons",17.48,7.87
 "Igneous Elemental - Foil","Modern Horizons",0.01,0.00
-"Eladamri's Call - Foil","Modern Horizons",4.50,1.80
+"Dregscape Sliver - Foil","Modern Horizons",2.08,0.25
 "Shatter Assumptions - Foil","Modern Horizons",0.16,0.01
-"First-Sphere Gargantua - Foil","Modern Horizons",0.01,0.00
+"Eladamri's Call - Foil","Modern Horizons",4.50,1.80
 "Munitions Expert - Foil","Modern Horizons",3.83,1.53
+"First-Sphere Gargantua - Foil","Modern Horizons",0.01,0.00
 "Waterlogged Grove - Foil","Modern Horizons",35.50,17.75
 "Talisman of Creativity - Foil","Modern Horizons",7.29,2.92
 "Twisted Reflection - Foil","Modern Horizons",0.14,0.01
 "Hogaak, Arisen Necropolis - Foil","Modern Horizons",12.94,5.82
 "Nimble Mongoose - Foil","Modern Horizons",0.16,0.00
 "Stirring Address - Foil","Modern Horizons",0.08,0.00
-"Elvish Fury - Foil","Modern Horizons",0.04,0.00
 "Kaya's Guile - Foil","Modern Horizons",8.99,3.60
+"Elvish Fury - Foil","Modern Horizons",0.04,0.00
 "Knight of Old Benalia - Foil","Modern Horizons",0.04,0.00
 "Goblin Champion - Foil","Modern Horizons",0.14,0.00
 "Pillage - Foil","Modern Horizons",0.14,0.01
-"Conifer Wurm - Foil","Modern Horizons",0.10,0.01
-"Everdream - Foil","Modern Horizons",0.39,0.01
-"First Sliver's Chosen - Foil","Modern Horizons",0.34,0.01
 "Future Sight - Foil","Modern Horizons",0.42,0.08
 "Glacial Revelation - Foil","Modern Horizons",0.39,0.01
 "Goatnap - Foil","Modern Horizons",0.08,0.00
 "Orcish Hellraiser - Foil","Modern Horizons",0.10,0.00
+"Conifer Wurm - Foil","Modern Horizons",0.10,0.01
+"Everdream - Foil","Modern Horizons",0.39,0.01
+"First Sliver's Chosen - Foil","Modern Horizons",0.34,0.01
 "Phantasmal Form - Foil","Modern Horizons",0.08,0.00
 "Snow-Covered Mountain - Foil","Modern Horizons",7.19,2.88
-"Cave of Temptation - Foil","Modern Horizons",0.28,0.00
-"Answered Prayers - Foil","Modern Horizons",0.34,0.00
-"Faerie Seer - Foil","Modern Horizons",2.99,0.25
-"Farmstead Gleaner - Foil","Modern Horizons",0.07,0.01
+"Lesser Masticore - Foil","Modern Horizons",0.22,0.01
 "On Thin Ice - Foil","Modern Horizons",1.70,0.08
 "Snow-Covered Plains - Foil","Modern Horizons",6.49,2.60
 "Spiteful Sliver - Foil","Modern Horizons",2.18,0.25
+"Answered Prayers - Foil","Modern Horizons",0.34,0.00
+"Faerie Seer - Foil","Modern Horizons",2.99,0.25
+"Farmstead Gleaner - Foil","Modern Horizons",0.07,0.01
 "Winding Way - Foil","Modern Horizons",0.65,0.00
-"Twin-Silk Spider - Foil","Modern Horizons",0.10,0.00
 "Ninja of the New Moon - Foil","Modern Horizons",0.14,0.00
-"Throes of Chaos - Foil","Modern Horizons",0.78,0.01
-"Bellowing Elk - Foil","Modern Horizons",0.05,0.00
+"Twin-Silk Spider - Foil","Modern Horizons",0.10,0.00
 "Good-Fortune Unicorn - Foil","Modern Horizons",0.48,0.01
 "Thundering Djinn - Foil","Modern Horizons",0.22,0.01
+"Throes of Chaos - Foil","Modern Horizons",0.78,0.01
+"Bellowing Elk - Foil","Modern Horizons",0.05,0.00
+"Sword of Truth and Justice - Foil","Modern Horizons",46.59,23.30
 "Springbloom Druid - Foil","Modern Horizons",2.81,0.25
 "Cloudshredder Sliver - Foil","Modern Horizons",3.75,1.50
-"Sword of Truth and Justice - Foil","Modern Horizons",46.59,23.30
-"Ephemerate - Foil","Modern Horizons",8.39,3.36
+"Saddled Rimestag - Foil","Modern Horizons",0.20,0.01
 "Kess, Dissident Mage - Foil","Modern Horizons",4.70,1.88
 "Wing Shards - Foil","Modern Horizons",0.17,0.01
-"Saddled Rimestag - Foil","Modern Horizons",0.20,0.01
+"Ephemerate - Foil","Modern Horizons",8.39,3.36
+"Tectonic Reformation - Foil","Modern Horizons",1.39,0.08
+"Urza, Lord High Artificer - Foil","Modern Horizons",153.49,92.09
 "Generous Gift - Foil","Modern Horizons",4.19,1.68
 "Nurturing Peatland - Foil","Modern Horizons",46.97,23.49
 "Nurturing Peatland - Foil","Modern Horizons",46.97,23.49
@@ -475,131 +406,200 @@ Vesperlark,"Modern Horizons",0.30,0.01
 "Rime Tender - Foil","Modern Horizons",0.05,0.00
 "Cordial Vampire - Foil","Modern Horizons",2.75,0.25
 "Crypt Rats - Foil","Modern Horizons",0.54,0.01
-"Excavating Anurid - Foil","Modern Horizons",0.05,0.00
-"Tectonic Reformation - Foil","Modern Horizons",1.39,0.08
-"Urza, Lord High Artificer - Foil","Modern Horizons",153.49,92.09
-"Regrowth - Foil","Modern Horizons",0.40,0.01
-"Sadistic Obsession - Foil","Modern Horizons",0.10,0.01
-"Lava Dart - Foil","Modern Horizons",0.94,0.00
-"Llanowar Tribe - Foil","Modern Horizons",1.28,0.01
-"Snow-Covered Island - Foil","Modern Horizons",14.76,6.64
-"Squirrel Nest - Foil","Modern Horizons",0.25,0.01
-"Tribute Mage - Foil","Modern Horizons",4.05,1.62
-"Cunning Evasion - Foil","Modern Horizons",0.22,0.01
-"Mox Tantalite - Foil","Modern Horizons",22.99,10.35
-"Snow-Covered Swamp - Foil","Modern Horizons",7.49,3.00
-"Force of Negation - Foil","Modern Horizons",140.22,84.13
-"Yawgmoth, Thran Physician - Foil","Modern Horizons",79.95,43.97
-"Quakefoot Cyclops - Foil","Modern Horizons",0.05,0.00
-"Gluttonous Slug - Foil","Modern Horizons",0.10,0.00
-"Zhalfirin Decoy - Foil","Modern Horizons",0.08,0.01
-"Bogardan Dragonheart - Foil","Modern Horizons",0.10,0.00
-"Dead of Winter - Foil","Modern Horizons",12.99,5.85
-"Fiery Islet - Foil","Modern Horizons",43.50,21.75
-"Wrenn and Six - Foil","Modern Horizons",330.70,198.42
-"Bladeback Sliver - Foil","Modern Horizons",0.10,0.00
-"Unearth - Foil","Modern Horizons",3.77,1.51
-"Endling - Foil","Modern Horizons",0.75,0.08
-"Force of Virtue - Foil","Modern Horizons",2.16,0.25
-"Tranquil Thicket - Foil","Modern Horizons",0.90,0.01
-"Blizzard Strix - Foil","Modern Horizons",0.14,0.01
-"Seasoned Pyromancer - Foil","Modern Horizons",57.99,31.89
-"Shelter - Foil","Modern Horizons",0.10,0.00
-"Fact or Fiction - Foil","Modern Horizons",0.88,0.01
-"Ayula, Queen Among Bears - Foil","Modern Horizons",5.61,2.24
-"Battle Screech - Foil","Modern Horizons",0.69,0.01
-"Collector Ouphe - Foil","Modern Horizons",24.07,10.83
-"Phantom Ninja - Foil","Modern Horizons",0.20,0.00
-"Sunbaked Canyon - Foil","Modern Horizons",49.56,24.78
-"Soulherder - Foil","Modern Horizons",8.09,3.24
-"Sword of Sinew and Steel - Foil","Modern Horizons",32.99,16.50
-"Amorphous Axe - Foil","Modern Horizons",0.10,0.00
-"Plague Engineer - Foil","Modern Horizons",41.25,20.63
-"Spell Snuff - Foil","Modern Horizons",0.01,0.00
-"Force of Despair - Foil","Modern Horizons",6.88,2.75
-"Mirrodin Besieged - Foil","Modern Horizons",3.49,1.40
-"Talisman of Curiosity - Foil","Modern Horizons",2.99,0.25
-"Krosan Tusker - Foil","Modern Horizons",0.08,0.00
-"Fountain of Ichor - Foil","Modern Horizons",0.05,0.00
-"Planebound Accomplice - Foil","Modern Horizons",2.00,0.08
-"Chillerpillar - Foil","Modern Horizons",0.10,0.00
-"Spore Frog - Foil","Modern Horizons",0.77,0.00
-"Trustworthy Scout - Foil","Modern Horizons",0.05,0.00
-"Winds of Abandon - Foil","Modern Horizons",8.88,3.55
-"Reckless Charge - Foil","Modern Horizons",0.10,0.00
-"Settle Beyond Reality - Foil","Modern Horizons",0.10,0.00
-"Altar of Dementia - Foil","Modern Horizons",4.96,1.98
-"Arcum's Astrolabe - Foil","Modern Horizons",10.41,4.68
-"Bazaar Trademage - Foil","Modern Horizons",1.79,0.08
-"Rebuild - Foil","Modern Horizons",0.47,0.01
-"Scrapyard Recombiner - Foil","Modern Horizons",1.99,0.08
-"Forgotten Cave - Foil","Modern Horizons",0.98,0.01
-"Frostwalk Bastion - Foil","Modern Horizons",0.20,0.01
-"Defile - Foil","Modern Horizons",1.21,0.00
-"Lesser Masticore - Foil","Modern Horizons",0.22,0.01
+"Scale Up - Foil","Modern Horizons",4.12,1.65
+"Force of Vigor - Foil","Modern Horizons",31.53,15.77
+"Watcher for Tomorrow - Foil","Modern Horizons",2.39,0.25
+"Return from Extinction - Foil","Modern Horizons",0.16,0.00
+"Undead Augur - Foil","Modern Horizons",1.80,0.01
+"Savage Swipe - Foil","Modern Horizons",0.08,0.00
+"Ruination Rioter - Foil","Modern Horizons",0.31,0.01
+"Ingenious Infiltrator - Foil","Modern Horizons",1.85,0.01
+"Sling-Gang Lieutenant - Foil","Modern Horizons",2.18,0.25
+"Face of Divinity - Foil","Modern Horizons",0.28,0.01
+"Splicer's Skill - Foil","Modern Horizons",0.10,0.01
+"Genesis - Foil","Modern Horizons",1.17,0.08
+"Winter's Rest - Foil","Modern Horizons",0.14,0.00
+"Abominable Treefolk - Foil","Modern Horizons",0.20,0.01
+"Icehide Golem - Foil","Modern Horizons",0.23,0.01
+"Secluded Steppe - Foil","Modern Horizons",0.48,0.01
+"Birthing Boughs - Foil","Modern Horizons",0.49,0.01
+"Mob - Foil","Modern Horizons",0.05,0.00
+"String of Disappearances - Foil","Modern Horizons",0.14,0.00
+"Nantuko Cultivator - Foil","Modern Horizons",0.14,0.01
+"Giver of Runes - Foil","Modern Horizons",28.00,14.00
+"Thornado - Foil","Modern Horizons",0.05,0.00
+"Pondering Mage - Foil","Modern Horizons",0.20,0.00
+"Rain of Revelation - Foil","Modern Horizons",0.08,0.00
+"Unsettled Mariner - Foil","Modern Horizons",12.16,5.47
+"Cabal Therapist - Foil","Modern Horizons",2.93,0.25
+"Crashing Footfalls - Foil","Modern Horizons",2.79,0.25
+"Nature's Chant - Foil","Modern Horizons",0.25,0.00
+"Ice-Fang Coatl - Foil","Modern Horizons",12.00,5.40
+"Hall of Heliod's Generosity - Foil","Modern Horizons",15.49,6.97
+"Scuttling Sliver - Foil","Modern Horizons",0.35,0.01
+"Volatile Claws - Foil","Modern Horizons",0.05,0.00
+"Aria of Flame - Foil","Modern Horizons",14.56,6.55
+"Azra Smokeshaper - Foil","Modern Horizons",0.01,0.00
+"Astral Drift - Foil","Modern Horizons",0.84,0.08
+"Fists of Flame - Foil","Modern Horizons",0.10,0.00
+"Geomancer's Gambit - Foil","Modern Horizons",0.10,0.00
+"Goblin Matron - Foil","Modern Horizons",4.21,1.68
+"Martyr's Soul - Foil","Modern Horizons",0.01,0.00
+"Ravenous Giant - Foil","Modern Horizons",0.14,0.01
+"Wall of One Thousand Cuts - Foil","Modern Horizons",0.08,0.00
+"Deep Forest Hermit - Foil","Modern Horizons",2.29,0.25
+"Headless Specter - Foil","Modern Horizons",0.08,0.00
+"Magmatic Sinkhole - Foil","Modern Horizons",4.95,1.98
+"Moonblade Shinobi - Foil","Modern Horizons",0.14,0.00
+"Archmage's Charm - Foil","Modern Horizons",5.17,2.07
+"Collected Conjuring - Foil","Modern Horizons",0.80,0.08
+"Impostor of the Sixth Pride - Foil","Modern Horizons",0.05,0.00
+"Vengeful Devil - Foil","Modern Horizons",0.05,0.01
+"Graveshifter - Foil","Modern Horizons",0.32,0.01
+"Hexdrinker - Foil","Modern Horizons",41.07,20.54
+"Iceberg Cancrix - Foil","Modern Horizons",0.08,0.00
+"Rhox Veteran - Foil","Modern Horizons",0.10,0.00
+"Stream of Thought - Foil","Modern Horizons",0.28,0.00
+"Fallen Shinobi - Foil","Modern Horizons",2.27,0.25
+"Man-o'-War - Foil","Modern Horizons",0.08,0.00
+"Prismatic Vista - Foil","Modern Horizons",89.06,48.98
+"Smiting Helix - Foil","Modern Horizons",2.49,0.25
+"Snow-Covered Forest - Foil","Modern Horizons",6.50,2.60
+"Trumpeting Herd - Foil","Modern Horizons",0.10,0.00
+"Hollowhead Sliver - Foil","Modern Horizons",0.49,0.01
+"Segovian Angel - Foil","Modern Horizons",1.25,0.00
+"Weather the Storm - Foil","Modern Horizons",2.37,0.25
+"Force of Rage - Foil","Modern Horizons",0.39,0.08
+"Frostwalla - Foil","Modern Horizons",0.05,0.00
+"Ore-Scale Guardian - Foil","Modern Horizons",0.14,0.01
+"Talisman of Conviction - Foil","Modern Horizons",4.78,1.91
+"Urza's Rage - Foil","Modern Horizons",0.08,0.01
+"Etchings of the Chosen - Foil","Modern Horizons",0.70,0.01
+"Mind Rake - Foil","Modern Horizons",0.10,0.00
+"Irregular Cohort - Foil","Modern Horizons",0.17,0.00
 "Soul-Strike Technique - Foil","Modern Horizons",0.08,0.00
-"Eyekite - Foil","Modern Horizons",0.08,0.00
+"Defile - Foil","Modern Horizons",1.21,0.00
+"Cave of Temptation - Foil","Modern Horizons",0.28,0.00
 "Scour All Possibilities - Foil","Modern Horizons",0.19,0.00
+"Eyekite - Foil","Modern Horizons",0.08,0.00
 "Lightning Skelemental - Foil","Modern Horizons",8.00,3.20
 "Sisay, Weatherlight Captain - Foil","Modern Horizons",6.99,2.80
 "Choking Tethers - Foil","Modern Horizons",0.08,0.00
 "Talisman of Resilience - Foil","Modern Horizons",2.39,0.25
-"Cleaving Sliver - Foil","Modern Horizons",0.19,0.00
 "Smoke Shroud - Foil","Modern Horizons",0.20,0.00
+"Cleaving Sliver - Foil","Modern Horizons",0.19,0.00
 "Oneirophage - Foil","Modern Horizons",0.08,0.01
 "Putrid Goblin - Foil","Modern Horizons",0.01,0.00
+"Serra the Benevolent - Foil","Modern Horizons",49.00,24.50
 "Dismantling Blow - Foil","Modern Horizons",0.05,0.01
 "Enduring Sliver - Foil","Modern Horizons",0.13,0.00
-"Serra the Benevolent - Foil","Modern Horizons",49.00,24.50
 "Valiant Changeling - Foil","Modern Horizons",0.35,0.01
 "Venomous Changeling - Foil","Modern Horizons",0.14,0.00
 "King of the Pride - Foil","Modern Horizons",0.54,0.01
 "Lancer Sliver - Foil","Modern Horizons",0.14,0.00
+"Silumgar Scavenger - Foil","Modern Horizons",0.01,0.00
 "Alpine Guide - Foil","Modern Horizons",0.19,0.01
 "Carrion Feeder - Foil","Modern Horizons",0.98,0.01
-"Silumgar Scavenger - Foil","Modern Horizons",0.01,0.00
 "Ransack the Lab - Foil","Modern Horizons",0.25,0.00
 "Silent Clearing - Foil","Modern Horizons",31.48,15.74
 "Warteye Witch - Foil","Modern Horizons",0.05,0.00
 "Webweaver Changeling - Foil","Modern Horizons",0.05,0.01
 "Unbound Flourishing - Foil","Modern Horizons",16.00,7.20
 "Lonely Sandbar - Foil","Modern Horizons",1.00,0.01
+"Excavating Anurid - Foil","Modern Horizons",0.05,0.00
+"Lava Dart - Foil","Modern Horizons",0.94,0.00
+"Llanowar Tribe - Foil","Modern Horizons",1.28,0.01
+"Snow-Covered Island - Foil","Modern Horizons",14.76,6.64
+"Squirrel Nest - Foil","Modern Horizons",0.25,0.01
+"Tribute Mage - Foil","Modern Horizons",4.05,1.62
+"Regrowth - Foil","Modern Horizons",0.40,0.01
+"Sadistic Obsession - Foil","Modern Horizons",0.10,0.01
+"Force of Negation - Foil","Modern Horizons",140.22,84.13
+"Yawgmoth, Thran Physician - Foil","Modern Horizons",79.95,43.97
+"Mox Tantalite - Foil","Modern Horizons",22.99,10.35
+"Snow-Covered Swamp - Foil","Modern Horizons",7.49,3.00
+"Cunning Evasion - Foil","Modern Horizons",0.22,0.01
+"Quakefoot Cyclops - Foil","Modern Horizons",0.05,0.00
+"Gluttonous Slug - Foil","Modern Horizons",0.10,0.00
+"Zhalfirin Decoy - Foil","Modern Horizons",0.08,0.01
+"Bogardan Dragonheart - Foil","Modern Horizons",0.10,0.00
+"Dead of Winter - Foil","Modern Horizons",12.99,5.85
+"Unearth - Foil","Modern Horizons",3.77,1.51
+"Wrenn and Six - Foil","Modern Horizons",330.70,198.42
+"Fiery Islet - Foil","Modern Horizons",43.50,21.75
+"Bladeback Sliver - Foil","Modern Horizons",0.10,0.00
+"Force of Virtue - Foil","Modern Horizons",2.16,0.25
+"Tranquil Thicket - Foil","Modern Horizons",0.90,0.01
+"Endling - Foil","Modern Horizons",0.75,0.08
 "Windcaller Aven - Foil","Modern Horizons",0.08,0.00
-"Spinehorn Minotaur - Foil","Modern Horizons",0.08,0.00
+"Seasoned Pyromancer - Foil","Modern Horizons",57.99,31.89
+"Shelter - Foil","Modern Horizons",0.10,0.00
+"Blizzard Strix - Foil","Modern Horizons",0.14,0.01
+"Fact or Fiction - Foil","Modern Horizons",0.88,0.01
 "Pyrophobia - Foil","Modern Horizons",0.08,0.00
 "Throatseeker - Foil","Modern Horizons",0.23,0.01
 "Vesperlark - Foil","Modern Horizons",2.22,0.25
-"Morophon, the Boundless - Foil","Modern Horizons",36.79,18.40
-"Tempered Sliver - Foil","Modern Horizons",0.59,0.01
+"Spinehorn Minotaur - Foil","Modern Horizons",0.08,0.00
 "Mother Bear - Foil","Modern Horizons",0.25,0.00
 "Recruit the Worthy - Foil","Modern Horizons",0.14,0.00
 "Shenanigans - Foil","Modern Horizons",2.89,0.25
+"Morophon, the Boundless - Foil","Modern Horizons",36.79,18.40
+"Tempered Sliver - Foil","Modern Horizons",0.59,0.01
+"Phantom Ninja - Foil","Modern Horizons",0.20,0.00
+"Sunbaked Canyon - Foil","Modern Horizons",49.56,24.78
+"Battle Screech - Foil","Modern Horizons",0.69,0.01
+"Collector Ouphe - Foil","Modern Horizons",24.07,10.83
+"Ayula, Queen Among Bears - Foil","Modern Horizons",5.61,2.24
+"Soulherder - Foil","Modern Horizons",8.09,3.24
+"Sword of Sinew and Steel - Foil","Modern Horizons",32.99,16.50
+"Plague Engineer - Foil","Modern Horizons",41.25,20.63
+"Spell Snuff - Foil","Modern Horizons",0.01,0.00
+"Amorphous Axe - Foil","Modern Horizons",0.10,0.00
+"Force of Despair - Foil","Modern Horizons",6.88,2.75
+"Mirrodin Besieged - Foil","Modern Horizons",3.49,1.40
+"Talisman of Curiosity - Foil","Modern Horizons",2.99,0.25
+"Krosan Tusker - Foil","Modern Horizons",0.08,0.00
+"Fountain of Ichor - Foil","Modern Horizons",0.05,0.00
+"Planebound Accomplice - Foil","Modern Horizons",2.00,0.08
+"Spore Frog - Foil","Modern Horizons",0.77,0.00
+"Trustworthy Scout - Foil","Modern Horizons",0.05,0.00
+"Winds of Abandon - Foil","Modern Horizons",8.88,3.55
+"Chillerpillar - Foil","Modern Horizons",0.10,0.00
+"Reckless Charge - Foil","Modern Horizons",0.10,0.00
+"Settle Beyond Reality - Foil","Modern Horizons",0.10,0.00
+"Rebuild - Foil","Modern Horizons",0.47,0.01
+"Altar of Dementia - Foil","Modern Horizons",4.96,1.98
+"Arcum's Astrolabe - Foil","Modern Horizons",10.41,4.68
+"Bazaar Trademage - Foil","Modern Horizons",1.79,0.08
+"Scrapyard Recombiner - Foil","Modern Horizons",1.99,0.08
+"Forgotten Cave - Foil","Modern Horizons",0.98,0.01
+"Frostwalk Bastion - Foil","Modern Horizons",0.20,0.01
 "Marit Lage's Slumber - Foil","Modern Horizons",1.77,0.08
 "Mist-Syndicate Naga - Foil","Modern Horizons",1.04,0.08
 "The First Sliver - Foil","Modern Horizons",59.99,32.99
-"Firebolt - Foil","Modern Horizons",0.13,0.01
 "Goblin Oriflamme - Foil","Modern Horizons",0.17,0.01
+"Firebolt - Foil","Modern Horizons",0.13,0.01
 "Umezawa's Charm - Foil","Modern Horizons",0.05,0.00
 "Viashino Sandsprinter - Foil","Modern Horizons",0.11,0.00
-"Exclude - Foil","Modern Horizons",0.17,0.01
-"Feaster of Fools - Foil","Modern Horizons",0.17,0.01
 "Gilded Light - Foil","Modern Horizons",0.11,0.00
 "Rank Officer - Foil","Modern Horizons",0.05,0.00
+"Feaster of Fools - Foil","Modern Horizons",0.17,0.01
+"Exclude - Foil","Modern Horizons",0.17,0.01
 "Lavabelly Sliver - Foil","Modern Horizons",1.99,0.01
 "Nether Spirit - Foil","Modern Horizons",0.34,0.08
 "Reprobation - Foil","Modern Horizons",0.13,0.00
 "Goblin War Party - Foil","Modern Horizons",0.10,0.00
 "Universal Automaton - Foil","Modern Horizons",0.17,0.00
-"Diabolic Edict - Foil","Modern Horizons",0.10,0.00
-"Changeling Outcast - Foil","Modern Horizons",0.93,0.00
 "Pashalik Mons - Foil","Modern Horizons",3.00,0.25
+"Changeling Outcast - Foil","Modern Horizons",0.93,0.00
+"Diabolic Edict - Foil","Modern Horizons",0.10,0.00
 "Murasa Behemoth - Foil","Modern Horizons",0.05,0.00
 "Reap the Past - Foil","Modern Horizons",0.48,0.08
 "Treetop Ambusher - Foil","Modern Horizons",0.04,0.00
-"Barren Moor - Foil","Modern Horizons",1.99,0.01
-"Ayula's Influence - Foil","Modern Horizons",1.56,0.08
-"Echo of Eons - Foil","Modern Horizons",35.00,17.50
 "Prohibit - Foil","Modern Horizons",0.05,0.00
 "Rotwidow Pack - Foil","Modern Horizons",0.07,0.01
 "Talisman of Hierarchy - Foil","Modern Horizons",3.79,1.52
 "Treefolk Umbra - Foil","Modern Horizons",0.10,0.00
+"Ayula's Influence - Foil","Modern Horizons",1.56,0.08
+"Echo of Eons - Foil","Modern Horizons",35.00,17.50
+"Barren Moor - Foil","Modern Horizons",1.99,0.01

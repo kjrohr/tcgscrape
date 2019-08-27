@@ -11,14 +11,14 @@
 "Ancient Stirrings","Masters 25",2.85,0.25
 "Angel Token (002)","Masters 25",0.24,0.00
 "Angelic Page","Masters 25",0.24,0.01
-"Animar, Soul of Elements","Masters 25",17.05,7.67
+"Animar, Soul of Elements","Masters 25",16.98,7.64
 "Arbor Elf","Masters 25",0.38,0.00
 "Arcane Denial","Masters 25",1.43,0.00
 Armageddon,"Masters 25",3.84,1.54
 "Ash Barrens","Masters 25",3.35,1.34
 Assembly-Worker,"Masters 25",0.17,0.00
 Auramancer,"Masters 25",0.17,0.00
-"Azusa, Lost but Seeking","Masters 25",28.72,14.36
+"Azusa, Lost but Seeking","Masters 25",28.60,14.30
 "Balduvian Horde","Masters 25",0.18,0.00
 "Ball Lightning","Masters 25",3.96,1.58
 "Baloth Null","Masters 25",0.24,0.01
@@ -27,7 +27,7 @@ Blightning,"Masters 25",0.31,0.01
 "Blood Moon","Masters 25",17.19,7.74
 "Bloodhunter Bat","Masters 25",0.17,0.00
 "Blue Elemental Blast","Masters 25",0.29,0.01
-"Blue Sun's Zenith","Masters 25",2.36,0.25
+"Blue Sun's Zenith","Masters 25",2.31,0.25
 "Boros Charm","Masters 25",1.65,0.01
 "Borrowing 100,000 Arrows","Masters 25",0.17,0.00
 Brainstorm,"Masters 25",0.73,0.00
@@ -37,7 +37,7 @@ Brainstorm,"Masters 25",0.73,0.00
 Browbeat,"Masters 25",0.41,0.01
 "Cascade Bluffs","Masters 25",8.08,3.23
 "Caustic Tar","Masters 25",0.24,0.01
-"Chalice of the Void","Masters 25",66.35,36.49
+"Chalice of the Void","Masters 25",66.57,36.61
 "Chandra's Outrage","Masters 25",0.16,0.00
 "Chartooth Cougar","Masters 25",0.17,0.00
 "Choking Tethers","Masters 25",0.16,0.00
@@ -53,7 +53,7 @@ Counterspell,"Masters 25",1.43,0.00
 "Courser of Kruphix","Masters 25",3.79,1.52
 "Court Hussar","Masters 25",0.18,0.00
 "Crimson Mage","Masters 25",0.16,0.00
-Cultivate,"Masters 25",1.15,0.00
+Cultivate,"Masters 25",1.13,0.00
 Curiosity,"Masters 25",0.29,0.01
 Cursecatcher,"Masters 25",0.94,0.01
 "Darien, King of Kjeldor","Masters 25",1.19,0.08
@@ -76,7 +76,7 @@ Doomsday,"Masters 25",2.65,0.25
 "Elvish Aberration","Masters 25",0.17,0.00
 "Elvish Piper","Masters 25",3.09,1.24
 "Ember Weaver","Masters 25",0.17,0.00
-"Ensnaring Bridge","Masters 25",59.06,32.48
+"Ensnaring Bridge","Masters 25",56.34,30.99
 "Enthralling Victor","Masters 25",0.24,0.01
 "Epic Confrontation","Masters 25",0.16,0.00
 "Erg Raiders","Masters 25",0.16,0.00
@@ -116,11 +116,11 @@ Flash,"Masters 25",1.05,0.08
 "Ihsan's Shade","Masters 25",0.24,0.01
 "Imperial Recruiter","Masters 25",37.46,18.73
 "Insect Token (012)","Masters 25",0.18,0.00
-Invigorate,"Masters 25",0.28,0.01
+Invigorate,"Masters 25",0.26,0.01
 "Ire Shaman","Masters 25",0.24,0.01
 "Iwamori of the Open Fist","Masters 25",0.24,0.01
 "Izzet Chemister","Masters 25",0.43,0.08
-"Jace, the Mind Sculptor","Masters 25",128.24,76.94
+"Jace, the Mind Sculptor","Masters 25",130.61,78.37
 "Jackal Pup","Masters 25",0.17,0.00
 "Jalira, Master Polymorphist","Masters 25",0.25,0.01
 "Karona's Zealot","Masters 25",0.24,0.01
@@ -131,7 +131,7 @@ Kindle,"Masters 25",0.16,0.00
 "Kobolds of Kher Keep Token (010)","Masters 25",1.12,0.00
 "Kongming, &quot;Sleeping Dragon&quot;","Masters 25",0.24,0.01
 "Kor Firewalker","Masters 25",0.33,0.01
-"Kraken Token (006)","Masters 25",0.73,0.00
+"Kraken Token (006)","Masters 25",0.72,0.00
 "Krosan Colossus","Masters 25",0.24,0.01
 "Krosan Tusker","Masters 25",0.24,0.01
 "Laquatus's Champion","Masters 25",0.42,0.08
@@ -163,7 +163,7 @@ Murder,"Masters 25",0.19,0.00
 "Nihil Spellbomb","Masters 25",0.48,0.00
 "Niv-Mizzet, the Firemind","Masters 25",0.85,0.08
 "Noble Templar","Masters 25",0.16,0.00
-"Notion Thief","Masters 25",0.92,0.08
+"Notion Thief","Masters 25",0.94,0.08
 "Nyx-Fleece Ram","Masters 25",0.37,0.01
 "Ordeal of Heliod","Masters 25",0.24,0.01
 Pacifism,"Masters 25",0.17,0.00
@@ -200,7 +200,7 @@ Regrowth,"Masters 25",0.97,0.01
 "Rest in Peace","Masters 25",8.08,3.23
 "Retraction Helix","Masters 25",0.17,0.00
 "Returned Phalanx","Masters 25",0.15,0.00
-"Rishadan Port","Masters 25",16.13,7.26
+"Rishadan Port","Masters 25",16.14,7.26
 "Rugged Prairie","Masters 25",5.21,2.08
 "Ruric Thar, the Unbowed","Masters 25",0.52,0.08
 "Ruthless Ripper","Masters 25",0.16,0.00
@@ -223,7 +223,7 @@ Skeletonize,"Masters 25",0.16,0.00
 "Stampede Driver","Masters 25",0.24,0.01
 Stangg,"Masters 25",0.24,0.01
 "Stangg Twin Token (014)","Masters 25",0.20,0.00
-"Street Wraith","Masters 25",2.63,0.25
+"Street Wraith","Masters 25",2.54,0.25
 "Strionic Resonator","Masters 25",3.33,1.33
 "Summoner's Pact","Masters 25",12.71,5.72
 "Sundering Titan","Masters 25",0.68,0.08
@@ -264,217 +264,248 @@ Will-o'-the-Wisp,"Masters 25",0.28,0.01
 "Zoetic Cavern","Masters 25",0.24,0.01
 Zombify,"Masters 25",0.29,0.01
 "Zulaport Cutthroat","Masters 25",0.63,0.01
-"Shoreline Ranger - Foil","Masters 25",0.02,0.00
-"Totally Lost - Foil","Masters 25",0.05,0.00
-"Ihsan's Shade - Foil","Masters 25",0.14,0.01
-"Coalition Relic - Foil","Masters 25",14.72,6.62
-"Woolly Loxodon - Foil","Masters 25",0.05,0.00
+"Zada, Hedron Grinder - Foil","Masters 25",1.26,0.01
+"Ancient Stirrings - Foil","Masters 25",6.98,2.79
+"Squadron Hawk - Foil","Masters 25",0.14,0.00
+"Pyroclasm - Foil","Masters 25",0.25,0.01
+"Niv-Mizzet, the Firemind - Foil","Masters 25",0.98,0.08
+"Ball Lightning - Foil","Masters 25",2.39,0.25
+"Rest in Peace - Foil","Masters 25",20.19,9.09
+"Cursecatcher - Foil","Masters 25",0.98,0.01
+"Lorescale Coatl - Foil","Masters 25",0.12,0.01
+"Swords to Plowshares - Foil","Masters 25",1.99,0.01
+"Haunted Fengraf - Foil","Masters 25",0.08,0.00
+"Coralhelm Guide - Foil","Masters 25",0.05,0.00
+"Mogg Flunkies - Foil","Masters 25",0.04,0.00
+"Kavu Climber - Foil","Masters 25",0.02,0.00
+"Plummet - Foil","Masters 25",0.02,0.00
+"Sai of the Shinobi - Foil","Masters 25",0.20,0.01
+"Undead Gladiator - Foil","Masters 25",0.20,0.01
+"Krosan Colossus - Foil","Masters 25",0.10,0.01
+"Whitemane Lion - Foil","Masters 25",0.08,0.00
+"Choking Tethers - Foil","Masters 25",0.05,0.00
+"Vindicate - Foil","Masters 25",4.00,1.60
+"Pacifism - Foil","Masters 25",0.08,0.00
+"Stampede Driver - Foil","Masters 25",0.05,0.01
+"Rugged Prairie - Foil","Masters 25",6.16,2.46
+"Eidolon of the Great Revel - Foil","Masters 25",8.49,3.40
+"Darien, King of Kjeldor - Foil","Masters 25",1.66,0.08
+"Ruric Thar, the Unbowed - Foil","Masters 25",0.89,0.08
+"Renewed Faith - Foil","Masters 25",0.08,0.00
+"Nyx-Fleece Ram - Foil","Masters 25",0.38,0.01
+"Ancient Craving - Foil","Masters 25",0.28,0.01
 "Jackal Pup - Foil","Masters 25",0.02,0.00
 "Pernicious Deed - Foil","Masters 25",5.88,2.35
 "Stangg - Foil","Masters 25",0.07,0.01
+"Coalition Relic - Foil","Masters 25",14.72,6.62
+"Woolly Loxodon - Foil","Masters 25",0.05,0.00
+"Shoreline Ranger - Foil","Masters 25",0.02,0.00
+"Totally Lost - Foil","Masters 25",0.05,0.00
+"Ihsan's Shade - Foil","Masters 25",0.14,0.01
+"Willbender - Foil","Masters 25",0.27,0.01
+"Kindle - Foil","Masters 25",0.04,0.00
 "Swiftfoot Boots - Foil","Masters 25",4.49,1.80
 "Quicksand - Foil","Masters 25",0.14,0.01
-"Kindle - Foil","Masters 25",0.04,0.00
-"Willbender - Foil","Masters 25",0.27,0.01
-"Invigorate - Foil","Masters 25",0.10,0.01
-"Tree of Redemption - Foil","Masters 25",3.20,1.28
+"Summoner's Pact - Foil","Masters 25",16.00,7.20
 "Azusa, Lost but Seeking - Foil","Masters 25",42.40,21.20
 "Angelic Page - Foil","Masters 25",0.17,0.01
-"Summoner's Pact - Foil","Masters 25",16.00,7.20
+"Invigorate - Foil","Masters 25",0.10,0.01
+"Tree of Redemption - Foil","Masters 25",3.20,1.28
+"Knight of the Skyward Eye - Foil","Masters 25",0.05,0.00
+"Cinder Storm - Foil","Masters 25",0.05,0.00
 "Heavy Arbalest - Foil","Masters 25",0.05,0.01
 "Living Death - Foil","Masters 25",3.50,1.40
 "Ambassador Oak - Foil","Masters 25",0.05,0.00
-"Cinder Storm - Foil","Masters 25",0.05,0.00
-"Knight of the Skyward Eye - Foil","Masters 25",0.05,0.00
+"Vendilion Clique - Foil","Masters 25",30.82,15.41
+"Red Elemental Blast - Foil","Masters 25",4.00,1.60
 "Blightning - Foil","Masters 25",0.47,0.01
 "Myriad Landscape - Foil","Masters 25",4.45,1.78
-"Red Elemental Blast - Foil","Masters 25",4.00,1.60
-"Vendilion Clique - Foil","Masters 25",30.82,15.41
 "Caustic Tar - Foil","Masters 25",0.08,0.01
+"Accumulated Knowledge - Foil","Masters 25",0.10,0.00
 "Urbis Protector - Foil","Masters 25",0.08,0.01
 "Zombify - Foil","Masters 25",0.17,0.01
-"Animar, Soul of Elements - Foil","Masters 25",46.00,23.00
+"Echoing Courage - Foil","Masters 25",0.04,0.00
+"Nezumi Cutthroat - Foil","Masters 25",0.05,0.00
+"Flash - Foil","Masters 25",4.00,1.60
+"Genju of the Spires - Foil","Masters 25",0.05,0.01
+"Reef Worm - Foil","Masters 25",2.49,0.25
+"Twisted Abomination - Foil","Masters 25",0.05,0.00
+"Elvish Aberration - Foil","Masters 25",0.07,0.00
+"Borrowing 100,000 Arrows - Foil","Masters 25",0.08,0.00
+"Unearth - Foil","Masters 25",2.29,0.25
+"Brine Elemental - Foil","Masters 25",0.14,0.01
+"Presence of Gond - Foil","Masters 25",0.14,0.00
+"Treasure Keeper - Foil","Masters 25",0.14,0.01
+"Blood Moon - Foil","Masters 25",19.51,8.78
+"Imperial Recruiter - Foil","Masters 25",41.78,20.89
+"Balduvian Horde - Foil","Masters 25",0.05,0.00
+"Kor Firewalker - Foil","Masters 25",0.25,0.01
+"Cascade Bluffs - Foil","Masters 25",9.15,3.66
+"Spikeshot Goblin - Foil","Masters 25",0.08,0.01
+"Ravenous Chupacabra - Foil","Masters 25",1.24,0.01
+"Baloth Null - Foil","Masters 25",0.08,0.01
+"Jalira, Master Polymorphist - Foil","Masters 25",0.20,0.01
+"Hell's Caretaker - Foil","Masters 25",1.34,0.08
+"Phyrexian Obliterator - Foil","Masters 25",24.59,11.07
+"Fortune Thief - Foil","Masters 25",0.41,0.08
+"Magus of the Wheel - Foil","Masters 25",4.04,1.62
+"Ire Shaman - Foil","Masters 25",0.14,0.01
+"Griffin Protector - Foil","Masters 25",0.05,0.00
+"Armageddon - Foil","Masters 25",6.16,2.46
+"Cloudblazer - Foil","Masters 25",0.38,0.01
+"Kavu Predator - Foil","Masters 25",0.08,0.01
+"Murder of Crows - Foil","Masters 25",0.08,0.01
 "Horseshoe Crab - Foil","Masters 25",0.08,0.00
 "Dusk Legion Zealot - Foil","Masters 25",0.23,0.00
 "Goblin War Drums - Foil","Masters 25",0.28,0.01
-"Murder of Crows - Foil","Masters 25",0.08,0.01
-"Fathom Seer - Foil","Masters 25",0.05,0.00
-"Brion Stoutarm - Foil","Masters 25",0.42,0.08
 "Dark Ritual - Foil","Masters 25",1.00,0.00
 "Grenzo, Dungeon Warden - Foil","Masters 25",3.06,1.22
 "Uncaged Fury - Foil","Masters 25",0.05,0.00
-"Doomsday - Foil","Masters 25",9.08,3.63
 "Frenzied Goblin - Foil","Masters 25",0.10,0.00
 "Pyre Hound - Foil","Masters 25",0.04,0.00
-"Pendelhaven - Foil","Masters 25",2.71,0.25
-"Disenchant - Foil","Masters 25",0.14,0.00
+"Fathom Seer - Foil","Masters 25",0.05,0.00
+"Brion Stoutarm - Foil","Masters 25",0.42,0.08
+"Doomsday - Foil","Masters 25",9.08,3.63
 "Flooded Grove - Foil","Masters 25",8.01,3.20
 "Ghost Ship - Foil","Masters 25",0.07,0.00
 "Sift - Foil","Masters 25",0.04,0.00
+"Pendelhaven - Foil","Masters 25",2.71,0.25
+"Disenchant - Foil","Masters 25",0.14,0.00
 "Nettle Sentinel - Foil","Masters 25",0.23,0.00
 "Akroma, Angel of Wrath - Foil","Masters 25",4.55,1.82
 "Primal Clay - Foil","Masters 25",0.02,0.00
-"Merfolk Looter - Foil","Masters 25",0.14,0.01
-"Browbeat - Foil","Masters 25",0.26,0.01
 "Gisela, Blade of Goldnight - Foil","Masters 25",10.77,4.85
 "Vesuvan Shapeshifter - Foil","Masters 25",1.10,0.08
 "Mystic of the Hidden Way - Foil","Masters 25",0.05,0.00
 "Timberpack Wolf - Foil","Masters 25",0.05,0.00
 "Kongming, ""Sleeping Dragon"" - Foil","Masters 25",0.17,0.01
+"Merfolk Looter - Foil","Masters 25",0.14,0.01
+"Browbeat - Foil","Masters 25",0.26,0.01
 "Exclude - Foil","Masters 25",0.28,0.01
 "Ensnaring Bridge - Foil","Masters 25",76.76,42.22
 "Lunarch Mantle - Foil","Masters 25",0.05,0.00
-"Ancient Stirrings - Foil","Masters 25",6.98,2.79
-"Squadron Hawk - Foil","Masters 25",0.14,0.00
-"Pyroclasm - Foil","Masters 25",0.25,0.01
-"Zada, Hedron Grinder - Foil","Masters 25",1.26,0.01
-"Swords to Plowshares - Foil","Masters 25",1.99,0.01
-"Niv-Mizzet, the Firemind - Foil","Masters 25",0.98,0.08
-"Ball Lightning - Foil","Masters 25",2.39,0.25
-"Rest in Peace - Foil","Masters 25",20.19,9.09
-"Haunted Fengraf - Foil","Masters 25",0.08,0.00
-"Cursecatcher - Foil","Masters 25",0.98,0.01
-"Lorescale Coatl - Foil","Masters 25",0.12,0.01
-"Undead Gladiator - Foil","Masters 25",0.20,0.01
-"Krosan Colossus - Foil","Masters 25",0.10,0.01
-"Coralhelm Guide - Foil","Masters 25",0.05,0.00
-"Whitemane Lion - Foil","Masters 25",0.08,0.00
-"Choking Tethers - Foil","Masters 25",0.05,0.00
-"Mogg Flunkies - Foil","Masters 25",0.04,0.00
-"Kavu Climber - Foil","Masters 25",0.02,0.00
-"Plummet - Foil","Masters 25",0.02,0.00
-"Sai of the Shinobi - Foil","Masters 25",0.20,0.01
-"Vindicate - Foil","Masters 25",4.00,1.60
-"Pacifism - Foil","Masters 25",0.08,0.00
-"Stampede Driver - Foil","Masters 25",0.05,0.01
-"Eidolon of the Great Revel - Foil","Masters 25",8.49,3.40
-"Rugged Prairie - Foil","Masters 25",6.16,2.46
-"Renewed Faith - Foil","Masters 25",0.08,0.00
-"Darien, King of Kjeldor - Foil","Masters 25",1.66,0.08
-"Nyx-Fleece Ram - Foil","Masters 25",0.38,0.01
-"Ancient Craving - Foil","Masters 25",0.28,0.01
 "Quicksilver Dagger - Foil","Masters 25",0.10,0.01
-"Accumulated Knowledge - Foil","Masters 25",0.10,0.00
-"Assembly-Worker - Foil","Masters 25",0.08,0.00
-"Fierce Empath - Foil","Masters 25",0.98,0.01
-"Act of Treason - Foil","Masters 25",0.08,0.00
-"Disfigure - Foil","Masters 25",0.10,0.00
-"Triskaidekaphobia - Foil","Masters 25",0.29,0.08
-"Twilight Mire - Foil","Masters 25",8.86,3.54
-"Living Wish - Foil","Masters 25",1.11,0.08
-"Freed from the Real - Foil","Masters 25",3.00,0.25
-"Giant Growth - Foil","Masters 25",0.10,0.00
-"Ordeal of Heliod - Foil","Masters 25",0.10,0.01
-"Zulaport Cutthroat - Foil","Masters 25",2.49,0.25
-"Counterspell - Foil","Masters 25",2.14,0.25
-"Lightning Bolt - Foil","Masters 25",3.98,1.59
-"Valor in Akros - Foil","Masters 25",0.08,0.01
-"Mystic Snake - Foil","Masters 25",1.45,0.08
-"Izzet Chemister - Foil","Masters 25",0.29,0.08
-"Curiosity - Foil","Masters 25",0.25,0.01
-"Will-o'-the-Wisp - Foil","Masters 25",0.22,0.01
-"Wildheart Invoker - Foil","Masters 25",0.05,0.00
-"Chartooth Cougar - Foil","Masters 25",0.08,0.00
-"Self-Assembler - Foil","Masters 25",0.05,0.00
-"Chalice of the Void - Foil","Masters 25",82.90,45.60
-"Fiend Hunter - Foil","Masters 25",0.25,0.01
-"Iwamori of the Open Fist - Foil","Masters 25",0.13,0.01
-"Auramancer - Foil","Masters 25",0.08,0.00
-"Flash - Foil","Masters 25",4.00,1.60
-"Genju of the Spires - Foil","Masters 25",0.05,0.01
-"Nezumi Cutthroat - Foil","Masters 25",0.05,0.00
-"Echoing Courage - Foil","Masters 25",0.04,0.00
-"Brine Elemental - Foil","Masters 25",0.14,0.01
-"Presence of Gond - Foil","Masters 25",0.14,0.00
-"Treasure Keeper - Foil","Masters 25",0.14,0.01
-"Blood Moon - Foil","Masters 25",19.51,8.78
-"Borrowing 100,000 Arrows - Foil","Masters 25",0.08,0.00
-"Unearth - Foil","Masters 25",2.29,0.25
-"Reef Worm - Foil","Masters 25",2.49,0.25
-"Twisted Abomination - Foil","Masters 25",0.05,0.00
-"Elvish Aberration - Foil","Masters 25",0.07,0.00
-"Imperial Recruiter - Foil","Masters 25",41.78,20.89
-"Balduvian Horde - Foil","Masters 25",0.05,0.00
-"Kor Firewalker - Foil","Masters 25",0.25,0.01
-"Baloth Null - Foil","Masters 25",0.08,0.01
-"Cascade Bluffs - Foil","Masters 25",9.15,3.66
-"Spikeshot Goblin - Foil","Masters 25",0.08,0.01
-"Ravenous Chupacabra - Foil","Masters 25",1.24,0.01
-"Jalira, Master Polymorphist - Foil","Masters 25",0.20,0.01
-"Phyrexian Obliterator - Foil","Masters 25",24.59,11.07
-"Fortune Thief - Foil","Masters 25",0.41,0.08
-"Magus of the Wheel - Foil","Masters 25",4.04,1.62
-"Hell's Caretaker - Foil","Masters 25",1.34,0.08
-"Ire Shaman - Foil","Masters 25",0.14,0.01
-"Griffin Protector - Foil","Masters 25",0.05,0.00
-"Cloudblazer - Foil","Masters 25",0.38,0.01
-"Armageddon - Foil","Masters 25",6.16,2.46
-"Utopia Sprawl - Foil","Masters 25",4.79,1.92
-"Skirk Commando - Foil","Masters 25",0.05,0.00
-"Ember Weaver - Foil","Masters 25",0.05,0.00
-"Karona's Zealot - Foil","Masters 25",0.07,0.01
-"Courser of Kruphix - Foil","Masters 25",3.98,1.59
-"Deadly Designs - Foil","Masters 25",0.08,0.01
-"Protean Hulk - Foil","Masters 25",9.73,3.89
-"Enthralling Victor - Foil","Masters 25",0.05,0.01
-"Humble Defector - Foil","Masters 25",0.14,0.01
-"Thresher Lizard - Foil","Masters 25",0.01,0.00
-"Rancor - Foil","Masters 25",1.25,0.01
-"Shadowmage Infiltrator - Foil","Masters 25",0.27,0.01
-"Mikokoro, Center of the Sea - Foil","Masters 25",4.00,1.60
-"Ainok Survivalist - Foil","Masters 25",0.08,0.00
-"Brainstorm - Foil","Masters 25",1.76,0.00
-"Prophetic Prism - Foil","Masters 25",0.20,0.00
-"Act of Heroism - Foil","Masters 25",0.05,0.00
-"Retraction Helix - Foil","Masters 25",0.08,0.00
-"Arbor Elf - Foil","Masters 25",0.68,0.00
-"Soulbright Flamekin - Foil","Masters 25",0.07,0.00
-"Vessel of Nascency - Foil","Masters 25",0.11,0.00
-"Hordeling Outburst - Foil","Masters 25",0.14,0.00
-"Mishra's Factory - Foil","Masters 25",0.44,0.01
-"Krosan Tusker - Foil","Masters 25",0.11,0.01
-"Perilous Myr - Foil","Masters 25",0.10,0.01
-"Diabolic Edict - Foil","Masters 25",0.28,0.00
-"Skeletonize - Foil","Masters 25",0.04,0.00
-"Pact of Negation - Foil","Masters 25",22.44,10.10
-"Mesmeric Fiend - Foil","Masters 25",0.25,0.01
-"Murder - Foil","Masters 25",0.17,0.00
-"Erg Raiders - Foil","Masters 25",0.05,0.00
-"Ruric Thar, the Unbowed - Foil","Masters 25",0.89,0.08
 "Hanna, Ship's Navigator - Foil","Masters 25",5.46,2.18
-"Ash Barrens - Foil","Masters 25",5.45,2.18
 "Loyal Sentry - Foil","Masters 25",0.13,0.00
+"Ash Barrens - Foil","Masters 25",5.45,2.18
 "Noble Templar - Foil","Masters 25",0.05,0.00
-"Eladamri's Call - Foil","Masters 25",7.04,2.82
 "Pillage - Foil","Masters 25",0.10,0.00
-"Vampire Lacerator - Foil","Masters 25",0.08,0.00
 "Ruthless Ripper - Foil","Masters 25",0.07,0.00
-"Gods Willing - Foil","Masters 25",0.12,0.00
-"Twisted Image - Foil","Masters 25",0.10,0.01
+"Eladamri's Call - Foil","Masters 25",7.04,2.82
+"Vampire Lacerator - Foil","Masters 25",0.08,0.00
 "Supernatural Stamina - Foil","Masters 25",0.10,0.00
 "Chandra's Outrage - Foil","Masters 25",0.05,0.00
-"Laquatus's Champion - Foil","Masters 25",0.16,0.08
 "Fencing Ace - Foil","Masters 25",0.08,0.00
 "Notion Thief - Foil","Masters 25",4.49,1.80
+"Gods Willing - Foil","Masters 25",0.12,0.00
+"Twisted Image - Foil","Masters 25",0.10,0.01
+"Laquatus's Champion - Foil","Masters 25",0.16,0.08
 "Akroma, Angel of Fury - Foil","Masters 25",4.95,1.98
 "Broodhatch Nantuko - Foil","Masters 25",0.14,0.01
 "Plague Wind - Foil","Masters 25",0.98,0.08
-"Lull - Foil","Masters 25",0.10,0.00
 "Dauntless Cathar - Foil","Masters 25",0.07,0.00
+"Lull - Foil","Masters 25",0.10,0.00
 "Blue Sun's Zenith - Foil","Masters 25",5.99,2.40
-"Genju of the Falls - Foil","Masters 25",0.10,0.01
-"Street Wraith - Foil","Masters 25",3.08,1.23
 "Cultivate - Foil","Masters 25",1.11,0.00
 "Congregate - Foil","Masters 25",0.10,0.01
+"Genju of the Falls - Foil","Masters 25",0.10,0.01
+"Street Wraith - Foil","Masters 25",3.08,1.23
 "Ratcatcher - Foil","Masters 25",0.35,0.08
 "Watchwolf - Foil","Masters 25",0.28,0.01
 "Promise of Bunrei - Foil","Masters 25",0.37,0.01
 "Akroma's Vengeance - Foil","Masters 25",0.40,0.08
 "Dragon's Eye Savants - Foil","Masters 25",0.04,0.00
-"Horror of the Broken Lands - Foil","Masters 25",0.10,0.00
+"Animar, Soul of Elements - Foil","Masters 25",46.00,23.00
+"Assembly-Worker - Foil","Masters 25",0.08,0.00
+"Fierce Empath - Foil","Masters 25",0.98,0.01
+"Twilight Mire - Foil","Masters 25",8.86,3.54
+"Triskaidekaphobia - Foil","Masters 25",0.29,0.08
+"Act of Treason - Foil","Masters 25",0.08,0.00
+"Disfigure - Foil","Masters 25",0.10,0.00
+"Giant Growth - Foil","Masters 25",0.10,0.00
+"Ordeal of Heliod - Foil","Masters 25",0.10,0.01
+"Living Wish - Foil","Masters 25",1.11,0.08
+"Freed from the Real - Foil","Masters 25",3.00,0.25
+"Counterspell - Foil","Masters 25",2.14,0.25
+"Zulaport Cutthroat - Foil","Masters 25",2.49,0.25
+"Mystic Snake - Foil","Masters 25",1.45,0.08
+"Lightning Bolt - Foil","Masters 25",3.98,1.59
+"Valor in Akros - Foil","Masters 25",0.08,0.01
+"Wildheart Invoker - Foil","Masters 25",0.05,0.00
+"Izzet Chemister - Foil","Masters 25",0.29,0.08
+"Curiosity - Foil","Masters 25",0.25,0.01
+"Will-o'-the-Wisp - Foil","Masters 25",0.22,0.01
+"Self-Assembler - Foil","Masters 25",0.05,0.00
+"Chartooth Cougar - Foil","Masters 25",0.08,0.00
+"Auramancer - Foil","Masters 25",0.08,0.00
+"Chalice of the Void - Foil","Masters 25",82.90,45.60
+"Fiend Hunter - Foil","Masters 25",0.25,0.01
+"Iwamori of the Open Fist - Foil","Masters 25",0.13,0.01
+"Death's-Head Buzzard - Foil","Masters 25",0.02,0.00
+"Geist of the Moors - Foil","Masters 25",0.04,0.00
+"Utopia Sprawl - Foil","Masters 25",4.79,1.92
+"Sundering Titan - Foil","Masters 25",0.81,0.08
+"Boros Charm - Foil","Masters 25",3.99,1.60
+"Trumpet Blast - Foil","Masters 25",0.05,0.00
+"Regrowth - Foil","Masters 25",1.49,0.01
+"Phantasmal Bear - Foil","Masters 25",0.08,0.00
+"Epic Confrontation - Foil","Masters 25",0.05,0.00
+"Blue Elemental Blast - Foil","Masters 25",0.25,0.01
+"Decree of Justice - Foil","Masters 25",0.46,0.08
+"Returned Phalanx - Foil","Masters 25",0.05,0.00
+"Colossal Dreadmaw - Foil","Masters 25",0.05,0.00
+"Relentless Rats - Foil","Masters 25",0.58,0.00
+"Court Hussar - Foil","Masters 25",0.04,0.00
+"Crimson Mage - Foil","Masters 25",0.04,0.00
+"Nicol Bolas - Foil","Masters 25",4.91,1.96
+"Nihil Spellbomb - Foil","Masters 25",1.00,0.00
+"Cloudshift - Foil","Masters 25",0.29,0.00
+"Path of Peace - Foil","Masters 25",0.05,0.00
+"Pillory of the Sleepless - Foil","Masters 25",0.14,0.01
+"Rishadan Port - Foil","Masters 25",23.01,10.35
+"Savannah Lions - Foil","Masters 25",0.10,0.00
+"Zoetic Cavern - Foil","Masters 25",0.08,0.01
+"Luminarch Ascension - Foil","Masters 25",5.00,2.00
+"Thalia, Guardian of Thraben - Foil","Masters 25",16.44,7.40
+"Dirge of Dread - Foil","Masters 25",0.08,0.00
+"Fetid Heath - Foil","Masters 25",7.71,3.08
+"Bident of Thassa - Foil","Masters 25",0.47,0.08
+"Ember Weaver - Foil","Masters 25",0.05,0.00
+"Karona's Zealot - Foil","Masters 25",0.07,0.01
+"Skirk Commando - Foil","Masters 25",0.05,0.00
+"Courser of Kruphix - Foil","Masters 25",3.98,1.59
+"Deadly Designs - Foil","Masters 25",0.08,0.01
+"Thresher Lizard - Foil","Masters 25",0.01,0.00
+"Protean Hulk - Foil","Masters 25",9.73,3.89
+"Enthralling Victor - Foil","Masters 25",0.05,0.01
+"Humble Defector - Foil","Masters 25",0.14,0.01
+"Shadowmage Infiltrator - Foil","Masters 25",0.27,0.01
+"Brainstorm - Foil","Masters 25",1.76,0.00
+"Rancor - Foil","Masters 25",1.25,0.01
+"Mikokoro, Center of the Sea - Foil","Masters 25",4.00,1.60
+"Ainok Survivalist - Foil","Masters 25",0.08,0.00
+"Prophetic Prism - Foil","Masters 25",0.20,0.00
+"Soulbright Flamekin - Foil","Masters 25",0.07,0.00
+"Act of Heroism - Foil","Masters 25",0.05,0.00
+"Retraction Helix - Foil","Masters 25",0.08,0.00
+"Arbor Elf - Foil","Masters 25",0.68,0.00
+"Hordeling Outburst - Foil","Masters 25",0.14,0.00
+"Mishra's Factory - Foil","Masters 25",0.44,0.01
+"Krosan Tusker - Foil","Masters 25",0.11,0.01
+"Vessel of Nascency - Foil","Masters 25",0.11,0.00
+"Diabolic Edict - Foil","Masters 25",0.28,0.00
+"Skeletonize - Foil","Masters 25",0.04,0.00
+"Murder - Foil","Masters 25",0.17,0.00
+"Erg Raiders - Foil","Masters 25",0.05,0.00
+"Perilous Myr - Foil","Masters 25",0.10,0.01
+"Pact of Negation - Foil","Masters 25",22.44,10.10
+"Mesmeric Fiend - Foil","Masters 25",0.25,0.01
 "Elvish Piper - Foil","Masters 25",4.08,1.63
+"Horror of the Broken Lands - Foil","Masters 25",0.10,0.00
 "Prossh, Skyraider of Kher - Foil","Masters 25",25.00,11.25
 "Man-o'-War - Foil","Masters 25",0.10,0.00
+"Strionic Resonator - Foil","Masters 25",4.00,1.60
+"Simian Spirit Guide - Foil","Masters 25",7.25,2.90
 "Master of the Wild Hunt - Foil","Masters 25",5.59,2.24
 "Arcane Denial - Foil","Masters 25",1.42,0.00
 "Phyrexian Ghoul - Foil","Masters 25",0.08,0.00
@@ -482,34 +513,3 @@ Zombify,"Masters 25",0.29,0.01
 "Conflux - Foil","Masters 25",1.03,0.08
 "Bloodhunter Bat - Foil","Masters 25",0.05,0.00
 "Fallen Angel - Foil","Masters 25",0.14,0.01
-"Strionic Resonator - Foil","Masters 25",4.00,1.60
-"Simian Spirit Guide - Foil","Masters 25",7.25,2.90
-"Sundering Titan - Foil","Masters 25",0.81,0.08
-"Boros Charm - Foil","Masters 25",3.99,1.60
-"Geist of the Moors - Foil","Masters 25",0.04,0.00
-"Kavu Predator - Foil","Masters 25",0.08,0.01
-"Death's-Head Buzzard - Foil","Masters 25",0.02,0.00
-"Trumpet Blast - Foil","Masters 25",0.05,0.00
-"Regrowth - Foil","Masters 25",1.49,0.01
-"Epic Confrontation - Foil","Masters 25",0.05,0.00
-"Phantasmal Bear - Foil","Masters 25",0.08,0.00
-"Colossal Dreadmaw - Foil","Masters 25",0.05,0.00
-"Relentless Rats - Foil","Masters 25",0.58,0.00
-"Court Hussar - Foil","Masters 25",0.04,0.00
-"Crimson Mage - Foil","Masters 25",0.04,0.00
-"Blue Elemental Blast - Foil","Masters 25",0.25,0.01
-"Decree of Justice - Foil","Masters 25",0.46,0.08
-"Returned Phalanx - Foil","Masters 25",0.05,0.00
-"Nicol Bolas - Foil","Masters 25",4.91,1.96
-"Nihil Spellbomb - Foil","Masters 25",1.00,0.00
-"Cloudshift - Foil","Masters 25",0.29,0.00
-"Path of Peace - Foil","Masters 25",0.05,0.00
-"Pillory of the Sleepless - Foil","Masters 25",0.14,0.01
-"Thalia, Guardian of Thraben - Foil","Masters 25",16.44,7.40
-"Dirge of Dread - Foil","Masters 25",0.08,0.00
-"Fetid Heath - Foil","Masters 25",7.71,3.08
-"Luminarch Ascension - Foil","Masters 25",5.00,2.00
-"Rishadan Port - Foil","Masters 25",23.01,10.35
-"Savannah Lions - Foil","Masters 25",0.10,0.00
-"Zoetic Cavern - Foil","Masters 25",0.08,0.01
-"Bident of Thassa - Foil","Masters 25",0.47,0.08

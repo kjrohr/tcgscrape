@@ -3,19 +3,19 @@
 "Abzan Battle Priest","Iconic Masters",0.24,0.01
 "Abzan Falconer","Iconic Masters",0.24,0.01
 "Aerial Predation","Iconic Masters",0.15,0.00
-"Aether Vial","Iconic Masters",40.89,20.45
+"Aether Vial","Iconic Masters",40.94,20.47
 Aetherize,"Iconic Masters",0.32,0.01
 "Ainok Bond-Kin","Iconic Masters",0.15,0.00
-"Ajani's Pridemate","Iconic Masters",0.25,0.01
+"Ajani's Pridemate","Iconic Masters",0.24,0.01
 "Amass the Components","Iconic Masters",0.15,0.00
 "Ancestral Vision","Iconic Masters",9.11,3.64
 "Angel of Mercy","Iconic Masters",0.15,0.00
 "Angel Token (001)","Iconic Masters",0.20,0.00
 "Angelic Accord","Iconic Masters",0.31,0.01
 "Anger of the Gods","Iconic Masters",3.28,1.31
-"Archangel of Thune","Iconic Masters",14.84,6.68
-"Assault Formation","Iconic Masters",0.68,0.01
-"Auriok Champion","Iconic Masters",12.63,5.68
+"Archangel of Thune","Iconic Masters",14.95,6.73
+"Assault Formation","Iconic Masters",0.69,0.01
+"Auriok Champion","Iconic Masters",13.07,5.88
 "Austere Command","Iconic Masters",7.32,2.93
 "Avacyn, Angel of Hope","Iconic Masters",27.85,13.93
 "Azorius Chancery","Iconic Masters",0.24,0.01
@@ -53,7 +53,7 @@ Condescend,"Iconic Masters",0.41,0.01
 "Corpsejack Menace","Iconic Masters",0.39,0.01
 "Crowned Ceratok","Iconic Masters",0.15,0.00
 "Crucible of Fire","Iconic Masters",0.48,0.08
-"Cryptic Command","Iconic Masters",26.59,13.30
+"Cryptic Command","Iconic Masters",26.86,13.43
 "Curse of Predation","Iconic Masters",0.36,0.08
 "Darksteel Axe","Iconic Masters",0.17,0.00
 "Day of the Dragons","Iconic Masters",0.32,0.08
@@ -80,7 +80,7 @@ Duress,"Iconic Masters",0.19,0.00
 "Duskdale Wurm","Iconic Masters",0.16,0.00
 "Earth Elemental","Iconic Masters",0.14,0.00
 Electrolyze,"Iconic Masters",0.30,0.01
-"Elesh Norn, Grand Cenobite","Iconic Masters",20.17,9.08
+"Elesh Norn, Grand Cenobite","Iconic Masters",20.44,9.20
 "Elusive Spellfist","Iconic Masters",0.16,0.00
 "Emerge Unscathed","Iconic Masters",0.24,0.00
 "Emeria Angel","Iconic Masters",0.67,0.08
@@ -90,7 +90,7 @@ Enlarge,"Iconic Masters",0.23,0.01
 "Festering Newt","Iconic Masters",0.18,0.00
 Fireball,"Iconic Masters",0.21,0.01
 "Firemane Angel","Iconic Masters",0.35,0.08
-Flusterstorm,"Iconic Masters",12.43,5.59
+Flusterstorm,"Iconic Masters",12.61,5.67
 "Fog Bank","Iconic Masters",0.32,0.01
 "Foul-Tongue Invocation","Iconic Masters",0.16,0.00
 "Frost Lynx","Iconic Masters",0.15,0.00
@@ -98,7 +98,7 @@ Flusterstorm,"Iconic Masters",12.43,5.59
 "Fury Charm","Iconic Masters",0.18,0.00
 "Genesis Hydra","Iconic Masters",0.74,0.08
 "Genesis Wave","Iconic Masters",4.22,1.69
-"Glimpse the Unthinkable","Iconic Masters",5.55,2.22
+"Glimpse the Unthinkable","Iconic Masters",5.65,2.26
 "Golgari Rot Farm","Iconic Masters",0.26,0.01
 "Graven Cairns","Iconic Masters",4.03,1.61
 "Great Teacher's Decree","Iconic Masters",0.21,0.01
@@ -133,17 +133,17 @@ Hammerhand,"Iconic Masters",0.17,0.00
 "Jin-Gitaxias, Core Augur","Iconic Masters",9.16,3.66
 "Jugan, the Rising Star","Iconic Masters",0.66,0.08
 "Jungle Barrier","Iconic Masters",0.21,0.01
-"Keiga, the Tide Star","Iconic Masters",1.35,0.08
+"Keiga, the Tide Star","Iconic Masters",1.38,0.08
 "Keldon Halberdier","Iconic Masters",0.15,0.00
 "Kiki-Jiki, Mirror Breaker","Iconic Masters",11.53,5.19
 "Kiln Fiend","Iconic Masters",0.20,0.00
 "Knight of the Reliquary","Iconic Masters",2.85,0.25
-"Kokusho, the Evening Star","Iconic Masters",8.10,3.24
+"Kokusho, the Evening Star","Iconic Masters",8.03,3.21
 "Kolaghan Monument","Iconic Masters",0.21,0.01
 "Lead the Stampede","Iconic Masters",0.24,0.00
-"Lightning Helix","Iconic Masters",1.58,0.01
+"Lightning Helix","Iconic Masters",1.53,0.01
 "Lord of the Pit","Iconic Masters",0.37,0.08
-"Lotus Cobra","Iconic Masters",8.95,3.58
+"Lotus Cobra","Iconic Masters",8.65,3.46
 Lure,"Iconic Masters",0.21,0.01
 "Magus of the Moon","Iconic Masters",5.03,2.01
 "Mahamoti Djinn","Iconic Masters",0.19,0.01
@@ -166,7 +166,7 @@ Necropotence,"Iconic Masters",9.17,3.67
 "Night of Souls' Betrayal","Iconic Masters",0.47,0.08
 "Nimbus Maze","Iconic Masters",1.59,0.08
 "Noxious Dragon","Iconic Masters",0.21,0.01
-"Ob Nixilis, the Fallen","Iconic Masters",10.71,4.82
+"Ob Nixilis, the Fallen","Iconic Masters",10.74,4.83
 "Oblivion Stone","Iconic Masters",7.47,2.99
 "Obstinate Baloth","Iconic Masters",1.19,0.08
 "Ojutai's Breath","Iconic Masters",0.15,0.00
@@ -180,7 +180,7 @@ Necropotence,"Iconic Masters",9.17,3.67
 "Phyrexian Rager","Iconic Masters",0.17,0.00
 "Pillar of Flame","Iconic Masters",0.17,0.00
 "Prey's Vengeance","Iconic Masters",0.15,0.00
-"Primeval Titan","Iconic Masters",10.00,4.00
+"Primeval Titan","Iconic Masters",9.82,3.93
 "Pristine Talisman","Iconic Masters",0.24,0.01
 "Prodigal Pyromancer","Iconic Masters",0.21,0.01
 "Radiant Fountain","Iconic Masters",0.24,0.00
@@ -197,9 +197,9 @@ Repeal,"Iconic Masters",0.18,0.00
 "Rotfeaster Maggot","Iconic Masters",0.14,0.00
 "Runed Servitor","Iconic Masters",0.14,0.00
 "Rune-Scarred Demon","Iconic Masters",4.74,1.90
-"Ryusei, the Falling Star","Iconic Masters",0.60,0.08
+"Ryusei, the Falling Star","Iconic Masters",0.59,0.08
 "Sandstone Oracle","Iconic Masters",0.24,0.01
-"Sanguine Bond","Iconic Masters",1.05,0.01
+"Sanguine Bond","Iconic Masters",1.13,0.01
 "Savageborn Hydra","Iconic Masters",0.59,0.08
 "Scion of Ugin","Iconic Masters",0.16,0.00
 "Scourge of Valkas","Iconic Masters",0.69,0.08
@@ -230,9 +230,9 @@ Staggershock,"Iconic Masters",0.23,0.01
 "Sustainer of the Realm","Iconic Masters",0.16,0.00
 "Swords to Plowshares","Iconic Masters",1.43,0.01
 "Tavern Swindler","Iconic Masters",0.19,0.01
-"Teferi, Mage of Zhalfir","Iconic Masters",3.03,1.21
+"Teferi, Mage of Zhalfir","Iconic Masters",2.94,0.25
 "Thought Scour","Iconic Masters",0.43,0.00
-Thoughtseize,"Iconic Masters",16.62,7.48
+Thoughtseize,"Iconic Masters",15.56,7.00
 "Thran Dynamo","Iconic Masters",5.57,2.23
 "Thrill-Kill Assassin","Iconic Masters",0.15,0.00
 "Thundermaw Hellkite","Iconic Masters",3.16,1.26
@@ -255,36 +255,36 @@ Windfall,"Iconic Masters",2.91,0.25
 "Wing Shards","Iconic Masters",0.24,0.01
 "Wrench Mind","Iconic Masters",0.24,0.00
 "Yosei, the Morning Star","Iconic Masters",1.22,0.08
-"Hunting Pack - Foil","Iconic Masters",0.05,0.01
-"Orzhov Basilica - Foil","Iconic Masters",0.55,0.01
-"Archangel of Thune - Foil","Iconic Masters",22.35,10.06
-"Mind Stone - Foil","Iconic Masters",1.00,0.00
-"Mishra's Bauble - Foil","Iconic Masters",9.48,3.79
-"Thought Scour - Foil","Iconic Masters",1.00,0.00
-"Virulent Swipe - Foil","Iconic Masters",0.04,0.00
-"Flusterstorm - Foil","Iconic Masters",37.99,19.00
-"Eternal Thirst - Foil","Iconic Masters",0.11,0.00
-"Abzan Falconer - Foil","Iconic Masters",0.10,0.01
-"Trepanation Blade - Foil","Iconic Masters",0.20,0.01
-"Sanguine Bond - Foil","Iconic Masters",1.16,0.01
-"Ulcerate - Foil","Iconic Masters",0.07,0.01
-"Aetherize - Foil","Iconic Masters",0.28,0.01
-"Butcher's Glee - Foil","Iconic Masters",0.05,0.00
-"Guard Duty - Foil","Iconic Masters",0.05,0.00
-"Prodigal Pyromancer - Foil","Iconic Masters",0.07,0.01
-"Evolving Wilds - Foil","Iconic Masters",0.20,0.00
-"Savageborn Hydra - Foil","Iconic Masters",0.56,0.08
-"Jhessian Thief - Foil","Iconic Masters",0.05,0.00
-"Sustainer of the Realm - Foil","Iconic Masters",0.07,0.00
-"Bladewing's Thrall - Foil","Iconic Masters",0.14,0.01
-"Great Teacher's Decree - Foil","Iconic Masters",0.08,0.01
-"Ojutai's Breath - Foil","Iconic Masters",0.01,0.00
-"Phyrexian Rager - Foil","Iconic Masters",0.08,0.00
-"Teferi, Mage of Zhalfir - Foil","Iconic Masters",3.85,1.54
-"Urabrask the Hidden - Foil","Iconic Masters",7.50,3.00
-"Azorius Chancery - Foil","Iconic Masters",0.47,0.01
-"Serra Angel - Foil","Iconic Masters",0.10,0.01
-"Durkwood Baloth - Foil","Iconic Masters",0.02,0.00
+"Borderland Marauder - Foil","Iconic Masters",0.05,0.00
+"Phantom Tiger - Foil","Iconic Masters",0.05,0.00
+"Battle-Rattle Shaman - Foil","Iconic Masters",0.05,0.00
+"Simic Sky Swallower - Foil","Iconic Masters",0.25,0.08
+"Boros Garrison - Foil","Iconic Masters",0.28,0.01
+"Rakdos Carnarium - Foil","Iconic Masters",0.57,0.01
+"Balustrade Spy - Foil","Iconic Masters",0.08,0.00
+"Tormenting Voice - Foil","Iconic Masters",0.10,0.00
+"Moonglove Extract - Foil","Iconic Masters",0.05,0.00
+"Timberland Guide - Foil","Iconic Masters",0.05,0.00
+"Timberland Guide - Foil","Iconic Masters",0.05,0.00
+"Rift Bolt - Foil","Iconic Masters",0.95,0.01
+"Wrench Mind - Foil","Iconic Masters",0.20,0.00
+"Night of Souls' Betrayal - Foil","Iconic Masters",0.38,0.08
+"Dragon Bell Monk - Foil","Iconic Masters",0.04,0.00
+"Palladium Myr - Foil","Iconic Masters",0.55,0.01
+"Sphinx of Uthuun - Foil","Iconic Masters",0.20,0.08
+"Abzan Battle Priest - Foil","Iconic Masters",0.10,0.01
+"Mana Leak - Foil","Iconic Masters",0.20,0.00
+"Coordinated Assault - Foil","Iconic Masters",0.05,0.01
+"Coordinated Assault - Foil","Iconic Masters",0.05,0.01
+"Horizon Canopy - Foil","Iconic Masters",67.09,36.90
+"Thundermaw Hellkite - Foil","Iconic Masters",7.32,2.93
+"Radiant Fountain - Foil","Iconic Masters",0.14,0.00
+"Avacyn, Angel of Hope - Foil","Iconic Masters",32.97,16.49
+"Genesis Wave - Foil","Iconic Masters",6.00,2.40
+"Condescend - Foil","Iconic Masters",0.28,0.01
+"Illusory Ambusher - Foil","Iconic Masters",0.14,0.01
+"Bogbrew Witch - Foil","Iconic Masters",0.10,0.01
+"Distortion Strike - Foil","Iconic Masters",0.46,0.01
 "Lead the Stampede - Foil","Iconic Masters",0.39,0.00
 "Ajani's Pridemate - Foil","Iconic Masters",0.25,0.01
 "Runed Servitor - Foil","Iconic Masters",0.05,0.00
@@ -315,36 +315,6 @@ Windfall,"Iconic Masters",2.91,0.25
 "Phantom Monster - Foil","Iconic Masters",0.05,0.00
 "Skywise Teachings - Foil","Iconic Masters",0.04,0.01
 "Carven Caryatid - Foil","Iconic Masters",0.19,0.01
-"Borderland Marauder - Foil","Iconic Masters",0.05,0.00
-"Phantom Tiger - Foil","Iconic Masters",0.05,0.00
-"Battle-Rattle Shaman - Foil","Iconic Masters",0.05,0.00
-"Simic Sky Swallower - Foil","Iconic Masters",0.25,0.08
-"Rakdos Carnarium - Foil","Iconic Masters",0.57,0.01
-"Balustrade Spy - Foil","Iconic Masters",0.08,0.00
-"Boros Garrison - Foil","Iconic Masters",0.28,0.01
-"Tormenting Voice - Foil","Iconic Masters",0.10,0.00
-"Moonglove Extract - Foil","Iconic Masters",0.05,0.00
-"Timberland Guide - Foil","Iconic Masters",0.05,0.00
-"Timberland Guide - Foil","Iconic Masters",0.05,0.00
-"Rift Bolt - Foil","Iconic Masters",0.95,0.01
-"Wrench Mind - Foil","Iconic Masters",0.20,0.00
-"Night of Souls' Betrayal - Foil","Iconic Masters",0.38,0.08
-"Dragon Bell Monk - Foil","Iconic Masters",0.04,0.00
-"Palladium Myr - Foil","Iconic Masters",0.55,0.01
-"Sphinx of Uthuun - Foil","Iconic Masters",0.20,0.08
-"Mana Leak - Foil","Iconic Masters",0.20,0.00
-"Abzan Battle Priest - Foil","Iconic Masters",0.10,0.01
-"Coordinated Assault - Foil","Iconic Masters",0.05,0.01
-"Coordinated Assault - Foil","Iconic Masters",0.05,0.01
-"Thundermaw Hellkite - Foil","Iconic Masters",7.32,2.93
-"Horizon Canopy - Foil","Iconic Masters",67.09,36.90
-"Radiant Fountain - Foil","Iconic Masters",0.14,0.00
-"Avacyn, Angel of Hope - Foil","Iconic Masters",32.97,16.49
-"Condescend - Foil","Iconic Masters",0.28,0.01
-"Illusory Ambusher - Foil","Iconic Masters",0.14,0.01
-"Genesis Wave - Foil","Iconic Masters",6.00,2.40
-"Bogbrew Witch - Foil","Iconic Masters",0.10,0.01
-"Distortion Strike - Foil","Iconic Masters",0.46,0.01
 "Grisly Spectacle - Foil","Iconic Masters",0.05,0.00
 "Channel - Foil","Iconic Masters",2.00,0.25
 "Necropotence - Foil","Iconic Masters",12.66,5.70
@@ -375,6 +345,66 @@ Windfall,"Iconic Masters",2.91,0.25
 "Azorius Charm - Foil","Iconic Masters",0.19,0.01
 "Staggershock - Foil","Iconic Masters",0.10,0.01
 "Pentarch Ward - Foil","Iconic Masters",0.08,0.00
+"Hunting Pack - Foil","Iconic Masters",0.05,0.01
+"Orzhov Basilica - Foil","Iconic Masters",0.55,0.01
+"Archangel of Thune - Foil","Iconic Masters",22.35,10.06
+"Mind Stone - Foil","Iconic Masters",1.00,0.00
+"Mishra's Bauble - Foil","Iconic Masters",9.48,3.79
+"Thought Scour - Foil","Iconic Masters",1.00,0.00
+"Virulent Swipe - Foil","Iconic Masters",0.04,0.00
+"Flusterstorm - Foil","Iconic Masters",37.99,19.00
+"Eternal Thirst - Foil","Iconic Masters",0.11,0.00
+"Abzan Falconer - Foil","Iconic Masters",0.10,0.01
+"Trepanation Blade - Foil","Iconic Masters",0.20,0.01
+"Sanguine Bond - Foil","Iconic Masters",1.16,0.01
+"Ulcerate - Foil","Iconic Masters",0.07,0.01
+"Aetherize - Foil","Iconic Masters",0.28,0.01
+"Butcher's Glee - Foil","Iconic Masters",0.05,0.00
+"Guard Duty - Foil","Iconic Masters",0.05,0.00
+"Prodigal Pyromancer - Foil","Iconic Masters",0.07,0.01
+"Evolving Wilds - Foil","Iconic Masters",0.20,0.00
+"Savageborn Hydra - Foil","Iconic Masters",0.56,0.08
+"Jhessian Thief - Foil","Iconic Masters",0.05,0.00
+"Sustainer of the Realm - Foil","Iconic Masters",0.07,0.00
+"Bladewing's Thrall - Foil","Iconic Masters",0.14,0.01
+"Great Teacher's Decree - Foil","Iconic Masters",0.08,0.01
+"Ojutai's Breath - Foil","Iconic Masters",0.01,0.00
+"Phyrexian Rager - Foil","Iconic Masters",0.08,0.00
+"Teferi, Mage of Zhalfir - Foil","Iconic Masters",3.85,1.54
+"Urabrask the Hidden - Foil","Iconic Masters",7.50,3.00
+"Azorius Chancery - Foil","Iconic Masters",0.47,0.01
+"Serra Angel - Foil","Iconic Masters",0.10,0.01
+"Durkwood Baloth - Foil","Iconic Masters",0.02,0.00
+"Duress - Foil","Iconic Masters",0.10,0.00
+"Hammerhand - Foil","Iconic Masters",0.05,0.00
+"Survival Cache - Foil","Iconic Masters",0.07,0.00
+"Pristine Talisman - Foil","Iconic Masters",0.25,0.01
+"River of Tears - Foil","Iconic Masters",1.60,0.08
+"Consecrated Sphinx - Foil","Iconic Masters",23.00,10.35
+"Auriok Champion - Foil","Iconic Masters",15.52,6.98
+"Yosei, the Morning Star - Foil","Iconic Masters",2.72,0.25
+"Oblivion Stone - Foil","Iconic Masters",8.53,3.41
+"Search for Tomorrow - Foil","Iconic Masters",0.29,0.00
+"Indulgent Tormentor - Foil","Iconic Masters",0.25,0.01
+"Gruul Turf - Foil","Iconic Masters",0.73,0.01
+"Thoughtseize - Foil","Iconic Masters",50.36,27.70
+"Darksteel Axe - Foil","Iconic Masters",0.10,0.00
+"Inspiring Call - Foil","Iconic Masters",0.14,0.01
+"Corpsejack Menace - Foil","Iconic Masters",0.25,0.01
+"Jugan, the Rising Star - Foil","Iconic Masters",0.99,0.08
+"Vizkopa Guildmage - Foil","Iconic Masters",0.20,0.01
+"Supreme Verdict - Foil","Iconic Masters",6.00,2.40
+"Lord of the Pit - Foil","Iconic Masters",0.29,0.08
+"Bubbling Cauldron - Foil","Iconic Masters",0.10,0.01
+"Dead Reveler - Foil","Iconic Masters",0.05,0.00
+"Dead Reveler - Foil","Iconic Masters",0.05,0.00
+"Bogardan Hellkite - Foil","Iconic Masters",0.40,0.08
+"Ryusei, the Falling Star - Foil","Iconic Masters",0.97,0.08
+"Windfall - Foil","Iconic Masters",4.78,1.91
+"Dragon Egg - Foil","Iconic Masters",0.10,0.00
+"Bladewing the Risen - Foil","Iconic Masters",1.00,0.01
+"Guided Strike - Foil","Iconic Masters",0.05,0.00
+"Infantry Veteran - Foil","Iconic Masters",0.05,0.00
 "Cephalid Broker - Foil","Iconic Masters",0.08,0.01
 "Diminish - Foil","Iconic Masters",0.05,0.00
 "Kiki-Jiki, Mirror Breaker - Foil","Iconic Masters",13.63,6.13
@@ -455,36 +485,22 @@ Windfall,"Iconic Masters",2.91,0.25
 "Hunt the Weak - Foil","Iconic Masters",0.08,0.00
 "Burrenton Forge-Tender - Foil","Iconic Masters",0.17,0.01
 "Benevolent Ancestor - Foil","Iconic Masters",0.08,0.00
-"Duress - Foil","Iconic Masters",0.10,0.00
-"Hammerhand - Foil","Iconic Masters",0.05,0.00
-"Survival Cache - Foil","Iconic Masters",0.07,0.00
-"Pristine Talisman - Foil","Iconic Masters",0.25,0.01
-"River of Tears - Foil","Iconic Masters",1.60,0.08
-"Consecrated Sphinx - Foil","Iconic Masters",23.00,10.35
-"Auriok Champion - Foil","Iconic Masters",15.52,6.98
-"Yosei, the Morning Star - Foil","Iconic Masters",2.72,0.25
-"Oblivion Stone - Foil","Iconic Masters",8.53,3.41
-"Search for Tomorrow - Foil","Iconic Masters",0.29,0.00
-"Indulgent Tormentor - Foil","Iconic Masters",0.25,0.01
-"Gruul Turf - Foil","Iconic Masters",0.73,0.01
-"Thoughtseize - Foil","Iconic Masters",50.36,27.70
-"Darksteel Axe - Foil","Iconic Masters",0.10,0.00
-"Inspiring Call - Foil","Iconic Masters",0.14,0.01
-"Corpsejack Menace - Foil","Iconic Masters",0.25,0.01
-"Jugan, the Rising Star - Foil","Iconic Masters",0.99,0.08
-"Vizkopa Guildmage - Foil","Iconic Masters",0.20,0.01
-"Supreme Verdict - Foil","Iconic Masters",6.00,2.40
-"Lord of the Pit - Foil","Iconic Masters",0.29,0.08
-"Bubbling Cauldron - Foil","Iconic Masters",0.10,0.01
-"Dead Reveler - Foil","Iconic Masters",0.05,0.00
-"Dead Reveler - Foil","Iconic Masters",0.05,0.00
-"Bogardan Hellkite - Foil","Iconic Masters",0.40,0.08
-"Ryusei, the Falling Star - Foil","Iconic Masters",0.97,0.08
-"Windfall - Foil","Iconic Masters",4.78,1.91
-"Dragon Egg - Foil","Iconic Masters",0.10,0.00
-"Bladewing the Risen - Foil","Iconic Masters",1.00,0.01
-"Guided Strike - Foil","Iconic Masters",0.05,0.00
 "Infantry Veteran - Foil","Iconic Masters",0.05,0.00
+"Topan Freeblade - Foil","Iconic Masters",0.07,0.01
+"Austere Command - Foil","Iconic Masters",7.30,2.92
+"Swords to Plowshares - Foil","Iconic Masters",1.60,0.01
+"Tavern Swindler - Foil","Iconic Masters",0.05,0.01
+"Manakin - Foil","Iconic Masters",0.14,0.00
+"Kokusho, the Evening Star - Foil","Iconic Masters",13.69,6.16
+"Jaddi Offshoot - Foil","Iconic Masters",0.10,0.00
+"Dragon Tempest - Foil","Iconic Masters",1.00,0.01
+"Fireball - Foil","Iconic Masters",0.11,0.01
+"Amass the Components - Foil","Iconic Masters",0.04,0.00
+"Vent Sentinel - Foil","Iconic Masters",0.05,0.00
+"Day of the Dragons - Foil","Iconic Masters",0.19,0.08
+"Mindcrank - Foil","Iconic Masters",0.98,0.01
+"Primeval Titan - Foil","Iconic Masters",11.84,5.33
+"Wall of Roots - Foil","Iconic Masters",0.22,0.00
 "Benevolent Ancestor - Foil","Iconic Masters",0.08,0.00
 "Jin-Gitaxias, Core Augur - Foil","Iconic Masters",13.15,5.92
 "Lotus Cobra - Foil","Iconic Masters",9.72,3.89
@@ -497,19 +513,3 @@ Windfall,"Iconic Masters",2.91,0.25
 "Genesis Hydra - Foil","Iconic Masters",0.58,0.08
 "Restoration Angel - Foil","Iconic Masters",2.81,0.25
 "Stalwart Aven - Foil","Iconic Masters",0.04,0.00
-"Infantry Veteran - Foil","Iconic Masters",0.05,0.00
-"Topan Freeblade - Foil","Iconic Masters",0.07,0.01
-"Austere Command - Foil","Iconic Masters",7.30,2.92
-"Swords to Plowshares - Foil","Iconic Masters",1.60,0.01
-"Tavern Swindler - Foil","Iconic Masters",0.05,0.01
-"Manakin - Foil","Iconic Masters",0.14,0.00
-"Kokusho, the Evening Star - Foil","Iconic Masters",13.69,6.16
-"Dragon Tempest - Foil","Iconic Masters",1.00,0.01
-"Jaddi Offshoot - Foil","Iconic Masters",0.10,0.00
-"Fireball - Foil","Iconic Masters",0.11,0.01
-"Amass the Components - Foil","Iconic Masters",0.04,0.00
-"Vent Sentinel - Foil","Iconic Masters",0.05,0.00
-"Day of the Dragons - Foil","Iconic Masters",0.19,0.08
-"Primeval Titan - Foil","Iconic Masters",11.84,5.33
-"Mindcrank - Foil","Iconic Masters",0.98,0.01
-"Wall of Roots - Foil","Iconic Masters",0.22,0.00
