@@ -22,9 +22,10 @@
           array_push($cardNames, $tcgPlayerCardDataArray[0][$a]);
           array_push($medianPrices, $tcgPlayerCardDataArray[1][$a]);
           $theSellPrice = findSellPrice($tcgPlayerCardDataArray[1][$a]);
-          $theBuyPrice = findBuyPrice($theSellPrice);
+          $theBuyPrice = findBuyPrice($theSellPrice, $tcgPlayerCardDataArray[2][$a]);
           array_push($sellPrice, $theSellPrice);
           array_push($buyPrice, $theBuyPrice);
+          array_push($rarityArray, $tcgPlayerCardDataArray[2][$a]);
       }
       
       $foilCardDataArray = scrapeFoils($quietSpeculationURL);
@@ -32,10 +33,11 @@
         array_push($cardNames, $foilCardDataArray[0][$i]);
         array_push($medianPrices, $foilCardDataArray[1][$i]);
         array_push($sellPrice, $foilCardDataArray[1][$i]);
-        array_push($buyPrice, findBuyPrice($foilCardDataArray[1][$i]));
+        array_push($buyPrice, findBuyPrice($foilCardDataArray[1][$i], $foilCardDataArray[2][$i]));
+        array_push($rarityArray, $foilCardDataArray[2][$i]);
     }
 
-      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
+      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
       generateStandardCSV($setName,$cardNames,$sellPrice,$buyPrice);

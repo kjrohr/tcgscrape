@@ -2,6 +2,10 @@
 include_once 'simplehtmldom_1_9/simple_html_dom.php';
 
 function findSellPrice($inputPrice) {
+    $floorHigh = 0.20;
+    $floorLow = 0.01;
+    $floorPrice = "0.20";
+
     if ($inputPrice == "-"){
         $sellPrice = "-";
     } else {
@@ -10,17 +14,22 @@ function findSellPrice($inputPrice) {
         $sellPrice = number_format($medianPrice * 0.95,2);
     }
 
-    if ($sellPrice < 0.20 && $sellPrice > 0.01){
-        $sellPrice == "0.20";
+    if ($sellPrice < $floorHigh && $sellPrice >= $floorLow){
+        $sellPrice == $floorPrice;
     }
 
     return $sellPrice;
     
 }
 
-function findBuyPrice($inputPrice) {
-    //=if(isblank(D3),,if(or(D3="—",D3="Market Price"),"—",if(or(B3="C",B3="U",B3="T",B3="L",B3="P"),if(D3>0.99,mround(D3*0.35,0.1),if(D3>0.49,mround(D3*0.1,0.05),if(D3="U",0.01,0)))
-    // ,if(and(or(B3="R",B3="M"),D3<2),if(B3="R",0.08,0.25),if(D3<3,mround(0.2*D3,0.05),if(D3<10,mround(0.4*D3,0.1),if(D3<25,mround(0.45*D3,0.25),if(D3<50,mround(0.5*D3,0.25),if(D3<100,mround(0.55*D3,0.5),mround(0.6*D3,0.5))))))))))
+function findBuyPrice($inputPrice, $rarity) {
+    $floorCommon = "0.00";
+    $floorUncommon = "0.01";
+    $floorRare = "0.08";
+    $floorMythic = "0.25";
+    $floorToken = "0.00";
+    $floorLand = "0.00";
+    
     $sellPrice = $inputPrice;
     if ($sellPrice == "-"){
         $buyPrice = "-";
@@ -37,28 +46,53 @@ function findBuyPrice($inputPrice) {
                 $buyPrice=number_format((0.4*$sellPrice),2);
             }elseif($sellPrice > 2){
                 $buyPrice=number_format((0.25),2);
-            }elseif($sellPrice > 1){
-                $buyPrice=number_format((0.08),2);
             }
             else{
-                $buyPrice=number_format((0.00),2);
+                // Common
+                if ($rarity == "C")
+                {
+                    $buyPrice = $floorCommon;
+                }
+                
+                // Uncommon
+                if($rarity == "U")
+                {
+                    $buyPrice = $floorUncommon;
+                }
+                // Rare
+                if($rarity == "R")
+                {
+                    $buyPrice = $floorRare;
+                }
+                
+                // Mythic
+                if ($rarity == "M")
+                {
+                    $buyPrice = $floorMythic;
+                }
+                
+                // Land
+                if ($rarity == "L")
+                {
+                    $buyPrice = $floorLand;
+                }
+                
+                // Token
+                if ($rarity == "T")
+                {
+                    $buyPrice = $floorToken;
+                }
             }
+
+
+
     }
-    
     return $buyPrice;
-
-
-    // Common
-
-    // Uncommon
-
-    // Rare
-
-    // Mythic
 
 }
 
-function findFoilBuyPrice(){
+function findFoilBuyPrice($inputPrice, $rarity){
+
     
 }
 
@@ -68,13 +102,24 @@ function scrapeFoils($url){
     $data = $html->find('tbody tr');
     $cardNamesArray = array();
     $foilPriceArray = array();
+    $rarityArray = array();
     $medianPrice = 0;
     
     foreach ($data as $card){
         array_push($cardNamesArray, str_replace("&#39;", "'", $card->first_child()->plaintext . " - Foil"));
         $medianPrice = $card->last_child()->prev_sibling()->plaintext;
+        $rarity = strtoupper($card->first_child()->next_sibling()->next_sibling()->plaintext);
+
+
+        // NOT GREAT
+        if ($rarity == "" || $rarity == null){
+            $rarity = "R";
+        }
+
+        array_push($rarityArray, $rarity);
+        
         if ($medianPrice == ""){
-            $medianPrice = "0.00";
+            $medianPrice = "-";
         }
         array_push($foilPriceArray, str_replace("$", "",  $medianPrice));
 
@@ -87,10 +132,17 @@ function scrapeFoils($url){
     {
         array_pop($cardNamesArray);
         array_pop($foilPriceArray);
+        array_pop($rarityArray);
     }
+
+    // For debugging
+    // for ($x = 0; $x < count($cardNamesArray); $x++){
+    //     echo $cardNamesArray[$x] . " - " . $rarityArray[$x] . " - " . $foilPriceArray[$x] . "<br />";
+    // }
 
     array_push($returnArray, $cardNamesArray);
     array_push($returnArray, $foilPriceArray);
+    array_push($returnArray, $rarityArray);
     
     return $returnArray;
 }
@@ -98,10 +150,12 @@ function scrapeFoils($url){
 function scrapeTCG($url){
     $returnArray = array();
     $cardNamesArray = array();
+    $rarityArray = array();
     $cardMedianPriceArray = array();
     $html = file_get_html($url);
     $data = $html->find('.productDetail a');
     $price = $html->find('.medianPrice .cellWrapper');
+    $rarity = $html->find('.rarity .cellWrapper');
 
     foreach ($data as $card){
         array_push($cardNamesArray, str_replace("&#39;", "'", $card->plaintext));
@@ -111,15 +165,20 @@ function scrapeTCG($url){
       array_push($cardMedianPriceArray, str_replace(" ", "", str_replace("$", "", str_replace('&mdash;', '-', $median->plaintext))));
     }
 
-    // TODO
-    // Scrape rarity
+    foreach ($rarity as $oddity){
+        array_push($rarityArray, str_replace(" " , "", $oddity->plaintext));
+        //echo $oddity->plaintext;
+    }
+
+
 
     array_push($returnArray, $cardNamesArray);
     array_push($returnArray, $cardMedianPriceArray);
+    array_push($returnArray, $rarityArray);
 
     // For debugging
     // for($i=0;$i<count($returnArray[0]);$i++){
-    //     echo $returnArray[0][$i] . " price: " . $returnArray[1][$i] . "<br />";
+    //     echo $returnArray[0][$i] . " price: " . $returnArray[1][$i] . " | Rarity: " . $returnArray[2][$i] . "<br />";
     // }
 
     return $returnArray;
@@ -175,6 +234,7 @@ function createTable($tableName){
         $sql = "create table $tableName(
           cardId int(11) AUTO_INCREMENT not null,
           cardName varchar(70) not null,
+          rarity varchar(10) not null,
           medianPrice varchar(70) not null,
           sellPrice varchar(70),
           buyPrice varchar(70),
@@ -193,7 +253,7 @@ function createTable($tableName){
       unset($pdo);
 }
 
-function insertIntoTable($tableName, $cardNames, $medianPrices, $sellPrice, $buyPrice) {
+function insertIntoTable($tableName, $cardNames, $medianPrices, $sellPrice, $buyPrice, $rarity) {
     $host = 'localhost';
     $db   = 'mtg';
     $user = 'root';
@@ -203,6 +263,7 @@ function insertIntoTable($tableName, $cardNames, $medianPrices, $sellPrice, $buy
 
     for($x = 0; $x < count($cardNames); $x++)
     {
+        //echo "Card Name: " . $cardNames[$x] . " - Median Price: " . $medianPrices[$x] . " - Sell Price: " . $sellPrice[$x] . " - Buy Price: " . $buyPrice[$x] . " - Rarity: " . $rarity[$x] . "<br />";
         /* Attempt MySQL server connection. Assuming you are running MySQL
         server with default setting (user 'root' with no password) */
         try {
@@ -214,14 +275,16 @@ function insertIntoTable($tableName, $cardNames, $medianPrices, $sellPrice, $buy
         // Attempt insert query execution
         try{
             // Create prepared statement
-            $sql = "INSERT INTO $tableName (cardName, medianPrice, sellPrice, buyPrice) VALUES (:cardName, :medianPrice, :sellPrice, :buyPrice)";
+            $sql = "INSERT INTO $tableName (cardName, rarity, medianPrice,  sellPrice, buyPrice) VALUES (:cardName, :rarity, :medianPrice, :sellPrice, :buyPrice)";
             $stmt = $pdo->prepare($sql);
             
             // Bind parameters to statement
             $stmt->bindParam(':cardName', $cardNames[$x]);
+            $stmt->bindParam(':rarity', $rarity[$x]);
             $stmt->bindParam(':medianPrice', $medianPrices[$x]);
             $stmt->bindParam(':sellPrice', $sellPrice[$x]);
             $stmt->bindParam(':buyPrice', $buyPrice[$x]);
+            
             // Execute the prepared statement
             $stmt->execute();
             

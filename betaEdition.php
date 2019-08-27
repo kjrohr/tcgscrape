@@ -21,13 +21,13 @@
           array_push($cardNames, $tcgPlayerCardDataArray[0][$a]);
           array_push($medianPrices, $tcgPlayerCardDataArray[1][$a]);
           $theSellPrice = findSellPrice($tcgPlayerCardDataArray[1][$a]);
-          $theBuyPrice = findBuyPrice($theSellPrice);
+          $theBuyPrice = findBuyPrice($theSellPrice, $tcgPlayerCardDataArray[2][$a]);
           array_push($sellPrice, $theSellPrice);
           array_push($buyPrice, $theBuyPrice);
+          array_push($rarityArray, $tcgPlayerCardDataArray[2][$a]);
       }
 
-
-      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice);
+      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
