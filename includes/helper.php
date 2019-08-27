@@ -4,18 +4,20 @@ include_once 'simplehtmldom_1_9/simple_html_dom.php';
 function findSellPrice($inputPrice) {
     $floorHigh = 0.20;
     $floorLow = 0.01;
-    $floorPrice = "0.20";
+    $floorPrice = 0.24;
+    $sellPercent = 0.95;
+    $sellPrice = 0;
 
     if ($inputPrice == "-"){
         $sellPrice = "-";
     } else {
         $medianPrice = $inputPrice;
         $medianPrice = str_replace(",","", $medianPrice);
-        $sellPrice = number_format($medianPrice * 0.95,2);
+        $sellPrice = number_format($medianPrice * $sellPercent,2);
     }
 
-    if ($sellPrice < $floorHigh && $sellPrice >= $floorLow){
-        $sellPrice == $floorPrice;
+    if ($sellPrice <= $floorHigh && $sellPrice >= $floorLow){
+        $sellPrice = $floorPrice;
     }
 
     return $sellPrice;

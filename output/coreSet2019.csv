@@ -1,10 +1,10 @@
 "Product Name",Category,"Sell Price","Buy Price"
-"Abnormal Endurance","Core Set 2019",0.14,0.00
-"Act of Treason","Core Set 2019",0.14,0.00
+"Abnormal Endurance","Core Set 2019",0.24,0.00
+"Act of Treason","Core Set 2019",0.24,0.00
 "Aegis of the Heavens","Core Set 2019",0.24,0.01
 "Aerial Engineer","Core Set 2019",0.23,0.01
 "Aether Tunnel","Core Set 2019",0.24,0.01
-"Aethershield Artificer","Core Set 2019",0.23,0.01
+"Aethershield Artificer","Core Set 2019",0.22,0.01
 "Aggressive Mammoth","Core Set 2019",0.80,0.08
 "Air Elemental","Core Set 2019",0.48,0.01
 "Ajani, Adversary of Tyrants","Core Set 2019",5.46,2.18
@@ -15,47 +15,47 @@
 "Ajani's Welcome","Core Set 2019",1.01,0.01
 "Alpine Moon","Core Set 2019",0.95,0.08
 "Amulet of Safekeeping","Core Set 2019",0.40,0.08
-"Angel of the Dawn","Core Set 2019",0.15,0.00
+"Angel of the Dawn","Core Set 2019",0.24,0.00
 "Angel Token","Core Set 2019",0.42,0.00
-Anticipate,"Core Set 2019",0.14,0.00
+Anticipate,"Core Set 2019",0.24,0.00
 "Apex of Power","Core Set 2019",0.73,0.25
-"Arcades, the Strategist","Core Set 2019",4.76,1.90
+"Arcades, the Strategist","Core Set 2019",4.75,1.90
 "Arcane Encyclopedia","Core Set 2019",0.24,0.01
 "Arisen Gorgon","Core Set 2019",0.28,0.01
 "Avatar Token","Core Set 2019",0.24,0.00
-"Aven Wind Mage","Core Set 2019",0.14,0.00
-"Aviation Pioneer","Core Set 2019",0.14,0.00
+"Aven Wind Mage","Core Set 2019",0.24,0.00
+"Aviation Pioneer","Core Set 2019",0.24,0.00
 Banefire,"Core Set 2019",0.90,0.08
-"Bat Token","Core Set 2019",0.20,0.00
+"Bat Token","Core Set 2019",0.24,0.00
 "Beast Token","Core Set 2019",0.21,0.00
 Befuddle,"Core Set 2019",0.30,0.00
 "Blanchwood Armor","Core Set 2019",0.24,0.01
 "Blood Divination","Core Set 2019",0.24,0.01
-"Boggart Brute","Core Set 2019",0.14,0.00
-Bogstomper,"Core Set 2019",0.14,0.00
+"Boggart Brute","Core Set 2019",0.24,0.00
+Bogstomper,"Core Set 2019",0.24,0.00
 "Bone Dragon","Core Set 2019",0.81,0.25
 "Bone to Ash","Core Set 2019",0.21,0.01
 "Brawl-Bash Ogre","Core Set 2019",0.22,0.01
-"Bristling Boar","Core Set 2019",0.14,0.00
-Cancel,"Core Set 2019",0.14,0.00
+"Bristling Boar","Core Set 2019",0.24,0.00
+Cancel,"Core Set 2019",0.24,0.00
 "Cat Token","Core Set 2019",0.33,0.00
-"Catalyst Elemental","Core Set 2019",0.14,0.00
-"Cavalry Drillmaster","Core Set 2019",0.14,0.00
-"Centaur Courser","Core Set 2019",0.14,0.00
+"Catalyst Elemental","Core Set 2019",0.24,0.00
+"Cavalry Drillmaster","Core Set 2019",0.24,0.00
+"Centaur Courser","Core Set 2019",0.24,0.00
 "Chaos Wand","Core Set 2019",0.48,0.08
 "Checklist Card - Core Set 2019 (Nicol Bolas, the Ravager)","Core Set 2019",0.21,0.00
-"Child of Night","Core Set 2019",0.14,0.00
+"Child of Night","Core Set 2019",0.24,0.00
 "Chromium, the Mutable","Core Set 2019",1.43,0.25
-"Cinder Barrens","Core Set 2019",0.19,0.00
-"Cleansing Nova","Core Set 2019",1.89,0.08
-"Colossal Dreadmaw","Core Set 2019",0.14,0.00
+"Cinder Barrens","Core Set 2019",0.24,0.00
+"Cleansing Nova","Core Set 2019",1.90,0.08
+"Colossal Dreadmaw","Core Set 2019",0.24,0.00
 "Colossal Majesty","Core Set 2019",0.29,0.01
 "Court Cleric","Core Set 2019",0.23,0.01
-"Crash Through","Core Set 2019",0.14,0.00
+"Crash Through","Core Set 2019",0.24,0.00
 "Crucible of Worlds","Core Set 2019",23.74,10.68
-"Daggerback Basilisk","Core Set 2019",0.14,0.00
+"Daggerback Basilisk","Core Set 2019",0.24,0.00
 "Dark-Dweller Oracle","Core Set 2019",0.47,0.08
-"Daybreak Chaplain","Core Set 2019",0.14,0.00
+"Daybreak Chaplain","Core Set 2019",0.24,0.00
 "Death Baron","Core Set 2019",2.63,0.25
 "Declare Dominance","Core Set 2019",0.23,0.01
 "Demanding Dragon","Core Set 2019",0.58,0.08
@@ -66,165 +66,165 @@ Cancel,"Core Set 2019",0.14,0.00
 "Diamond Mare","Core Set 2019",0.24,0.01
 "Diregraf Ghoul","Core Set 2019",0.24,0.01
 "Dismissive Pyromancer","Core Set 2019",0.38,0.08
-Disperse,"Core Set 2019",0.14,0.00
-Divination,"Core Set 2019",0.14,0.00
+Disperse,"Core Set 2019",0.24,0.00
+Divination,"Core Set 2019",0.24,0.00
 "Djinn of Wishes","Core Set 2019",0.27,0.08
-"Doomed Dissenter","Core Set 2019",0.14,0.00
+"Doomed Dissenter","Core Set 2019",0.24,0.00
 Doublecast,"Core Set 2019",0.32,0.01
 "Draconic Disciple","Core Set 2019",0.24,0.01
 "Dragon Egg","Core Set 2019",0.24,0.01
-"Dragon Token (009)","Core Set 2019",0.20,0.00
+"Dragon Token (009)","Core Set 2019",0.24,0.00
 "Dragon Token (010)","Core Set 2019",0.26,0.00
 "Dragon's Hoard","Core Set 2019",0.96,0.08
 "Druid of Horns","Core Set 2019",0.23,0.01
-"Druid of the Cowl","Core Set 2019",0.15,0.00
+"Druid of the Cowl","Core Set 2019",0.24,0.00
 "Dryad Greenseeker","Core Set 2019",0.24,0.01
-Duress,"Core Set 2019",0.14,0.00
-"Dwarven Priest","Core Set 2019",0.14,0.00
-Dwindle,"Core Set 2019",0.14,0.00
-Electrify,"Core Set 2019",0.14,0.00
+Duress,"Core Set 2019",0.24,0.00
+"Dwarven Priest","Core Set 2019",0.24,0.00
+Dwindle,"Core Set 2019",0.24,0.00
+Electrify,"Core Set 2019",0.24,0.00
 "Elf Warrior Token","Core Set 2019",0.24,0.00
-"Elvish Clancaller","Core Set 2019",1.71,0.08
+"Elvish Clancaller","Core Set 2019",1.70,0.08
 "Elvish Rejuvenator","Core Set 2019",0.24,0.00
 "Emblem - Ajani, Adversary of Tyrants","Core Set 2019",0.28,0.00
 "Emblem - Tezzeret, Artifice Master","Core Set 2019",0.32,0.00
 "Emblem - Vivien Reid","Core Set 2019",0.29,0.00
 "Enigma Drake","Core Set 2019",0.42,0.01
-"Epicure of Blood","Core Set 2019",0.16,0.00
-"Essence Scatter","Core Set 2019",0.18,0.00
-"Exclusion Mage","Core Set 2019",0.32,0.01
-"Explosive Apparatus","Core Set 2019",0.14,0.00
+"Epicure of Blood","Core Set 2019",0.24,0.00
+"Essence Scatter","Core Set 2019",0.24,0.00
+"Exclusion Mage","Core Set 2019",0.33,0.01
+"Explosive Apparatus","Core Set 2019",0.24,0.00
 "Fell Specter","Core Set 2019",0.27,0.01
-"Field Creeper","Core Set 2019",0.14,0.00
+"Field Creeper","Core Set 2019",0.24,0.00
 "Fiery Finish","Core Set 2019",0.21,0.01
-"Fire Elemental","Core Set 2019",0.14,0.00
-"Forest (277)","Core Set 2019",0.18,0.00
-"Forest (278)","Core Set 2019",0.14,0.00
-"Forest (279)","Core Set 2019",0.13,0.00
-"Forest (280)","Core Set 2019",0.15,0.00
-"Forsaken Sanctuary","Core Set 2019",0.18,0.00
-"Foul Orchard","Core Set 2019",0.18,0.00
+"Fire Elemental","Core Set 2019",0.24,0.00
+"Forest (277)","Core Set 2019",0.24,0.00
+"Forest (278)","Core Set 2019",0.24,0.00
+"Forest (279)","Core Set 2019",0.24,0.00
+"Forest (280)","Core Set 2019",0.24,0.00
+"Forsaken Sanctuary","Core Set 2019",0.24,0.00
+"Foul Orchard","Core Set 2019",0.24,0.00
 "Fountain of Renewal","Core Set 2019",0.71,0.01
 "Fraying Omnipotence","Core Set 2019",0.31,0.08
-"Frilled Sea Serpent","Core Set 2019",0.14,0.00
-"Gallant Cavalry","Core Set 2019",0.14,0.00
-"Gargoyle Sentinel","Core Set 2019",0.20,0.01
-"Gearsmith Guardian","Core Set 2019",0.14,0.00
-"Gearsmith Prodigy","Core Set 2019",0.14,0.00
+"Frilled Sea Serpent","Core Set 2019",0.24,0.00
+"Gallant Cavalry","Core Set 2019",0.24,0.00
+"Gargoyle Sentinel","Core Set 2019",0.24,0.01
+"Gearsmith Guardian","Core Set 2019",0.24,0.00
+"Gearsmith Prodigy","Core Set 2019",0.24,0.00
 "Ghastbark Twins","Core Set 2019",0.23,0.01
 "Ghirapur Guide","Core Set 2019",0.22,0.01
-Ghostform,"Core Set 2019",0.14,0.00
-"Giant Spider","Core Set 2019",0.14,0.00
+Ghostform,"Core Set 2019",0.24,0.00
+"Giant Spider","Core Set 2019",0.24,0.00
 "Gift of Paradise","Core Set 2019",0.24,0.01
 Gigantosaurus,"Core Set 2019",1.05,0.08
 "Goblin // Thopter Double-sided Token (Game Night)","Core Set 2019",-,-
 "Goblin Instigator","Core Set 2019",0.27,0.00
-"Goblin Motivator","Core Set 2019",0.14,0.00
-"Goblin Token","Core Set 2019",0.19,0.00
+"Goblin Motivator","Core Set 2019",0.24,0.00
+"Goblin Token","Core Set 2019",0.24,0.00
 "Goblin Trashmaster","Core Set 2019",0.90,0.08
-"Goreclaw, Terror of Qal Sisma","Core Set 2019",1.76,0.08
+"Goreclaw, Terror of Qal Sisma","Core Set 2019",1.77,0.08
 "Grasping Scoundrel","Core Set 2019",0.59,0.00
 Gravedigger,"Core Set 2019",0.22,0.01
 Gravewaker,"Core Set 2019",0.29,0.08
-"Graveyard Marshal","Core Set 2019",0.56,0.08
-"Greenwood Sentinel","Core Set 2019",0.14,0.00
+"Graveyard Marshal","Core Set 2019",0.57,0.08
+"Greenwood Sentinel","Core Set 2019",0.24,0.00
 Guttersnipe,"Core Set 2019",0.24,0.01
-"Havoc Devils","Core Set 2019",0.14,0.00
+"Havoc Devils","Core Set 2019",0.24,0.00
 "Herald of Faith","Core Set 2019",0.23,0.01
 "Heroic Reinforcements","Core Set 2019",0.25,0.01
 "Hieromancer's Cage","Core Set 2019",0.24,0.01
-"Highland Game","Core Set 2019",0.14,0.00
-"Highland Lake","Core Set 2019",0.18,0.00
-"Hired Blade","Core Set 2019",0.14,0.00
-"Horizon Scholar","Core Set 2019",0.20,0.01
-"Hostile Minotaur","Core Set 2019",0.14,0.00
+"Highland Game","Core Set 2019",0.24,0.00
+"Highland Lake","Core Set 2019",0.24,0.00
+"Hired Blade","Core Set 2019",0.24,0.00
+"Horizon Scholar","Core Set 2019",0.24,0.01
+"Hostile Minotaur","Core Set 2019",0.24,0.00
 "Hungering Hydra","Core Set 2019",1.04,0.08
-"Infectious Horror","Core Set 2019",0.14,0.00
+"Infectious Horror","Core Set 2019",0.24,0.00
 "Infernal Reckoning","Core Set 2019",0.48,0.08
-"Infernal Scarring","Core Set 2019",0.14,0.00
-"Inferno Hellion","Core Set 2019",0.22,0.01
-"Inspired Charge","Core Set 2019",0.14,0.00
-"Invoke the Divine","Core Set 2019",0.14,0.00
-"Isareth the Awakener","Core Set 2019",0.48,0.08
-"Island (265)","Core Set 2019",0.19,0.00
-"Island (266)","Core Set 2019",0.18,0.00
-"Island (267)","Core Set 2019",0.14,0.00
-"Island (268)","Core Set 2019",0.14,0.00
+"Infernal Scarring","Core Set 2019",0.24,0.00
+"Inferno Hellion","Core Set 2019",0.21,0.01
+"Inspired Charge","Core Set 2019",0.24,0.00
+"Invoke the Divine","Core Set 2019",0.24,0.00
+"Isareth the Awakener","Core Set 2019",0.49,0.08
+"Island (265)","Core Set 2019",0.24,0.00
+"Island (266)","Core Set 2019",0.24,0.00
+"Island (267)","Core Set 2019",0.24,0.00
+"Island (268)","Core Set 2019",0.24,0.00
 Isolate,"Core Set 2019",0.42,0.08
-"Kargan Dragonrider","Core Set 2019",0.20,0.00
-"Knight // Goblin Double-sided Token (Game Night)","Core Set 2019",0.10,0.00
-"Knight // Thopter Double-sided Token (Game Night)","Core Set 2019",0.10,0.00
-"Knight // Zombie Double-sided Token (Game Night)","Core Set 2019",0.11,0.00
-"Knight of the Tusk","Core Set 2019",0.14,0.00
-"Knight Token","Core Set 2019",0.19,0.00
-"Knightly Valor","Core Set 2019",0.20,0.01
-"Knight's Pledge","Core Set 2019",0.14,0.00
+"Kargan Dragonrider","Core Set 2019",0.24,0.00
+"Knight // Goblin Double-sided Token (Game Night)","Core Set 2019",0.24,0.00
+"Knight // Thopter Double-sided Token (Game Night)","Core Set 2019",0.24,0.00
+"Knight // Zombie Double-sided Token (Game Night)","Core Set 2019",0.24,0.00
+"Knight of the Tusk","Core Set 2019",0.24,0.00
+"Knight Token","Core Set 2019",0.24,0.00
+"Knightly Valor","Core Set 2019",0.21,0.01
+"Knight's Pledge","Core Set 2019",0.24,0.00
 "Lathliss, Dragon Queen","Core Set 2019",1.43,0.08
-"Lava Axe","Core Set 2019",0.14,0.00
+"Lava Axe","Core Set 2019",0.24,0.00
 "Lena, Selfless Champion","Core Set 2019",0.36,0.08
-"Leonin Vanguard","Core Set 2019",0.23,0.01
+"Leonin Vanguard","Core Set 2019",0.24,0.01
 "Leonin Warleader","Core Set 2019",1.19,0.08
-"Lich's Caress","Core Set 2019",0.14,0.00
+"Lich's Caress","Core Set 2019",0.24,0.00
 "Lightning Mare","Core Set 2019",0.24,0.01
 "Lightning Strike","Core Set 2019",0.24,0.01
 "Liliana, the Necromancer","Core Set 2019",-,-
 "Liliana, Untouched by Death","Core Set 2019",4.17,1.67
 "Liliana's Contract","Core Set 2019",0.47,0.08
 "Liliana's Spoils","Core Set 2019",0.48,0.08
-"Llanowar Elves","Core Set 2019",1.09,0.00
-"Loxodon Line Breaker","Core Set 2019",0.14,0.00
-"Luminous Bonds","Core Set 2019",0.14,0.00
-"Macabre Waltz","Core Set 2019",0.14,0.00
+"Llanowar Elves","Core Set 2019",1.10,0.00
+"Loxodon Line Breaker","Core Set 2019",0.24,0.00
+"Luminous Bonds","Core Set 2019",0.24,0.00
+"Macabre Waltz","Core Set 2019",0.24,0.00
 "Magistrate's Scepter","Core Set 2019",0.39,0.08
 "Make a Stand","Core Set 2019",0.24,0.01
-Manalith,"Core Set 2019",0.14,0.00
-"Marauder's Axe","Core Set 2019",0.14,0.00
-"Meandering River","Core Set 2019",0.17,0.00
+Manalith,"Core Set 2019",0.24,0.00
+"Marauder's Axe","Core Set 2019",0.24,0.00
+"Meandering River","Core Set 2019",0.24,0.00
 "Mentor of the Meek","Core Set 2019",0.48,0.08
 "Metamorphic Alteration","Core Set 2019",0.45,0.08
 "Meteor Golem","Core Set 2019",0.28,0.01
-"Mighty Leap","Core Set 2019",0.14,0.00
+"Mighty Leap","Core Set 2019",0.24,0.00
 "Militia Bugler","Core Set 2019",0.32,0.01
 Millstone,"Core Set 2019",0.23,0.01
-"Mind Rot","Core Set 2019",0.14,0.00
+"Mind Rot","Core Set 2019",0.24,0.00
 "Mirror Image","Core Set 2019",0.33,0.01
 Mistcaller,"Core Set 2019",0.47,0.08
-"Mist-Cloaked Herald","Core Set 2019",1.91,0.00
-"Mountain (273)","Core Set 2019",0.14,0.00
-"Mountain (274)","Core Set 2019",0.13,0.00
-"Mountain (275)","Core Set 2019",0.14,0.00
-"Mountain (276)","Core Set 2019",0.14,0.00
+"Mist-Cloaked Herald","Core Set 2019",1.92,0.00
+"Mountain (273)","Core Set 2019",0.24,0.00
+"Mountain (274)","Core Set 2019",0.24,0.00
+"Mountain (275)","Core Set 2019",0.24,0.00
+"Mountain (276)","Core Set 2019",0.24,0.00
 Murder,"Core Set 2019",0.22,0.01
 "Mystic Archaeologist","Core Set 2019",0.33,0.08
-Naturalize,"Core Set 2019",0.14,0.00
+Naturalize,"Core Set 2019",0.24,0.00
 "Nicol Bolas, the Ravager // Nicol Bolas, the Arisen","Core Set 2019",13.29,5.98
 "Nightmare's Thirst","Core Set 2019",0.24,0.01
 "Novice Knight","Core Set 2019",0.24,0.01
-Oakenform,"Core Set 2019",0.14,0.00
-Omenspeaker,"Core Set 2019",0.14,0.00
+Oakenform,"Core Set 2019",0.24,0.00
+Omenspeaker,"Core Set 2019",0.24,0.00
 Omniscience,"Core Set 2019",7.59,3.04
-"Onakke Ogre","Core Set 2019",0.14,0.00
+"Onakke Ogre","Core Set 2019",0.24,0.00
 "One with the Machine","Core Set 2019",0.33,0.08
 "Open the Graves","Core Set 2019",0.91,0.08
-"Oreskos Swiftclaw","Core Set 2019",0.14,0.00
+"Oreskos Swiftclaw","Core Set 2019",0.24,0.00
 "Ox Token","Core Set 2019",0.24,0.00
 "Palladia-Mors, the Ruiner","Core Set 2019",0.95,0.25
 "Patient Rebuilding","Core Set 2019",0.47,0.08
-"Pegasus Courser","Core Set 2019",0.14,0.00
-"Pelakka Wurm","Core Set 2019",0.29,0.08
-"Pendulum of Patterns","Core Set 2019",0.18,0.00
+"Pegasus Courser","Core Set 2019",0.24,0.00
+"Pelakka Wurm","Core Set 2019",0.26,0.08
+"Pendulum of Patterns","Core Set 2019",0.24,0.00
 "Phylactery Lich","Core Set 2019",0.33,0.08
 "Plague Mare","Core Set 2019",0.24,0.01
-"Plains (261)","Core Set 2019",0.18,0.00
-"Plains (262)","Core Set 2019",0.15,0.00
-"Plains (263)","Core Set 2019",0.16,0.00
-"Plains (264)","Core Set 2019",0.14,0.00
-Plummet,"Core Set 2019",0.14,0.00
+"Plains (261)","Core Set 2019",0.24,0.00
+"Plains (262)","Core Set 2019",0.24,0.00
+"Plains (263)","Core Set 2019",0.24,0.00
+"Plains (264)","Core Set 2019",0.24,0.00
+Plummet,"Core Set 2019",0.24,0.00
 "Poison-Tip Archer","Core Set 2019",0.31,0.01
 "Prodigious Growth","Core Set 2019",0.33,0.08
-"Psychic Corrosion","Core Set 2019",1.12,0.01
-"Psychic Symbiont","Core Set 2019",0.22,0.01
-"Rabid Bite","Core Set 2019",0.14,0.00
+"Psychic Corrosion","Core Set 2019",1.13,0.01
+"Psychic Symbiont","Core Set 2019",0.21,0.01
+"Rabid Bite","Core Set 2019",0.24,0.00
 "Radiating Lightning","Core Set 2019",0.94,0.00
 "Ravenous Harpy","Core Set 2019",0.23,0.01
 "Reassembling Skeleton","Core Set 2019",0.24,0.01
@@ -233,131 +233,131 @@ Recollect,"Core Set 2019",0.24,0.01
 "Regal Bloodlord","Core Set 2019",0.24,0.01
 "Reliquary Tower","Core Set 2019",2.38,0.25
 "Remorseful Cleric","Core Set 2019",0.71,0.08
-"Resplendent Angel","Core Set 2019",8.26,3.30
-Revitalize,"Core Set 2019",0.20,0.00
-"Rhox Oracle","Core Set 2019",0.14,0.00
+"Resplendent Angel","Core Set 2019",8.31,3.32
+Revitalize,"Core Set 2019",0.24,0.00
+"Rhox Oracle","Core Set 2019",0.24,0.00
 "Riddlemaster Sphinx","Core Set 2019",0.29,0.08
 "Rise from the Grave","Core Set 2019",0.23,0.01
 "Rogue's Gloves","Core Set 2019",0.24,0.01
-"Root Snare","Core Set 2019",0.14,0.00
+"Root Snare","Core Set 2019",0.24,0.00
 "Runic Armasaur","Core Set 2019",0.95,0.08
 "Rupture Spire","Core Set 2019",0.24,0.01
-"Rustwing Falcon","Core Set 2019",0.14,0.00
+"Rustwing Falcon","Core Set 2019",0.24,0.00
 "Sai, Master Thopterist","Core Set 2019",2.84,0.25
-"Salvager of Secrets","Core Set 2019",0.14,0.00
+"Salvager of Secrets","Core Set 2019",0.24,0.00
 "Sarkhan, Dragonsoul","Core Set 2019",-,-
-"Sarkhan, Fireblood","Core Set 2019",5.31,2.12
+"Sarkhan, Fireblood","Core Set 2019",5.30,2.12
 "Sarkhan's Dragonfire","Core Set 2019",0.47,0.08
 "Sarkhan's Unsealing","Core Set 2019",0.67,0.08
 "Sarkhan's Whelp","Core Set 2019",2.44,0.25
 "Satyr Enchanter","Core Set 2019",0.29,0.01
-Scapeshift,"Core Set 2019",17.37,7.82
-"Scholar of Stars","Core Set 2019",0.14,0.00
+Scapeshift,"Core Set 2019",17.20,7.74
+"Scholar of Stars","Core Set 2019",0.24,0.00
 "Serra's Guardian","Core Set 2019",0.48,0.08
 "Shield Mare","Core Set 2019",0.24,0.01
 "Shivan Dragon","Core Set 2019",0.24,0.08
-Shock,"Core Set 2019",0.15,0.00
+Shock,"Core Set 2019",0.24,0.00
 "Siegebreaker Giant","Core Set 2019",0.21,0.01
 Sift,"Core Set 2019",0.22,0.01
 "Sigiled Sword of Valeron","Core Set 2019",0.41,0.08
 "Silverbeak Griffin","Core Set 2019",0.46,0.00
 "Skalla Wolf","Core Set 2019",1.88,0.08
-"Skeleton Archer","Core Set 2019",0.14,0.00
+"Skeleton Archer","Core Set 2019",0.24,0.00
 "Skilled Animator","Core Set 2019",0.24,0.01
-"Skymarch Bloodletter","Core Set 2019",0.14,0.00
+"Skymarch Bloodletter","Core Set 2019",0.24,0.00
 "Skyrider Patrol","Core Set 2019",0.24,0.01
-Skyscanner,"Core Set 2019",0.14,0.00
+Skyscanner,"Core Set 2019",0.24,0.00
 Sleep,"Core Set 2019",0.24,0.01
-Smelt,"Core Set 2019",0.14,0.00
-"Snapping Drake","Core Set 2019",0.14,0.00
+Smelt,"Core Set 2019",0.24,0.00
+"Snapping Drake","Core Set 2019",0.24,0.00
 "Soldier Token","Core Set 2019",0.23,0.00
-"Sovereign's Bite","Core Set 2019",0.20,0.00
-"Sparktongue Dragon","Core Set 2019",0.14,0.00
+"Sovereign's Bite","Core Set 2019",0.24,0.00
+"Sparktongue Dragon","Core Set 2019",0.24,0.00
 "Spit Flame","Core Set 2019",0.47,0.08
-"Star-Crowned Stag","Core Set 2019",0.14,0.00
+"Star-Crowned Stag","Core Set 2019",0.24,0.00
 "Stitcher's Supplier","Core Set 2019",2.13,0.25
-"Stone Quarry","Core Set 2019",0.14,0.00
-"Strangling Spores","Core Set 2019",0.14,0.00
-"Submerged Boneyard","Core Set 2019",0.18,0.00
+"Stone Quarry","Core Set 2019",0.24,0.00
+"Strangling Spores","Core Set 2019",0.24,0.00
+"Submerged Boneyard","Core Set 2019",0.24,0.00
 "Sun Sentinel","Core Set 2019",0.79,0.00
-Suncleanser,"Core Set 2019",0.42,0.08
+Suncleanser,"Core Set 2019",0.44,0.08
 "Supreme Phantom","Core Set 2019",1.42,0.08
-"Sure Strike","Core Set 2019",0.14,0.00
+"Sure Strike","Core Set 2019",0.24,0.00
 "Surge Mare","Core Set 2019",0.28,0.01
 "Suspicious Bookcase","Core Set 2019",0.24,0.01
-"Swamp (269)","Core Set 2019",0.19,0.00
-"Swamp (270)","Core Set 2019",0.14,0.00
-"Swamp (271)","Core Set 2019",0.14,0.00
-"Swamp (272)","Core Set 2019",0.14,0.00
+"Swamp (269)","Core Set 2019",0.24,0.00
+"Swamp (270)","Core Set 2019",0.24,0.00
+"Swamp (271)","Core Set 2019",0.24,0.00
+"Swamp (272)","Core Set 2019",0.24,0.00
 Switcheroo,"Core Set 2019",0.21,0.01
-"Take Vengeance","Core Set 2019",0.14,0.00
-"Talons of Wildwood","Core Set 2019",0.14,0.00
+"Take Vengeance","Core Set 2019",0.24,0.00
+"Talons of Wildwood","Core Set 2019",0.24,0.00
 "Tattered Mummy","Core Set 2019",0.32,0.00
 "Tectonic Rift","Core Set 2019",0.21,0.01
 "Tezzeret, Artifice Master","Core Set 2019",5.69,2.28
 "Tezzeret, Cruel Machinist","Core Set 2019",-,-
 "Tezzeret's Gatebreaker","Core Set 2019",0.67,0.08
 "Tezzeret's Strider","Core Set 2019",0.28,0.01
-"Thopter Token","Core Set 2019",0.15,0.00
+"Thopter Token","Core Set 2019",0.24,0.00
 "Thorn Lieutenant","Core Set 2019",0.89,0.08
-"Thornhide Wolves","Core Set 2019",0.14,0.00
+"Thornhide Wolves","Core Set 2019",0.24,0.00
 Thud,"Core Set 2019",0.33,0.01
-"Timber Gorge","Core Set 2019",0.14,0.00
-"Titanic Growth","Core Set 2019",0.14,0.00
-"Tolarian Scholar","Core Set 2019",0.14,0.00
-"Tormenting Voice","Core Set 2019",0.14,0.00
-"Totally Lost","Core Set 2019",0.14,0.00
-"Tranquil Expanse","Core Set 2019",0.17,0.00
+"Timber Gorge","Core Set 2019",0.24,0.00
+"Titanic Growth","Core Set 2019",0.24,0.00
+"Tolarian Scholar","Core Set 2019",0.24,0.00
+"Tormenting Voice","Core Set 2019",0.24,0.00
+"Totally Lost","Core Set 2019",0.24,0.00
+"Tranquil Expanse","Core Set 2019",0.24,0.00
 "Transmogrifying Wand","Core Set 2019",0.41,0.08
-"Trumpet Blast","Core Set 2019",0.14,0.00
-"Trusty Packbeast","Core Set 2019",0.14,0.00
-"Two-Headed Zombie","Core Set 2019",0.14,0.00
-"Uncomfortable Chill","Core Set 2019",0.14,0.00
+"Trumpet Blast","Core Set 2019",0.24,0.00
+"Trusty Packbeast","Core Set 2019",0.24,0.00
+"Two-Headed Zombie","Core Set 2019",0.24,0.00
+"Uncomfortable Chill","Core Set 2019",0.24,0.00
 "Ursine Champion","Core Set 2019",0.22,0.00
 "Vaevictis Asmadi, the Dire","Core Set 2019",0.96,0.25
 "Valiant Knight","Core Set 2019",0.41,0.08
-"Vampire Neonate","Core Set 2019",0.16,0.00
+"Vampire Neonate","Core Set 2019",0.24,0.00
 "Vampire Sovereign","Core Set 2019",0.24,0.01
 "Viashino Pyromancer","Core Set 2019",0.23,0.00
 "Vigilant Baloth","Core Set 2019",0.23,0.01
 "Vine Mare","Core Set 2019",0.44,0.01
 "Vivien of the Arkbow","Core Set 2019",-,-
 "Vivien Reid","Core Set 2019",5.67,2.27
-"Vivien's Invocation","Core Set 2019",0.31,0.08
+"Vivien's Invocation","Core Set 2019",0.33,0.08
 "Vivien's Jaguar","Core Set 2019",0.24,0.01
 "Volcanic Dragon","Core Set 2019",0.23,0.01
 "Volley Veteran","Core Set 2019",0.24,0.01
-"Walking Corpse","Core Set 2019",0.14,0.00
-"Wall of Mist","Core Set 2019",0.14,0.00
-"Wall of Vines","Core Set 2019",0.14,0.00
+"Walking Corpse","Core Set 2019",0.24,0.00
+"Wall of Mist","Core Set 2019",0.24,0.00
+"Wall of Vines","Core Set 2019",0.24,0.00
 Waterknot,"Core Set 2019",0.27,0.00
 "Windreader Sphinx","Core Set 2019",0.32,0.08
-"Woodland Stream","Core Set 2019",0.17,0.00
-"Zombie // Goblin Double-sided Token (Game Night)","Core Set 2019",0.19,0.00
-"Zombie // Thopter Double-sided Token (Game Night)","Core Set 2019",0.14,0.00
-"Zombie Token","Core Set 2019",0.18,0.00
+"Woodland Stream","Core Set 2019",0.24,0.00
+"Zombie // Goblin Double-sided Token (Game Night)","Core Set 2019",0.24,0.00
+"Zombie // Thopter Double-sided Token (Game Night)","Core Set 2019",0.24,0.00
+"Zombie Token","Core Set 2019",0.24,0.00
+"Colossal Dreadmaw - Foil","Core Set 2019",0.08,0.00
+"Open the Graves - Foil","Core Set 2019",1.13,0.08
+"Djinn of Wishes - Foil","Core Set 2019",0.14,0.08
 "Vivien's Invocation - Foil","Core Set 2019",0.25,0.08
 "Poison-Tip Archer - Foil","Core Set 2019",1.88,0.01
 "Gearsmith Guardian - Foil","Core Set 2019",0.05,0.00
 "Cinder Barrens - Foil","Core Set 2019",0.23,0.00
-"Colossal Dreadmaw - Foil","Core Set 2019",0.08,0.00
-"Open the Graves - Foil","Core Set 2019",1.13,0.08
-"Djinn of Wishes - Foil","Core Set 2019",0.14,0.08
 "Rabid Bite - Foil","Core Set 2019",0.05,0.00
-"Viashino Pyromancer - Foil","Core Set 2019",1.49,0.00
 "Novice Knight - Foil","Core Set 2019",0.32,0.01
+"Viashino Pyromancer - Foil","Core Set 2019",1.49,0.00
 "Gargoyle Sentinel - Foil","Core Set 2019",0.08,0.01
 "Gargoyle Sentinel - Foil","Core Set 2019",0.08,0.01
 "Greenwood Sentinel - Foil","Core Set 2019",0.08,0.00
 "Ghostform - Foil","Core Set 2019",0.02,0.00
 "Vivien of the Arkbow - Foil","Core Set 2019",4.05,1.62
-"Take Vengeance - Foil","Core Set 2019",0.05,0.00
-"Druid of the Cowl - Foil","Core Set 2019",0.14,0.00
 "Lich's Caress - Foil","Core Set 2019",0.10,0.00
 "Loxodon Line Breaker - Foil","Core Set 2019",0.08,0.00
-"Mentor of the Meek - Foil","Core Set 2019",0.88,0.08
+"Take Vengeance - Foil","Core Set 2019",0.05,0.00
+"Druid of the Cowl - Foil","Core Set 2019",0.14,0.00
 "Death Baron - Foil","Core Set 2019",2.22,0.25
 "Plague Mare - Foil","Core Set 2019",0.28,0.01
+"Mentor of the Meek - Foil","Core Set 2019",0.88,0.08
 "Heroic Reinforcements - Foil","Core Set 2019",0.39,0.01
 "Gift of Paradise - Foil","Core Set 2019",0.28,0.01
 "Inferno Hellion - Foil","Core Set 2019",0.16,0.01
@@ -367,9 +367,9 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Plains - Foil","Core Set 2019",0.20,
 "Chromium, the Mutable - Foil","Core Set 2019",5.00,2.00
 "Demon of Catastrophes - Foil","Core Set 2019",0.49,0.08
-"Essence Scatter - Foil","Core Set 2019",0.56,0.00
 "Leonin Vanguard - Foil","Core Set 2019",0.27,0.01
 "Aviation Pioneer - Foil","Core Set 2019",0.08,0.00
+"Essence Scatter - Foil","Core Set 2019",0.56,0.00
 "Sparktongue Dragon - Foil","Core Set 2019",0.05,0.00
 "Island - Foil","Core Set 2019",0.38,
 "Rustwing Falcon - Foil","Core Set 2019",0.08,0.00
@@ -381,8 +381,8 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Colossal Majesty - Foil","Core Set 2019",0.98,0.01
 "Volcanic Dragon - Foil","Core Set 2019",0.19,0.01
 "Crucible of Worlds - Foil","Core Set 2019",34.95,17.48
-"Goblin Trashmaster - Foil","Core Set 2019",1.68,0.08
 "Blood Divination - Foil","Core Set 2019",0.13,0.01
+"Goblin Trashmaster - Foil","Core Set 2019",1.68,0.08
 "One with the Machine - Foil","Core Set 2019",0.29,0.08
 "Onakke Ogre - Foil","Core Set 2019",0.04,0.00
 "Volley Veteran - Foil","Core Set 2019",0.17,0.01
@@ -390,20 +390,20 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Naturalize - Foil","Core Set 2019",0.05,0.00
 "Switcheroo - Foil","Core Set 2019",0.08,0.01
 "Arcane Encyclopedia - Foil","Core Set 2019",0.25,0.01
-"Forest - Foil","Core Set 2019",0.14,
 "Omenspeaker - Foil","Core Set 2019",0.08,0.00
+"Forest - Foil","Core Set 2019",0.14,
 "Goreclaw, Terror of Qal Sisma - Foil","Core Set 2019",3.00,0.25
 "Fiery Finish - Foil","Core Set 2019",0.02,0.01
 "Macabre Waltz - Foil","Core Set 2019",0.08,0.00
-"Uncomfortable Chill - Foil","Core Set 2019",0.10,0.00
+"Hostile Minotaur - Foil","Core Set 2019",0.08,0.00
 "Doomed Dissenter - Foil","Core Set 2019",0.05,0.00
 "Regal Bloodlord - Foil","Core Set 2019",0.34,0.01
 "Detection Tower - Foil","Core Set 2019",1.49,0.08
 "Stone Quarry - Foil","Core Set 2019",0.07,0.00
-"Skyscanner - Foil","Core Set 2019",0.10,0.00
-"Suspicious Bookcase - Foil","Core Set 2019",0.34,0.01
 "Enigma Drake - Foil","Core Set 2019",0.44,0.01
 "Lava Axe - Foil","Core Set 2019",0.02,0.00
+"Skyscanner - Foil","Core Set 2019",0.10,0.00
+"Suspicious Bookcase - Foil","Core Set 2019",0.34,0.01
 "Rhox Oracle - Foil","Core Set 2019",0.05,0.00
 "Sarkhan, Fireblood - Foil","Core Set 2019",9.46,3.78
 "Vampire Sovereign - Foil","Core Set 2019",0.14,0.01
@@ -411,8 +411,8 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Goblin Motivator - Foil","Core Set 2019",0.05,0.00
 "Manalith - Foil","Core Set 2019",0.07,0.00
 "Hired Blade - Foil","Core Set 2019",0.04,0.00
-"Skilled Animator - Foil","Core Set 2019",0.14,0.01
 "Havoc Devils - Foil","Core Set 2019",0.08,0.00
+"Skilled Animator - Foil","Core Set 2019",0.14,0.01
 "Aethershield Artificer - Foil","Core Set 2019",0.10,0.01
 "Thorn Lieutenant - Foil","Core Set 2019",0.58,0.08
 "Nexus of Fate - Foil","Core Set 2019",7.99,3.20
@@ -421,16 +421,16 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Lightning Mare - Foil","Core Set 2019",0.13,0.01
 "Aven Wind Mage - Foil","Core Set 2019",0.07,0.00
 "Plummet - Foil","Core Set 2019",0.05,0.00
+"Isolate - Foil","Core Set 2019",0.20,0.08
 "Infernal Reckoning - Foil","Core Set 2019",0.49,0.08
 "Stitcher's Supplier - Foil","Core Set 2019",5.34,2.14
 "Suncleanser - Foil","Core Set 2019",0.39,0.08
-"Isolate - Foil","Core Set 2019",0.20,0.08
 "Mistcaller - Foil","Core Set 2019",0.79,0.08
-"Recollect - Foil","Core Set 2019",0.12,0.01
 "Rupture Spire - Foil","Core Set 2019",0.16,0.01
 "Walking Corpse - Foil","Core Set 2019",0.08,0.00
 "Vigilant Baloth - Foil","Core Set 2019",0.07,0.01
 "Goblin Instigator - Foil","Core Set 2019",0.94,0.00
+"Recollect - Foil","Core Set 2019",0.12,0.01
 "Desecrated Tomb - Foil","Core Set 2019",0.69,0.08
 "Wall of Mist - Foil","Core Set 2019",0.08,0.00
 "Psychic Corrosion - Foil","Core Set 2019",2.33,0.25
@@ -440,22 +440,22 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Leonin Warleader - Foil","Core Set 2019",1.09,0.08
 "Reclamation Sage - Foil","Core Set 2019",1.35,0.01
 "Militia Bugler - Foil","Core Set 2019",0.35,0.01
-"Scholar of Stars - Foil","Core Set 2019",0.05,0.00
 "Foul Orchard - Foil","Core Set 2019",0.07,0.00
 "Knightly Valor - Foil","Core Set 2019",0.08,0.01
 "Mighty Leap - Foil","Core Set 2019",0.07,0.00
 "Siegebreaker Giant - Foil","Core Set 2019",0.04,0.01
+"Scholar of Stars - Foil","Core Set 2019",0.05,0.00
 "Elvish Clancaller - Foil","Core Set 2019",1.81,0.08
 "Dark-Dweller Oracle - Foil","Core Set 2019",0.45,0.08
 "Psychic Symbiont - Foil","Core Set 2019",0.10,0.01
 "Graveyard Marshal - Foil","Core Set 2019",0.37,0.08
-"Ajani, Wise Counselor - Foil","Core Set 2019",4.74,1.90
 "Electrify - Foil","Core Set 2019",0.10,0.00
 "Totally Lost - Foil","Core Set 2019",0.04,0.00
 "Anticipate - Foil","Core Set 2019",0.10,0.00
 "Metamorphic Alteration - Foil","Core Set 2019",0.34,0.08
 "Meandering River - Foil","Core Set 2019",0.23,0.00
 "Vampire Neonate - Foil","Core Set 2019",0.14,0.00
+"Ajani, Wise Counselor - Foil","Core Set 2019",4.74,1.90
 "Banefire - Foil","Core Set 2019",1.30,0.08
 "Gallant Cavalry - Foil","Core Set 2019",0.13,0.00
 "Ajani, Adversary of Tyrants - Foil","Core Set 2019",9.65,3.86
@@ -467,45 +467,35 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Spit Flame - Foil","Core Set 2019",0.44,0.08
 "Surge Mare - Foil","Core Set 2019",0.33,0.01
 "Daggerback Basilisk - Foil","Core Set 2019",0.02,0.00
-"Trumpet Blast - Foil","Core Set 2019",0.07,0.00
 "Angel of the Dawn - Foil","Core Set 2019",0.25,0.00
 "Sai, Master Thopterist - Foil","Core Set 2019",5.00,2.00
 "Submerged Boneyard - Foil","Core Set 2019",0.10,0.00
+"Trumpet Blast - Foil","Core Set 2019",0.07,0.00
 "Draconic Disciple - Foil","Core Set 2019",0.20,0.01
 "Ajani's Pridemate - Foil","Core Set 2019",0.42,0.01
 "Gigantosaurus - Foil","Core Set 2019",1.43,0.08
 "Rogue's Gloves - Foil","Core Set 2019",0.12,0.01
-"Prodigious Growth - Foil","Core Set 2019",0.20,0.08
-"Reliquary Tower - Foil","Core Set 2019",1.74,0.01
 "Dwindle - Foil","Core Set 2019",0.08,0.00
 "Amulet of Safekeeping - Foil","Core Set 2019",0.40,0.08
 "Hungering Hydra - Foil","Core Set 2019",1.34,0.08
+"Prodigious Growth - Foil","Core Set 2019",0.20,0.08
+"Reliquary Tower - Foil","Core Set 2019",1.74,0.01
 "Vine Mare - Foil","Core Set 2019",0.46,0.01
 "Dismissive Pyromancer - Foil","Core Set 2019",0.17,0.08
 "Divination - Foil","Core Set 2019",0.07,0.00
 "Fell Specter - Foil","Core Set 2019",0.48,0.01
 "Oakenform - Foil","Core Set 2019",0.05,0.00
 "Disperse - Foil","Core Set 2019",0.05,0.00
-"Child of Night - Foil","Core Set 2019",0.08,0.00
-"Ravenous Harpy - Foil","Core Set 2019",0.07,0.01
-"Wall of Vines - Foil","Core Set 2019",0.08,0.00
-"Catalyst Elemental - Foil","Core Set 2019",0.05,0.00
-"Abnormal Endurance - Foil","Core Set 2019",0.14,0.00
-"Forsaken Sanctuary - Foil","Core Set 2019",0.23,0.00
-"Fraying Omnipotence - Foil","Core Set 2019",0.45,0.08
-"Swamp - Foil","Core Set 2019",0.13,
-"Daybreak Chaplain - Foil","Core Set 2019",0.10,0.00
-"Dragon's Hoard - Foil","Core Set 2019",2.12,0.25
-"Hostile Minotaur - Foil","Core Set 2019",0.08,0.00
+"Uncomfortable Chill - Foil","Core Set 2019",0.10,0.00
 "Bone to Ash - Foil","Core Set 2019",0.05,0.01
+"Brawl-Bash Ogre - Foil","Core Set 2019",0.08,0.01
 "Lena, Selfless Champion - Foil","Core Set 2019",0.25,0.08
 "Shock - Foil","Core Set 2019",0.39,0.00
-"Brawl-Bash Ogre - Foil","Core Set 2019",0.08,0.01
 "Sarkhan's Unsealing - Foil","Core Set 2019",0.59,0.08
 "Tolarian Scholar - Foil","Core Set 2019",0.05,0.00
+"Shield Mare - Foil","Core Set 2019",0.10,0.01
 "Omniscience - Foil","Core Set 2019",15.34,6.90
 "Lightning Strike - Foil","Core Set 2019",0.92,0.01
-"Shield Mare - Foil","Core Set 2019",0.10,0.01
 "Tezzeret, Cruel Machinist - Foil","Core Set 2019",1.20,0.25
 "Lathliss, Dragon Queen - Foil","Core Set 2019",2.77,0.25
 "Murder - Foil","Core Set 2019",0.10,0.01
@@ -526,87 +516,97 @@ Waterknot,"Core Set 2019",0.27,0.00
 "Valiant Knight - Foil","Core Set 2019",0.39,0.08
 "Explosive Apparatus - Foil","Core Set 2019",0.05,0.00
 "Invoke the Divine - Foil","Core Set 2019",0.13,0.00
-"Skeleton Archer - Foil","Core Set 2019",0.05,0.00
+"Sure Strike - Foil","Core Set 2019",0.08,0.00
+"Declare Dominance - Foil","Core Set 2019",0.08,0.01
+"Alpine Moon - Foil","Core Set 2019",2.50,0.25
+"Ajani's Last Stand - Foil","Core Set 2019",0.20,0.08
+"Dwarven Priest - Foil","Core Set 2019",0.08,0.00
+"Bogstomper - Foil","Core Set 2019",0.07,0.00
+"Fountain of Renewal - Foil","Core Set 2019",1.08,0.01
+"Demanding Dragon - Foil","Core Set 2019",0.83,0.08
+"Boggart Brute - Foil","Core Set 2019",0.04,0.00
+"Duress - Foil","Core Set 2019",0.25,0.00
+"Mountain - Foil","Core Set 2019",0.02,
+"Crash Through - Foil","Core Set 2019",0.05,0.00
+"Highland Lake - Foil","Core Set 2019",0.31,0.00
+"Aerial Engineer - Foil","Core Set 2019",0.08,0.01
+"Nightmare's Thirst - Foil","Core Set 2019",0.08,0.01
+"Thornhide Wolves - Foil","Core Set 2019",0.05,0.00
+"Smelt - Foil","Core Set 2019",0.04,0.00
+"Arcades, the Strategist - Foil","Core Set 2019",13.72,6.17
+"Vaevictis Asmadi, The Dire - Foil","Core Set 2019",4.16,1.66
+"Runic Armasaur - Foil","Core Set 2019",2.37,0.25
+"Dragon Egg - Foil","Core Set 2019",0.20,0.01
+"Scapeshift - Foil","Core Set 2019",20.39,9.18
+"Giant Spider - Foil","Core Set 2019",0.05,0.00
+"Sigiled Sword of Valeron - Foil","Core Set 2019",0.54,0.08
+"Gravedigger - Foil","Core Set 2019",0.08,0.01
+"Centaur Courser - Foil","Core Set 2019",0.08,0.00
+"Trusty Packbeast - Foil","Core Set 2019",0.08,0.00
+"Cavalry Drillmaster - Foil","Core Set 2019",0.05,0.00
+"Supreme Phantom - Foil","Core Set 2019",1.75,0.08
+"Departed Deckhand - Foil","Core Set 2019",0.20,0.01
+"Tranquil Expanse - Foil","Core Set 2019",0.14,0.00
+"Blanchwood Armor - Foil","Core Set 2019",0.34,0.01
+"Transmogrifying Wand - Foil","Core Set 2019",0.35,0.08
+"Skymarch Bloodletter - Foil","Core Set 2019",0.08,0.00
 "Sleep - Foil","Core Set 2019",0.14,0.01
 "Frilled Sea Serpent - Foil","Core Set 2019",0.08,0.00
 "Patient Rebuilding - Foil","Core Set 2019",0.75,0.08
 "Rise from the Grave - Foil","Core Set 2019",0.13,0.01
+"Skeleton Archer - Foil","Core Set 2019",0.05,0.00
 "Phylactery Lich - Foil","Core Set 2019",0.28,0.08
 "Sarkhan, Dragonsoul - Foil","Core Set 2019",9.69,3.88
 "Mirror Image - Foil","Core Set 2019",0.25,0.01
 "Isareth the Awakener - Foil","Core Set 2019",0.87,0.08
-"Reassembling Skeleton - Foil","Core Set 2019",0.44,0.01
-"Chaos Wand - Foil","Core Set 2019",1.38,0.08
 "Liliana's Contract - Foil","Core Set 2019",1.18,0.08
 "Pegasus Courser - Foil","Core Set 2019",0.08,0.00
-"Herald of Faith - Foil","Core Set 2019",0.13,0.01
+"Reassembling Skeleton - Foil","Core Set 2019",0.44,0.01
+"Chaos Wand - Foil","Core Set 2019",1.38,0.08
 "Revitalize - Foil","Core Set 2019",0.25,0.00
 "Palladia-Mors, the Ruiner - Foil","Core Set 2019",1.59,0.25
+"Herald of Faith - Foil","Core Set 2019",0.13,0.01
 "Horizon Scholar - Foil","Core Set 2019",0.07,0.01
 "Windreader Sphinx - Foil","Core Set 2019",0.22,0.08
 "Druid of Horns - Foil","Core Set 2019",0.05,0.01
 "Highland Game - Foil","Core Set 2019",0.02,0.00
-"Salvager of Secrets - Foil","Core Set 2019",0.10,0.00
 "Bone Dragon - Foil","Core Set 2019",1.15,0.25
 "Dryad Greenseeker - Foil","Core Set 2019",0.19,0.01
 "Meteor Golem - Foil","Core Set 2019",1.68,0.01
 "Act of Treason - Foil","Core Set 2019",0.05,0.00
 "Doublecast - Foil","Core Set 2019",0.39,0.01
+"Salvager of Secrets - Foil","Core Set 2019",0.10,0.00
 "Bristling Boar - Foil","Core Set 2019",0.05,0.00
-"Tectonic Rift - Foil","Core Set 2019",0.08,0.01
 "Hieromancer's Cage - Foil","Core Set 2019",0.10,0.01
+"Tectonic Rift - Foil","Core Set 2019",0.08,0.01
 "Two-Headed Zombie - Foil","Core Set 2019",0.05,0.00
-"Blanchwood Armor - Foil","Core Set 2019",0.34,0.01
-"Transmogrifying Wand - Foil","Core Set 2019",0.35,0.08
-"Tranquil Expanse - Foil","Core Set 2019",0.14,0.00
-"Skymarch Bloodletter - Foil","Core Set 2019",0.08,0.00
+"Child of Night - Foil","Core Set 2019",0.08,0.00
+"Ravenous Harpy - Foil","Core Set 2019",0.07,0.01
+"Wall of Vines - Foil","Core Set 2019",0.08,0.00
+"Catalyst Elemental - Foil","Core Set 2019",0.05,0.00
+"Abnormal Endurance - Foil","Core Set 2019",0.14,0.00
+"Fraying Omnipotence - Foil","Core Set 2019",0.45,0.08
+"Swamp - Foil","Core Set 2019",0.13,
+"Daybreak Chaplain - Foil","Core Set 2019",0.10,0.00
+"Dragon's Hoard - Foil","Core Set 2019",2.12,0.25
+"Forsaken Sanctuary - Foil","Core Set 2019",0.23,0.00
+"Star-Crowned Stag - Foil","Core Set 2019",0.10,0.00
+"Infernal Scarring - Foil","Core Set 2019",0.02,0.00
+"Make a Stand - Foil","Core Set 2019",0.23,0.01
+"Millstone - Foil","Core Set 2019",0.10,0.01
+"Magistrate's Scepter - Foil","Core Set 2019",0.79,0.08
+"Fire Elemental - Foil","Core Set 2019",0.05,0.00
+"Aegis of the Heavens - Foil","Core Set 2019",0.10,0.01
+"Tormenting Voice - Foil","Core Set 2019",0.10,0.00
+"Diregraf Ghoul - Foil","Core Set 2019",0.17,0.01
+"Epicure of Blood - Foil","Core Set 2019",0.14,0.00
 "Ajani's Welcome - Foil","Core Set 2019",1.79,0.01
-"Remorseful Cleric - Foil","Core Set 2019",1.88,0.08
-"Skyrider Patrol - Foil","Core Set 2019",0.20,0.01
-"Skyrider Patrol - Foil","Core Set 2019",0.20,0.01
 "Oreskos Swiftclaw - Foil","Core Set 2019",0.07,0.00
 "Thud - Foil","Core Set 2019",0.40,0.01
 "Ghirapur Guide - Foil","Core Set 2019",0.05,0.01
 "Nicol Bolas, the Ravager - Foil","Core Set 2019",39.50,19.75
 "Guttersnipe - Foil","Core Set 2019",0.65,0.01
 "Elvish Rejuvenator - Foil","Core Set 2019",0.23,0.00
-"Sure Strike - Foil","Core Set 2019",0.08,0.00
-"Fountain of Renewal - Foil","Core Set 2019",1.08,0.01
-"Declare Dominance - Foil","Core Set 2019",0.08,0.01
-"Alpine Moon - Foil","Core Set 2019",2.50,0.25
-"Ajani's Last Stand - Foil","Core Set 2019",0.20,0.08
-"Dwarven Priest - Foil","Core Set 2019",0.08,0.00
-"Bogstomper - Foil","Core Set 2019",0.07,0.00
-"Demanding Dragon - Foil","Core Set 2019",0.83,0.08
-"Boggart Brute - Foil","Core Set 2019",0.04,0.00
-"Duress - Foil","Core Set 2019",0.25,0.00
-"Mountain - Foil","Core Set 2019",0.02,
-"Aerial Engineer - Foil","Core Set 2019",0.08,0.01
-"Nightmare's Thirst - Foil","Core Set 2019",0.08,0.01
-"Thornhide Wolves - Foil","Core Set 2019",0.05,0.00
-"Smelt - Foil","Core Set 2019",0.04,0.00
-"Arcades, the Strategist - Foil","Core Set 2019",13.72,6.17
-"Crash Through - Foil","Core Set 2019",0.05,0.00
-"Highland Lake - Foil","Core Set 2019",0.31,0.00
-"Vaevictis Asmadi, The Dire - Foil","Core Set 2019",4.16,1.66
-"Runic Armasaur - Foil","Core Set 2019",2.37,0.25
-"Dragon Egg - Foil","Core Set 2019",0.20,0.01
-"Scapeshift - Foil","Core Set 2019",20.39,9.18
-"Giant Spider - Foil","Core Set 2019",0.05,0.00
-"Gravedigger - Foil","Core Set 2019",0.08,0.01
-"Sigiled Sword of Valeron - Foil","Core Set 2019",0.54,0.08
-"Centaur Courser - Foil","Core Set 2019",0.08,0.00
-"Cavalry Drillmaster - Foil","Core Set 2019",0.05,0.00
-"Trusty Packbeast - Foil","Core Set 2019",0.08,0.00
-"Supreme Phantom - Foil","Core Set 2019",1.75,0.08
-"Departed Deckhand - Foil","Core Set 2019",0.20,0.01
-"Star-Crowned Stag - Foil","Core Set 2019",0.10,0.00
-"Magistrate's Scepter - Foil","Core Set 2019",0.79,0.08
-"Fire Elemental - Foil","Core Set 2019",0.05,0.00
-"Aegis of the Heavens - Foil","Core Set 2019",0.10,0.01
-"Tormenting Voice - Foil","Core Set 2019",0.10,0.00
-"Infernal Scarring - Foil","Core Set 2019",0.02,0.00
-"Make a Stand - Foil","Core Set 2019",0.23,0.01
-"Millstone - Foil","Core Set 2019",0.10,0.01
-"Diregraf Ghoul - Foil","Core Set 2019",0.17,0.01
-"Epicure of Blood - Foil","Core Set 2019",0.14,0.00
+"Remorseful Cleric - Foil","Core Set 2019",1.88,0.08
+"Skyrider Patrol - Foil","Core Set 2019",0.20,0.01
+"Skyrider Patrol - Foil","Core Set 2019",0.20,0.01

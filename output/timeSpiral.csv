@@ -1,18 +1,18 @@
 "Product Name",Category,"Sell Price","Buy Price"
 "Academy Ruins","Time Spiral",37.94,18.97
-"Aether Web","Time Spiral",0.18,0.00
+"Aether Web","Time Spiral",0.19,0.00
 "Aetherflame Wall","Time Spiral",0.19,0.00
 "Amrou Scout","Time Spiral",0.19,0.00
 "Amrou Seekers","Time Spiral",0.18,0.00
 "Ancestral Vision","Time Spiral",11.29,5.08
-"Ancient Grudge","Time Spiral",0.38,0.00
+"Ancient Grudge","Time Spiral",0.42,0.00
 "Angel's Grace","Time Spiral",8.08,3.23
 "Ashcoat Bear","Time Spiral",0.74,0.00
 "Aspect of Mongoose","Time Spiral",0.42,0.01
 Assassinate,"Time Spiral",0.17,0.00
 Assembly-Worker,"Time Spiral",0.24,0.01
 "Barbed Shocker","Time Spiral",0.23,0.01
-"Basal Sliver","Time Spiral",0.32,0.00
+"Basal Sliver","Time Spiral",0.33,0.00
 "Basalt Gargoyle","Time Spiral",0.24,0.01
 "Benalish Cavalry","Time Spiral",0.19,0.00
 Bewilder,"Time Spiral",0.17,0.00
@@ -35,7 +35,7 @@ Cancel,"Time Spiral",0.19,0.00
 "Chromatic Star","Time Spiral",5.70,2.28
 "Chronatog Totem","Time Spiral",0.24,0.01
 Chronosavant,"Time Spiral",0.42,0.08
-Clockspinning,"Time Spiral",0.41,0.00
+Clockspinning,"Time Spiral",0.43,0.00
 "Clockwork Hydra","Time Spiral",0.24,0.01
 "Cloudchaser Kestrel","Time Spiral",0.19,0.00
 "Coal Stoker","Time Spiral",0.18,0.00
@@ -43,7 +43,7 @@ Conflagrate,"Time Spiral",1.42,0.01
 "Coral Trickster","Time Spiral",0.18,0.00
 "Corpulent Corpse","Time Spiral",0.18,0.00
 "Crookclaw Transmuter","Time Spiral",0.19,0.00
-"Curse of the Cabal","Time Spiral",2.42,0.25
+"Curse of the Cabal","Time Spiral",2.43,0.25
 "Cyclopean Giant","Time Spiral",0.18,0.00
 "Dark Withering","Time Spiral",0.28,0.00
 "D'Avenant Healer","Time Spiral",0.19,0.00
@@ -53,9 +53,9 @@ Conflagrate,"Time Spiral",1.42,0.01
 "Demonic Collusion","Time Spiral",1.51,0.08
 "Detainment Spell","Time Spiral",0.18,0.00
 "Divine Congregation","Time Spiral",0.18,0.00
-"Draining Whelk","Time Spiral",3.58,1.43
-"Dralnu, Lich Lord","Time Spiral",1.55,0.08
-"Dread Return","Time Spiral",1.27,0.01
+"Draining Whelk","Time Spiral",3.82,1.53
+"Dralnu, Lich Lord","Time Spiral",1.68,0.08
+"Dread Return","Time Spiral",1.35,0.01
 "Dreadship Reef","Time Spiral",0.34,0.01
 "Dream Stalker","Time Spiral",0.24,0.00
 "Drifter il-Dal","Time Spiral",0.18,0.00
@@ -63,7 +63,7 @@ Conflagrate,"Time Spiral",1.42,0.01
 "Durkwood Baloth","Time Spiral",0.19,0.00
 "Durkwood Tracker","Time Spiral",0.24,0.01
 "Duskrider Peregrine","Time Spiral",0.24,0.01
-"Empty the Warrens","Time Spiral",0.47,0.00
+"Empty the Warrens","Time Spiral",0.48,0.00
 "Endrek Sahr, Master Breeder","Time Spiral",0.63,0.08
 "Errant Doomsayers","Time Spiral",0.18,0.00
 "Errant Ephemeron","Time Spiral",0.18,0.00
@@ -75,8 +75,8 @@ Evangelize,"Time Spiral",0.44,0.08
 "Fathom Seer","Time Spiral",0.19,0.00
 Feebleness,"Time Spiral",0.18,0.00
 "Firemaw Kavu","Time Spiral",0.23,0.01
-"Firewake Sliver","Time Spiral",0.36,0.01
-"Flagstones of Trokair","Time Spiral",5.50,2.20
+"Firewake Sliver","Time Spiral",0.40,0.01
+"Flagstones of Trokair","Time Spiral",5.42,2.17
 "Flamecore Elemental","Time Spiral",0.18,0.00
 "Fledgling Mawcor","Time Spiral",0.24,0.01
 "Flickering Spirit","Time Spiral",0.18,0.00
@@ -91,11 +91,11 @@ Feebleness,"Time Spiral",0.18,0.00
 Fortify,"Time Spiral",0.17,0.00
 "Fortune Thief","Time Spiral",0.71,0.08
 "Fungal Reaches","Time Spiral",0.28,0.01
-"Fungus Sliver","Time Spiral",2.09,0.25
+"Fungus Sliver","Time Spiral",1.94,0.08
 "Fury Sliver","Time Spiral",0.44,0.01
-"Gauntlet of Power","Time Spiral",20.87,9.39
+"Gauntlet of Power","Time Spiral",22.91,10.31
 "Gaze of Justice","Time Spiral",0.19,0.00
-"Gemhide Sliver","Time Spiral",1.52,0.00
+"Gemhide Sliver","Time Spiral",1.80,0.00
 "Gemstone Caverns","Time Spiral",38.00,19.00
 "Ghitu Firebreathing","Time Spiral",0.16,0.00
 "Ghostflame Sliver","Time Spiral",0.48,0.01
@@ -108,12 +108,12 @@ Greenseeker,"Time Spiral",0.21,0.00
 "Griffin Guide","Time Spiral",0.24,0.01
 "Ground Rift","Time Spiral",0.20,0.00
 "Gustcloak Cavalier","Time Spiral",0.24,0.01
-"Harmonic Sliver","Time Spiral",4.74,1.90
+"Harmonic Sliver","Time Spiral",4.75,1.90
 "Haunting Hymn","Time Spiral",0.24,0.01
 "Havenwood Wurm","Time Spiral",0.16,0.00
 "Herd Gnarr","Time Spiral",0.19,0.00
 Hivestone,"Time Spiral",1.90,0.08
-Hypergenesis,"Time Spiral",2.20,0.25
+Hypergenesis,"Time Spiral",2.37,0.25
 "Ib Halfheart, Goblin Tactician","Time Spiral",1.79,0.08
 "Icatian Crier","Time Spiral",0.19,0.00
 "Ignite Memories","Time Spiral",0.39,0.01
@@ -122,40 +122,40 @@ Hypergenesis,"Time Spiral",2.20,0.25
 "Island (287)","Time Spiral",0.20,0.00
 "Island (288)","Time Spiral",0.17,0.00
 "Island (289)","Time Spiral",0.25,0.00
-"Ith, High Arcanist","Time Spiral",0.47,0.08
+"Ith, High Arcanist","Time Spiral",0.48,0.08
 "Ivory Giant","Time Spiral",0.18,0.00
-Ixidron,"Time Spiral",2.58,0.25
+Ixidron,"Time Spiral",2.75,0.25
 "Jaya Ballard, Task Mage","Time Spiral",0.94,0.08
 "Jedit's Dragoons","Time Spiral",0.18,0.00
 "Jhoira's Timebug","Time Spiral",0.24,0.00
-"Kaervek the Merciless","Time Spiral",6.76,2.70
+"Kaervek the Merciless","Time Spiral",6.99,2.80
 "Keldon Halberdier","Time Spiral",0.19,0.00
 "Kher Keep","Time Spiral",2.56,0.25
 "Knight of the Holy Nimbus","Time Spiral",0.37,0.01
-"Krosan Grip","Time Spiral",3.00,0.25
+"Krosan Grip","Time Spiral",3.14,1.26
 "Liege of the Pit","Time Spiral",0.41,0.08
 "Lightning Axe","Time Spiral",1.01,0.00
 "Lim-Dul the Necromancer","Time Spiral",2.54,0.25
 "Living End","Time Spiral",22.79,10.26
 "Locket of Yesterdays","Time Spiral",0.29,0.01
-"Looter il-Kor","Time Spiral",0.73,0.00
+"Looter il-Kor","Time Spiral",0.71,0.00
 "Lotus Bloom","Time Spiral",9.60,3.84
 "Magus of the Candelabra","Time Spiral",1.24,0.08
-"Magus of the Disk","Time Spiral",1.48,0.08
+"Magus of the Disk","Time Spiral",1.47,0.08
 "Magus of the Jar","Time Spiral",1.42,0.08
 "Magus of the Mirror","Time Spiral",0.46,0.08
 "Magus of the Scroll","Time Spiral",0.47,0.08
 "Mana Skimmer","Time Spiral",0.16,0.00
 "Mangara of Corondor","Time Spiral",1.45,0.08
-"Might of Old Krosa","Time Spiral",1.95,0.01
+"Might of Old Krosa","Time Spiral",2.02,0.25
 "Might Sliver","Time Spiral",0.97,0.01
-"Mindlash Sliver","Time Spiral",0.21,0.00
+"Mindlash Sliver","Time Spiral",0.24,0.00
 Mindstab,"Time Spiral",0.19,0.00
 "Mishra, Artificer Prodigy","Time Spiral",0.86,0.08
 "Mogg War Marshal","Time Spiral",0.81,0.00
 Molder,"Time Spiral",0.19,0.00
 "Molten Slagheap","Time Spiral",0.24,0.01
-"Momentary Blink","Time Spiral",0.24,0.00
+"Momentary Blink","Time Spiral",0.26,0.00
 Moonlace,"Time Spiral",0.42,0.08
 "Mountain (294)","Time Spiral",0.16,0.00
 "Mountain (295)","Time Spiral",0.17,0.00
@@ -173,7 +173,7 @@ Moonlace,"Time Spiral",0.42,0.08
 "Orcish Cannonade","Time Spiral",0.18,0.00
 "Outrider en-Kor","Time Spiral",0.24,0.01
 "Paradise Plume","Time Spiral",0.24,0.01
-"Paradox Haze","Time Spiral",3.25,1.30
+"Paradox Haze","Time Spiral",3.33,1.33
 "Pardic Dragon","Time Spiral",0.43,0.08
 "Pendelhaven Elder","Time Spiral",0.24,0.01
 "Pentarch Paladin","Time Spiral",1.17,0.08
@@ -183,7 +183,7 @@ Moonlace,"Time Spiral",0.42,0.08
 Phthisis,"Time Spiral",0.24,0.01
 "Phyrexian Totem","Time Spiral",0.24,0.01
 "Pit Keeper","Time Spiral",0.19,0.00
-"Plague Sliver","Time Spiral",0.66,0.08
+"Plague Sliver","Time Spiral",0.71,0.08
 "Plains (282)","Time Spiral",0.17,0.00
 "Plains (283)","Time Spiral",0.17,0.00
 "Plains (284)","Time Spiral",0.17,0.00
@@ -192,15 +192,15 @@ Phthisis,"Time Spiral",0.24,0.01
 Plunder,"Time Spiral",0.19,0.00
 "Premature Burial","Time Spiral",0.23,0.01
 "Primal Forcemage","Time Spiral",0.28,0.01
-"Prismatic Lens","Time Spiral",0.24,0.00
+"Prismatic Lens","Time Spiral",0.25,0.00
 "Psionic Sliver","Time Spiral",5.63,2.25
 "Psychotic Episode","Time Spiral",0.19,0.00
-"Pull from Eternity","Time Spiral",1.99,0.01
-"Pulmonic Sliver","Time Spiral",7.05,2.82
-"Quilled Sliver","Time Spiral",0.29,0.01
-Reiterate,"Time Spiral",10.45,4.70
-"Restore Balance","Time Spiral",8.84,3.54
-"Return to Dust","Time Spiral",1.75,0.01
+"Pull from Eternity","Time Spiral",2.09,0.25
+"Pulmonic Sliver","Time Spiral",8.48,3.39
+"Quilled Sliver","Time Spiral",0.33,0.01
+Reiterate,"Time Spiral",11.15,5.02
+"Restore Balance","Time Spiral",9.47,3.79
+"Return to Dust","Time Spiral",1.90,0.01
 "Rift Bolt","Time Spiral",0.94,0.00
 "Riftwing Cloudskate","Time Spiral",0.24,0.01
 "Saffi Eriksdotter","Time Spiral",5.41,2.16
@@ -210,19 +210,19 @@ Sangrophage,"Time Spiral",0.18,0.00
 "Sarpadian Empires, Vol. VII","Time Spiral",0.47,0.08
 "Savage Thallid","Time Spiral",0.26,0.00
 "Scarwood Treefolk","Time Spiral",0.18,0.00
-"Scion of the Ur-Dragon","Time Spiral",1.70,0.08
+"Scion of the Ur-Dragon","Time Spiral",1.88,0.08
 "Screeching Sliver","Time Spiral",0.24,0.00
-"Scryb Ranger","Time Spiral",3.14,1.26
-"Search for Tomorrow","Time Spiral",0.37,0.00
+"Scryb Ranger","Time Spiral",3.22,1.29
+"Search for Tomorrow","Time Spiral",0.39,0.00
 "Sedge Sliver","Time Spiral",17.05,7.67
-"Sengir Nosferatu","Time Spiral",0.40,0.08
+"Sengir Nosferatu","Time Spiral",0.44,0.08
 "Serra Avenger","Time Spiral",2.27,0.25
-"Shadow Sliver","Time Spiral",0.37,0.00
+"Shadow Sliver","Time Spiral",0.48,0.00
 "Sidewinder Sliver","Time Spiral",1.20,0.00
 "Skittering Monstrosity","Time Spiral",0.23,0.01
 "Skulking Knight","Time Spiral",0.18,0.00
 "Slipstream Serpent","Time Spiral",0.17,0.00
-Smallpox,"Time Spiral",0.62,0.01
+Smallpox,"Time Spiral",0.68,0.01
 Snapback,"Time Spiral",0.24,0.00
 "Spectral Force","Time Spiral",0.47,0.08
 "Spell Burst","Time Spiral",0.81,0.01
@@ -233,37 +233,37 @@ Snapback,"Time Spiral",0.24,0.00
 "Sporesower Thallid","Time Spiral",0.46,0.01
 "Sprite Noble","Time Spiral",0.57,0.08
 Sprout,"Time Spiral",0.19,0.00
-"Squall Line","Time Spiral",0.80,0.08
-"Stonebrow, Krosan Hero","Time Spiral",0.67,0.08
+"Squall Line","Time Spiral",0.82,0.08
+"Stonebrow, Krosan Hero","Time Spiral",0.65,0.08
 "Stonewood Invocation","Time Spiral",0.73,0.08
 "Stormcloud Djinn","Time Spiral",0.23,0.01
 "Strangling Soot","Time Spiral",0.18,0.00
 "Strength in Numbers","Time Spiral",0.16,0.00
 "Stronghold Overseer","Time Spiral",0.71,0.08
-"Stuffy Doll","Time Spiral",3.96,1.58
-"Subterranean Shambler","Time Spiral",0.18,0.00
-"Sudden Death","Time Spiral",0.25,0.01
-"Sudden Shock","Time Spiral",0.48,0.01
+"Stuffy Doll","Time Spiral",4.04,1.62
+"Subterranean Shambler","Time Spiral",0.19,0.00
+"Sudden Death","Time Spiral",0.26,0.01
+"Sudden Shock","Time Spiral",0.71,0.01
 "Sudden Spoiling","Time Spiral",3.75,1.50
 "Sulfurous Blast","Time Spiral",0.24,0.01
 "Swamp (290)","Time Spiral",0.17,0.00
 "Swamp (291)","Time Spiral",0.16,0.00
 "Swamp (292)","Time Spiral",0.18,0.00
 "Swamp (293)","Time Spiral",0.19,0.00
-Swarmyard,"Time Spiral",13.18,5.93
+Swarmyard,"Time Spiral",13.44,6.05
 "Tectonic Fiend","Time Spiral",0.23,0.01
 "Teferi, Mage of Zhalfir","Time Spiral",4.22,1.69
 "Telekinetic Sliver","Time Spiral",1.76,0.01
 "Temporal Eddy","Time Spiral",0.18,0.00
 "Temporal Isolation","Time Spiral",0.24,0.00
-"Tendrils of Corruption","Time Spiral",0.21,0.00
+"Tendrils of Corruption","Time Spiral",0.23,0.00
 "Terramorphic Expanse","Time Spiral",0.32,0.00
 "Thallid Germinator","Time Spiral",0.21,0.00
 "Thallid Shell-Dweller","Time Spiral",0.24,0.00
-"Thelon of Havenwood","Time Spiral",1.89,0.08
-"Thelonite Hermit","Time Spiral",0.59,0.08
+"Thelon of Havenwood","Time Spiral",1.99,0.08
+"Thelonite Hermit","Time Spiral",0.67,0.08
 "Thick-Skinned Goblin","Time Spiral",0.24,0.01
-"Think Twice","Time Spiral",0.22,0.00
+"Think Twice","Time Spiral",0.24,0.00
 "Thrill of the Hunt","Time Spiral",0.21,0.00
 "Thunder Totem","Time Spiral",0.24,0.01
 "Tivadar of Thorn","Time Spiral",0.45,0.08
@@ -274,7 +274,7 @@ Trickbind,"Time Spiral",4.78,1.91
 Triskelavus,"Time Spiral",0.46,0.08
 "Tromp the Domains","Time Spiral",0.24,0.01
 "Truth or Tale","Time Spiral",0.24,0.01
-"Two-Headed Sliver","Time Spiral",0.39,0.00
+"Two-Headed Sliver","Time Spiral",0.47,0.00
 "Undying Rage","Time Spiral",0.24,0.01
 "Unyaro Bees","Time Spiral",0.47,0.08
 "Urborg Syphon-Mage","Time Spiral",0.17,0.00
@@ -283,22 +283,22 @@ Triskelavus,"Time Spiral",0.46,0.08
 "Venser's Sliver","Time Spiral",0.20,0.00
 "Verdant Embrace","Time Spiral",2.74,0.25
 Vesuva,"Time Spiral",33.25,16.63
-"Vesuvan Shapeshifter","Time Spiral",1.45,0.08
+"Vesuvan Shapeshifter","Time Spiral",1.66,0.08
 "Viashino Bladescout","Time Spiral",0.16,0.00
 "Viscerid Deepwalker","Time Spiral",0.18,0.00
 "Viscid Lemures","Time Spiral",0.16,0.00
-"Voidmage Husher","Time Spiral",0.54,0.01
+"Voidmage Husher","Time Spiral",0.55,0.01
 "Volcanic Awakening","Time Spiral",0.24,0.01
-"Walk the Aeons","Time Spiral",6.26,2.50
-"Watcher Sliver","Time Spiral",0.22,0.00
+"Walk the Aeons","Time Spiral",6.64,2.66
+"Watcher Sliver","Time Spiral",0.24,0.00
 "Weathered Bodyguards","Time Spiral",0.46,0.08
 "Weatherseed Totem","Time Spiral",0.24,0.01
 "Wheel of Fate","Time Spiral",6.84,2.74
-"Wipe Away","Time Spiral",2.03,0.25
+"Wipe Away","Time Spiral",2.17,0.25
 "Word of Seizing","Time Spiral",0.47,0.08
 "Wormwood Dryad","Time Spiral",0.17,0.00
 Wurmcalling,"Time Spiral",0.71,0.08
-"Yavimaya Dryad","Time Spiral",0.29,0.01
+"Yavimaya Dryad","Time Spiral",0.31,0.01
 "Zealot il-Vec","Time Spiral",0.18,0.00
 "Foriysian Totem - Foil","Time Spiral",0.23,0.01
 "Greater Gargadon - Foil","Time Spiral",12.44,5.60
@@ -310,109 +310,6 @@ Wurmcalling,"Time Spiral",0.71,0.08
 "Scarwood Treefolk - Foil","Time Spiral",0.19,0.00
 "Spell Burst - Foil","Time Spiral",2.83,0.25
 "Unyaro Bees - Foil","Time Spiral",0.49,0.08
-"Ophidian Eye - Foil","Time Spiral",8.99,3.60
-"Stormcloud Djinn - Foil","Time Spiral",0.14,0.01
-"Temporal Isolation - Foil","Time Spiral",1.50,0.00
-"Triskelavus - Foil","Time Spiral",0.49,0.08
-"Celestial Crusader - Foil","Time Spiral",0.99,0.01
-"Dark Withering - Foil","Time Spiral",1.42,0.00
-"Flamecore Elemental - Foil","Time Spiral",0.05,0.00
-"Hivestone - Foil","Time Spiral",9.73,3.89
-"Penumbra Spider - Foil","Time Spiral",0.46,0.00
-"Sulfurous Blast - Foil","Time Spiral",0.20,0.01
-"Wormwood Dryad - Foil","Time Spiral",0.12,0.00
-"Gemhide Sliver - Foil","Time Spiral",4.79,1.92
-"Spectral Force - Foil","Time Spiral",0.68,0.08
-"Aetherflame Wall - Foil","Time Spiral",0.19,0.08
-"Dralnu, Lich Lord - Foil","Time Spiral",5.25,2.10
-"Faceless Devourer - Foil","Time Spiral",0.22,0.01
-"Opal Guardian - Foil","Time Spiral",0.48,0.08
-"Cancel - Foil","Time Spiral",0.35,0.00
-"Dreadship Reef - Foil","Time Spiral",2.54,0.25
-"Fathom Seer - Foil","Time Spiral",0.28,0.00
-"Fungus Sliver - Foil","Time Spiral",7.76,3.10
-"Voidmage Husher - Foil","Time Spiral",3.98,1.59
-"Gemstone Caverns - Foil","Time Spiral",126.00,75.60
-"Smallpox - Foil","Time Spiral",10.21,4.59
-"Terramorphic Expanse - Foil","Time Spiral",3.14,1.26
-"Bewilder - Foil","Time Spiral",0.08,0.00
-"Restore Balance - Foil","Time Spiral",11.98,5.39
-"Durkwood Baloth - Foil","Time Spiral",0.17,0.00
-"Kher Keep - Foil","Time Spiral",9.99,4.00
-"Errant Doomsayers - Foil","Time Spiral",0.12,0.00
-"Ignite Memories - Foil","Time Spiral",3.41,1.36
-"Ghitu Firebreathing - Foil","Time Spiral",0.14,0.00
-"Pendelhaven Elder - Foil","Time Spiral",0.34,0.01
-"Spike Tiller - Foil","Time Spiral",0.37,0.08
-"Spike Tiller - Foil","Time Spiral",0.37,0.08
-"Thelonite Hermit - Foil","Time Spiral",3.50,1.40
-"Clockspinning - Foil","Time Spiral",6.50,2.60
-"Foriysian Interceptor - Foil","Time Spiral",0.19,0.00
-"Grapeshot - Foil","Time Spiral",9.99,4.00
-"Saffi Eriksdotter - Foil","Time Spiral",25.00,11.25
-"Stonewood Invocation - Foil","Time Spiral",2.49,0.25
-"Temporal Eddy - Foil","Time Spiral",0.08,0.00
-"Nightshade Assassin - Foil","Time Spiral",0.45,0.01
-"Serra Avenger - Foil","Time Spiral",8.50,3.40
-"Coral Trickster - Foil","Time Spiral",0.20,0.00
-"Gustcloak Cavalier - Foil","Time Spiral",0.19,0.01
-"Brass Gnat - Foil","Time Spiral",0.14,0.00
-"Clockwork Hydra - Foil","Time Spiral",0.37,0.01
-"Divine Congregation - Foil","Time Spiral",0.17,0.00
-"Evangelize - Foil","Time Spiral",0.93,0.08
-"Tectonic Fiend - Foil","Time Spiral",0.20,0.01
-"Feebleness - Foil","Time Spiral",0.14,0.00
-"Pardic Dragon - Foil","Time Spiral",0.20,0.08
-"Durkwood Tracker - Foil","Time Spiral",0.11,0.01
-"Mystical Teachings - Foil","Time Spiral",4.87,1.95
-"Quilled Sliver - Foil","Time Spiral",1.65,0.01
-"Firemaw Kavu - Foil","Time Spiral",0.19,0.01
-"Mindlash Sliver - Foil","Time Spiral",0.99,0.00
-"Sengir Nosferatu - Foil","Time Spiral",0.49,0.08
-"Vesuva - Foil","Time Spiral",63.93,35.16
-"Basal Sliver - Foil","Time Spiral",6.99,2.80
-"Cavalry Master - Foil","Time Spiral",0.23,0.01
-"Herd Gnarr - Foil","Time Spiral",0.19,0.00
-"Savage Thallid - Foil","Time Spiral",2.25,0.25
-"Weathered Bodyguards - Foil","Time Spiral",0.44,0.08
-"Bogardan Hellkite - Foil","Time Spiral",2.99,0.25
-"Pit Keeper - Foil","Time Spiral",0.25,0.00
-"Rift Bolt - Foil","Time Spiral",8.00,3.20
-"Shadow Sliver - Foil","Time Spiral",3.00,0.25
-"Benalish Cavalry - Foil","Time Spiral",0.20,0.00
-"D'Avenant Healer - Foil","Time Spiral",0.14,0.00
-"Ancestral Vision - Foil","Time Spiral",89.99,49.49
-"Ith, High Arcanist - Foil","Time Spiral",1.99,0.08
-"Tolarian Sentinel - Foil","Time Spiral",0.14,0.00
-"Dream Stalker - Foil","Time Spiral",4.01,1.60
-"Momentary Blink - Foil","Time Spiral",2.48,0.25
-"Calciform Pools - Foil","Time Spiral",2.18,0.25
-"Coal Stoker - Foil","Time Spiral",0.19,0.00
-"Fortune Thief - Foil","Time Spiral",1.35,0.08
-"Moonlace - Foil","Time Spiral",0.51,0.08
-"Plague Sliver - Foil","Time Spiral",1.50,0.08
-"Sidewinder Sliver - Foil","Time Spiral",3.68,1.47
-"Stonebrow, Krosan Hero - Foil","Time Spiral",2.99,0.25
-"Firewake Sliver - Foil","Time Spiral",1.98,0.01
-"Mana Skimmer - Foil","Time Spiral",0.19,0.00
-"Pentarch Paladin - Foil","Time Spiral",2.75,0.25
-"Spiketail Drakeling - Foil","Time Spiral",0.47,0.00
-"Sudden Shock - Foil","Time Spiral",0.72,0.01
-"Wipe Away - Foil","Time Spiral",9.99,4.00
-"Endrek Sahr, Master Breeder - Foil","Time Spiral",10.00,4.00
-"Flowstone Channeler - Foil","Time Spiral",0.17,0.00
-"Icatian Crier - Foil","Time Spiral",0.19,0.00
-"Lightning Axe - Foil","Time Spiral",14.98,6.74
-"Vampiric Sliver - Foil","Time Spiral",0.98,0.01
-"Ancient Grudge - Foil","Time Spiral",16.00,7.20
-"Brine Elemental - Foil","Time Spiral",0.69,0.01
-"Ivory Giant - Foil","Time Spiral",0.19,0.00
-"Errant Ephemeron - Foil","Time Spiral",0.26,0.00
-"Telekinetic Sliver - Foil","Time Spiral",4.49,1.80
-"Keldon Halberdier - Foil","Time Spiral",0.19,0.00
-"Nether Traitor - Foil","Time Spiral",29.07,14.54
-"Screeching Sliver - Foil","Time Spiral",1.28,0.00
-"Thick-Skinned Goblin - Foil","Time Spiral",0.20,0.01
 "Mindstab - Foil","Time Spiral",0.19,0.00
 "Pentarch Ward - Foil","Time Spiral",0.25,0.00
 "Pulmonic Sliver - Foil","Time Spiral",11.63,5.23
@@ -430,43 +327,118 @@ Wurmcalling,"Time Spiral",0.71,0.08
 "Ironclaw Buzzardiers - Foil","Time Spiral",0.14,0.00
 "Mogg War Marshal - Foil","Time Spiral",5.50,2.20
 "Thunder Totem - Foil","Time Spiral",0.20,0.01
+"Coral Trickster - Foil","Time Spiral",0.20,0.00
+"Gustcloak Cavalier - Foil","Time Spiral",0.19,0.01
+"Durkwood Tracker - Foil","Time Spiral",0.11,0.01
+"Mystical Teachings - Foil","Time Spiral",4.87,1.95
+"Quilled Sliver - Foil","Time Spiral",1.65,0.01
+"Basal Sliver - Foil","Time Spiral",6.99,2.80
+"Cavalry Master - Foil","Time Spiral",0.23,0.01
+"Herd Gnarr - Foil","Time Spiral",0.19,0.00
+"Savage Thallid - Foil","Time Spiral",2.25,0.25
+"Weathered Bodyguards - Foil","Time Spiral",0.44,0.08
+"Bogardan Hellkite - Foil","Time Spiral",2.99,0.25
+"Pit Keeper - Foil","Time Spiral",0.25,0.00
+"Rift Bolt - Foil","Time Spiral",8.00,3.20
+"Shadow Sliver - Foil","Time Spiral",3.00,0.25
+"Benalish Cavalry - Foil","Time Spiral",0.20,0.00
+"D'Avenant Healer - Foil","Time Spiral",0.14,0.00
+"Duskrider Peregrine - Foil","Time Spiral",0.10,0.01
+"Sudden Death - Foil","Time Spiral",1.00,0.01
+"Amrou Seekers - Foil","Time Spiral",0.14,0.00
+"Skittering Monstrosity - Foil","Time Spiral",0.20,0.01
+"Firemaw Kavu - Foil","Time Spiral",0.19,0.01
+"Mindlash Sliver - Foil","Time Spiral",0.99,0.00
+"Sengir Nosferatu - Foil","Time Spiral",0.49,0.08
+"Vesuva - Foil","Time Spiral",63.93,35.16
+"Brass Gnat - Foil","Time Spiral",0.14,0.00
+"Clockwork Hydra - Foil","Time Spiral",0.37,0.01
+"Divine Congregation - Foil","Time Spiral",0.17,0.00
+"Cancel - Foil","Time Spiral",0.35,0.00
+"Dreadship Reef - Foil","Time Spiral",2.54,0.25
+"Fathom Seer - Foil","Time Spiral",0.28,0.00
+"Fungus Sliver - Foil","Time Spiral",7.76,3.10
+"Voidmage Husher - Foil","Time Spiral",3.98,1.59
+"Gemstone Caverns - Foil","Time Spiral",126.00,75.60
+"Durkwood Baloth - Foil","Time Spiral",0.17,0.00
+"Kher Keep - Foil","Time Spiral",9.99,4.00
+"Errant Doomsayers - Foil","Time Spiral",0.12,0.00
+"Ignite Memories - Foil","Time Spiral",3.41,1.36
+"Ghitu Firebreathing - Foil","Time Spiral",0.14,0.00
+"Pendelhaven Elder - Foil","Time Spiral",0.34,0.01
+"Spike Tiller - Foil","Time Spiral",0.37,0.08
+"Spike Tiller - Foil","Time Spiral",0.37,0.08
+"Thelonite Hermit - Foil","Time Spiral",3.50,1.40
+"Clockspinning - Foil","Time Spiral",6.50,2.60
+"Foriysian Interceptor - Foil","Time Spiral",0.19,0.00
+"Grapeshot - Foil","Time Spiral",9.99,4.00
+"Saffi Eriksdotter - Foil","Time Spiral",25.00,11.25
+"Stonewood Invocation - Foil","Time Spiral",2.49,0.25
+"Temporal Eddy - Foil","Time Spiral",0.08,0.00
+"Smallpox - Foil","Time Spiral",10.21,4.59
+"Terramorphic Expanse - Foil","Time Spiral",3.14,1.26
+"Bewilder - Foil","Time Spiral",0.08,0.00
+"Restore Balance - Foil","Time Spiral",11.98,5.39
+"Blazing Blade Askari - Foil","Time Spiral",0.10,0.00
+"Chromatic Star - Foil","Time Spiral",49.99,25.00
+"Ancestral Vision - Foil","Time Spiral",89.99,49.49
+"Ith, High Arcanist - Foil","Time Spiral",1.99,0.08
+"Tolarian Sentinel - Foil","Time Spiral",0.14,0.00
+"Dream Stalker - Foil","Time Spiral",4.01,1.60
+"Momentary Blink - Foil","Time Spiral",2.48,0.25
+"Endrek Sahr, Master Breeder - Foil","Time Spiral",10.00,4.00
+"Flowstone Channeler - Foil","Time Spiral",0.17,0.00
+"Icatian Crier - Foil","Time Spiral",0.19,0.00
+"Lightning Axe - Foil","Time Spiral",14.98,6.74
+"Vampiric Sliver - Foil","Time Spiral",0.98,0.01
+"Ancient Grudge - Foil","Time Spiral",16.00,7.20
+"Brine Elemental - Foil","Time Spiral",0.69,0.01
+"Ivory Giant - Foil","Time Spiral",0.19,0.00
+"Errant Ephemeron - Foil","Time Spiral",0.26,0.00
+"Living End - Foil","Time Spiral",39.64,19.82
+"Reiterate - Foil","Time Spiral",17.80,8.01
+"Snapback - Foil","Time Spiral",2.24,0.25
+"Two-Headed Sliver - Foil","Time Spiral",3.74,1.50
+"Calciform Pools - Foil","Time Spiral",2.18,0.25
+"Coal Stoker - Foil","Time Spiral",0.19,0.00
+"Fortune Thief - Foil","Time Spiral",1.35,0.08
+"Moonlace - Foil","Time Spiral",0.51,0.08
+"Plague Sliver - Foil","Time Spiral",1.50,0.08
+"Sidewinder Sliver - Foil","Time Spiral",3.68,1.47
+"Stonebrow, Krosan Hero - Foil","Time Spiral",2.99,0.25
+"Firewake Sliver - Foil","Time Spiral",1.98,0.01
+"Mana Skimmer - Foil","Time Spiral",0.19,0.00
 "Verdant Embrace - Foil","Time Spiral",4.99,2.00
 "Dread Return - Foil","Time Spiral",4.71,1.88
 "Ground Rift - Foil","Time Spiral",0.68,0.00
 "Stronghold Overseer - Foil","Time Spiral",1.95,0.08
 "Watcher Sliver - Foil","Time Spiral",0.66,0.00
-"Sprout - Foil","Time Spiral",0.16,0.00
-"Vesuvan Shapeshifter - Foil","Time Spiral",5.75,2.30
-"Assassinate - Foil","Time Spiral",0.08,0.00
-"Fury Sliver - Foil","Time Spiral",0.89,0.01
-"Subterranean Shambler - Foil","Time Spiral",0.13,0.00
-"Weatherseed Totem - Foil","Time Spiral",0.17,0.01
-"Blazing Blade Askari - Foil","Time Spiral",0.10,0.00
-"Chromatic Star - Foil","Time Spiral",49.99,25.00
-"Glass Asp - Foil","Time Spiral",0.17,0.00
-"Mwonvuli Acid-Moss - Foil","Time Spiral",13.16,5.92
-"Spinneret Sliver - Foil","Time Spiral",5.99,2.40
-"Draining Whelk - Foil","Time Spiral",8.00,3.20
-"Slipstream Serpent - Foil","Time Spiral",0.12,0.00
-"Riftwing Cloudskate - Foil","Time Spiral",0.35,0.01
-"Viscerid Deepwalker - Foil","Time Spiral",0.14,0.00
-"Castle Raptors - Foil","Time Spiral",0.10,0.00
-"Castle Raptors - Foil","Time Spiral",0.10,0.00
-"Sporesower Thallid - Foil","Time Spiral",0.91,0.01
-"Wurmcalling - Foil","Time Spiral",1.64,0.08
-"Ashcoat Bear - Foil","Time Spiral",1.04,0.00
-"Fallen Ideal - Foil","Time Spiral",0.79,0.01
-"Sarpadian Empires, Vol. VII - Foil","Time Spiral",0.97,0.08
-"Thallid Germinator - Foil","Time Spiral",0.34,0.00
-"Venser's Sliver - Foil","Time Spiral",0.58,0.00
-"Liege of the Pit - Foil","Time Spiral",0.75,0.08
-"Call to the Netherworld - Foil","Time Spiral",4.50,1.80
-"Magus of the Jar - Foil","Time Spiral",3.99,1.60
-"Gauntlet of Power - Foil","Time Spiral",26.48,13.24
-"Duskrider Peregrine - Foil","Time Spiral",0.10,0.01
-"Sudden Death - Foil","Time Spiral",1.00,0.01
-"Amrou Seekers - Foil","Time Spiral",0.14,0.00
-"Skittering Monstrosity - Foil","Time Spiral",0.20,0.01
+"Dralnu, Lich Lord - Foil","Time Spiral",5.25,2.10
+"Faceless Devourer - Foil","Time Spiral",0.22,0.01
+"Opal Guardian - Foil","Time Spiral",0.48,0.08
+"Telekinetic Sliver - Foil","Time Spiral",4.49,1.80
+"Keldon Halberdier - Foil","Time Spiral",0.19,0.00
+"Nether Traitor - Foil","Time Spiral",29.07,14.54
+"Screeching Sliver - Foil","Time Spiral",1.28,0.00
+"Thick-Skinned Goblin - Foil","Time Spiral",0.20,0.01
+"Ophidian Eye - Foil","Time Spiral",8.99,3.60
+"Stormcloud Djinn - Foil","Time Spiral",0.14,0.01
+"Temporal Isolation - Foil","Time Spiral",1.50,0.00
+"Triskelavus - Foil","Time Spiral",0.49,0.08
+"Celestial Crusader - Foil","Time Spiral",0.99,0.01
+"Dark Withering - Foil","Time Spiral",1.42,0.00
+"Flamecore Elemental - Foil","Time Spiral",0.05,0.00
+"Hivestone - Foil","Time Spiral",9.73,3.89
+"Penumbra Spider - Foil","Time Spiral",0.46,0.00
+"Sulfurous Blast - Foil","Time Spiral",0.20,0.01
+"Wormwood Dryad - Foil","Time Spiral",0.12,0.00
+"Gemhide Sliver - Foil","Time Spiral",4.79,1.92
+"Spectral Force - Foil","Time Spiral",0.68,0.08
+"Aetherflame Wall - Foil","Time Spiral",0.19,0.08
+"Evangelize - Foil","Time Spiral",0.93,0.08
+"Tectonic Fiend - Foil","Time Spiral",0.20,0.01
+"Feebleness - Foil","Time Spiral",0.14,0.00
+"Pardic Dragon - Foil","Time Spiral",0.20,0.08
 "Aether Web - Foil","Time Spiral",0.19,0.08
 "Deep-Sea Kraken - Foil","Time Spiral",3.24,1.30
 "Fortify - Foil","Time Spiral",0.14,0.00
@@ -490,33 +462,71 @@ Wurmcalling,"Time Spiral",0.71,0.08
 "Primal Forcemage - Foil","Time Spiral",0.65,0.01
 "Urza's Factory - Foil","Time Spiral",0.79,0.01
 "Knight of the Holy Nimbus - Foil","Time Spiral",4.49,1.80
-"Living End - Foil","Time Spiral",39.64,19.82
-"Reiterate - Foil","Time Spiral",17.80,8.01
-"Snapback - Foil","Time Spiral",2.24,0.25
-"Two-Headed Sliver - Foil","Time Spiral",3.74,1.50
+"Glass Asp - Foil","Time Spiral",0.17,0.00
+"Mwonvuli Acid-Moss - Foil","Time Spiral",13.16,5.92
+"Spinneret Sliver - Foil","Time Spiral",5.99,2.40
+"Nightshade Assassin - Foil","Time Spiral",0.45,0.01
+"Serra Avenger - Foil","Time Spiral",8.50,3.40
+"Sprout - Foil","Time Spiral",0.16,0.00
+"Vesuvan Shapeshifter - Foil","Time Spiral",5.75,2.30
+"Draining Whelk - Foil","Time Spiral",8.00,3.20
+"Slipstream Serpent - Foil","Time Spiral",0.12,0.00
+"Assassinate - Foil","Time Spiral",0.08,0.00
+"Fury Sliver - Foil","Time Spiral",0.89,0.01
+"Subterranean Shambler - Foil","Time Spiral",0.13,0.00
+"Weatherseed Totem - Foil","Time Spiral",0.17,0.01
+"Sporesower Thallid - Foil","Time Spiral",0.91,0.01
+"Wurmcalling - Foil","Time Spiral",1.64,0.08
+"Ashcoat Bear - Foil","Time Spiral",1.04,0.00
+"Fallen Ideal - Foil","Time Spiral",0.79,0.01
+"Sarpadian Empires, Vol. VII - Foil","Time Spiral",0.97,0.08
+"Thallid Germinator - Foil","Time Spiral",0.34,0.00
+"Riftwing Cloudskate - Foil","Time Spiral",0.35,0.01
+"Viscerid Deepwalker - Foil","Time Spiral",0.14,0.00
+"Castle Raptors - Foil","Time Spiral",0.10,0.00
+"Castle Raptors - Foil","Time Spiral",0.10,0.00
+"Venser's Sliver - Foil","Time Spiral",0.58,0.00
+"Liege of the Pit - Foil","Time Spiral",0.75,0.08
+"Call to the Netherworld - Foil","Time Spiral",4.50,1.80
+"Magus of the Jar - Foil","Time Spiral",3.99,1.60
+"Pentarch Paladin - Foil","Time Spiral",2.75,0.25
+"Spiketail Drakeling - Foil","Time Spiral",0.47,0.00
+"Sudden Shock - Foil","Time Spiral",0.72,0.01
+"Wipe Away - Foil","Time Spiral",9.99,4.00
+"Plated Pegasus - Foil","Time Spiral",0.27,0.01
+"Skulking Knight - Foil","Time Spiral",0.19,0.00
+"Basalt Gargoyle - Foil","Time Spiral",0.14,0.01
+"Spirit Loop - Foil","Time Spiral",1.49,0.01
+"Careful Consideration - Foil","Time Spiral",0.47,0.01
+"Premature Burial - Foil","Time Spiral",0.01,0.01
+"Sangrophage - Foil","Time Spiral",0.28,0.00
+"Flickering Spirit - Foil","Time Spiral",0.11,0.00
+"Ghostflame Sliver - Foil","Time Spiral",2.99,0.25
+"Ib Halfheart, Goblin Tactician - Foil","Time Spiral",4.63,1.85
+"Sprite Noble - Foil","Time Spiral",1.00,0.08
+"Swarmyard - Foil","Time Spiral",15.06,6.78
 "Cyclopean Giant - Foil","Time Spiral",0.14,0.00
 "Paradox Haze - Foil","Time Spiral",7.98,3.19
 "Prismatic Lens - Foil","Time Spiral",2.29,0.25
 "Stuffy Doll - Foil","Time Spiral",6.99,2.80
 "Thallid Shell-Dweller - Foil","Time Spiral",0.48,0.00
 "Undying Rage - Foil","Time Spiral",0.20,0.01
-"Plated Pegasus - Foil","Time Spiral",0.27,0.01
-"Skulking Knight - Foil","Time Spiral",0.19,0.00
 "Chronatog Totem - Foil","Time Spiral",0.25,0.01
 "Dementia Sliver - Foil","Time Spiral",0.47,0.01
 "Goblin Skycutter - Foil","Time Spiral",0.14,0.00
 "Squall Line - Foil","Time Spiral",2.99,0.25
 "Viashino Bladescout - Foil","Time Spiral",0.14,0.00
-"Basalt Gargoyle - Foil","Time Spiral",0.14,0.01
-"Spirit Loop - Foil","Time Spiral",1.49,0.01
-"Chameleon Blur - Foil","Time Spiral",0.19,0.00
-"Might Sliver - Foil","Time Spiral",1.50,0.01
-"Urborg Syphon-Mage - Foil","Time Spiral",0.19,0.00
-"Bonesplitter Sliver - Foil","Time Spiral",1.49,0.00
-"Eternity Snare - Foil","Time Spiral",0.01,0.00
-"Eternity Snare - Foil","Time Spiral",0.01,0.00
-"Molder - Foil","Time Spiral",0.19,0.00
-"Trickbind - Foil","Time Spiral",13.49,6.07
+"Jedit's Dragoons - Foil","Time Spiral",0.13,0.00
+"Walk the Aeons - Foil","Time Spiral",15.00,6.75
+"Thrill of the Hunt - Foil","Time Spiral",0.25,0.00
+"Gaze of Justice - Foil","Time Spiral",0.35,0.00
+"Magus of the Scroll - Foil","Time Spiral",0.81,0.08
+"Evil Eye of Urborg - Foil","Time Spiral",0.22,0.01
+"Search for Tomorrow - Foil","Time Spiral",3.00,0.25
+"Scion of the Ur-Dragon - Foil","Time Spiral",34.99,17.50
+"Drifter il-Dal - Foil","Time Spiral",0.16,0.00
+"Looter il-Kor - Foil","Time Spiral",6.00,2.40
+"Gauntlet of Power - Foil","Time Spiral",26.48,13.24
 "Magus of the Disk - Foil","Time Spiral",2.79,0.25
 "Tivadar of Thorn - Foil","Time Spiral",1.00,0.08
 "Might of Old Krosa - Foil","Time Spiral",9.99,4.00
@@ -528,16 +538,6 @@ Wurmcalling,"Time Spiral",0.71,0.08
 "Flagstones of Trokair - Foil","Time Spiral",27.51,13.76
 "Truth or Tale - Foil","Time Spiral",0.23,0.01
 "Tendrils of Corruption - Foil","Time Spiral",1.67,0.00
-"Jedit's Dragoons - Foil","Time Spiral",0.13,0.00
-"Walk the Aeons - Foil","Time Spiral",15.00,6.75
-"Thrill of the Hunt - Foil","Time Spiral",0.25,0.00
-"Gaze of Justice - Foil","Time Spiral",0.35,0.00
-"Magus of the Scroll - Foil","Time Spiral",0.81,0.08
-"Evil Eye of Urborg - Foil","Time Spiral",0.22,0.01
-"Search for Tomorrow - Foil","Time Spiral",3.00,0.25
-"Scion of the Ur-Dragon - Foil","Time Spiral",34.99,17.50
-"Drifter il-Dal - Foil","Time Spiral",0.16,0.00
-"Looter il-Kor - Foil","Time Spiral",6.00,2.40
 "Fledgling Mawcor - Foil","Time Spiral",0.23,0.01
 "Hypergenesis - Foil","Time Spiral",4.95,1.98
 "Krosan Grip - Foil","Time Spiral",9.50,3.80
@@ -562,15 +562,15 @@ Wurmcalling,"Time Spiral",0.71,0.08
 "Empty the Warrens - Foil","Time Spiral",6.63,2.65
 "Strength in Numbers - Foil","Time Spiral",0.20,0.00
 "Traitor's Clutch - Foil","Time Spiral",0.19,0.00
+"Chameleon Blur - Foil","Time Spiral",0.19,0.00
+"Might Sliver - Foil","Time Spiral",1.50,0.01
+"Urborg Syphon-Mage - Foil","Time Spiral",0.19,0.00
+"Bonesplitter Sliver - Foil","Time Spiral",1.49,0.00
+"Eternity Snare - Foil","Time Spiral",0.01,0.00
+"Eternity Snare - Foil","Time Spiral",0.01,0.00
+"Molder - Foil","Time Spiral",0.19,0.00
+"Trickbind - Foil","Time Spiral",13.49,6.07
 "Viscid Lemures - Foil","Time Spiral",0.14,0.00
-"Careful Consideration - Foil","Time Spiral",0.47,0.01
-"Premature Burial - Foil","Time Spiral",0.01,0.01
-"Sangrophage - Foil","Time Spiral",0.28,0.00
-"Flickering Spirit - Foil","Time Spiral",0.11,0.00
-"Ghostflame Sliver - Foil","Time Spiral",2.99,0.25
-"Ib Halfheart, Goblin Tactician - Foil","Time Spiral",4.63,1.85
-"Sprite Noble - Foil","Time Spiral",1.00,0.08
-"Swarmyard - Foil","Time Spiral",15.06,6.78
 "Wheel of Fate - Foil","Time Spiral",15.18,6.83
 "Lim-Dul the Necromancer - Foil","Time Spiral",4.04,1.62
 "Fool's Demise - Foil","Time Spiral",0.75,0.01

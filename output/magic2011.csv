@@ -2,10 +2,10 @@
 "Acidic Slime","Magic 2011 (M11)",0.28,0.01
 "Act of Treason","Magic 2011 (M11)",0.14,0.00
 "Aether Adept","Magic 2011 (M11)",0.23,0.00
-"Air Servant","Magic 2011 (M11)",0.20,0.01
-"Ajani Goldmane","Magic 2011 (M11)",6.17,2.47
+"Air Servant","Magic 2011 (M11)",0.22,0.01
+"Ajani Goldmane","Magic 2011 (M11)",6.37,2.55
 "Ajani's Mantra","Magic 2011 (M11)",0.34,0.00
-"Ajani's Pridemate","Magic 2011 (M11)",0.32,0.01
+"Ajani's Pridemate","Magic 2011 (M11)",0.34,0.01
 "Alluring Siren","Magic 2011 (M11)",0.23,0.01
 "Ancient Hellkite","Magic 2011 (M11)",0.46,0.08
 "Angelic Arbiter","Magic 2011 (M11)",1.45,0.08
@@ -21,12 +21,12 @@ Assassinate,"Magic 2011 (M11)",0.17,0.00
 "Awakener Druid","Magic 2011 (M11)",0.23,0.01
 "Azure Drake","Magic 2011 (M11)",0.16,0.00
 "Back to Nature","Magic 2011 (M11)",0.24,0.01
-"Baneslayer Angel","Magic 2011 (M11)",14.21,6.39
+"Baneslayer Angel","Magic 2011 (M11)",14.24,6.41
 "Barony Vampire","Magic 2011 (M11)",0.16,0.00
 "Beast Token","Magic 2011 (M11)",0.22,0.00
 "Berserkers of Blood Ridge","Magic 2011 (M11)",0.15,0.00
 "Bird Token","Magic 2011 (M11)",0.19,0.00
-"Birds of Paradise","Magic 2011 (M11)",7.31,2.92
+"Birds of Paradise","Magic 2011 (M11)",7.59,3.04
 "Black Knight","Magic 2011 (M11)",0.24,0.01
 "Blinding Mage","Magic 2011 (M11)",0.16,0.00
 "Blood Tithe","Magic 2011 (M11)",0.19,0.00
@@ -36,11 +36,11 @@ Assassinate,"Magic 2011 (M11)",0.17,0.00
 "Brindle Boar","Magic 2011 (M11)",0.18,0.00
 "Brittle Effigy","Magic 2011 (M11)",0.41,0.08
 "Call to Mind","Magic 2011 (M11)",0.24,0.01
-Cancel,"Magic 2011 (M11)",0.15,0.00
+Cancel,"Magic 2011 (M11)",0.16,0.00
 "Canyon Minotaur","Magic 2011 (M11)",0.16,0.00
-"Captivating Vampire","Magic 2011 (M11)",4.75,1.90
+"Captivating Vampire","Magic 2011 (M11)",4.87,1.95
 "Celestial Purge","Magic 2011 (M11)",0.24,0.01
-"Chandra Nalaar","Magic 2011 (M11)",1.97,0.25
+"Chandra Nalaar","Magic 2011 (M11)",2.29,0.25
 "Chandra's Outrage","Magic 2011 (M11)",0.17,0.00
 "Chandra's Spitfire","Magic 2011 (M11)",0.28,0.01
 "Child of Night","Magic 2011 (M11)",0.17,0.00
@@ -48,21 +48,21 @@ Clone,"Magic 2011 (M11)",0.46,0.08
 "Cloud Crusader","Magic 2011 (M11)",0.16,0.00
 "Cloud Elemental","Magic 2011 (M11)",0.15,0.00
 Combust,"Magic 2011 (M11)",0.24,0.01
-Condemn,"Magic 2011 (M11)",0.29,0.01
-"Conundrum Sphinx","Magic 2011 (M11)",0.36,0.08
+Condemn,"Magic 2011 (M11)",0.30,0.01
+"Conundrum Sphinx","Magic 2011 (M11)",0.37,0.08
 Corrupt,"Magic 2011 (M11)",0.23,0.01
 "Crystal Ball","Magic 2011 (M11)",0.32,0.01
 "Cudgel Troll","Magic 2011 (M11)",0.20,0.01
-Cultivate,"Magic 2011 (M11)",1.10,0.00
+Cultivate,"Magic 2011 (M11)",1.17,0.00
 "Cyclops Gladiator","Magic 2011 (M11)",0.32,0.08
 "Dark Tutelage","Magic 2011 (M11)",0.47,0.08
-"Day of Judgment","Magic 2011 (M11)",2.38,0.25
+"Day of Judgment","Magic 2011 (M11)",2.55,0.25
 Deathmark,"Magic 2011 (M11)",0.22,0.01
 Demolish,"Magic 2011 (M11)",0.16,0.00
-"Demon of Death's Gate","Magic 2011 (M11)",5.44,2.18
+"Demon of Death's Gate","Magic 2011 (M11)",5.31,2.12
 "Demon's Horn","Magic 2011 (M11)",0.23,0.01
 "Destructive Force","Magic 2011 (M11)",0.40,0.08
-"Diabolic Tutor","Magic 2011 (M11)",0.38,0.01
+"Diabolic Tutor","Magic 2011 (M11)",0.42,0.01
 Diminish,"Magic 2011 (M11)",0.16,0.00
 Disentomb,"Magic 2011 (M11)",0.18,0.00
 "Doom Blade","Magic 2011 (M11)",0.23,0.00
@@ -75,7 +75,7 @@ Duress,"Magic 2011 (M11)",0.19,0.00
 "Earth Servant","Magic 2011 (M11)",0.22,0.01
 "Elite Vanguard","Magic 2011 (M11)",0.23,0.01
 "Elixir of Immortality","Magic 2011 (M11)",0.73,0.01
-"Elvish Archdruid","Magic 2011 (M11)",2.30,0.25
+"Elvish Archdruid","Magic 2011 (M11)",2.34,0.25
 "Ember Hauler","Magic 2011 (M11)",0.23,0.01
 Excommunicate,"Magic 2011 (M11)",0.17,0.00
 "Fauna Shaman","Magic 2011 (M11)",5.31,2.12
@@ -90,7 +90,7 @@ Foresee,"Magic 2011 (M11)",0.19,0.00
 "Forest (247)","Magic 2011 (M11)",0.15,0.00
 "Forest (248)","Magic 2011 (M11)",0.14,0.00
 "Forest (249)","Magic 2011 (M11)",0.14,0.00
-"Frost Titan","Magic 2011 (M11)",0.78,0.25
+"Frost Titan","Magic 2011 (M11)",0.86,0.25
 "Gaea's Revenge","Magic 2011 (M11)",0.75,0.25
 "Gargoyle Sentinel","Magic 2011 (M11)",0.18,0.01
 "Garruk Wildspeaker","Magic 2011 (M11)",7.64,3.06
@@ -104,39 +104,39 @@ Foresee,"Magic 2011 (M11)",0.19,0.00
 "Goblin Piker","Magic 2011 (M11)",0.16,0.00
 "Goblin Tunneler","Magic 2011 (M11)",0.15,0.00
 "Goldenglow Moth","Magic 2011 (M11)",0.18,0.00
-"Grave Titan","Magic 2011 (M11)",15.15,6.82
+"Grave Titan","Magic 2011 (M11)",15.72,7.07
 Gravedigger,"Magic 2011 (M11)",0.15,0.00
 "Greater Basilisk","Magic 2011 (M11)",0.15,0.00
 "Harbor Serpent","Magic 2011 (M11)",0.14,0.00
 "Haunting Echoes","Magic 2011 (M11)",0.41,0.08
 "Hoarding Dragon","Magic 2011 (M11)",0.41,0.08
 "Holy Strength","Magic 2011 (M11)",0.17,0.00
-"Honor of the Pure","Magic 2011 (M11)",1.88,0.08
+"Honor of the Pure","Magic 2011 (M11)",1.89,0.08
 "Hornet Sting","Magic 2011 (M11)",0.17,0.00
 "Howling Banshee","Magic 2011 (M11)",0.23,0.01
 "Hunters' Feast","Magic 2011 (M11)",0.16,0.00
 "Ice Cage","Magic 2011 (M11)",0.15,0.00
-Incite,"Magic 2011 (M11)",0.15,0.00
+Incite,"Magic 2011 (M11)",0.16,0.00
 "Infantry Veteran","Magic 2011 (M11)",0.15,0.00
 "Inferno Titan","Magic 2011 (M11)",1.66,0.25
 "Inspired Charge","Magic 2011 (M11)",0.15,0.00
 "Island (234)","Magic 2011 (M11)",0.15,0.00
-"Island (235)","Magic 2011 (M11)",0.18,0.00
+"Island (235)","Magic 2011 (M11)",0.20,0.00
 "Island (236)","Magic 2011 (M11)",0.19,0.00
 "Island (237)","Magic 2011 (M11)",0.15,0.00
-"Jace Beleren","Magic 2011 (M11)",4.55,1.82
+"Jace Beleren","Magic 2011 (M11)",4.66,1.86
 "Jace's Erasure","Magic 2011 (M11)",0.23,0.00
-"Jace's Ingenuity","Magic 2011 (M11)",0.22,0.01
+"Jace's Ingenuity","Magic 2011 (M11)",0.23,0.01
 "Jinxed Idol","Magic 2011 (M11)",0.44,0.08
 Juggernaut,"Magic 2011 (M11)",0.23,0.01
-"Knight Exemplar","Magic 2011 (M11)",5.01,2.00
+"Knight Exemplar","Magic 2011 (M11)",5.11,2.04
 "Kraken's Eye","Magic 2011 (M11)",0.23,0.01
 "Lava Axe","Magic 2011 (M11)",0.17,0.00
-"Leyline of Anticipation","Magic 2011 (M11)",11.31,5.09
+"Leyline of Anticipation","Magic 2011 (M11)",11.39,5.13
 "Leyline of Punishment","Magic 2011 (M11)",2.37,0.25
 "Leyline of Sanctity","Magic 2011 (M11)",10.56,4.75
 "Leyline of the Void","Magic 2011 (M11)",23.75,10.69
-"Leyline of Vitality","Magic 2011 (M11)",1.13,0.08
+"Leyline of Vitality","Magic 2011 (M11)",1.23,0.08
 "Lightning Bolt","Magic 2011 (M11)",2.66,0.25
 "Liliana Vess","Magic 2011 (M11)",7.84,3.14
 "Liliana's Caress","Magic 2011 (M11)",4.17,1.67
@@ -147,7 +147,7 @@ Juggernaut,"Magic 2011 (M11)",0.23,0.01
 "Manic Vandal","Magic 2011 (M11)",0.18,0.00
 "Maritime Guard","Magic 2011 (M11)",0.15,0.00
 "Mass Polymorph","Magic 2011 (M11)",0.45,0.08
-"Merfolk Sovereign","Magic 2011 (M11)",0.63,0.08
+"Merfolk Sovereign","Magic 2011 (M11)",0.66,0.08
 "Merfolk Spy","Magic 2011 (M11)",0.16,0.00
 "Mighty Leap","Magic 2011 (M11)",0.15,0.00
 "Mind Control","Magic 2011 (M11)",0.24,0.01
@@ -158,7 +158,7 @@ Juggernaut,"Magic 2011 (M11)",0.23,0.01
 "Mountain (244)","Magic 2011 (M11)",0.14,0.00
 "Mountain (245)","Magic 2011 (M11)",0.13,0.00
 "Mystifying Maze","Magic 2011 (M11)",0.93,0.08
-"Nantuko Shade","Magic 2011 (M11)",0.46,0.08
+"Nantuko Shade","Magic 2011 (M11)",0.47,0.08
 Naturalize,"Magic 2011 (M11)",0.15,0.00
 "Nature's Spiral","Magic 2011 (M11)",0.24,0.01
 "Necrotic Plague","Magic 2011 (M11)",0.35,0.08
@@ -186,12 +186,12 @@ Preordain,"Magic 2011 (M11)",3.80,1.52
 "Prized Unicorn","Magic 2011 (M11)",0.23,0.01
 "Prodigal Pyromancer","Magic 2011 (M11)",0.22,0.01
 "Protean Hydra","Magic 2011 (M11)",1.95,0.08
-"Pyretic Ritual","Magic 2011 (M11)",1.80,0.00
-Pyroclasm,"Magic 2011 (M11)",0.29,0.01
+"Pyretic Ritual","Magic 2011 (M11)",1.87,0.00
+Pyroclasm,"Magic 2011 (M11)",0.33,0.01
 "Quag Sickness","Magic 2011 (M11)",0.17,0.00
 "Reassembling Skeleton","Magic 2011 (M11)",0.24,0.01
 Redirect,"Magic 2011 (M11)",0.47,0.08
-"Relentless Rats","Magic 2011 (M11)",1.40,0.01
+"Relentless Rats","Magic 2011 (M11)",1.43,0.01
 Reverberate,"Magic 2011 (M11)",1.50,0.08
 "Rise from the Grave","Magic 2011 (M11)",0.22,0.01
 "Roc Egg","Magic 2011 (M11)",0.21,0.01
@@ -203,7 +203,7 @@ Reverberate,"Magic 2011 (M11)",1.50,0.08
 "Safe Passage","Magic 2011 (M11)",0.17,0.00
 "Scroll Thief","Magic 2011 (M11)",0.15,0.00
 "Serra Angel","Magic 2011 (M11)",0.24,0.01
-"Serra Ascendant","Magic 2011 (M11)",8.10,3.24
+"Serra Ascendant","Magic 2011 (M11)",8.54,3.42
 "Shiv's Embrace","Magic 2011 (M11)",0.23,0.01
 "Siege Mastodon","Magic 2011 (M11)",0.16,0.00
 "Sign in Blood","Magic 2011 (M11)",0.22,0.00
@@ -215,13 +215,13 @@ Sleep,"Magic 2011 (M11)",0.24,0.01
 "Spined Wurm","Magic 2011 (M11)",0.15,0.00
 "Squadron Hawk","Magic 2011 (M11)",0.24,0.00
 "Stabbing Pain","Magic 2011 (M11)",0.16,0.00
-"Steel Overseer","Magic 2011 (M11)",5.69,2.28
+"Steel Overseer","Magic 2011 (M11)",7.59,3.04
 "Stone Golem","Magic 2011 (M11)",0.20,0.01
 "Stormfront Pegasus","Magic 2011 (M11)",0.16,0.00
 "Stormtide Leviathan","Magic 2011 (M11)",0.48,0.08
-"Sun Titan","Magic 2011 (M11)",3.80,1.52
+"Sun Titan","Magic 2011 (M11)",4.11,1.64
 "Sunpetal Grove","Magic 2011 (M11)",3.71,1.48
-"Swamp (238)","Magic 2011 (M11)",0.14,0.00
+"Swamp (238)","Magic 2011 (M11)",0.15,0.00
 "Swamp (239)","Magic 2011 (M11)",0.19,0.00
 "Swamp (240)","Magic 2011 (M11)",0.15,0.00
 "Swamp (241)","Magic 2011 (M11)",0.15,0.00
@@ -230,7 +230,7 @@ Sleep,"Magic 2011 (M11)",0.24,0.01
 "Temple Bell","Magic 2011 (M11)",1.22,0.08
 "Terramorphic Expanse","Magic 2011 (M11)",0.29,0.00
 "Thunder Strike","Magic 2011 (M11)",0.15,0.00
-"Time Reversal","Magic 2011 (M11)",2.21,0.25
+"Time Reversal","Magic 2011 (M11)",2.28,0.25
 "Tireless Missionaries","Magic 2011 (M11)",0.15,0.00
 "Tome Scour","Magic 2011 (M11)",0.23,0.00
 Traumatize,"Magic 2011 (M11)",1.92,0.08
@@ -254,53 +254,23 @@ Unsummon,"Magic 2011 (M11)",0.14,0.00
 "Wurm's Tooth","Magic 2011 (M11)",0.22,0.01
 "Yavimaya Wurm","Magic 2011 (M11)",0.15,0.00
 "Zombie Token","Magic 2011 (M11)",0.24,0.00
-"Clone - Foil","Magic 2011 (M11)",0.46,0.08
-"Vengeful Archon - Foil","Magic 2011 (M11)",0.27,0.08
-"Vulshok Berserker - Foil","Magic 2011 (M11)",0.07,0.00
-"Thunder Strike  - Foil","Magic 2011 (M11)",0.10,0.00
-"Azure Drake - Foil","Magic 2011 (M11)",0.10,0.00
-"Canyon Minotaur - Foil","Magic 2011 (M11)",0.10,0.00
-"Cultivate - Foil","Magic 2011 (M11)",3.31,1.32
-"Foresee - Foil","Magic 2011 (M11)",0.25,0.00
-"Nantuko Shade - Foil","Magic 2011 (M11)",0.31,0.08
-"Plummet - Foil","Magic 2011 (M11)",0.12,0.00
-"Fauna Shaman - Foil","Magic 2011 (M11)",17.73,7.98
-"Giant Spider - Foil","Magic 2011 (M11)",0.05,0.00
-"Volcanic Strength - Foil","Magic 2011 (M11)",0.10,0.00
-"Baneslayer Angel - Foil","Magic 2011 (M11)",29.53,14.77
-"Llanowar Elves - Foil","Magic 2011 (M11)",1.00,0.00
-"Royal Assassin - Foil","Magic 2011 (M11)",0.83,0.08
-"Squadron Hawk - Foil","Magic 2011 (M11)",1.86,0.00
-"Necrotic Plague - Foil","Magic 2011 (M11)",0.28,0.08
-"Primeval Titan - Foil","Magic 2011 (M11)",15.94,7.17
-"Wild Evocation - Foil","Magic 2011 (M11)",0.75,0.08
-"Deathmark - Foil","Magic 2011 (M11)",0.14,0.01
-"Haunting Echoes  - Foil","Magic 2011 (M11)",0.40,0.08
-"Mana Leak - Foil","Magic 2011 (M11)",0.38,0.00
-"Negate - Foil","Magic 2011 (M11)",0.88,0.00
-"Wild Griffin - Foil","Magic 2011 (M11)",0.08,0.00
-"Infantry Veteran - Foil","Magic 2011 (M11)",0.10,0.00
-"Reverberate  - Foil","Magic 2011 (M11)",1.73,0.08
-"Blinding Mage - Foil","Magic 2011 (M11)",0.08,0.00
-"Pyretic Ritual - Foil","Magic 2011 (M11)",12.00,5.40
 "Awakener Druid - Foil","Magic 2011 (M11)",0.16,0.01
 "Drowned Catacomb - Foil","Magic 2011 (M11)",6.99,2.80
 "Roc Egg - Foil","Magic 2011 (M11)",0.13,0.01
-"Bog Raiders - Foil","Magic 2011 (M11)",0.14,0.00
-"Disentomb - Foil","Magic 2011 (M11)",0.10,0.00
-"Ice Cage - Foil","Magic 2011 (M11)",0.08,0.00
-"Mind Control - Foil","Magic 2011 (M11)",0.23,0.01
-"Grave Titan - Foil","Magic 2011 (M11)",22.00,9.90
-"Water Servant - Foil","Magic 2011 (M11)",0.13,0.01
 "Harbor Serpent - Foil","Magic 2011 (M11)",0.07,0.00
 "Runeclaw Bear - Foil","Magic 2011 (M11)",0.14,0.00
 "Stabbing Pain - Foil","Magic 2011 (M11)",0.05,0.00
 "Phantom Beast  - Foil","Magic 2011 (M11)",0.10,0.00
 "Relentless Rats - Foil","Magic 2011 (M11)",2.45,0.25
 "Sylvan Ranger - Foil","Magic 2011 (M11)",0.47,0.00
+"Blinding Mage - Foil","Magic 2011 (M11)",0.08,0.00
+"Pyretic Ritual - Foil","Magic 2011 (M11)",12.00,5.40
+"Bog Raiders - Foil","Magic 2011 (M11)",0.14,0.00
+"Disentomb - Foil","Magic 2011 (M11)",0.10,0.00
+"Ice Cage - Foil","Magic 2011 (M11)",0.08,0.00
+"Mind Control - Foil","Magic 2011 (M11)",0.23,0.01
 "Garruk Wildspeaker - Foil","Magic 2011 (M11)",11.92,5.36
 "Juggernaut - Foil","Magic 2011 (M11)",0.14,0.01
-"Inferno Titan - Foil","Magic 2011 (M11)",10.58,4.76
 "Arc Runner - Foil","Magic 2011 (M11)",0.20,0.00
 "Arc Runner - Foil","Magic 2011 (M11)",0.20,0.00
 "Destructive Force - Foil","Magic 2011 (M11)",0.93,0.08
@@ -308,6 +278,36 @@ Unsummon,"Magic 2011 (M11)",0.14,0.00
 "Serra Ascendant - Foil","Magic 2011 (M11)",12.18,5.48
 "Ajani Goldmane - Foil","Magic 2011 (M11)",8.13,3.25
 "Captivating Vampire - Foil","Magic 2011 (M11)",2.99,0.25
+"Jace Beleren - Foil","Magic 2011 (M11)",6.75,2.70
+"Preordain - Foil","Magic 2011 (M11)",75.00,41.25
+"Inferno Titan - Foil","Magic 2011 (M11)",10.58,4.76
+"Fog - Foil","Magic 2011 (M11)",0.23,0.00
+"Mystifying Maze - Foil","Magic 2011 (M11)",2.49,0.25
+"Platinum Angel - Foil","Magic 2011 (M11)",6.44,2.58
+"Chandra Nalaar - Foil","Magic 2011 (M11)",4.74,1.90
+"Doom Blade - Foil","Magic 2011 (M11)",0.81,0.00
+"Goblin Chieftain - Foil","Magic 2011 (M11)",2.87,0.25
+"Blood Tithe - Foil","Magic 2011 (M11)",0.25,0.00
+"Cloud Crusader - Foil","Magic 2011 (M11)",0.08,0.00
+"Giant Growth - Foil","Magic 2011 (M11)",0.10,0.00
+"Merfolk Sovereign - Foil","Magic 2011 (M11)",0.98,0.08
+"Rotting Legion - Foil","Magic 2011 (M11)",0.10,0.00
+"Spined Wurm - Foil","Magic 2011 (M11)",0.10,0.00
+"Tireless Missionaries  - Foil","Magic 2011 (M11)",0.07,0.00
+"Crystal Ball - Foil","Magic 2011 (M11)",0.98,0.01
+"Fling - Foil","Magic 2011 (M11)",0.28,0.00
+"Goblin Tunneler  - Foil","Magic 2011 (M11)",0.05,0.00
+"Lightning Bolt - Foil","Magic 2011 (M11)",10.27,4.62
+"Sleep  - Foil","Magic 2011 (M11)",0.23,0.01
+"Glacial Fortress - Foil","Magic 2011 (M11)",6.12,2.45
+"Mighty Leap  - Foil","Magic 2011 (M11)",0.10,0.00
+"Reassembling Skeleton - Foil","Magic 2011 (M11)",1.31,0.01
+"Stormtide Leviathan - Foil","Magic 2011 (M11)",1.35,0.08
+"Condemn - Foil","Magic 2011 (M11)",1.54,0.01
+"Fire Servant - Foil","Magic 2011 (M11)",0.50,0.01
+"Goblin Balloon Brigade  - Foil","Magic 2011 (M11)",0.11,0.00
+"Palace Guard - Foil","Magic 2011 (M11)",0.14,0.00
+"Elite Vanguard - Foil","Magic 2011 (M11)",0.25,0.01
 "Ember Hauler - Foil","Magic 2011 (M11)",0.39,0.01
 "Mass Polymorph - Foil","Magic 2011 (M11)",0.68,0.08
 "Obstinate Baloth - Foil","Magic 2011 (M11)",4.99,2.00
@@ -320,53 +320,53 @@ Unsummon,"Magic 2011 (M11)",0.14,0.00
 "Inspired Charge - Foil","Magic 2011 (M11)",0.10,0.00
 "Liliana Vess - Foil","Magic 2011 (M11)",7.50,3.00
 "Solemn Offering - Foil","Magic 2011 (M11)",0.12,0.00
-"Bloodcrazed Goblin - Foil","Magic 2011 (M11)",0.13,0.00
-"Quag Sickness - Foil","Magic 2011 (M11)",0.13,0.00
-"Primal Cocoon - Foil","Magic 2011 (M11)",0.10,0.00
-"White Knight  - Foil","Magic 2011 (M11)",0.25,0.01
 "Alluring Siren - Foil","Magic 2011 (M11)",0.10,0.01
 "Jinxed Idol  - Foil","Magic 2011 (M11)",0.46,0.08
 "Triskelion - Foil","Magic 2011 (M11)",5.34,2.14
-"Barony Vampire - Foil","Magic 2011 (M11)",0.25,0.00
-"Earth Servant - Foil","Magic 2011 (M11)",0.11,0.01
-"Magma Phoenix - Foil","Magic 2011 (M11)",0.35,0.08
-"Traumatize - Foil","Magic 2011 (M11)",1.99,0.08
 "Maritime Guard - Foil","Magic 2011 (M11)",0.05,0.00
 "Nightwing Shade - Foil","Magic 2011 (M11)",0.12,0.00
 "Stormfront Pegasus  - Foil","Magic 2011 (M11)",0.14,0.00
 "Unsummon  - Foil","Magic 2011 (M11)",0.19,0.00
-"Stormtide Leviathan - Foil","Magic 2011 (M11)",1.35,0.08
-"Fog - Foil","Magic 2011 (M11)",0.23,0.00
-"Mystifying Maze - Foil","Magic 2011 (M11)",2.49,0.25
-"Platinum Angel - Foil","Magic 2011 (M11)",6.44,2.58
-"Condemn - Foil","Magic 2011 (M11)",1.54,0.01
-"Fire Servant - Foil","Magic 2011 (M11)",0.50,0.01
-"Goblin Balloon Brigade  - Foil","Magic 2011 (M11)",0.11,0.00
-"Palace Guard - Foil","Magic 2011 (M11)",0.14,0.00
+"Barony Vampire - Foil","Magic 2011 (M11)",0.25,0.00
+"Earth Servant - Foil","Magic 2011 (M11)",0.11,0.01
+"Magma Phoenix - Foil","Magic 2011 (M11)",0.35,0.08
+"Traumatize - Foil","Magic 2011 (M11)",1.99,0.08
+"Bloodcrazed Goblin - Foil","Magic 2011 (M11)",0.13,0.00
+"Quag Sickness - Foil","Magic 2011 (M11)",0.13,0.00
+"Primal Cocoon - Foil","Magic 2011 (M11)",0.10,0.00
+"White Knight  - Foil","Magic 2011 (M11)",0.25,0.01
+"Vulshok Berserker - Foil","Magic 2011 (M11)",0.07,0.00
+"Clone - Foil","Magic 2011 (M11)",0.46,0.08
+"Vengeful Archon - Foil","Magic 2011 (M11)",0.27,0.08
+"Deathmark - Foil","Magic 2011 (M11)",0.14,0.01
+"Haunting Echoes  - Foil","Magic 2011 (M11)",0.40,0.08
+"Mana Leak - Foil","Magic 2011 (M11)",0.38,0.00
+"Negate - Foil","Magic 2011 (M11)",0.88,0.00
+"Wild Griffin - Foil","Magic 2011 (M11)",0.08,0.00
+"Infantry Veteran - Foil","Magic 2011 (M11)",0.10,0.00
+"Reverberate  - Foil","Magic 2011 (M11)",1.73,0.08
+"Angelic Arbiter - Foil","Magic 2011 (M11)",1.12,0.08
+"Holy Strength - Foil","Magic 2011 (M11)",0.14,0.00
+"Protean Hydra  - Foil","Magic 2011 (M11)",3.64,1.46
+"Yavimaya Wurm - Foil","Magic 2011 (M11)",0.13,0.00
+"Thunder Strike  - Foil","Magic 2011 (M11)",0.10,0.00
+"Necrotic Plague - Foil","Magic 2011 (M11)",0.28,0.08
+"Primeval Titan - Foil","Magic 2011 (M11)",15.94,7.17
+"Wild Evocation - Foil","Magic 2011 (M11)",0.75,0.08
+"Azure Drake - Foil","Magic 2011 (M11)",0.10,0.00
+"Canyon Minotaur - Foil","Magic 2011 (M11)",0.10,0.00
+"Cultivate - Foil","Magic 2011 (M11)",3.31,1.32
+"Foresee - Foil","Magic 2011 (M11)",0.25,0.00
+"Nantuko Shade - Foil","Magic 2011 (M11)",0.31,0.08
+"Plummet - Foil","Magic 2011 (M11)",0.12,0.00
+"Fauna Shaman - Foil","Magic 2011 (M11)",17.73,7.98
+"Giant Spider - Foil","Magic 2011 (M11)",0.05,0.00
+"Volcanic Strength - Foil","Magic 2011 (M11)",0.10,0.00
+"Sacred Wolf - Foil","Magic 2011 (M11)",0.23,0.00
+"Steel Overseer - Foil","Magic 2011 (M11)",17.93,8.07
 "Air Servant - Foil","Magic 2011 (M11)",0.11,0.01
 "Rootbound Crag - Foil","Magic 2011 (M11)",3.99,1.60
 "Time Reversal - Foil","Magic 2011 (M11)",4.21,1.68
-"Chandra Nalaar - Foil","Magic 2011 (M11)",4.74,1.90
-"Doom Blade - Foil","Magic 2011 (M11)",0.81,0.00
-"Goblin Chieftain - Foil","Magic 2011 (M11)",2.87,0.25
-"Crystal Ball - Foil","Magic 2011 (M11)",0.98,0.01
-"Fling - Foil","Magic 2011 (M11)",0.28,0.00
-"Goblin Tunneler  - Foil","Magic 2011 (M11)",0.05,0.00
-"Lightning Bolt - Foil","Magic 2011 (M11)",10.27,4.62
-"Sleep  - Foil","Magic 2011 (M11)",0.23,0.01
-"Blood Tithe - Foil","Magic 2011 (M11)",0.25,0.00
-"Cloud Crusader - Foil","Magic 2011 (M11)",0.08,0.00
-"Giant Growth - Foil","Magic 2011 (M11)",0.10,0.00
-"Merfolk Sovereign - Foil","Magic 2011 (M11)",0.98,0.08
-"Rotting Legion - Foil","Magic 2011 (M11)",0.10,0.00
-"Spined Wurm - Foil","Magic 2011 (M11)",0.10,0.00
-"Tireless Missionaries  - Foil","Magic 2011 (M11)",0.07,0.00
-"Glacial Fortress - Foil","Magic 2011 (M11)",6.12,2.45
-"Mighty Leap  - Foil","Magic 2011 (M11)",0.10,0.00
-"Reassembling Skeleton - Foil","Magic 2011 (M11)",1.31,0.01
-"Elite Vanguard - Foil","Magic 2011 (M11)",0.25,0.01
-"Sacred Wolf - Foil","Magic 2011 (M11)",0.23,0.00
-"Steel Overseer - Foil","Magic 2011 (M11)",17.93,8.07
 "Acidic Slime - Foil","Magic 2011 (M11)",0.91,0.01
 "Goblin Piker  - Foil","Magic 2011 (M11)",0.10,0.00
 "Phylactery Lich - Foil","Magic 2011 (M11)",0.45,0.08
@@ -385,40 +385,12 @@ Unsummon,"Magic 2011 (M11)",0.14,0.00
 "Act of Treason - Foil","Magic 2011 (M11)",0.10,0.00
 "Wurm's Tooth - Foil","Magic 2011 (M11)",0.13,0.01
 "Berserkers of Blood Ridge - Foil","Magic 2011 (M11)",0.07,0.00
-"Kraken's Eye - Foil","Magic 2011 (M11)",0.08,0.01
 "Demon of Death's Gate - Foil","Magic 2011 (M11)",8.49,3.40
-"Angelic Arbiter - Foil","Magic 2011 (M11)",1.12,0.08
-"Holy Strength - Foil","Magic 2011 (M11)",0.14,0.00
-"Protean Hydra  - Foil","Magic 2011 (M11)",3.64,1.46
-"Yavimaya Wurm - Foil","Magic 2011 (M11)",0.13,0.00
-"Lava Axe - Foil","Magic 2011 (M11)",0.08,0.00
-"Ornithopter - Foil","Magic 2011 (M11)",0.47,0.01
-"Pyroclasm - Foil","Magic 2011 (M11)",0.90,0.01
-"Assault Griffin - Foil","Magic 2011 (M11)",0.08,0.00
-"Brindle Boar - Foil","Magic 2011 (M11)",0.17,0.00
-"Fireball - Foil","Magic 2011 (M11)",0.20,0.01
-"Silence - Foil","Magic 2011 (M11)",3.71,1.48
-"Ancient Hellkite - Foil","Magic 2011 (M11)",0.19,0.08
-"Manic Vandal - Foil","Magic 2011 (M11)",0.39,0.00
-"Nether Horror - Foil","Magic 2011 (M11)",0.14,0.00
-"Duress - Foil","Magic 2011 (M11)",0.34,0.00
-"Gravedigger - Foil","Magic 2011 (M11)",0.10,0.00
-"Dragonskull Summit - Foil","Magic 2011 (M11)",3.79,1.52
-"Armored Cancrix - Foil","Magic 2011 (M11)",0.04,0.00
-"Armored Cancrix - Foil","Magic 2011 (M11)",0.04,0.00
-"Bloodthrone Vampire - Foil","Magic 2011 (M11)",0.20,0.00
-"Hunters' Feast - Foil","Magic 2011 (M11)",0.08,0.00
-"Pacifism  - Foil","Magic 2011 (M11)",0.08,0.00
-"Siege Mastodon - Foil","Magic 2011 (M11)",0.07,0.00
-"Voltaic Key - Foil","Magic 2011 (M11)",9.00,3.60
-"Back to Nature - Foil","Magic 2011 (M11)",0.58,0.01
-"Sword of Vengeance - Foil","Magic 2011 (M11)",3.25,1.30
-"Leyline of Punishment - Foil","Magic 2011 (M11)",4.83,1.93
-"Nature's Spiral - Foil","Magic 2011 (M11)",0.19,0.01
-"Jace Beleren - Foil","Magic 2011 (M11)",6.75,2.70
-"Preordain - Foil","Magic 2011 (M11)",75.00,41.25
+"Kraken's Eye - Foil","Magic 2011 (M11)",0.08,0.01
 "Combust - Foil","Magic 2011 (M11)",0.08,0.01
 "Diminish - Foil","Magic 2011 (M11)",0.19,0.00
+"Grave Titan - Foil","Magic 2011 (M11)",22.00,9.90
+"Water Servant - Foil","Magic 2011 (M11)",0.13,0.01
 "Gargoyle Sentinel - Foil","Magic 2011 (M11)",0.11,0.01
 "Prized Unicorn - Foil","Magic 2011 (M11)",0.13,0.01
 "Cloud Elemental - Foil","Magic 2011 (M11)",0.10,0.00
@@ -442,16 +414,37 @@ Unsummon,"Magic 2011 (M11)",0.14,0.00
 "Knight Exemplar - Foil","Magic 2011 (M11)",7.25,2.90
 "Scroll Thief - Foil","Magic 2011 (M11)",0.08,0.00
 "Garruk's Packleader - Foil","Magic 2011 (M11)",0.42,0.01
-"Jace's Ingenuity - Foil","Magic 2011 (M11)",0.29,0.01
-"Liliana's Caress - Foil","Magic 2011 (M11)",7.92,3.17
-"Sign in Blood - Foil","Magic 2011 (M11)",0.46,0.00
-"Chandra's Outrage - Foil","Magic 2011 (M11)",0.17,0.00
+"Baneslayer Angel - Foil","Magic 2011 (M11)",29.53,14.77
+"Llanowar Elves - Foil","Magic 2011 (M11)",1.00,0.00
+"Royal Assassin - Foil","Magic 2011 (M11)",0.83,0.08
+"Squadron Hawk - Foil","Magic 2011 (M11)",1.86,0.00
+"Assault Griffin - Foil","Magic 2011 (M11)",0.08,0.00
+"Brindle Boar - Foil","Magic 2011 (M11)",0.17,0.00
+"Fireball - Foil","Magic 2011 (M11)",0.20,0.01
+"Silence - Foil","Magic 2011 (M11)",3.71,1.48
+"Lava Axe - Foil","Magic 2011 (M11)",0.08,0.00
+"Ornithopter - Foil","Magic 2011 (M11)",0.47,0.01
+"Pyroclasm - Foil","Magic 2011 (M11)",0.90,0.01
+"Ancient Hellkite - Foil","Magic 2011 (M11)",0.19,0.08
+"Manic Vandal - Foil","Magic 2011 (M11)",0.39,0.00
+"Nether Horror - Foil","Magic 2011 (M11)",0.14,0.00
+"Duress - Foil","Magic 2011 (M11)",0.34,0.00
+"Gravedigger - Foil","Magic 2011 (M11)",0.10,0.00
+"Dragonskull Summit - Foil","Magic 2011 (M11)",3.79,1.52
+"Armored Cancrix - Foil","Magic 2011 (M11)",0.04,0.00
+"Armored Cancrix - Foil","Magic 2011 (M11)",0.04,0.00
+"Bloodthrone Vampire - Foil","Magic 2011 (M11)",0.20,0.00
+"Hunters' Feast - Foil","Magic 2011 (M11)",0.08,0.00
+"Pacifism  - Foil","Magic 2011 (M11)",0.08,0.00
+"Siege Mastodon - Foil","Magic 2011 (M11)",0.07,0.00
+"Voltaic Key - Foil","Magic 2011 (M11)",9.00,3.60
+"Back to Nature - Foil","Magic 2011 (M11)",0.58,0.01
+"Sword of Vengeance - Foil","Magic 2011 (M11)",3.25,1.30
+"Leyline of Punishment - Foil","Magic 2011 (M11)",4.83,1.93
+"Nature's Spiral - Foil","Magic 2011 (M11)",0.19,0.01
 "Hornet Sting - Foil","Magic 2011 (M11)",0.20,0.00
 "Sun Titan - Foil","Magic 2011 (M11)",8.93,3.57
 "Viscera Seer - Foil","Magic 2011 (M11)",16.25,7.31
-"Cyclops Gladiator - Foil","Magic 2011 (M11)",0.23,0.08
-"Naturalize - Foil","Magic 2011 (M11)",0.10,0.00
-"Whispersilk Cloak - Foil","Magic 2011 (M11)",3.54,1.42
 "Conundrum Sphinx - Foil","Magic 2011 (M11)",0.16,0.08
 "Incite - Foil","Magic 2011 (M11)",0.08,0.00
 "Mind Rot - Foil","Magic 2011 (M11)",0.08,0.00
@@ -462,6 +455,9 @@ Unsummon,"Magic 2011 (M11)",0.14,0.00
 "Stone Golem - Foil","Magic 2011 (M11)",0.10,0.01
 "Unholy Strength - Foil","Magic 2011 (M11)",0.11,0.00
 "Unholy Strength - Foil","Magic 2011 (M11)",0.11,0.00
+"Cyclops Gladiator - Foil","Magic 2011 (M11)",0.23,0.08
+"Naturalize - Foil","Magic 2011 (M11)",0.10,0.00
+"Whispersilk Cloak - Foil","Magic 2011 (M11)",3.54,1.42
 "Fiery Hellhound - Foil","Magic 2011 (M11)",0.10,0.00
 "Terramorphic Expanse - Foil","Magic 2011 (M11)",1.16,0.00
 "Birds of Paradise - Foil","Magic 2011 (M11)",8.50,3.40
@@ -486,3 +482,7 @@ Unsummon,"Magic 2011 (M11)",0.14,0.00
 "Wall of Vines - Foil","Magic 2011 (M11)",0.14,0.00
 "Honor of the Pure - Foil","Magic 2011 (M11)",2.71,0.25
 "Shiv's Embrace - Foil","Magic 2011 (M11)",0.08,0.01
+"Jace's Ingenuity - Foil","Magic 2011 (M11)",0.29,0.01
+"Liliana's Caress - Foil","Magic 2011 (M11)",7.92,3.17
+"Sign in Blood - Foil","Magic 2011 (M11)",0.46,0.00
+"Chandra's Outrage - Foil","Magic 2011 (M11)",0.17,0.00

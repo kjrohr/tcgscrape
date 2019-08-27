@@ -33,7 +33,7 @@
       $foilCardDataArray = scrapeFoils($quietSpeculationURL);
       for($i=0;$i<count($foilCardDataArray[0]);$i++){
         array_push($cardNames, $foilCardDataArray[0][$i]);
-        array_push($medianPrices, $foilCardDataArray[1][$i]);
+        array_push($sellPrice, findSellPrice($foilCardDataArray[1][$i]));
         array_push($sellPrice, $foilCardDataArray[1][$i]);
         array_push($buyPrice, findBuyPrice($foilCardDataArray[1][$i], $foilCardDataArray[2][$i]));
         array_push($rarityArray, $foilCardDataArray[2][$i]);

@@ -12,9 +12,9 @@
 "Aetherstream Leopard","Aether Revolt",0.14,0.00
 "Aethertide Whale","Aether Revolt",0.33,0.08
 "Aetherwind Basker","Aether Revolt",0.67,0.25
-"Aid from the Cowl","Aether Revolt",0.37,0.08
+"Aid from the Cowl","Aether Revolt",0.36,0.08
 "Airdrop Aeronauts","Aether Revolt",0.22,0.01
-"Ajani Unyielding","Aether Revolt",2.25,0.25
+"Ajani Unyielding","Aether Revolt",2.16,0.25
 "Ajani, Valiant Protector","Aether Revolt",-,-
 "Ajani's Aid","Aether Revolt",0.35,0.08
 "Ajani's Comrade","Aether Revolt",0.24,0.01
@@ -22,8 +22,8 @@
 "Alley Strangler","Aether Revolt",0.14,0.00
 "Audacious Infiltrator","Aether Revolt",0.14,0.00
 "Augmenting Automaton","Aether Revolt",0.14,0.00
-"Baral, Chief of Compliance","Aether Revolt",3.85,1.54
-"Baral's Expertise","Aether Revolt",0.47,0.08
+"Baral, Chief of Compliance","Aether Revolt",3.82,1.53
+"Baral's Expertise","Aether Revolt",0.48,0.08
 "Barricade Breaker","Aether Revolt",0.23,0.01
 "Bastion Enforcer","Aether Revolt",0.14,0.00
 "Bastion Inventor","Aether Revolt",0.14,0.00
@@ -41,7 +41,7 @@ Conviction,"Aether Revolt",0.14,0.00
 "Cruel Finality","Aether Revolt",0.14,0.00
 "Daredevil Dragster","Aether Revolt",0.23,0.01
 "Daring Demolition","Aether Revolt",0.14,0.00
-"Dark Intimations","Aether Revolt",0.40,0.08
+"Dark Intimations","Aether Revolt",0.42,0.08
 "Dawnfeather Eagle","Aether Revolt",0.14,0.00
 "Deadeye Harpooner","Aether Revolt",0.22,0.01
 Decommission,"Aether Revolt",0.14,0.00
@@ -50,7 +50,7 @@ Decommission,"Aether Revolt",0.14,0.00
 "Destructive Tampering","Aether Revolt",0.14,0.00
 Disallow,"Aether Revolt",3.79,1.52
 "Dispersal Technician","Aether Revolt",0.14,0.00
-"Druid of the Cowl","Aether Revolt",0.18,0.00
+"Druid of the Cowl","Aether Revolt",0.20,0.00
 "Efficient Construction","Aether Revolt",0.31,0.01
 "Emblem - Tezzeret the Schemer","Aether Revolt",0.24,0.00
 "Embraal Gear-Smasher","Aether Revolt",0.14,0.00
@@ -68,11 +68,11 @@ Disallow,"Aether Revolt",3.79,1.52
 "Frontline Rebel","Aether Revolt",0.14,0.00
 "Ghirapur Osprey","Aether Revolt",0.14,0.00
 "Gifted Aetherborn","Aether Revolt",1.89,0.01
-"Glint-Sleeve Siphoner","Aether Revolt",0.37,0.08
-"Gonti's Aether Heart","Aether Revolt",0.71,0.25
+"Glint-Sleeve Siphoner","Aether Revolt",0.38,0.08
+"Gonti's Aether Heart","Aether Revolt",0.72,0.25
 "Gonti's Machinations","Aether Revolt",0.24,0.01
-"Greenbelt Rampager","Aether Revolt",0.46,0.08
-"Greenwheel Liberator","Aether Revolt",0.35,0.08
+"Greenbelt Rampager","Aether Revolt",0.47,0.08
+"Greenwheel Liberator","Aether Revolt",0.37,0.08
 "Gremlin Infestation","Aether Revolt",0.22,0.01
 "Gremlin Token","Aether Revolt",0.17,0.00
 "Heart of Kiran","Aether Revolt",0.95,0.25
@@ -92,7 +92,7 @@ Disallow,"Aether Revolt",3.79,1.52
 "Implement of Improvement","Aether Revolt",0.14,0.00
 "Implement of Malice","Aether Revolt",0.14,0.00
 "Indomitable Creativity","Aether Revolt",0.74,0.25
-"Inspiring Roar","Aether Revolt",0.23,0.00
+"Inspiring Roar","Aether Revolt",0.22,0.00
 "Inspiring Statuary","Aether Revolt",0.69,0.08
 "Invigorated Rampage","Aether Revolt",0.39,0.01
 "Ironclad Revolutionary","Aether Revolt",0.21,0.01
@@ -111,20 +111,20 @@ Disallow,"Aether Revolt",3.79,1.52
 "Mechanized Production","Aether Revolt",3.79,1.52
 "Merchant's Dockhand","Aether Revolt",0.32,0.08
 "Metallic Mimic","Aether Revolt",5.69,2.28
-"Metallic Rebuke","Aether Revolt",0.19,0.00
+"Metallic Rebuke","Aether Revolt",0.18,0.00
 "Midnight Entourage","Aether Revolt",0.29,0.08
-"Mobile Garrison","Aether Revolt",0.15,0.00
+"Mobile Garrison","Aether Revolt",0.16,0.00
 "Monstrous Onslaught","Aether Revolt",0.23,0.01
 "Narnam Renegade","Aether Revolt",0.24,0.01
 "Natural Obsolescence","Aether Revolt",0.14,0.00
-Negate,"Aether Revolt",0.19,0.00
+Negate,"Aether Revolt",0.18,0.00
 "Night Market Aeronaut","Aether Revolt",0.14,0.00
 "Night Market Guard","Aether Revolt",0.14,0.00
-"Oath of Ajani","Aether Revolt",0.78,0.08
+"Oath of Ajani","Aether Revolt",0.81,0.08
 Ornithopter,"Aether Revolt",0.24,0.01
 "Outland Boar","Aether Revolt",0.23,0.01
 "Pacification Array","Aether Revolt",0.24,0.01
-"Paradox Engine","Aether Revolt",9.45,3.78
+"Paradox Engine","Aether Revolt",9.47,3.79
 "Peacewalker Colossus","Aether Revolt",0.39,0.08
 "Peema Aether-Seer","Aether Revolt",0.23,0.01
 "Pendulum of Patterns","Aether Revolt",0.14,0.00
@@ -132,7 +132,7 @@ Ornithopter,"Aether Revolt",0.24,0.01
 "Pia's Revolution","Aether Revolt",0.38,0.08
 "Planar Bridge","Aether Revolt",6.01,2.40
 "Precise Strike","Aether Revolt",0.14,0.00
-"Prey Upon","Aether Revolt",0.14,0.00
+"Prey Upon","Aether Revolt",0.15,0.00
 "Prizefighter Construct","Aether Revolt",0.14,0.00
 "Quicksmith Rebel","Aether Revolt",0.29,0.08
 "Quicksmith Spy","Aether Revolt",0.31,0.08
@@ -140,7 +140,7 @@ Ornithopter,"Aether Revolt",0.24,0.01
 "Ravenous Intruder","Aether Revolt",0.24,0.01
 "Reckless Racer","Aether Revolt",0.23,0.01
 "Release the Gremlins","Aether Revolt",0.42,0.08
-"Renegade Map","Aether Revolt",0.20,0.00
+"Renegade Map","Aether Revolt",0.21,0.00
 "Renegade Rallier","Aether Revolt",0.26,0.01
 "Renegade Wheelsmith","Aether Revolt",0.24,0.01
 "Renegade's Getaway","Aether Revolt",0.14,0.00
@@ -157,10 +157,10 @@ Ornithopter,"Aether Revolt",0.24,0.01
 "Scrapper Champion","Aether Revolt",0.23,0.01
 "Scrounging Bandar","Aether Revolt",0.17,0.00
 "Secret Salvage","Aether Revolt",0.31,0.08
-"Servo Schematic","Aether Revolt",0.24,0.01
+"Servo Schematic","Aether Revolt",0.23,0.01
 "Shielded Aether Thief","Aether Revolt",0.24,0.01
 "Shipwreck Moray","Aether Revolt",0.14,0.00
-Shock,"Aether Revolt",0.17,0.00
+Shock,"Aether Revolt",0.16,0.00
 "Siege Modification","Aether Revolt",0.24,0.01
 "Silkweaver Elite","Aether Revolt",0.14,0.00
 "Skyship Plunderer","Aether Revolt",0.24,0.01
@@ -181,7 +181,7 @@ Shock,"Aether Revolt",0.17,0.00
 "Thopter Arrest","Aether Revolt",0.24,0.01
 "Tranquil Expanse","Aether Revolt",0.19,0.00
 "Treasure Keeper","Aether Revolt",0.24,0.01
-"Trophy Mage","Aether Revolt",0.28,0.01
+"Trophy Mage","Aether Revolt",0.26,0.01
 "Unbridled Growth","Aether Revolt",0.16,0.00
 "Universal Solvent","Aether Revolt",0.14,0.00
 "Untethered Express","Aether Revolt",0.24,0.01
@@ -195,17 +195,86 @@ Shock,"Aether Revolt",0.17,0.00
 "Winding Constrictor","Aether Revolt",0.30,0.01
 "Wind-Kin Raiders","Aether Revolt",0.20,0.01
 Wrangle,"Aether Revolt",0.14,0.00
-"Yahenni, Undying Partisan","Aether Revolt",3.10,1.24
+"Yahenni, Undying Partisan","Aether Revolt",3.09,1.24
 "Yahenni's Expertise","Aether Revolt",0.47,0.08
-"Airdrop Aeronauts - Foil","Aether Revolt",0.04,0.01
-"Airdrop Aeronauts - Foil","Aether Revolt",0.04,0.01
-"Defiant Salvager - Foil","Aether Revolt",0.10,0.00
-"Siege Modification - Foil","Aether Revolt",0.10,0.01
-"Wind-Kin Raiders - Foil","Aether Revolt",0.05,0.01
-"Illusionist's Stratagem - Foil","Aether Revolt",0.25,0.01
-"Negate - Foil","Aether Revolt",0.41,0.00
-"Daredevil Dragster - Foil","Aether Revolt",0.16,0.01
-"Outland Boar - Foil","Aether Revolt",0.04,0.01
+"Greenbelt Rampager - Foil","Aether Revolt",0.50,0.08
+"Gifted Aetherborn - Foil","Aether Revolt",2.25,0.25
+"Invigorated Rampage - Foil","Aether Revolt",0.14,0.01
+"Metallic Mimic - Foil","Aether Revolt",9.21,3.68
+"Peema Aether-Seer - Foil","Aether Revolt",0.05,0.01
+"Tezzeret's Betrayal - Foil","Aether Revolt",-,-
+"Aether Swooper - Foil","Aether Revolt",0.08,0.00
+"Lightning Runner - Foil","Aether Revolt",0.50,0.25
+"Scrapper Champion - Foil","Aether Revolt",0.05,0.01
+"Verdant Automaton - Foil","Aether Revolt",0.05,0.00
+"Lifecrafter's Bestiary - Foil","Aether Revolt",4.38,1.75
+"Sram, Senior Edificer - Foil","Aether Revolt",2.23,0.25
+"Untethered Express - Foil","Aether Revolt",0.25,0.01
+"Destructive Tampering - Foil","Aether Revolt",0.04,0.00
+"Kari Zev's Expertise - Foil","Aether Revolt",0.55,0.08
+"Monstrous Onslaught - Foil","Aether Revolt",0.08,0.01
+"Reverse Engineer - Foil","Aether Revolt",0.14,0.01
+"Skyship Plunderer - Foil","Aether Revolt",0.37,0.01
+"Tezzeret, Master of Metal - Foil","Aether Revolt",1.00,0.25
+"Aethersphere Harvester - Foil","Aether Revolt",0.32,0.08
+"Pacification Array - Foil","Aether Revolt",0.17,0.01
+"Renegade Map - Foil","Aether Revolt",0.26,0.00
+"Aether Herder - Foil","Aether Revolt",0.05,0.00
+"Fourth Bridge Prowler - Foil","Aether Revolt",0.10,0.00
+"Highspire Infusion - Foil","Aether Revolt",0.07,0.00
+"Irontread Crusher - Foil","Aether Revolt",0.08,0.00
+"Aether Poisoner - Foil","Aether Revolt",0.08,0.00
+"Sram's Expertise - Foil","Aether Revolt",0.26,0.08
+"Vengeful Rebel - Foil","Aether Revolt",0.14,0.01
+"Consulate Dreadnought - Foil","Aether Revolt",0.25,0.01
+"Leave in the Dust - Foil","Aether Revolt",0.07,0.00
+"Rishkar, Peema Renegade - Foil","Aether Revolt",0.56,0.08
+"Trophy Mage - Foil","Aether Revolt",0.48,0.01
+"Aetherwind Basker - Foil","Aether Revolt",0.34,0.25
+"Battle at the Bridge - Foil","Aether Revolt",0.42,0.08
+"Foundry Assembler - Foil","Aether Revolt",0.04,0.00
+"Hidden Herbalists - Foil","Aether Revolt",0.28,0.01
+"Shipwreck Moray - Foil","Aether Revolt",0.02,0.00
+"Reckless Racer - Foil","Aether Revolt",0.04,0.01
+"Submerged Boneyard - Foil","Aether Revolt",-,-
+"Countless Gears Renegade - Foil","Aether Revolt",0.05,0.00
+"Embraal Gear-Smasher - Foil","Aether Revolt",0.05,0.00
+"Implement of Examination - Foil","Aether Revolt",0.05,0.00
+"Ajani, Valiant Protector - Foil","Aether Revolt",1.25,0.25
+"Cogwork Assembler - Foil","Aether Revolt",0.17,0.01
+"Frontline Rebel - Foil","Aether Revolt",0.02,0.00
+"Frontline Rebel - Foil","Aether Revolt",0.02,0.00
+"Weldfast Engineer - Foil","Aether Revolt",0.05,0.01
+"Barricade Breaker - Foil","Aether Revolt",0.07,0.01
+"Indomitable Creativity - Foil","Aether Revolt",1.12,0.25
+"Take into Custody - Foil","Aether Revolt",0.05,0.00
+"Watchful Automaton - Foil","Aether Revolt",0.05,0.00
+"Herald of Anguish - Foil","Aether Revolt",1.22,0.25
+"Mechanized Production - Foil","Aether Revolt",4.00,1.60
+"Tezzeret the Schemer - Foil","Aether Revolt",2.60,0.25
+"Implement of Combustion - Foil","Aether Revolt",0.10,0.00
+"Lifecraft Cavalry - Foil","Aether Revolt",0.11,0.00
+"Night Market Aeronaut - Foil","Aether Revolt",0.04,0.00
+"Universal Solvent - Foil","Aether Revolt",0.12,0.00
+"Chandra's Revolution - Foil","Aether Revolt",0.05,0.00
+"Kari Zev, Skyship Raider - Foil","Aether Revolt",0.19,0.08
+"Pia's Revolution - Foil","Aether Revolt",0.29,0.08
+"Thopter Arrest - Foil","Aether Revolt",0.16,0.01
+"Wrangle - Foil","Aether Revolt",0.08,0.00
+"Metallic Rebuke - Foil","Aether Revolt",0.35,0.00
+"Shock - Foil","Aether Revolt",0.25,0.00
+"Midnight Entourage - Foil","Aether Revolt",0.10,0.08
+"Aether Chaser - Foil","Aether Revolt",0.05,0.00
+"Alley Evasion - Foil","Aether Revolt",0.05,0.00
+"Prizefighter Construct - Foil","Aether Revolt",0.05,0.00
+"Spire of Industry - Foil","Aether Revolt",5.75,2.30
+"Aethergeode Miner - Foil","Aether Revolt",0.08,0.08
+"Gremlin Infestation - Foil","Aether Revolt",0.08,0.01
+"Maulfist Revolutionary - Foil","Aether Revolt",0.14,0.01
+"Sweatworks Brawler - Foil","Aether Revolt",0.08,0.00
+"Walking Ballista - Foil","Aether Revolt",36.93,18.47
+"Aerial Modification - Foil","Aether Revolt",0.10,0.01
+"Lathnu Sailback - Foil","Aether Revolt",0.05,0.00
 "Aetherstream Leopard - Foil","Aether Revolt",0.08,0.00
 "Bastion Enforcer - Foil","Aether Revolt",0.08,0.00
 "Inspiring Roar - Foil","Aether Revolt",-,-
@@ -222,94 +291,17 @@ Wrangle,"Aether Revolt",0.14,0.00
 "Mobile Garrison - Foil","Aether Revolt",0.10,0.00
 "Ironclad Revolutionary - Foil","Aether Revolt",0.04,0.01
 "Tezzeret's Simulacrum - Foil","Aether Revolt",-,-
+"Airdrop Aeronauts - Foil","Aether Revolt",0.04,0.01
+"Airdrop Aeronauts - Foil","Aether Revolt",0.04,0.01
+"Defiant Salvager - Foil","Aether Revolt",0.10,0.00
+"Siege Modification - Foil","Aether Revolt",0.10,0.01
+"Wind-Kin Raiders - Foil","Aether Revolt",0.05,0.01
+"Illusionist's Stratagem - Foil","Aether Revolt",0.25,0.01
+"Negate - Foil","Aether Revolt",0.41,0.00
+"Daredevil Dragster - Foil","Aether Revolt",0.16,0.01
+"Outland Boar - Foil","Aether Revolt",0.04,0.01
 "Ajani's Aid - Foil","Aether Revolt",-,-
-"Consulate Dreadnought - Foil","Aether Revolt",0.25,0.01
-"Leave in the Dust - Foil","Aether Revolt",0.07,0.00
-"Rishkar, Peema Renegade - Foil","Aether Revolt",0.56,0.08
-"Trophy Mage - Foil","Aether Revolt",0.48,0.01
-"Aether Poisoner - Foil","Aether Revolt",0.08,0.00
-"Sram's Expertise - Foil","Aether Revolt",0.26,0.08
-"Vengeful Rebel - Foil","Aether Revolt",0.14,0.01
-"Ajani, Valiant Protector - Foil","Aether Revolt",1.25,0.25
-"Cogwork Assembler - Foil","Aether Revolt",0.17,0.01
-"Frontline Rebel - Foil","Aether Revolt",0.02,0.00
-"Frontline Rebel - Foil","Aether Revolt",0.02,0.00
-"Weldfast Engineer - Foil","Aether Revolt",0.05,0.01
-"Barricade Breaker - Foil","Aether Revolt",0.07,0.01
-"Indomitable Creativity - Foil","Aether Revolt",1.12,0.25
-"Take into Custody - Foil","Aether Revolt",0.05,0.00
-"Watchful Automaton - Foil","Aether Revolt",0.05,0.00
-"Aetherwind Basker - Foil","Aether Revolt",0.34,0.25
-"Battle at the Bridge - Foil","Aether Revolt",0.42,0.08
-"Foundry Assembler - Foil","Aether Revolt",0.04,0.00
-"Hidden Herbalists - Foil","Aether Revolt",0.28,0.01
-"Shipwreck Moray - Foil","Aether Revolt",0.02,0.00
-"Reckless Racer - Foil","Aether Revolt",0.04,0.01
-"Submerged Boneyard - Foil","Aether Revolt",-,-
-"Countless Gears Renegade - Foil","Aether Revolt",0.05,0.00
-"Embraal Gear-Smasher - Foil","Aether Revolt",0.05,0.00
-"Implement of Examination - Foil","Aether Revolt",0.05,0.00
-"Gifted Aetherborn - Foil","Aether Revolt",2.25,0.25
-"Greenbelt Rampager - Foil","Aether Revolt",0.50,0.08
-"Invigorated Rampage - Foil","Aether Revolt",0.14,0.01
-"Metallic Mimic - Foil","Aether Revolt",9.21,3.68
-"Peema Aether-Seer - Foil","Aether Revolt",0.05,0.01
-"Tezzeret's Betrayal - Foil","Aether Revolt",-,-
-"Destructive Tampering - Foil","Aether Revolt",0.04,0.00
-"Kari Zev's Expertise - Foil","Aether Revolt",0.55,0.08
-"Monstrous Onslaught - Foil","Aether Revolt",0.08,0.01
-"Reverse Engineer - Foil","Aether Revolt",0.14,0.01
-"Skyship Plunderer - Foil","Aether Revolt",0.37,0.01
-"Tezzeret, Master of Metal - Foil","Aether Revolt",1.00,0.25
-"Aethersphere Harvester - Foil","Aether Revolt",0.32,0.08
-"Pacification Array - Foil","Aether Revolt",0.17,0.01
-"Renegade Map - Foil","Aether Revolt",0.26,0.00
-"Aether Swooper - Foil","Aether Revolt",0.08,0.00
-"Lightning Runner - Foil","Aether Revolt",0.50,0.25
-"Scrapper Champion - Foil","Aether Revolt",0.05,0.01
-"Verdant Automaton - Foil","Aether Revolt",0.05,0.00
-"Lifecrafter's Bestiary - Foil","Aether Revolt",4.38,1.75
-"Sram, Senior Edificer - Foil","Aether Revolt",2.23,0.25
-"Untethered Express - Foil","Aether Revolt",0.25,0.01
-"Fourth Bridge Prowler - Foil","Aether Revolt",0.10,0.00
-"Highspire Infusion - Foil","Aether Revolt",0.07,0.00
-"Irontread Crusher - Foil","Aether Revolt",0.08,0.00
 "Tezzeret's Touch - Foil","Aether Revolt",0.10,0.01
-"Midnight Entourage - Foil","Aether Revolt",0.10,0.08
-"Aether Chaser - Foil","Aether Revolt",0.05,0.00
-"Alley Evasion - Foil","Aether Revolt",0.05,0.00
-"Prizefighter Construct - Foil","Aether Revolt",0.05,0.00
-"Spire of Industry - Foil","Aether Revolt",5.75,2.30
-"Aethergeode Miner - Foil","Aether Revolt",0.08,0.08
-"Gremlin Infestation - Foil","Aether Revolt",0.08,0.01
-"Maulfist Revolutionary - Foil","Aether Revolt",0.14,0.01
-"Sweatworks Brawler - Foil","Aether Revolt",0.08,0.00
-"Walking Ballista - Foil","Aether Revolt",36.93,18.47
-"Herald of Anguish - Foil","Aether Revolt",1.22,0.25
-"Mechanized Production - Foil","Aether Revolt",4.00,1.60
-"Tezzeret the Schemer - Foil","Aether Revolt",2.60,0.25
-"Implement of Combustion - Foil","Aether Revolt",0.10,0.00
-"Lifecraft Cavalry - Foil","Aether Revolt",0.11,0.00
-"Night Market Aeronaut - Foil","Aether Revolt",0.04,0.00
-"Universal Solvent - Foil","Aether Revolt",0.12,0.00
-"Chandra's Revolution - Foil","Aether Revolt",0.05,0.00
-"Kari Zev, Skyship Raider - Foil","Aether Revolt",0.19,0.08
-"Pia's Revolution - Foil","Aether Revolt",0.29,0.08
-"Thopter Arrest - Foil","Aether Revolt",0.16,0.01
-"Wrangle - Foil","Aether Revolt",0.08,0.00
-"Metallic Rebuke - Foil","Aether Revolt",0.35,0.00
-"Shock - Foil","Aether Revolt",0.25,0.00
-"Aerial Modification - Foil","Aether Revolt",0.10,0.01
-"Lathnu Sailback - Foil","Aether Revolt",0.05,0.00
-"Consulate Turret - Foil","Aether Revolt",0.05,0.00
-"Glint-Sleeve Siphoner - Foil","Aether Revolt",0.70,0.08
-"Unbridled Growth - Foil","Aether Revolt",0.10,0.00
-"Baral's Expertise - Foil","Aether Revolt",0.44,0.08
-"Implement of Malice - Foil","Aether Revolt",0.07,0.00
-"Release the Gremlins - Foil","Aether Revolt",0.25,0.08
-"Scrounging Bandar - Foil","Aether Revolt",0.14,0.00
-"Aether Herder - Foil","Aether Revolt",0.05,0.00
-"Narnam Renegade - Foil","Aether Revolt",0.34,0.01
 "Freejam Regent - Foil","Aether Revolt",0.17,0.08
 "Hinterland Drake - Foil","Aether Revolt",0.05,0.00
 "Restoration Specialist - Foil","Aether Revolt",0.28,0.01
@@ -318,28 +310,66 @@ Wrangle,"Aether Revolt",0.14,0.00
 "Hidden Stockpile - Foil","Aether Revolt",0.73,0.01
 "Pendulum of Patterns - Foil","Aether Revolt",-,-
 "Winding Constrictor - Foil","Aether Revolt",0.81,0.01
-"Caught in the Brights - Foil","Aether Revolt",0.10,0.00
-"Perilous Predicament - Foil","Aether Revolt",0.04,0.01
-"Resourceful Return - Foil","Aether Revolt",0.08,0.00
+"Consulate Turret - Foil","Aether Revolt",0.05,0.00
+"Glint-Sleeve Siphoner - Foil","Aether Revolt",0.70,0.08
+"Unbridled Growth - Foil","Aether Revolt",0.10,0.00
+"Baral's Expertise - Foil","Aether Revolt",0.44,0.08
+"Implement of Malice - Foil","Aether Revolt",0.07,0.00
+"Release the Gremlins - Foil","Aether Revolt",0.25,0.08
+"Scrounging Bandar - Foil","Aether Revolt",0.14,0.00
+"Narnam Renegade - Foil","Aether Revolt",0.34,0.01
 "Dark Intimations - Foil","Aether Revolt",0.40,0.08
 "Fen Hauler - Foil","Aether Revolt",0.02,0.00
 "Servo Schematic - Foil","Aether Revolt",0.20,0.01
-"Druid of the Cowl - Foil","Aether Revolt",0.19,0.00
-"Lifecraft Awakening - Foil","Aether Revolt",0.08,0.01
-"Rishkar's Expertise - Foil","Aether Revolt",4.00,1.60
-"Fatal Push - Foil","Aether Revolt",5.00,2.00
+"Caught in the Brights - Foil","Aether Revolt",0.10,0.00
+"Perilous Predicament - Foil","Aether Revolt",0.04,0.01
+"Resourceful Return - Foil","Aether Revolt",0.08,0.00
 "Efficient Construction - Foil","Aether Revolt",0.75,0.01
-"Consulate Crackdown - Foil","Aether Revolt",0.28,0.08
-"Disallow - Foil","Aether Revolt",5.50,2.20
-"Treasure Keeper - Foil","Aether Revolt",0.17,0.01
-"Yahenni's Expertise - Foil","Aether Revolt",0.40,0.08
 "Ajani Unyielding - Foil","Aether Revolt",3.41,1.36
 "Deft Dismissal - Foil","Aether Revolt",0.01,0.01
 "Silkweaver Elite - Foil","Aether Revolt",0.05,0.00
+"Druid of the Cowl - Foil","Aether Revolt",0.19,0.00
+"Lifecraft Awakening - Foil","Aether Revolt",0.08,0.01
+"Rishkar's Expertise - Foil","Aether Revolt",4.00,1.60
 "Aid from the Cowl - Foil","Aether Revolt",0.25,0.08
 "Call for Unity - Foil","Aether Revolt",0.20,0.08
 "Decommission - Foil","Aether Revolt",0.02,0.00
 "Reservoir Walker - Foil","Aether Revolt",0.07,0.00
+"Fatal Push - Foil","Aether Revolt",5.00,2.00
+"Consulate Crackdown - Foil","Aether Revolt",0.28,0.08
+"Disallow - Foil","Aether Revolt",5.50,2.20
+"Treasure Keeper - Foil","Aether Revolt",0.17,0.01
+"Yahenni's Expertise - Foil","Aether Revolt",0.40,0.08
+"Ridgescale Tusker - Foil","Aether Revolt",0.23,0.01
+"Sly Requisitioner - Foil","Aether Revolt",0.20,0.01
+"Augmenting Automaton - Foil","Aether Revolt",0.05,0.00
+"Implement of Ferocity - Foil","Aether Revolt",0.04,0.00
+"Lifecrafter's Gift - Foil","Aether Revolt",0.05,0.01
+"Ravenous Intruder - Foil","Aether Revolt",0.11,0.01
+"Dispersal Technician - Foil","Aether Revolt",0.04,0.00
+"Natural Obsolescence - Foil","Aether Revolt",0.07,0.00
+"Solemn Recruit - Foil","Aether Revolt",0.23,0.08
+"Deadeye Harpooner - Foil","Aether Revolt",0.08,0.01
+"Renegade's Getaway - Foil","Aether Revolt",0.10,0.00
+"Whir of Invention - Foil","Aether Revolt",10.99,4.95
+"Aegis Automaton - Foil","Aether Revolt",0.02,0.00
+"Tranquil Expanse - Foil","Aether Revolt",-,-
+"Bastion Inventor - Foil","Aether Revolt",0.05,0.00
+"Dawnfeather Eagle - Foil","Aether Revolt",0.10,0.00
+"Filigree Crawler - Foil","Aether Revolt",0.05,0.00
+"Heroic Intervention - Foil","Aether Revolt",12.49,5.62
+"Shielded Aether Thief - Foil","Aether Revolt",0.08,0.01
+"Daring Demolition - Foil","Aether Revolt",0.05,0.00
+"Felidar Guardian - Foil","Aether Revolt",7.25,2.90
+"Heart of Kiran - Foil","Aether Revolt",1.73,0.25
+"Maverick Thopterist - Foil","Aether Revolt",0.34,0.01
+"Secret Salvage - Foil","Aether Revolt",0.20,0.08
+"Baral, Chief of Compliance - Foil","Aether Revolt",5.79,2.32
+"Cruel Finality - Foil","Aether Revolt",0.08,0.00
+"Implement of Improvement - Foil","Aether Revolt",0.10,0.00
+"Aether Inspector - Foil","Aether Revolt",0.08,0.00
+"Salvage Scuttler - Foil","Aether Revolt",0.05,0.01
+"Salvage Scuttler - Foil","Aether Revolt",0.05,0.01
 "Ghirapur Osprey - Foil","Aether Revolt",0.02,0.00
 "Hungry Flames - Foil","Aether Revolt",0.23,0.01
 "Precise Strike - Foil","Aether Revolt",0.04,0.00
@@ -366,33 +396,3 @@ Wrangle,"Aether Revolt",0.14,0.00
 "Gonti's Machinations - Foil","Aether Revolt",0.25,0.01
 "Night Market Guard - Foil","Aether Revolt",0.08,0.00
 "Quicksmith Spy - Foil","Aether Revolt",0.12,0.08
-"Ridgescale Tusker - Foil","Aether Revolt",0.23,0.01
-"Sly Requisitioner - Foil","Aether Revolt",0.20,0.01
-"Augmenting Automaton - Foil","Aether Revolt",0.05,0.00
-"Implement of Ferocity - Foil","Aether Revolt",0.04,0.00
-"Lifecrafter's Gift - Foil","Aether Revolt",0.05,0.01
-"Ravenous Intruder - Foil","Aether Revolt",0.11,0.01
-"Dispersal Technician - Foil","Aether Revolt",0.04,0.00
-"Natural Obsolescence - Foil","Aether Revolt",0.07,0.00
-"Solemn Recruit - Foil","Aether Revolt",0.23,0.08
-"Aegis Automaton - Foil","Aether Revolt",0.02,0.00
-"Tranquil Expanse - Foil","Aether Revolt",-,-
-"Bastion Inventor - Foil","Aether Revolt",0.05,0.00
-"Dawnfeather Eagle - Foil","Aether Revolt",0.10,0.00
-"Filigree Crawler - Foil","Aether Revolt",0.05,0.00
-"Heroic Intervention - Foil","Aether Revolt",12.49,5.62
-"Shielded Aether Thief - Foil","Aether Revolt",0.08,0.01
-"Deadeye Harpooner - Foil","Aether Revolt",0.08,0.01
-"Renegade's Getaway - Foil","Aether Revolt",0.10,0.00
-"Whir of Invention - Foil","Aether Revolt",10.99,4.95
-"Daring Demolition - Foil","Aether Revolt",0.05,0.00
-"Felidar Guardian - Foil","Aether Revolt",7.25,2.90
-"Heart of Kiran - Foil","Aether Revolt",1.73,0.25
-"Maverick Thopterist - Foil","Aether Revolt",0.34,0.01
-"Secret Salvage - Foil","Aether Revolt",0.20,0.08
-"Baral, Chief of Compliance - Foil","Aether Revolt",5.79,2.32
-"Cruel Finality - Foil","Aether Revolt",0.08,0.00
-"Implement of Improvement - Foil","Aether Revolt",0.10,0.00
-"Aether Inspector - Foil","Aether Revolt",0.08,0.00
-"Salvage Scuttler - Foil","Aether Revolt",0.05,0.01
-"Salvage Scuttler - Foil","Aether Revolt",0.05,0.01
