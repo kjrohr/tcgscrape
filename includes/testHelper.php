@@ -18,7 +18,7 @@ function findSellPrice($inputPrice) {
     
 }
 
-function findBuyPrice($inputPrice) {
+function findBuyPrice($inputPrice, $rarity) {
     //=if(isblank(D3),,if(or(D3="—",D3="Market Price"),"—",if(or(B3="C",B3="U",B3="T",B3="L",B3="P"),if(D3>0.99,mround(D3*0.35,0.1),if(D3>0.49,mround(D3*0.1,0.05),if(D3="U",0.01,0)))
     // ,if(and(or(B3="R",B3="M"),D3<2),if(B3="R",0.08,0.25),if(D3<3,mround(0.2*D3,0.05),if(D3<10,mround(0.4*D3,0.1),if(D3<25,mround(0.45*D3,0.25),if(D3<50,mround(0.5*D3,0.25),if(D3<100,mround(0.55*D3,0.5),mround(0.6*D3,0.5))))))))))
     $sellPrice = $inputPrice;
@@ -45,9 +45,7 @@ function findBuyPrice($inputPrice) {
             }
     }
     
-    return $buyPrice;
-
-
+    
     // Common
 
     // Uncommon
@@ -56,9 +54,12 @@ function findBuyPrice($inputPrice) {
 
     // Mythic
 
+    return $buyPrice;
+
 }
 
-function findFoilBuyPrice(){
+function findFoilBuyPrice($inputPrice, $rarity){
+    
     
 }
 
@@ -75,8 +76,15 @@ function scrapeFoils($url){
         array_push($cardNamesArray, str_replace("&#39;", "'", $card->first_child()->plaintext . " - Foil"));
         $medianPrice = $card->last_child()->prev_sibling()->plaintext;
         $rarity = $card->first_child()->next_sibling()->next_sibling()->plaintext;
+
+
+        // NOT GREAT
+        if ($rarity == "" || $rarity == null){
+            $rarity = "R";
+        }
+
         array_push($rarityArray, $rarity);
-        //echo $card->first_child()->plaintext . " " . $rarity . "<br />";
+        
         if ($medianPrice == ""){
             $medianPrice = "-";
         }
@@ -129,8 +137,7 @@ function scrapeTCG($url){
         //echo $oddity->plaintext;
     }
 
-    // TODO
-    // Scrape rarity
+
 
     array_push($returnArray, $cardNamesArray);
     array_push($returnArray, $cardMedianPriceArray);
