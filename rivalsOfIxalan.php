@@ -46,6 +46,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: unstable.php");
+      header("Location: ixalan.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

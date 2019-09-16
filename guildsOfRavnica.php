@@ -46,6 +46,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
       
     // ****** CHAIN SCRIPTS ******
-    header("Location: commander2018.php");
+    header("Location: dominaria.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

@@ -38,15 +38,15 @@
         array_push($rarityArray, $foilCardDataArray[2][$i]);
     }
 
-      insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
-      generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
-      generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
-      generateStandardCSV($setName,$cardNames,$sellPrice,$buyPrice);
-      generateModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
+    insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
+    generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
+    appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
+    generateStandardCSV($setName,$cardNames,$sellPrice,$buyPrice);
+    generateModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
     // modernHorizons.php is next
-      header("Location: modernHorizons.php");
+      header("Location: warOfTheSpark.php");
     // ****** END CHAIN SCRIPTS ******
 
 ?>

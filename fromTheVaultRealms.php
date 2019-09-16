@@ -4,10 +4,9 @@
     include_once 'includes/helper.php';
     
     // Global Variables
-    $setName = "Dominaria"; // Used for Categories in Crystal Commerce
-    $tableName = "dominaria"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/dominaria"; // URL to scrape
-    $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/Dominaria/foil";
+    $setName = "From the Vault: Realms"; // Used for Categories in Crystal Commerce
+    $tableName = "fromTheVaultRealms"; // Used for mysql
+    $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/From%20the%20Vault:%20Realms/foil";
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
     $sellPrice = array(); // Array to hold our sell prices
@@ -19,20 +18,9 @@
       dropTable($tableName);
       createTable($tableName);
 
-      $tcgPlayerCardDataArray = scrapeTCG($tcgPlayerSetURL);
-      for ($a = 0; $a < count($tcgPlayerCardDataArray[0]); $a++){
-          array_push($cardNames, $tcgPlayerCardDataArray[0][$a]);
-          array_push($medianPrices, $tcgPlayerCardDataArray[1][$a]);
-          $theSellPrice = findSellPrice($tcgPlayerCardDataArray[1][$a]);
-          $theBuyPrice = findBuyPrice($theSellPrice, $tcgPlayerCardDataArray[2][$a]);
-          array_push($sellPrice, $theSellPrice);
-          array_push($buyPrice, $theBuyPrice);
-          array_push($rarityArray, $tcgPlayerCardDataArray[2][$a]);
-      }
-      
       $foilCardDataArray = scrapeFoils($quietSpeculationURL);
       for($i=0;$i<count($foilCardDataArray[0]);$i++){
-        array_push($cardNames, $foilCardDataArray[0][$i]);
+        array_push($cardNames, str_replace(" - Foil","", $foilCardDataArray[0][$i]));
         array_push($medianPrices, $foilCardDataArray[1][$i]);
         array_push($sellPrice, findSellPrice($foilCardDataArray[1][$i]));
         array_push($buyPrice, findBuyPrice($foilCardDataArray[1][$i], $foilCardDataArray[2][$i]));
@@ -42,10 +30,9 @@
       insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
-      appendStandardCSV($setName,$cardNames,$sellPrice,$buyPrice);
-      appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
+      appendFTVCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: rivalsOfIxalan.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

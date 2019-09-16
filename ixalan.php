@@ -46,6 +46,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
       
     // ****** CHAIN SCRIPTS ******
-      header("Location: commander2017.php");
+      header("Location: coreSet2019.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

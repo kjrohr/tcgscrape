@@ -44,6 +44,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: commander2019.php");
+      header("Location: fromTheVaultLore.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

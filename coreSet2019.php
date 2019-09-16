@@ -46,6 +46,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: battlebond.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
