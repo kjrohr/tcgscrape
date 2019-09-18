@@ -45,6 +45,6 @@
 
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: portalThreeKingdoms.php");
+      header("Location: urzasLegacy.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

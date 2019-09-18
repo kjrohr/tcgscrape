@@ -44,6 +44,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
     // ****** CHAIN SCRIPTS ******
-      header("Location: modernMasters2017.php");
+      header("Location: aetherRevolt.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

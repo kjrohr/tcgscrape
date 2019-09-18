@@ -46,6 +46,6 @@
 
       
     // ****** CHAIN SCRIPTS ******
-      header("Location: magic2013.php");
+      header("Location: gatecrash.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

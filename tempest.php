@@ -33,6 +33,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: weatherlight.php");
+      header("Location: fifthEdition.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

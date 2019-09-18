@@ -44,6 +44,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: portalSecondAge.php");
+      header("Location: stronghold.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

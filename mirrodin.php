@@ -45,6 +45,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: scourge.php");
+      header("Location: 8thEdition.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

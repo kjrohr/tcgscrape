@@ -44,6 +44,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: index.php");
+      header("Location: onslaught.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

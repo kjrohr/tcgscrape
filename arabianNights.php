@@ -33,6 +33,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: commandersArsenal.php");
+      header("Location: unlimitedEdition.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

@@ -33,6 +33,6 @@
       appendFTVCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: index.php");
+      header("Location: fromTheVaultRelics.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

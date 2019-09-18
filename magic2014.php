@@ -44,6 +44,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
     // ****** CHAIN SCRIPTS ******
-      header("Location: dragonsMaze.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

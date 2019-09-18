@@ -32,6 +32,6 @@
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
     // ****** CHAIN SCRIPTS ******
-      header("Location: unglued.php");
+      header("Location: exodus.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

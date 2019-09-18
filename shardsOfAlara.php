@@ -45,6 +45,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: index.php");
+      header("Location: eventide.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

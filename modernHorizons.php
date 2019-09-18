@@ -45,6 +45,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-    header("Location: warOfTheSpark.php");
+    header("Location: hourOfDevastation.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

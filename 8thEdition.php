@@ -45,6 +45,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
       
     // ****** CHAIN SCRIPTS ******
-      header("Location: 9thEdition.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

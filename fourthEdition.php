@@ -33,6 +33,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: fallenEmpires.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

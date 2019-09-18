@@ -44,6 +44,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: 8thEdition.php");
+      header("Location: legions.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

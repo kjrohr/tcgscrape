@@ -45,6 +45,6 @@
 
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: anthologies.php");
+      header("Location: urzasSaga.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

@@ -42,10 +42,11 @@
     insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
     generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
     generateMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
+    appendCommanderCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
 
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: coreSet2020.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

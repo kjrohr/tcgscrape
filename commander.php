@@ -31,7 +31,8 @@
       insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
+      generateCommanderCSV($setName, $cardNames, $sellPrice, $buyPrice);
     // ****** CHAIN SCRIPTS ******
-      header("Location: planechase2012.php");
+      header("Location: commander2013.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

@@ -45,6 +45,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: modernMasters.php");
+      header("Location: scarsOfMirrodin.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

@@ -415,4 +415,31 @@ function appendFTVCSV($setName, $cardNames, $sellPrice, $buyPrice){
 
     fclose($file); 
 }
+
+function generateCommanderCSV($setName, $cardNames, $sellPrice, $buyPrice){
+    $file = fopen("output/formats/commander.csv","w");
+
+    fputcsv($file,array('Product Name','Category','Sell Price','Buy Price'));
+
+    // Need to allow cards to have a , in their name
+    for ($id = 0; $id < count($cardNames); $id++){
+      //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+      fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+    }
+
+    fclose($file); 
+}
+
+function appendCommanderCSV($setName, $cardNames, $sellPrice, $buyPrice){
+    $file = fopen("output/formats/commander.csv","a");
+
+    // Need to allow cards to have a , in their name
+    for ($id = 0; $id < count($cardNames); $id++){
+      //fputcsv($file,explode(',',$cardNames[$id] . ',' . $setName . ',' . $sellPrice[$id] . ',' . $buyPrice[$id]));
+      fputcsv($file, array($cardNames[$id], $setName,$sellPrice[$id],$buyPrice[$id]));
+    }
+
+    fclose($file); 
+}
+
 ?>

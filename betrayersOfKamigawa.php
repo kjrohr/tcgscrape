@@ -45,6 +45,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: unhinged.php");
+      header("Location: championsOfKamigawa.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

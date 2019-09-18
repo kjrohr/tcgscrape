@@ -33,6 +33,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: bornOfTheGods.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

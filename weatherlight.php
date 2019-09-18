@@ -33,6 +33,6 @@
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: portal.php");
+      header("Location: mirage.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

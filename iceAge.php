@@ -32,6 +32,6 @@
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
     // ****** CHAIN SCRIPTS ******
-      header("Location: chronicles.php");
+      header("Location: fourthEdition.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

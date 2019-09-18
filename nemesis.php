@@ -45,6 +45,6 @@
 
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: index.php");
+      header("Location: mercadianMasques.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

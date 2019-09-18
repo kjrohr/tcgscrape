@@ -33,6 +33,6 @@
       generateFTVCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: fromTheVaultRealms.php");
+      header("Location: fromTheVaultAnnihilation.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

@@ -31,8 +31,9 @@
       insertIntoTable($tableName,$cardNames, $medianPrices, $sellPrice, $buyPrice, $rarityArray);
       generateSetCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
       appendMasterCSV($setName, $cardNames, $sellPrice, $buyPrice);
+      appendCommanderCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: coreSet2019.php");
+      header("Location: commander2019.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

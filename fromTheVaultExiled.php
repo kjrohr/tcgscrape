@@ -6,7 +6,6 @@
     // Global Variables
     $setName = "From the Vault: Exiled"; // Used for Categories in Crystal Commerce
     $tableName = "fromTheVaultExiled"; // Used for mysql
-    $tcgPlayerSetURL = "https://shop.tcgplayer.com/price-guide/magic/from-the-vault-exiled"; // URL to scrape
     $quietSpeculationURL = "https://www.quietspeculation.com/tradertools/prices/sets/From%20the%20Vault:%20Exiled/foil";
     $cardNames = array(); // Array to hold card names
     $medianPrices = array(); // Array to hold median card Prices
@@ -19,16 +18,7 @@
       dropTable($tableName);
       createTable($tableName);
 
-      $tcgPlayerCardDataArray = scrapeTCG($tcgPlayerSetURL);
-      for ($a = 0; $a < count($tcgPlayerCardDataArray[0]); $a++){
-          array_push($cardNames, $tcgPlayerCardDataArray[0][$a]);
-          array_push($medianPrices, $tcgPlayerCardDataArray[1][$a]);
-          $theSellPrice = findSellPrice($tcgPlayerCardDataArray[1][$a]);
-          $theBuyPrice = findBuyPrice($theSellPrice, $tcgPlayerCardDataArray[2][$a]);
-          array_push($sellPrice, $theSellPrice);
-          array_push($buyPrice, $theBuyPrice);
-          array_push($rarityArray, $tcgPlayerCardDataArray[2][$a]);
-      }
+
       
       $foilCardDataArray = scrapeFoils($quietSpeculationURL);
       for($i=0;$i<count($foilCardDataArray[0]);$i++){
@@ -45,6 +35,6 @@
       appendFTVCSV($tableName,$setName,$cardNames,$sellPrice,$buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: fromTheVaultDragons.php");
+      header("Location: fromTheVaultLegends.php");
     // ****** END CHAIN SCRIPTS ******
 ?>
