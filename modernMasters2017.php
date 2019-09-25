@@ -45,6 +45,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: aetherRevolt.php");
+      header("Location: magicModernEventDeck.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

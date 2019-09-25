@@ -34,6 +34,6 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
 
     // ****** CHAIN SCRIPTS ******
-      header("Location: conspiracy.php");
+      header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 ?>

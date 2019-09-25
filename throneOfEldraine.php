@@ -18,6 +18,8 @@
       dropTable($tableName);
       createTable($tableName);
 
+
+      
       $tcgPlayerCardDataArray = scrapeTCG($tcgPlayerSetURL);
       for ($a = 0; $a < count($tcgPlayerCardDataArray[0]); $a++){
           array_push($cardNames, $tcgPlayerCardDataArray[0][$a]);

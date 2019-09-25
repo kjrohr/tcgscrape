@@ -12,20 +12,9 @@
  include "includes/header.php";
 ?>
 
-<h2>Scrape</h2>
-<a href="commander2019.php">Commander 2019 - Iconic Masters</a>
-<a href="ixalan.php">Ixalan - Magic Origins</a>
-<a href="modernMasters2015.php">MM2015 - Shards of Alara</a>
-<a href="eventide.php">Eventide - Dissension</a>
-<a href="guildpact.php">Guildpact - Legions</a>
-<a href="onslaught.php">Onslaught - Nemesis</a>
-<a href="mercadianMasques.php">Mercadian Masques - Portal</a>
-<a href="fifthEdition.php">Fifth Edition - Antiquities</a>
-<a href="unlimitedEdition.php">Unlimited Edition - Modern Masters</a>
-<p>
-<a href="arabianNights.php">Arabian Nights - Knights vs. Dragons</a>
-<a href="duelDecksElspethVsTezzeret.php">Elspeth vs. Tezzeret - Elves vs. Goblins</a>
-</p>
+<h2>Throne of Eldraine</h2>
+<a href="throneOfEldraine.php">Scrape Throne of Eldraine</a>
+<a href="output/throneOfEldraine.csv">Download Throne of Eldraine CSV</a>
 <hr />
 <h2>Standard</h2>
 <p>
@@ -37,6 +26,7 @@
 <a href="modernHorizons.php">Scrape Modern</a>
 <a href="dragonsMaze.php">Scrape Modern 2</a>
 <a href="10thEdition.php">Scrape Modern 3</a>
+<a href="modernMasters.php">Scrape Modern 4</a>
 <a href="output/formats/modern.csv">Download Modern CSV</a>
 <hr />
 <h2>Legacy</h2>
@@ -56,6 +46,9 @@
 <h2>Commander</h2>
 <a href="commander.php">Scrape Commander</a>
 <a href="output/formats/commander.csv">Download Commander CSV</a>
+<hr />
+<h2>Specialty Sets (Planechase, Battlebond, Conspiracy ect..)</h2>
+
 <hr />
 
 </body>

@@ -1,12 +1,12 @@
 "Product Name",Category,"Sell Price","Buy Price"
-"Abhorrent Overlord",Theros,0.47,0.08
+"Abhorrent Overlord",Theros,0.46,0.08
 "Agent of Horizons",Theros,0.24,0.00
-"Agent of the Fates",Theros,0.36,0.08
+"Agent of the Fates",Theros,0.35,0.08
 "Akroan Crusader",Theros,0.24,0.00
 "Akroan Hoplite",Theros,0.22,0.01
-"Akroan Horse",Theros,0.31,0.08
-"Anax and Cymede",Theros,0.40,0.08
-"Anger of the Gods",Theros,2.95,0.25
+"Akroan Horse",Theros,0.32,0.08
+"Anax and Cymede",Theros,0.38,0.08
+"Anger of the Gods",Theros,2.92,0.25
 Annul,Theros,0.24,0.00
 "Anthousa, Setessan Hero",Theros,0.32,0.08
 "Anvilwrought Raptor",Theros,0.22,0.01
@@ -15,37 +15,37 @@ Annul,Theros,0.24,0.00
 "Arena Athlete",Theros,0.23,0.01
 "Artisan of Forms",Theros,0.33,0.08
 "Artisan's Sorrow",Theros,0.23,0.01
-"Ashen Rider",Theros,1.87,0.25
-"Ashiok, Nightmare Weaver",Theros,6.64,2.66
+"Ashen Rider",Theros,1.80,0.25
+"Ashiok, Nightmare Weaver",Theros,6.86,2.74
 "Asphodel Wanderer",Theros,0.24,0.00
 "Baleful Eidolon",Theros,0.24,0.00
-"Battlewise Hoplite",Theros,0.23,0.01
+"Battlewise Hoplite",Theros,0.21,0.01
 "Battlewise Valor",Theros,0.24,0.00
 "Benthic Giant",Theros,0.24,0.00
-"Bident of Thassa",Theros,0.60,0.08
+"Bident of Thassa",Theros,0.61,0.08
 "Bird Token",Theros,0.32,0.00
 "Blood-Toll Harpy",Theros,0.24,0.00
-"Boar Token",Theros,0.29,0.00
+"Boar Token",Theros,0.28,0.00
 "Boon of Erebos",Theros,0.24,0.00
 "Boon Satyr",Theros,0.38,0.08
 "Borderland Minotaur",Theros,0.24,0.00
 Boulderfall,Theros,0.24,0.00
-"Bow of Nylea",Theros,2.43,0.25
+"Bow of Nylea",Theros,2.46,0.25
 "Breaching Hippocamp",Theros,0.24,0.00
 "Bronze Sable",Theros,0.24,0.00
-"Burnished Hart",Theros,1.63,0.01
+"Burnished Hart",Theros,1.65,0.01
 "Cavalry Pegasus",Theros,0.24,0.00
 "Cavern Lampad",Theros,0.24,0.00
-"Celestial Archon",Theros,0.32,0.08
-"Centaur Battlemaster",Theros,0.24,0.01
+"Celestial Archon",Theros,0.31,0.08
+"Centaur Battlemaster",Theros,0.23,0.01
 "Chained to the Rocks",Theros,0.44,0.08
 "Chosen by Heliod",Theros,0.24,0.00
-"Chronicler of Heroes",Theros,0.24,0.01
-"Cleric Token",Theros,3.25,1.30
+"Chronicler of Heroes",Theros,0.23,0.01
+"Cleric Token",Theros,3.23,1.29
 "Coastline Chimera",Theros,0.24,0.00
-"Colossus of Akros",Theros,1.12,0.08
+"Colossus of Akros",Theros,1.13,0.08
 "Commune with the Gods",Theros,0.24,0.00
-"Coordinated Assault",Theros,0.21,0.01
+"Coordinated Assault",Theros,0.24,0.01
 "Crackling Triton",Theros,0.24,0.00
 "Curse of the Swine",Theros,0.48,0.08
 "Cutthroat Maneuver",Theros,0.24,0.01
@@ -53,7 +53,7 @@ Boulderfall,Theros,0.24,0.00
 "Dauntless Onslaught",Theros,0.23,0.01
 "Daxos of Meletis",Theros,0.33,0.08
 "Deathbellow Raider",Theros,0.24,0.00
-"Decorated Griffin",Theros,0.23,0.01
+"Decorated Griffin",Theros,0.22,0.01
 "Defend the Hearth",Theros,0.24,0.00
 Demolish,Theros,0.24,0.00
 "Destructive Revelry",Theros,0.30,0.01
@@ -61,58 +61,58 @@ Demolish,Theros,0.24,0.00
 Dissolve,Theros,0.28,0.01
 "Divine Verdict",Theros,0.24,0.00
 "Dragon Mantle",Theros,0.24,0.00
-"Elemental Token",Theros,0.72,0.00
-"Elspeth, Sun's Champion",Theros,9.88,3.95
+"Elemental Token",Theros,0.62,0.00
+"Elspeth, Sun's Champion",Theros,9.93,3.97
 "Ember Swallower",Theros,0.32,0.08
 "Emblem - Elspeth, Sun's Champion",Theros,2.85,0.25
 "Ephara's Warden",Theros,0.24,0.00
 "Erebos, God of the Dead",Theros,9.21,3.68
-"Erebos's Emissary",Theros,0.23,0.01
-"Evangel of Heliod",Theros,0.23,0.01
+"Erebos's Emissary",Theros,0.22,0.01
+"Evangel of Heliod",Theros,0.24,0.01
 "Fabled Hero",Theros,0.43,0.08
 "Fade into Antiquity",Theros,0.24,0.00
-"Fanatic of Mogis",Theros,0.24,0.01
+"Fanatic of Mogis",Theros,0.23,0.01
 "Fate Foretold",Theros,0.24,0.00
 "Favored Hoplite",Theros,0.24,0.01
 "Felhide Minotaur",Theros,0.24,0.00
 "Feral Invocation",Theros,0.24,0.00
 "Firedrinker Satyr",Theros,0.33,0.08
-"Flamecast Wheel",Theros,0.23,0.01
+"Flamecast Wheel",Theros,0.22,0.01
 "Flamespeaker Adept",Theros,0.23,0.01
-"Fleecemane Lion",Theros,0.68,0.08
+"Fleecemane Lion",Theros,0.64,0.08
 "Fleetfeather Sandals",Theros,0.24,0.00
 "Fleshmad Steed",Theros,0.24,0.00
 "Forest (246)",Theros,0.24,0.00
 "Forest (247)",Theros,0.24,0.00
 "Forest (248)",Theros,0.23,0.00
 "Forest (249)",Theros,0.24,0.00
-Gainsay,Theros,0.22,0.01
-"Gift of Immortality",Theros,1.75,0.08
+Gainsay,Theros,0.23,0.01
+"Gift of Immortality",Theros,1.74,0.08
 "Glare of Heresy",Theros,0.24,0.01
 "Gods Willing",Theros,0.24,0.00
 "Golem Token",Theros,0.24,0.00
-"Gray Merchant of Asphodel",Theros,0.76,0.00
+"Gray Merchant of Asphodel",Theros,0.77,0.00
 Griptide,Theros,0.24,0.00
 "Guardians of Meletis",Theros,0.24,0.00
-"Hammer of Purphoros",Theros,0.99,0.08
+"Hammer of Purphoros",Theros,1.03,0.08
 "Harpy Token",Theros,0.24,0.00
-"Heliod, God of the Sun",Theros,4.88,1.95
-"Heliod's Emissary",Theros,0.22,0.01
+"Heliod, God of the Sun",Theros,4.94,1.98
+"Heliod's Emissary",Theros,0.23,0.01
 "Hero's Downfall",Theros,2.84,0.25
 "Hopeful Eidolon",Theros,0.24,0.00
 "Horizon Chimera",Theros,0.22,0.01
 "Horizon Scholar",Theros,0.23,0.01
 "Hundred-Handed One",Theros,0.32,0.08
-"Hunt the Hunter",Theros,0.24,0.01
-"Hythonia the Cruel",Theros,0.68,0.25
+"Hunt the Hunter",Theros,0.23,0.01
+"Hythonia the Cruel",Theros,0.65,0.25
 "Ill-Tempered Cyclops",Theros,0.24,0.00
 "Insatiable Harpy",Theros,0.21,0.01
 "Island (234)",Theros,0.24,0.00
 "Island (235)",Theros,0.24,0.00
 "Island (236)",Theros,0.24,0.00
 "Island (237)",Theros,0.24,0.00
-"Karametra's Acolyte",Theros,0.28,0.01
-"Keepsake Gorgon",Theros,0.23,0.01
+"Karametra's Acolyte",Theros,0.27,0.01
+"Keepsake Gorgon",Theros,0.22,0.01
 "Kragma Warcaller",Theros,0.24,0.01
 "Labyrinth Champion",Theros,0.33,0.08
 "Lagonna-Band Elder",Theros,0.24,0.00
@@ -125,8 +125,8 @@ Griptide,Theros,0.24,0.00
 "Lost in a Labyrinth",Theros,0.24,0.00
 "Magma Jet",Theros,0.24,0.01
 "March of the Returned",Theros,0.24,0.00
-"Master of Waves",Theros,1.89,0.25
-"Medomai the Ageless",Theros,1.35,0.25
+"Master of Waves",Theros,1.88,0.25
+"Medomai the Ageless",Theros,1.38,0.25
 "Meletis Charlatan",Theros,0.29,0.08
 "Messenger's Speed",Theros,0.24,0.00
 "Minotaur Skullcleaver",Theros,0.24,0.00
@@ -151,11 +151,11 @@ Nighthowler,Theros,0.40,0.08
 Omenspeaker,Theros,0.24,0.00
 "Opaline Unicorn",Theros,0.24,0.00
 "Ordeal of Erebos",Theros,0.23,0.01
-"Ordeal of Heliod",Theros,0.24,0.01
-"Ordeal of Nylea",Theros,0.24,0.01
+"Ordeal of Heliod",Theros,0.22,0.01
+"Ordeal of Nylea",Theros,0.23,0.01
 "Ordeal of Purphoros",Theros,0.24,0.01
 "Ordeal of Thassa",Theros,0.24,0.01
-"Peak Eruption",Theros,0.22,0.01
+"Peak Eruption",Theros,0.21,0.01
 "Phalanx Leader",Theros,0.24,0.01
 "Pharika's Cure",Theros,0.24,0.00
 "Pharika's Mender",Theros,0.23,0.01
@@ -165,22 +165,22 @@ Omenspeaker,Theros,0.24,0.00
 "Plains (232)",Theros,0.24,0.00
 "Plains (233)",Theros,0.24,0.00
 "Polis Crusher",Theros,0.32,0.08
-"Polukranos, World Eater",Theros,1.36,0.25
+"Polukranos, World Eater",Theros,1.19,0.25
 "Portent of Betrayal",Theros,0.24,0.00
 "Prescient Chimera",Theros,0.24,0.00
 "Priest of Iroas",Theros,0.24,0.00
 "Prognostic Sphinx",Theros,0.33,0.08
-"Prophet of Kruphix",Theros,0.85,0.08
+"Prophet of Kruphix",Theros,0.93,0.08
 "Prowler's Helm",Theros,0.28,0.01
 "Psychic Intrusion",Theros,0.32,0.08
-"Purphoros, God of the Forge",Theros,23.27,10.47
+"Purphoros, God of the Forge",Theros,23.71,10.67
 "Purphoros's Emissary",Theros,0.23,0.01
 "Pyxis of Pandemonium",Theros,0.38,0.08
 "Rage of Purphoros",Theros,0.24,0.00
-"Rageblood Shaman",Theros,0.37,0.08
+"Rageblood Shaman",Theros,0.33,0.08
 "Ray of Dissolution",Theros,0.24,0.00
 "Read the Bones",Theros,0.24,0.00
-"Reaper of the Wilds",Theros,0.31,0.08
+"Reaper of the Wilds",Theros,0.33,0.08
 "Rescue from the Underworld",Theros,0.23,0.01
 "Returned Centaur",Theros,0.24,0.00
 "Returned Phalanx",Theros,0.24,0.00
@@ -192,7 +192,7 @@ Omenspeaker,Theros,0.24,0.00
 "Savage Surge",Theros,0.24,0.00
 "Scholar of Athreos",Theros,0.24,0.00
 Scourgemark,Theros,0.24,0.00
-"Sea God's Revenge",Theros,0.23,0.01
+"Sea God's Revenge",Theros,0.22,0.01
 "Sealock Monster",Theros,0.23,0.01
 "Sedge Scorpion",Theros,0.24,0.00
 "Sentry of the Underworld",Theros,0.23,0.01
@@ -208,7 +208,7 @@ Scourgemark,Theros,0.24,0.00
 "Soldier Token (Red)",Theros,0.24,0.00
 "Soldier Token (Velinov)",Theros,0.24,0.00
 "Spark Jolt",Theros,0.24,0.00
-"Spear of Heliod",Theros,1.03,0.08
+"Spear of Heliod",Theros,1.00,0.08
 "Spearpoint Oread",Theros,0.24,0.00
 "Spellheart Chimera",Theros,0.23,0.01
 "Staunch-Hearted Warrior",Theros,0.24,0.00
@@ -220,19 +220,19 @@ Scourgemark,Theros,0.24,0.00
 "Swamp (239)",Theros,0.23,0.00
 "Swamp (240)",Theros,0.24,0.00
 "Swamp (241)",Theros,0.24,0.00
-"Swan Song",Theros,4.05,1.62
+"Swan Song",Theros,4.09,1.64
 "Sylvan Caryatid",Theros,2.68,0.25
-"Temple of Abandon",Theros,1.27,0.08
+"Temple of Abandon",Theros,1.24,0.08
 "Temple of Deceit",Theros,3.77,1.51
 "Temple of Mystery",Theros,2.37,0.25
-"Temple of Silence",Theros,2.65,0.25
-"Temple of Triumph",Theros,2.28,0.25
-"Thassa, God of the Sea",Theros,11.58,5.21
+"Temple of Silence",Theros,2.62,0.25
+"Temple of Triumph",Theros,2.31,0.25
+"Thassa, God of the Sea",Theros,11.64,5.24
 "Thassa's Bounty",Theros,0.24,0.00
 "Thassa's Emissary",Theros,0.24,0.01
-Thoughtseize,Theros,14.54,6.54
+Thoughtseize,Theros,14.73,6.63
 "Time to Feed",Theros,0.24,0.00
-"Titan of Eternal Fire",Theros,0.31,0.08
+"Titan of Eternal Fire",Theros,0.33,0.08
 "Titan's Strength",Theros,0.24,0.00
 "Tormented Hero",Theros,0.23,0.01
 "Traveler's Amulet",Theros,0.24,0.00
@@ -243,7 +243,7 @@ Thoughtseize,Theros,14.54,6.54
 "Triton Tactics",Theros,0.24,0.01
 "Two-Headed Cerberus",Theros,0.24,0.00
 "Tymaret, the Murder King",Theros,0.33,0.08
-"Underworld Cerberus",Theros,0.61,0.25
+"Underworld Cerberus",Theros,0.59,0.25
 "Unknown Shores",Theros,0.24,0.00
 "Vanquish the Foul",Theros,0.24,0.01
 Vaporkin,Theros,0.24,0.00
@@ -251,42 +251,70 @@ Vaporkin,Theros,0.24,0.00
 "Voyage's End",Theros,0.24,0.00
 "Voyaging Satyr",Theros,0.24,0.00
 "Vulpine Goliath",Theros,0.24,0.00
-"Warriors' Lesson",Theros,0.22,0.01
+"Warriors' Lesson",Theros,0.23,0.01
 "Wavecrash Triton",Theros,0.24,0.00
-"Whip of Erebos",Theros,2.42,0.25
+"Whip of Erebos",Theros,2.45,0.25
 "Wild Celebrants",Theros,0.24,0.00
 "Wingsteed Rider",Theros,0.24,0.00
 "Witches' Eye",Theros,0.23,0.01
 "Xenagos, the Reveler",Theros,4.28,1.71
 "Yoked Ox",Theros,0.24,0.00
-"Hopeful Eidolon - Foil",Theros,0.24,0.00
-"Bronze Sable - Foil",Theros,0.24,0.00
-"Rageblood Shaman - Foil",Theros,0.24,0.08
-"Sedge Scorpion - Foil",Theros,0.24,0.00
-"Arbor Colossus - Foil",Theros,0.24,0.08
-"Arena Athlete - Foil",Theros,0.24,0.01
-"Stymied Hopes - Foil",Theros,0.24,0.00
-"Nimbus Naiad - Foil",Theros,0.24,0.00
-"Celestial Archon - Foil",Theros,0.24,0.08
-"Decorated Griffin - Foil",Theros,0.24,0.01
-"Swan Song - Foil",Theros,8.55,3.60
-"Kragma Warcaller - Foil",Theros,0.24,0.01
-"Returned Phalanx - Foil",Theros,0.24,0.00
-"Nessian Asp - Foil",Theros,0.24,0.00
-"Deathbellow Raider - Foil",Theros,0.24,0.00
-"Annul - Foil",Theros,0.24,0.00
-"Firedrinker Satyr - Foil",Theros,0.24,0.08
-"Two-Headed Cerberus - Foil",Theros,0.24,0.00
-"Fate Foretold - Foil",Theros,0.24,0.00
-"Griptide - Foil",Theros,0.24,0.00
-"Shipwreck Singer - Foil",Theros,0.24,0.01
-"Divine Verdict - Foil",Theros,0.24,0.00
-"Last Breath - Foil",Theros,0.24,0.00
-"Yoked Ox - Foil",Theros,0.24,0.00
-"Whip of Erebos - Foil",Theros,2.83,0.25
-"Evangel of Heliod - Foil",Theros,0.24,0.01
-"Glare of Heresy - Foil",Theros,0.24,0.01
-"Messenger's Speed - Foil",Theros,0.24,0.00
+"Destructive Revelry - Foil",Theros,1.22,0.01
+"Opaline Unicorn - Foil",Theros,0.24,0.00
+"Reverent Hunter - Foil",Theros,0.22,0.08
+"Triton Shorethief - Foil",Theros,0.24,0.00
+"Wingsteed Rider - Foil",Theros,0.24,0.00
+"Coordinated Assault - Foil",Theros,0.24,0.01
+"Leonin Snarecaster - Foil",Theros,0.24,0.00
+"Unknown Shores - Foil",Theros,0.24,0.00
+"Coastline Chimera - Foil",Theros,0.24,0.00
+"Coastline Chimera - Foil",Theros,0.24,0.00
+"Satyr Piper - Foil",Theros,0.24,0.01
+"Anthousa, Setessan Hero - Foil",Theros,0.24,0.08
+"Fleshmad Steed - Foil",Theros,0.24,0.00
+"Nighthowler - Foil",Theros,0.61,0.08
+"Thoughtseize - Foil",Theros,22.78,10.79
+"Gods Willing - Foil",Theros,0.27,0.00
+"Polis Crusher - Foil",Theros,0.24,0.08
+"Setessan Griffin - Foil",Theros,0.24,0.00
+"Baleful Eidolon - Foil",Theros,0.24,0.00
+"Prognostic Sphinx - Foil",Theros,0.24,0.08
+"Satyr Hedonist - Foil",Theros,0.24,0.00
+"Witches' Eye - Foil",Theros,0.24,0.01
+"Witches' Eye - Foil",Theros,0.24,0.01
+"Keepsake Gorgon - Foil",Theros,0.24,0.01
+"Observant Alseid - Foil",Theros,0.24,0.00
+"Sylvan Caryatid - Foil",Theros,2.75,0.25
+"Spark Jolt - Foil",Theros,0.24,0.00
+"Boon Satyr - Foil",Theros,0.24,0.08
+"Breaching Hippocamp - Foil",Theros,0.27,0.00
+"Steam Augury - Foil",Theros,0.21,0.08
+"Traveling Philosopher - Foil",Theros,0.24,0.00
+"Anvilwrought Raptor - Foil",Theros,0.24,0.01
+"Dragon Mantle - Foil",Theros,0.24,0.00
+"Savage Surge - Foil",Theros,0.24,0.00
+"Underworld Cerberus - Foil",Theros,0.93,0.25
+"Gainsay - Foil",Theros,0.24,0.01
+"Magma Jet - Foil",Theros,0.24,0.01
+"Horizon Scholar - Foil",Theros,0.24,0.01
+"Vulpine Goliath - Foil",Theros,0.24,0.00
+"Voyaging Satyr - Foil",Theros,0.24,0.00
+"Ashiok, Nightmare Weaver - Foil",Theros,15.20,7.20
+"Cavalry Pegasus - Foil",Theros,0.24,0.00
+"Prescient Chimera - Foil",Theros,0.24,0.00
+"Shredding Winds - Foil",Theros,0.24,0.00
+"Cavern Lampad - Foil",Theros,0.24,0.00
+"Warriors' Lesson - Foil",Theros,0.24,0.01
+"Felhide Minotaur - Foil",Theros,0.24,0.00
+"Lagonna-Band Elder - Foil",Theros,0.24,0.00
+"Mnemonic Wall - Foil",Theros,0.24,0.00
+"Fleecemane Lion - Foil",Theros,0.89,0.08
+"Spearpoint Oread - Foil",Theros,0.24,0.00
+"Blood-Toll Harpy - Foil",Theros,0.24,0.00
+"Phalanx Leader - Foil",Theros,0.24,0.01
+"Akroan Hoplite - Foil",Theros,0.24,0.01
+"Returned Centaur - Foil",Theros,0.24,0.00
+"Nemesis of Mortals - Foil",Theros,0.24,0.01
 "Benthic Giant - Foil",Theros,0.24,0.00
 "Labyrinth Champion - Foil",Theros,0.24,0.08
 "Mistcutter Hydra - Foil",Theros,1.33,0.08
@@ -313,110 +341,58 @@ Vaporkin,Theros,0.24,0.00
 "Cutthroat Maneuver - Foil",Theros,0.24,0.01
 "Sealock Monster - Foil",Theros,0.24,0.01
 "Polukranos, World Eater - Foil",Theros,1.33,0.25
-"Shipbreaker Kraken - Foil",Theros,0.22,0.08
+"Shipbreaker Kraken - Foil",Theros,0.24,0.08
 "Wavecrash Triton - Foil",Theros,0.24,0.00
-"Anvilwrought Raptor - Foil",Theros,0.24,0.01
-"Dragon Mantle - Foil",Theros,0.24,0.00
-"Savage Surge - Foil",Theros,0.24,0.00
-"Underworld Cerberus - Foil",Theros,0.93,0.25
-"Gainsay - Foil",Theros,0.24,0.01
-"Magma Jet - Foil",Theros,0.24,0.01
-"Horizon Scholar - Foil",Theros,0.24,0.01
-"Vulpine Goliath - Foil",Theros,0.24,0.00
-"Felhide Minotaur - Foil",Theros,0.24,0.00
-"Fleecemane Lion - Foil",Theros,0.90,0.08
-"Spearpoint Oread - Foil",Theros,0.24,0.00
-"Breaching Hippocamp - Foil",Theros,0.27,0.00
-"Steam Augury - Foil",Theros,0.22,0.08
-"Traveling Philosopher - Foil",Theros,0.24,0.00
-"Voyaging Satyr - Foil",Theros,0.24,0.00
-"Ashiok, Nightmare Weaver - Foil",Theros,15.20,7.20
-"Cavalry Pegasus - Foil",Theros,0.24,0.00
-"Prescient Chimera - Foil",Theros,0.24,0.00
-"Shredding Winds - Foil",Theros,0.24,0.00
-"Shredding Winds - Foil",Theros,0.24,0.00
-"Blood-Toll Harpy - Foil",Theros,0.24,0.00
-"Phalanx Leader - Foil",Theros,0.24,0.01
-"Cavern Lampad - Foil",Theros,0.24,0.00
-"Warriors' Lesson - Foil",Theros,0.24,0.01
-"Lagonna-Band Elder - Foil",Theros,0.24,0.00
-"Mnemonic Wall - Foil",Theros,0.24,0.00
-"Akroan Hoplite - Foil",Theros,0.24,0.01
-"Returned Centaur - Foil",Theros,0.24,0.00
-"Destructive Revelry - Foil",Theros,1.22,0.01
-"Opaline Unicorn - Foil",Theros,0.24,0.00
-"Reverent Hunter - Foil",Theros,0.22,0.08
-"Triton Shorethief - Foil",Theros,0.24,0.00
-"Wingsteed Rider - Foil",Theros,0.24,0.00
-"Coordinated Assault - Foil",Theros,0.24,0.01
-"Leonin Snarecaster - Foil",Theros,0.24,0.00
-"Unknown Shores - Foil",Theros,0.24,0.00
-"Coastline Chimera - Foil",Theros,0.24,0.00
-"Satyr Piper - Foil",Theros,0.24,0.01
-"Anthousa, Setessan Hero - Foil",Theros,0.24,0.08
-"Fleshmad Steed - Foil",Theros,0.24,0.00
-"Nighthowler - Foil",Theros,0.61,0.08
-"Thoughtseize - Foil",Theros,24.68,12.99
-"Gods Willing - Foil",Theros,0.27,0.00
-"Polis Crusher - Foil",Theros,0.24,0.08
-"Setessan Griffin - Foil",Theros,0.24,0.00
-"Baleful Eidolon - Foil",Theros,0.24,0.00
-"Prognostic Sphinx - Foil",Theros,0.24,0.08
-"Satyr Hedonist - Foil",Theros,0.24,0.00
-"Witches' Eye - Foil",Theros,0.24,0.01
-"Keepsake Gorgon - Foil",Theros,0.24,0.01
-"Observant Alseid - Foil",Theros,0.24,0.00
-"Sylvan Caryatid - Foil",Theros,2.75,0.25
-"Spark Jolt - Foil",Theros,0.24,0.00
-"Boon Satyr - Foil",Theros,0.25,0.08
-"Leafcrown Dryad - Foil",Theros,0.24,0.00
-"Spear Of Heliod - Foil",Theros,1.88,0.08
-"Master of Waves - Foil",Theros,3.56,1.50
-"Tymaret, the Murder King - Foil",Theros,0.40,0.08
-"Sentry of the Underworld - Foil",Theros,0.24,0.01
-"Gift of Immortality - Foil",Theros,2.37,0.25
-"Bident of Thassa - Foil",Theros,0.55,0.08
-"Rescue from the Underworld - Foil",Theros,0.24,0.01
-"Purphoros's Emissary - Foil",Theros,0.24,0.01
-"Temple of Mystery - Foil",Theros,1.89,0.08
-"Nykthos, Shrine to Nyx - Foil",Theros,24.75,13.03
-"Hythonia the Cruel - Foil",Theros,0.65,0.25
-"Traveler's Amulet - Foil",Theros,0.24,0.00
-"Triad of Fates - Foil",Theros,0.24,0.08
-"Karametra's Acolyte - Foil",Theros,0.24,0.01
-"Temple of Abandon - Foil",Theros,1.64,0.08
-"Purphoros, God of the Forge - Foil",Theros,41.56,21.88
-"Gray Merchant of Asphodel - Foil",Theros,5.34,2.25
-"Sip of Hemlock - Foil",Theros,0.24,0.00
-"Heliod, God of the Sun - Foil",Theros,8.82,3.71
-"Guardians of Meletis - Foil",Theros,0.24,0.00
-"Fanatic of Mogis - Foil",Theros,0.24,0.01
-"Pharika's Mender - Foil",Theros,0.24,0.01
-"Chronicler of Heroes - Foil",Theros,0.24,0.01
-"Anax and Cymede - Foil",Theros,0.27,0.08
-"Read the Bones - Foil",Theros,0.71,0.00
-"Reaper of the Wilds - Foil",Theros,0.24,0.08
-"Mogis's Marauder - Foil",Theros,0.24,0.01
-"Nemesis of Mortals - Foil",Theros,0.24,0.01
-"Fade into Antiquity - Foil",Theros,0.24,0.00
+"Nimbus Naiad - Foil",Theros,0.24,0.00
+"Celestial Archon - Foil",Theros,0.24,0.08
+"Decorated Griffin - Foil",Theros,0.24,0.01
+"Swan Song - Foil",Theros,8.55,3.60
+"Hopeful Eidolon - Foil",Theros,0.24,0.00
+"Bronze Sable - Foil",Theros,0.24,0.00
+"Rageblood Shaman - Foil",Theros,0.21,0.08
+"Sedge Scorpion - Foil",Theros,0.24,0.00
+"Arbor Colossus - Foil",Theros,0.24,0.08
+"Arena Athlete - Foil",Theros,0.24,0.01
+"Stymied Hopes - Foil",Theros,0.24,0.00
+"Kragma Warcaller - Foil",Theros,0.24,0.01
+"Returned Phalanx - Foil",Theros,0.24,0.00
+"Deathbellow Raider - Foil",Theros,0.24,0.00
+"Nessian Asp - Foil",Theros,0.24,0.00
+"Fate Foretold - Foil",Theros,0.24,0.00
+"Griptide - Foil",Theros,0.24,0.00
+"Shipwreck Singer - Foil",Theros,0.24,0.01
+"Annul - Foil",Theros,0.24,0.00
+"Firedrinker Satyr - Foil",Theros,0.22,0.08
+"Two-Headed Cerberus - Foil",Theros,0.24,0.00
+"Divine Verdict - Foil",Theros,0.24,0.00
+"Last Breath - Foil",Theros,0.24,0.00
+"Yoked Ox - Foil",Theros,0.24,0.00
+"Evangel of Heliod - Foil",Theros,0.24,0.01
+"Whip of Erebos - Foil",Theros,2.83,0.25
+"Messenger's Speed - Foil",Theros,0.24,0.00
+"Glare of Heresy - Foil",Theros,0.24,0.01
 "Chosen by Heliod - Foil",Theros,0.24,0.00
+"Fade into Antiquity - Foil",Theros,0.24,0.00
 "Hammer of Purphoros - Foil",Theros,2.39,0.25
-"Lash of the Whip - Foil",Theros,0.24,0.00
 "Ray of Dissolution - Foil",Theros,0.24,0.00
+"Lash of the Whip - Foil",Theros,0.24,0.00
 "Rage of Purphoros - Foil",Theros,0.24,0.00
 "Thassa's Bounty - Foil",Theros,0.24,0.00
 "Commune with the Gods - Foil",Theros,0.31,0.00
 "Viper's Kiss - Foil",Theros,0.24,0.00
 "Lost in a Labyrinth - Foil",Theros,0.24,0.00
+"Lost in a Labyrinth - Foil",Theros,0.24,0.00
 "Soldier of the Pantheon - Foil",Theros,0.47,0.08
-"Colossus of Akros - Foil",Theros,1.35,0.08
 "Feral invocation - Foil",Theros,0.24,0.00
+"Colossus of Akros - Foil",Theros,1.34,0.08
 "Daxos of Meletis - Foil",Theros,0.24,0.08
 "Xenagos, the Reveler - Foil",Theros,7.84,3.30
-"Ordeal of Heliod - Foil",Theros,0.24,0.01
-"Temple of Triumph - Foil",Theros,2.58,0.25
+"Temple of Triumph - Foil",Theros,2.57,0.25
 "Nylea's Presence - Foil",Theros,0.24,0.00
+"Ordeal of Heliod - Foil",Theros,0.24,0.01
 "March of the Returned - Foil",Theros,0.24,0.00
+"Leafcrown Dryad - Foil",Theros,0.24,0.00
+"Spear Of Heliod - Foil",Theros,1.88,0.08
 "Aqueous Form - Foil",Theros,1.16,0.00
 "Dark Betrayal - Foil",Theros,0.24,0.01
 "Stoneshock Giant - Foil",Theros,0.24,0.01
@@ -433,41 +409,69 @@ Vaporkin,Theros,0.24,0.00
 "Ill-Tempered Cyclops - Foil",Theros,0.24,0.00
 "Favored Hoplite - Foil",Theros,0.31,0.01
 "Ordeal of Nylea - Foil",Theros,0.24,0.01
+"Defend the Hearth - Foil",Theros,0.24,0.00
+"Temple of Silence - Foil",Theros,2.55,0.25
 "Disciple of Phenax - Foil",Theros,0.24,0.00
 "Voyage's End - Foil",Theros,0.24,0.00
 "Artisan's Sorrow - Foil",Theros,0.24,0.01
-"Temple of Silence - Foil",Theros,2.55,0.25
-"Defend the Hearth - Foil",Theros,0.24,0.00
 "Nylea's Disciple - Foil",Theros,0.24,0.00
 "Pharika's Cure - Foil",Theros,0.24,0.00
 "Ephara's Warden - Foil",Theros,0.24,0.00
 "Bow of Nylea - Foil",Theros,2.78,0.25
-"Erebos, God of the Dead - Foil",Theros,16.15,7.65
+"Erebos, God of the Dead - Foil",Theros,16.84,7.98
 "Thassa's Emissary - Foil",Theros,0.24,0.01
-"Sea God's Revenge - Foil",Theros,0.24,0.01
+"Master of Waves - Foil",Theros,3.54,1.49
+"Sentry of the Underworld - Foil",Theros,0.24,0.01
+"Tymaret, the Murder King - Foil",Theros,0.40,0.08
+"Gift of Immortality - Foil",Theros,2.37,0.25
+"Bident of Thassa - Foil",Theros,0.55,0.08
+"Rescue from the Underworld - Foil",Theros,0.24,0.01
+"Purphoros's Emissary - Foil",Theros,0.24,0.01
+"Hythonia the Cruel - Foil",Theros,0.65,0.25
+"Temple of Mystery - Foil",Theros,1.89,0.08
+"Nykthos, Shrine to Nyx - Foil",Theros,24.75,13.03
+"Temple of Abandon - Foil",Theros,1.64,0.08
+"Triad of Fates - Foil",Theros,0.24,0.08
+"Karametra's Acolyte - Foil",Theros,0.24,0.01
+"Traveler's Amulet - Foil",Theros,0.24,0.00
+"Purphoros, God of the Forge - Foil",Theros,41.56,21.88
+"Sip of Hemlock - Foil",Theros,0.24,0.00
+"Gray Merchant of Asphodel - Foil",Theros,5.34,2.25
+"Fanatic of Mogis - Foil",Theros,0.24,0.01
+"Pharika's Mender - Foil",Theros,0.24,0.01
+"Heliod, God of the Sun - Foil",Theros,8.87,3.74
+"Guardians of Meletis - Foil",Theros,0.24,0.00
+"Chronicler of Heroes - Foil",Theros,0.24,0.01
+"Anax and Cymede - Foil",Theros,0.27,0.08
+"Read the Bones - Foil",Theros,0.71,0.00
+"Reaper of the Wilds - Foil",Theros,0.21,0.08
+"Mogis's Marauder - Foil",Theros,0.24,0.01
 "Boon of Erebos - Foil",Theros,0.24,0.00
+"Sea God's Revenge - Foil",Theros,0.24,0.01
+"Agent of Horizons - Foil",Theros,0.24,0.00
+"Agent of Horizons - Foil",Theros,0.24,0.00
 "Ordeal of Erebos - Foil",Theros,0.24,0.01
 "Chained to the Rocks - Foil",Theros,0.38,0.08
 "Portent of Betrayal - Foil",Theros,0.24,0.00
-"Agent of Horizons - Foil",Theros,0.24,0.00
 "Scholar of Athreos - Foil",Theros,0.24,0.00
-"Vanquish the Foul - Foil",Theros,0.24,0.01
-"Medomai the Ageless - Foil",Theros,2.95,1.24
 "Thassa, God of the Sea - Foil",Theros,23.73,11.24
 "Nylea's Emissary - Foil",Theros,0.24,0.01
 "Elspeth, Sun's Champion - Foil",Theros,20.88,9.89
-"Temple of Deceit - Foil",Theros,4.75,2.00
-"Agent of the Fates - Foil",Theros,0.21,0.08
+"Vanquish the Foul - Foil",Theros,0.24,0.01
+"Medomai the Ageless - Foil",Theros,2.95,1.24
+"Agent of the Fates - Foil",Theros,0.24,0.08
+"Temple of Deceit - Foil",Theros,4.85,2.04
+"Boulderfall - Foil",Theros,0.24,0.00
 "Boulderfall - Foil",Theros,0.24,0.00
 "Lightning Strike - Foil",Theros,1.54,0.00
 "Spellheart Chimera - Foil",Theros,0.24,0.01
-"Fabled Hero - Foil",Theros,0.44,0.08
+"Fabled Hero - Foil",Theros,0.43,0.08
 "Insatiable Harpy - Foil",Theros,0.24,0.01
 "Tormented Hero - Foil",Theros,0.24,0.01
 "Abhorrent Overlord - Foil",Theros,0.22,0.08
-"Burnished Hart - Foil",Theros,5.23,2.20
+"Burnished Hart - Foil",Theros,4.27,1.80
 "Pheres-Band Centaurs - Foil",Theros,0.24,0.00
-"Stormbreath Dragon - Foil",Theros,6.45,2.72
+"Stormbreath Dragon - Foil",Theros,6.41,2.70
 "Minotaur Skullcleaver - Foil",Theros,0.24,0.00
 "Omenspeaker - Foil",Theros,0.24,0.00
 "Triton Fortune Hunter - Foil",Theros,0.24,0.01
@@ -478,13 +482,13 @@ Vaporkin,Theros,0.24,0.00
 "Artisan of Forms - Foil",Theros,0.29,0.08
 "Heliod's Emissary - Foil",Theros,0.24,0.01
 "Ordeal of Purphoros - Foil",Theros,0.24,0.01
-"Pyxis of Pandemonium - Foil",Theros,0.38,0.08
+"Pyxis of Pandemonium - Foil",Theros,0.33,0.08
 "Prophet of Kruphix - Foil",Theros,0.95,0.08
-"Nylea, God of the Hunt - Foil",Theros,15.89,7.53
+"Nylea, God of the Hunt - Foil",Theros,15.19,7.20
+"Hunt the Hunter - Foil",Theros,0.24,0.01
+"Prowler's Helm - Foil",Theros,0.24,0.01
 "Curse of the Swine - Foil",Theros,1.43,0.08
 "Priest of Iroas - Foil",Theros,0.24,0.00
-"Prowler's Helm - Foil",Theros,0.24,0.01
-"Hunt the Hunter - Foil",Theros,0.24,0.01
 "Ordeal of Thassa - Foil",Theros,0.22,0.01
 "Time to Feed - Foil",Theros,0.24,0.00
 "Erebos's Emissary - Foil",Theros,0.24,0.01
