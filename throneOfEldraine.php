@@ -40,7 +40,7 @@
       appendModernCSV($setName, $cardNames, $sellPrice, $buyPrice);
         
     // ****** CHAIN SCRIPTS ******
-    header("Location: ravnicaAllegiance.php");
+    header("Location: index.php");
     // ****** END CHAIN SCRIPTS ******
 
 ?>
